@@ -1,0 +1,15 @@
+{
+  "name": "form-crawler",
+  "version": "1.0.0",
+  "description": "Automated Playwright-powered form crawler",
+  "main": "crawler.js",
+  "scripts": {
+    "crawl": "node crawler.js"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
