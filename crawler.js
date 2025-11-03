@@ -245,7 +245,7 @@ async function main() {
   const stats = await loadScannedDomains();
   const scannedSet = new Set(stats.scanned || []);
   
-  let unscannedDomains = allDomains.filter(d => !scannedSet.has(d));
+  const unscannedDomains = allDomains.filter(d => !scannedSet.has(d));
   
   if (unscannedDomains.length === 0) {
     console.log('All domains have been scanned. Resetting...');
@@ -262,7 +262,6 @@ async function main() {
   while (!formsFound && domainIndex < maxAttempts) {
     const domainToCrawl = unscannedDomains[domainIndex];
     console.log(`Crawling domain: ${domainToCrawl}`);
-    domainIndex++;
     
     try {
       const forms = await crawlDomain(domainToCrawl);
@@ -288,6 +287,8 @@ async function main() {
       stats.lastUpdate = new Date().toISOString();
       await saveScannedDomains(stats);
     }
+    
+    domainIndex++;
   }
   
   if (formsFound) {
