@@ -275,18 +275,16 @@ async function main() {
         console.log(`No forms found on ${domainToCrawl}, will try next domain`);
       }
       
-      stats.scanned.push(domainToCrawl);
-      stats.lastUpdate = new Date().toISOString();
-      await saveScannedDomains(stats);
-      console.log('Stats updated');
-      
     } catch (error) {
       console.error(`Error crawling ${domainToCrawl}:`, error);
       console.log('Domain unreachable or crawl failed, trying next domain');
-      stats.scanned.push(domainToCrawl);
-      stats.lastUpdate = new Date().toISOString();
-      await saveScannedDomains(stats);
     }
+    
+    // Mark domain as scanned regardless of success or failure
+    stats.scanned.push(domainToCrawl);
+    stats.lastUpdate = new Date().toISOString();
+    await saveScannedDomains(stats);
+    console.log('Stats updated');
     
     domainIndex++;
   }
@@ -294,7 +292,7 @@ async function main() {
   if (formsFound) {
     console.log('Crawler completed successfully - forms found!');
   } else {
-    console.log(`Crawler completed - attempted ${domainIndex} domains, no forms found`);
+    console.log(`Crawler completed - attempted ${domainIndex} domain(s), no forms found`);
   }
 }
 
