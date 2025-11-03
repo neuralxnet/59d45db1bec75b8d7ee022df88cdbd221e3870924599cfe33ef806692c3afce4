@@ -82,5 +82,459 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://help.afterpay.com/hc/en-us",
+    "action": "https://help.afterpay.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Find the answers you need here",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.afterpay.com/en-US/for-retailers/partners",
+    "action": "https://www.afterpay.com/en-US/for-retailers/partners",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.afterpay.com/en-US/for-retailers/access/case-studies",
+    "action": "https://www.afterpay.com/en-US/for-retailers/access/case-studies",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://help.afterpay.com/hc/en-us#main-content",
+    "action": "https://help.afterpay.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Find the answers you need here",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.afterpay.com/hc/en-us/requests/new",
+    "action": "https://help.afterpay.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.afterpay.com/hc/en-us/requests/new",
+    "action": "https://help.afterpay.com/hc/en-us/requests",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "request[ticket_form_id]",
+        "id": "request_issue_type_select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "-",
+          "4417212380057",
+          "360000202292",
+          "197866",
+          "235523",
+          "52526",
+          "900000083463",
+          "360000651791",
+          "900000090503",
+          "900001506103",
+          "38660374734745",
+          "38318247762073",
+          "42636232913945",
+          "42730034913945",
+          "48456300732185",
+          "360000864771"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://help.afterpay.com/hc/en-us/sections/203372906-Returns-Refunds",
+    "action": "https://help.afterpay.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.afterpay.com/hc/en-us/sections/203376123-Payments",
+    "action": "https://help.afterpay.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.afterpay.com/hc/en-us/sections/115000973166-Afterpay-In-Store",
+    "action": "https://help.afterpay.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.afterpay.com/hc/en-us/sections/115000513883-Log-In-Account-Access",
+    "action": "https://help.afterpay.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.afterpay.com/hc/en-us/sections/900000441026-Hardship",
+    "action": "https://help.afterpay.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.afterpay.com/hc/en-us/sections/115000485786-Managing-Orders",
+    "action": "https://help.afterpay.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.afterpay.com/en-US/for-retailers/access",
+    "action": "https://www.afterpay.com/en-US/for-retailers/access",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.afterpay.com/en-US/for-retailers/access/news",
+    "action": "https://www.afterpay.com/en-US/for-retailers/access/news",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.afterpay.com/en-US/for-retailers/access/success-stories",
+    "action": "https://www.afterpay.com/en-US/for-retailers/access/success-stories",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.afterpay.com/en-US/for-retailers/access/marketing",
+    "action": "https://www.afterpay.com/en-US/for-retailers/access/marketing",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.afterpay.com/en-US/for-retailers/access/operations",
+    "action": "https://www.afterpay.com/en-US/for-retailers/access/operations",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.afterpay.com/en-US/for-retailers/access/finance",
+    "action": "https://www.afterpay.com/en-US/for-retailers/access/finance",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.afterpay.com/en-US/for-retailers/access/guides",
+    "action": "https://www.afterpay.com/en-US/for-retailers/access/guides",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://help.afterpay.com/hc/en-us/requests/new#main-content",
+    "action": "https://help.afterpay.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.afterpay.com/hc/en-us/requests/new#main-content",
+    "action": "https://help.afterpay.com/hc/en-us/requests",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "request[ticket_form_id]",
+        "id": "request_issue_type_select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "-",
+          "4417212380057",
+          "360000202292",
+          "197866",
+          "235523",
+          "52526",
+          "900000083463",
+          "360000651791",
+          "900000090503",
+          "900001506103",
+          "38660374734745",
+          "38318247762073",
+          "42636232913945",
+          "42730034913945",
+          "48456300732185",
+          "360000864771"
+        ]
+      }
+    ]
   }
 ]
