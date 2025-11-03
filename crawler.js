@@ -244,7 +244,7 @@ async function main() {
   const stats = await loadScannedDomains();
   const scannedSet = new Set(stats.scanned || []);
   
-  const unscannedDomains = allDomains.filter(d => !scannedSet.has(d));
+  let unscannedDomains = allDomains.filter(d => !scannedSet.has(d));
   
   if (unscannedDomains.length === 0) {
     console.log('All domains have been scanned. Resetting...');
@@ -254,31 +254,50 @@ async function main() {
     return;
   }
 
-  const domainToCrawl = unscannedDomains[0];
-  console.log(`Crawling domain: ${domainToCrawl}`);
+  let formsFound = false;
+  let domainsAttempted = 0;
+  const maxAttempts = Math.min(unscannedDomains.length, 10); // Try up to 10 domains or all remaining
   
-  try {
-    const forms = await crawlDomain(domainToCrawl);
-    console.log(`Found ${forms.length} forms on ${domainToCrawl}`);
+  while (!formsFound && domainsAttempted < maxAttempts && unscannedDomains.length > 0) {
+    const domainToCrawl = unscannedDomains[0];
+    console.log(`Crawling domain: ${domainToCrawl}`);
+    domainsAttempted++;
     
-    if (forms.length > 0) {
-      await saveResults(forms);
-      console.log('Results saved');
+    try {
+      const forms = await crawlDomain(domainToCrawl);
+      console.log(`Found ${forms.length} forms on ${domainToCrawl}`);
+      
+      if (forms.length > 0) {
+        await saveResults(forms);
+        console.log('Results saved');
+        formsFound = true;
+      } else {
+        console.log(`No forms found on ${domainToCrawl}, will try next domain`);
+      }
+      
+      stats.scanned.push(domainToCrawl);
+      stats.lastUpdate = new Date().toISOString();
+      await saveScannedDomains(stats);
+      console.log('Stats updated');
+      
+    } catch (error) {
+      console.error(`Error crawling ${domainToCrawl}:`, error);
+      console.log('Domain unreachable or crawl failed, trying next domain');
+      stats.scanned.push(domainToCrawl);
+      stats.lastUpdate = new Date().toISOString();
+      await saveScannedDomains(stats);
     }
     
-    stats.scanned.push(domainToCrawl);
-    stats.lastUpdate = new Date().toISOString();
-    await saveScannedDomains(stats);
-    console.log('Stats updated');
-    
-  } catch (error) {
-    console.error(`Error crawling ${domainToCrawl}:`, error);
-    stats.scanned.push(domainToCrawl);
-    stats.lastUpdate = new Date().toISOString();
-    await saveScannedDomains(stats);
+    // Update unscanned domains list for next iteration
+    const updatedScannedSet = new Set(stats.scanned || []);
+    unscannedDomains = allDomains.filter(d => !updatedScannedSet.has(d));
   }
   
-  console.log('Crawler completed');
+  if (formsFound) {
+    console.log('Crawler completed successfully - forms found!');
+  } else {
+    console.log(`Crawler completed - attempted ${domainsAttempted} domains, no forms found`);
+  }
 }
 
 main().catch(console.error);
