@@ -3,6 +3,7 @@ const fs = require('fs').promises;
 const path = require('path');
 
 const MAX_FILE_SIZE = 20 * 1024 * 1024;
+const MAX_DOMAIN_ATTEMPTS = 10;
 const RESULT_DIR = path.join(__dirname, 'result');
 const STAT_DIR = path.join(__dirname, 'stat');
 const DOMAINS_URL = 'https://github.com/arkadiyt/bounty-targets-data/raw/refs/heads/main/data/domains.txt';
@@ -256,7 +257,7 @@ async function main() {
 
   let formsFound = false;
   let domainsAttempted = 0;
-  const maxAttempts = Math.min(unscannedDomains.length, 10); // Try up to 10 domains or all remaining
+  const maxAttempts = Math.min(unscannedDomains.length, MAX_DOMAIN_ATTEMPTS);
   
   while (!formsFound && domainsAttempted < maxAttempts) {
     if (unscannedDomains.length === 0) break;
