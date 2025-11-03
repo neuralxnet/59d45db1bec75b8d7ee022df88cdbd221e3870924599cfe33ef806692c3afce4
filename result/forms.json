@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://apps.apple.com",
+    "action": "https://www.apple.com/us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Search apple.com",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "src",
+        "id": "globalnav-searchfield-src",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  }
+]
