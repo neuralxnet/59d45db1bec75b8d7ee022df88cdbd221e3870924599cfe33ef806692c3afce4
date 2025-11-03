@@ -258,8 +258,10 @@ async function main() {
   let domainsAttempted = 0;
   const maxAttempts = Math.min(unscannedDomains.length, 10); // Try up to 10 domains or all remaining
   
-  while (!formsFound && domainsAttempted < maxAttempts && unscannedDomains.length > 0) {
-    const domainToCrawl = unscannedDomains[0];
+  while (!formsFound && domainsAttempted < maxAttempts) {
+    if (unscannedDomains.length === 0) break;
+    
+    const domainToCrawl = unscannedDomains.shift(); // Remove first domain from list
     console.log(`Crawling domain: ${domainToCrawl}`);
     domainsAttempted++;
     
@@ -287,10 +289,6 @@ async function main() {
       stats.lastUpdate = new Date().toISOString();
       await saveScannedDomains(stats);
     }
-    
-    // Update unscanned domains list for next iteration
-    const updatedScannedSet = new Set(stats.scanned || []);
-    unscannedDomains = allDomains.filter(d => !updatedScannedSet.has(d));
   }
   
   if (formsFound) {
