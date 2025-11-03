@@ -256,15 +256,13 @@ async function main() {
   }
 
   let formsFound = false;
-  let domainsAttempted = 0;
+  let domainIndex = 0;
   const maxAttempts = Math.min(unscannedDomains.length, MAX_DOMAIN_ATTEMPTS);
   
-  while (!formsFound && domainsAttempted < maxAttempts) {
-    if (unscannedDomains.length === 0) break;
-    
-    const domainToCrawl = unscannedDomains.shift(); // Remove first domain from list
+  while (!formsFound && domainIndex < maxAttempts) {
+    const domainToCrawl = unscannedDomains[domainIndex];
     console.log(`Crawling domain: ${domainToCrawl}`);
-    domainsAttempted++;
+    domainIndex++;
     
     try {
       const forms = await crawlDomain(domainToCrawl);
@@ -295,7 +293,7 @@ async function main() {
   if (formsFound) {
     console.log('Crawler completed successfully - forms found!');
   } else {
-    console.log(`Crawler completed - attempted ${domainsAttempted} domains, no forms found`);
+    console.log(`Crawler completed - attempted ${domainIndex} domains, no forms found`);
   }
 }
 
