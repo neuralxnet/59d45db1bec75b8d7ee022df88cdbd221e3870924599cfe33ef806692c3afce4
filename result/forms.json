@@ -19,5 +19,68 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.pixpay.fr",
+    "action": "https://www.pixpay.fr/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email-5",
+        "id": "email-5",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "Consentement-3",
+        "id": "Consentement-3",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pixpay.fr",
+    "action": "https://www.pixpay.fr/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "marketing",
+        "id": "marketing",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "personalization",
+        "id": "personalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "analytics",
+        "id": "analytics",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
