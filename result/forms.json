@@ -550,5 +550,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://portal.clearpay.co.uk",
+    "action": "https://portal.clearpay.co.uk/uk/?sort=orderDate&direction=descending&page=1",
+    "method": "post",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "selected-locale",
+        "id": "en-GB",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
