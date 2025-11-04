@@ -564,5 +564,191 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://aiven.io/pricing/calculator",
+    "action": "https://aiven.io/pricing/calculator",
+    "method": "get",
+    "fields": [
+      {
+        "type": "number",
+        "name": "messagesPerSecond",
+        "id": "messagesPerSecond",
+        "placeholder": "100",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "averageMessageSizeKb",
+        "id": "averageMessageSizeKb",
+        "placeholder": "20",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "incomingDataVolumeMbps",
+        "id": "incomingDataVolumeMbps",
+        "placeholder": "1.953125",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "retention",
+        "id": "retention",
+        "placeholder": "24",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "retentionMinuteMultiplier",
+        "id": "retentionMinuteMultiplier",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "1",
+          "60",
+          "1440",
+          "43200"
+        ]
+      },
+      {
+        "type": "number",
+        "name": "replicationFactor",
+        "id": "replicationFactor",
+        "placeholder": "3",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "",
+        "id": "aiven-undefined",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://aiven.io/pricing/calculator#main",
+    "action": "https://aiven.io/pricing/calculator",
+    "method": "get",
+    "fields": [
+      {
+        "type": "number",
+        "name": "messagesPerSecond",
+        "id": "messagesPerSecond",
+        "placeholder": "100",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "averageMessageSizeKb",
+        "id": "averageMessageSizeKb",
+        "placeholder": "20",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "incomingDataVolumeMbps",
+        "id": "incomingDataVolumeMbps",
+        "placeholder": "1.953125",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "retention",
+        "id": "retention",
+        "placeholder": "24",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "retentionMinuteMultiplier",
+        "id": "retentionMinuteMultiplier",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "1",
+          "60",
+          "1440",
+          "43200"
+        ]
+      },
+      {
+        "type": "number",
+        "name": "replicationFactor",
+        "id": "replicationFactor",
+        "placeholder": "3",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "",
+        "id": "aiven-undefined",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://aiven.io/pricing/calculator?product=kafka",
+    "action": "https://aiven.io/pricing/calculator?product=kafka",
+    "method": "get",
+    "fields": [
+      {
+        "type": "number",
+        "name": "messagesPerSecond",
+        "id": "messagesPerSecond",
+        "placeholder": "100",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "averageMessageSizeKb",
+        "id": "averageMessageSizeKb",
+        "placeholder": "20",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "incomingDataVolumeMbps",
+        "id": "incomingDataVolumeMbps",
+        "placeholder": "1.953125",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "retention",
+        "id": "retention",
+        "placeholder": "24",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "retentionMinuteMultiplier",
+        "id": "retentionMinuteMultiplier",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "1",
+          "60",
+          "1440",
+          "43200"
+        ]
+      },
+      {
+        "type": "number",
+        "name": "replicationFactor",
+        "id": "replicationFactor",
+        "placeholder": "3",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "",
+        "id": "aiven-undefined",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
