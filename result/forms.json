@@ -3022,5 +3022,923 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://trello.com",
+    "action": "https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3Fdisplay%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26createMember%3Dtrue&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com",
+    "action": "https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3Fdisplay%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26createMember%3Dtrue&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com",
+    "action": "https://trello.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "cs",
+          "de",
+          "en",
+          "es",
+          "fr",
+          "it",
+          "hu",
+          "nl",
+          "nb",
+          "pl",
+          "pt-BR",
+          "fi",
+          "sv",
+          "vi",
+          "tr",
+          "ru",
+          "uk",
+          "th",
+          "zh-Hans",
+          "zh-Hant",
+          "ja"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.trello.com",
+    "action": "https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3Fdisplay%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26createMember%3Dtrue&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.trello.com",
+    "action": "https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3Fdisplay%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26createMember%3Dtrue&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.trello.com",
+    "action": "https://trello.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "cs",
+          "de",
+          "en",
+          "es",
+          "fr",
+          "it",
+          "hu",
+          "nl",
+          "nb",
+          "pl",
+          "pt-BR",
+          "fi",
+          "sv",
+          "vi",
+          "tr",
+          "ru",
+          "uk",
+          "th",
+          "zh-Hans",
+          "zh-Hant",
+          "ja"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "http://trello.com",
+    "action": "https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3Fdisplay%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26createMember%3Dtrue&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://trello.com",
+    "action": "https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3Fdisplay%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26createMember%3Dtrue&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://trello.com",
+    "action": "https://trello.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "cs",
+          "de",
+          "en",
+          "es",
+          "fr",
+          "it",
+          "hu",
+          "nl",
+          "nb",
+          "pl",
+          "pt-BR",
+          "fi",
+          "sv",
+          "vi",
+          "tr",
+          "ru",
+          "uk",
+          "th",
+          "zh-Hans",
+          "zh-Hant",
+          "ja"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/#skip-target",
+    "action": "https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3Fdisplay%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26createMember%3Dtrue&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/#skip-target",
+    "action": "https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3Fdisplay%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26createMember%3Dtrue&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/#skip-target",
+    "action": "https://trello.com/#skip-target",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "cs",
+          "de",
+          "en",
+          "es",
+          "fr",
+          "it",
+          "hu",
+          "nl",
+          "nb",
+          "pl",
+          "pt-BR",
+          "fi",
+          "sv",
+          "vi",
+          "tr",
+          "ru",
+          "uk",
+          "th",
+          "zh-Hans",
+          "zh-Hant",
+          "ja"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/home",
+    "action": "https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3Fdisplay%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26createMember%3Dtrue&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/home",
+    "action": "https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3Fdisplay%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26createMember%3Dtrue&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/home",
+    "action": "https://trello.com/home",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "cs",
+          "de",
+          "en",
+          "es",
+          "fr",
+          "it",
+          "hu",
+          "nl",
+          "nb",
+          "pl",
+          "pt-BR",
+          "fi",
+          "sv",
+          "vi",
+          "tr",
+          "ru",
+          "uk",
+          "th",
+          "zh-Hans",
+          "zh-Hant",
+          "ja"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/pricing",
+    "action": "https://trello.com/pricing",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "cs",
+          "de",
+          "en",
+          "es",
+          "fr",
+          "it",
+          "hu",
+          "nl",
+          "nb",
+          "pl",
+          "pt-BR",
+          "fi",
+          "sv",
+          "vi",
+          "tr",
+          "ru",
+          "uk",
+          "th",
+          "zh-Hans",
+          "zh-Hant",
+          "ja"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/inbox",
+    "action": "https://trello.com/inbox",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "cs",
+          "de",
+          "en",
+          "es",
+          "fr",
+          "it",
+          "hu",
+          "nl",
+          "nb",
+          "pl",
+          "pt-BR",
+          "fi",
+          "sv",
+          "vi",
+          "tr",
+          "ru",
+          "uk",
+          "th",
+          "zh-Hans",
+          "zh-Hant",
+          "ja"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/planner",
+    "action": "https://trello.com/planner",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "cs",
+          "de",
+          "en",
+          "es",
+          "fr",
+          "it",
+          "hu",
+          "nl",
+          "nb",
+          "pl",
+          "pt-BR",
+          "fi",
+          "sv",
+          "vi",
+          "tr",
+          "ru",
+          "uk",
+          "th",
+          "zh-Hans",
+          "zh-Hant",
+          "ja"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/butler-automation",
+    "action": "https://trello.com/butler-automation",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "cs",
+          "de",
+          "en",
+          "es",
+          "fr",
+          "it",
+          "hu",
+          "nl",
+          "nb",
+          "pl",
+          "pt-BR",
+          "fi",
+          "sv",
+          "vi",
+          "tr",
+          "ru",
+          "uk",
+          "th",
+          "zh-Hans",
+          "zh-Hant",
+          "ja"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/integrations",
+    "action": "https://trello.com/integrations",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "Search all integrations",
+        "id": "",
+        "placeholder": "Search all integrations",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/integrations",
+    "action": "https://trello.com/integrations",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "Search all integrations",
+        "id": "",
+        "placeholder": "Search all integrations",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/integrations",
+    "action": "https://trello.com/integrations",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "cs",
+          "de",
+          "en",
+          "es",
+          "fr",
+          "it",
+          "hu",
+          "nl",
+          "nb",
+          "pl",
+          "pt-BR",
+          "fi",
+          "sv",
+          "vi",
+          "tr",
+          "ru",
+          "uk",
+          "th",
+          "zh-Hans",
+          "zh-Hant",
+          "ja"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/tour",
+    "action": "https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3Fdisplay%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26createMember%3Dtrue&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/tour",
+    "action": "https://trello.com/tour",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "cs",
+          "de",
+          "en",
+          "es",
+          "fr",
+          "it",
+          "hu",
+          "nl",
+          "nb",
+          "pl",
+          "pt-BR",
+          "fi",
+          "sv",
+          "vi",
+          "tr",
+          "ru",
+          "uk",
+          "th",
+          "zh-Hans",
+          "zh-Hant",
+          "ja"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/home#skip-target",
+    "action": "https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3Fdisplay%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26createMember%3Dtrue&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/home#skip-target",
+    "action": "https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3Fdisplay%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26createMember%3Dtrue&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/home#skip-target",
+    "action": "https://trello.com/home#skip-target",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "cs",
+          "de",
+          "en",
+          "es",
+          "fr",
+          "it",
+          "hu",
+          "nl",
+          "nb",
+          "pl",
+          "pt-BR",
+          "fi",
+          "sv",
+          "vi",
+          "tr",
+          "ru",
+          "uk",
+          "th",
+          "zh-Hans",
+          "zh-Hant",
+          "ja"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/pricing#skip-target",
+    "action": "https://trello.com/pricing#skip-target",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "cs",
+          "de",
+          "en",
+          "es",
+          "fr",
+          "it",
+          "hu",
+          "nl",
+          "nb",
+          "pl",
+          "pt-BR",
+          "fi",
+          "sv",
+          "vi",
+          "tr",
+          "ru",
+          "uk",
+          "th",
+          "zh-Hans",
+          "zh-Hant",
+          "ja"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/inbox#skip-target",
+    "action": "https://trello.com/inbox#skip-target",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "cs",
+          "de",
+          "en",
+          "es",
+          "fr",
+          "it",
+          "hu",
+          "nl",
+          "nb",
+          "pl",
+          "pt-BR",
+          "fi",
+          "sv",
+          "vi",
+          "tr",
+          "ru",
+          "uk",
+          "th",
+          "zh-Hans",
+          "zh-Hant",
+          "ja"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/planner#skip-target",
+    "action": "https://trello.com/planner#skip-target",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "cs",
+          "de",
+          "en",
+          "es",
+          "fr",
+          "it",
+          "hu",
+          "nl",
+          "nb",
+          "pl",
+          "pt-BR",
+          "fi",
+          "sv",
+          "vi",
+          "tr",
+          "ru",
+          "uk",
+          "th",
+          "zh-Hans",
+          "zh-Hant",
+          "ja"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/butler-automation#skip-target",
+    "action": "https://trello.com/butler-automation#skip-target",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "cs",
+          "de",
+          "en",
+          "es",
+          "fr",
+          "it",
+          "hu",
+          "nl",
+          "nb",
+          "pl",
+          "pt-BR",
+          "fi",
+          "sv",
+          "vi",
+          "tr",
+          "ru",
+          "uk",
+          "th",
+          "zh-Hans",
+          "zh-Hant",
+          "ja"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/integrations#skip-target",
+    "action": "https://trello.com/integrations#skip-target",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "Search all integrations",
+        "id": "",
+        "placeholder": "Search all integrations",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/integrations#skip-target",
+    "action": "https://trello.com/integrations#skip-target",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "Search all integrations",
+        "id": "",
+        "placeholder": "Search all integrations",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/integrations#skip-target",
+    "action": "https://trello.com/integrations#skip-target",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "cs",
+          "de",
+          "en",
+          "es",
+          "fr",
+          "it",
+          "hu",
+          "nl",
+          "nb",
+          "pl",
+          "pt-BR",
+          "fi",
+          "sv",
+          "vi",
+          "tr",
+          "ru",
+          "uk",
+          "th",
+          "zh-Hans",
+          "zh-Hant",
+          "ja"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/tour#skip-target",
+    "action": "https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3Fdisplay%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26createMember%3Dtrue&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://trello.com/tour#skip-target",
+    "action": "https://trello.com/tour#skip-target",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "cs",
+          "de",
+          "en",
+          "es",
+          "fr",
+          "it",
+          "hu",
+          "nl",
+          "nb",
+          "pl",
+          "pt-BR",
+          "fi",
+          "sv",
+          "vi",
+          "tr",
+          "ru",
+          "uk",
+          "th",
+          "zh-Hans",
+          "zh-Hant",
+          "ja"
+        ]
+      }
+    ]
   }
 ]
