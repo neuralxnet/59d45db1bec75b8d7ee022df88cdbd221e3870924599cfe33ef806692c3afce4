@@ -2980,5 +2980,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://confluence.atlassian.com",
+    "action": "https://support.atlassian.com/search-results/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchTerm",
+        "id": "",
+        "placeholder": "Search documentation",
+        "required": false
+      }
+    ]
   }
 ]
