@@ -762,5 +762,19 @@
     "action": "https://www.hpe.com/us/en/search-results.html?page=1&q=&autocomplete=0",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://app.asana.com",
+    "action": "https://app.asana.com/-/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "e",
+        "id": "lui_58",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
