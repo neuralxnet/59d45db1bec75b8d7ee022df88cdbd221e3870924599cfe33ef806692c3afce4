@@ -750,5 +750,11 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com",
+    "action": "https://www.hpe.com/us/en/search-results.html?page=1&q=&autocomplete=0",
+    "method": "get",
+    "fields": []
   }
 ]
