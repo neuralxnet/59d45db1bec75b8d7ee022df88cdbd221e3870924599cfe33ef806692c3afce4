@@ -2994,5 +2994,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.sourcetreeapp.com",
+    "action": "https://www.sourcetreeapp.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "et-2ed5d5c4-fe00-4259-a4e0-e82e997a371b",
+        "id": "et-2ed5d5c4-fe00-4259-a4e0-e82e997a371b",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "list_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
