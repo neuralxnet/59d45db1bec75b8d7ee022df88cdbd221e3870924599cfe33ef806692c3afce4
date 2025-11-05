@@ -776,5 +776,2195 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://bitbucket.org",
+    "action": "https://bitbucket.org/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "id": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "list_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org",
+    "action": "https://bitbucket.org/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "url",
+        "id": "footer-language-selector",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Choose your language",
+          "https://bitbucket.org/product/de",
+          "https://bitbucket.org/product",
+          "https://bitbucket.org/product/es",
+          "https://bitbucket.org/product/fr",
+          "https://bitbucket.org/product/it",
+          "https://bitbucket.org/product/ko",
+          "https://bitbucket.org/product/nl",
+          "https://bitbucket.org/product/ja",
+          "https://bitbucket.org/product/pl",
+          "https://bitbucket.org/product/br",
+          "https://bitbucket.org/product/ru",
+          "https://bitbucket.org/product/zh"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.bitbucket.org",
+    "action": "https://bitbucket.org/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "id": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "list_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.bitbucket.org",
+    "action": "https://bitbucket.org/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "url",
+        "id": "footer-language-selector",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Choose your language",
+          "https://bitbucket.org/product/de",
+          "https://bitbucket.org/product",
+          "https://bitbucket.org/product/es",
+          "https://bitbucket.org/product/fr",
+          "https://bitbucket.org/product/it",
+          "https://bitbucket.org/product/ko",
+          "https://bitbucket.org/product/nl",
+          "https://bitbucket.org/product/ja",
+          "https://bitbucket.org/product/pl",
+          "https://bitbucket.org/product/br",
+          "https://bitbucket.org/product/ru",
+          "https://bitbucket.org/product/zh"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "http://bitbucket.org",
+    "action": "https://bitbucket.org/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "id": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "list_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://bitbucket.org",
+    "action": "https://bitbucket.org/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "url",
+        "id": "footer-language-selector",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Choose your language",
+          "https://bitbucket.org/product/de",
+          "https://bitbucket.org/product",
+          "https://bitbucket.org/product/es",
+          "https://bitbucket.org/product/fr",
+          "https://bitbucket.org/product/it",
+          "https://bitbucket.org/product/ko",
+          "https://bitbucket.org/product/nl",
+          "https://bitbucket.org/product/ja",
+          "https://bitbucket.org/product/pl",
+          "https://bitbucket.org/product/br",
+          "https://bitbucket.org/product/ru",
+          "https://bitbucket.org/product/zh"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/ai",
+    "action": "https://www.atlassian.com/blog/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Search for something",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/ai",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "consenthub_email",
+        "id": "consenthub_email",
+        "placeholder": "Email Address",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_form_id",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_success_msg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "consenthub_form_submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product/features/pipelines/integrations",
+    "action": "https://bitbucket.org/product/features/pipelines/integrations",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "id": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "list_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product/features/pipelines/integrations",
+    "action": "https://bitbucket.org/product/features/pipelines/integrations#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "url",
+        "id": "footer-language-selector",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Choose your language",
+          "https://bitbucket.org/product/de/features/pipelines/integrations",
+          "https://bitbucket.org/product/features/pipelines/integrations",
+          "https://bitbucket.org/product/es/features/pipelines/integrations",
+          "https://bitbucket.org/product/fr/features/pipelines/integrations",
+          "https://bitbucket.org/product/it/features/pipelines/integrations",
+          "https://bitbucket.org/product/ko/features/pipelines/integrations",
+          "https://bitbucket.org/product/nl/features/pipelines/integrations",
+          "https://bitbucket.org/product/ja/features/pipelines/integrations",
+          "https://bitbucket.org/product/pl/features/pipelines/integrations",
+          "https://bitbucket.org/product/br/features/pipelines/integrations",
+          "https://bitbucket.org/product/ru/features/pipelines/integrations",
+          "https://bitbucket.org/product/zh/features/pipelines/integrations"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product/features/pipelines",
+    "action": "https://www.atlassian.com/software/bitbucket/features/pipelines#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "url",
+        "id": "footer-language-selector",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Choose language",
+          "https://www.atlassian.com/de/software/bitbucket/features/pipelines",
+          "https://www.atlassian.com/software/bitbucket/features/pipelines",
+          "https://www.atlassian.com/es/software/bitbucket/features/pipelines",
+          "https://www.atlassian.com/fr/software/bitbucket/features/pipelines",
+          "https://www.atlassian.com/it/software/bitbucket/features/pipelines",
+          "https://www.atlassian.com/ko/software/bitbucket/features/pipelines",
+          "https://www.atlassian.com/nl/software/bitbucket/features/pipelines",
+          "https://www.atlassian.com/ja/software/bitbucket/features/pipelines",
+          "https://www.atlassian.com/pl/software/bitbucket/features/pipelines",
+          "https://www.atlassian.com/br/software/bitbucket/features/pipelines",
+          "https://www.atlassian.com/ru/software/bitbucket/features/pipelines",
+          "https://www.atlassian.com/zh/software/bitbucket/features/pipelines"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/a-modern-approach-to-change-management-with-bitbucket-and-jira-service-management",
+    "action": "https://www.atlassian.com/blog/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Search for something",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/a-modern-approach-to-change-management-with-bitbucket-and-jira-service-management",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "consenthub_email",
+        "id": "consenthub_email",
+        "placeholder": "Email Address",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_form_id",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_success_msg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "consenthub_form_submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/",
+    "action": "https://www.atlassian.com/blog/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Search for something",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "consenthub_email",
+        "id": "consenthub_email",
+        "placeholder": "Email Address",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_form_id",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_success_msg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "consenthub_form_submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product/write",
+    "action": "https://bitbucket.org/product/write",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "id": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "list_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product/write",
+    "action": "https://bitbucket.org/product/write#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "url",
+        "id": "footer-language-selector",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Choose your language",
+          "https://bitbucket.org/product/de/write",
+          "https://bitbucket.org/product/write",
+          "https://bitbucket.org/product/es/write",
+          "https://bitbucket.org/product/fr/write",
+          "https://bitbucket.org/product/it/write",
+          "https://bitbucket.org/product/ko/write",
+          "https://bitbucket.org/product/nl/write",
+          "https://bitbucket.org/product/ja/write",
+          "https://bitbucket.org/product/pl/write",
+          "https://bitbucket.org/product/br/write",
+          "https://bitbucket.org/product/ru/write",
+          "https://bitbucket.org/product/zh/write"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "http://status.bitbucket.org/",
+    "action": "https://bitbucket.status.atlassian.com/subscriptions/new-email",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "email_otp_verify_flow",
+        "id": "email_otp_verify_flow",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_otp_auth_token",
+        "id": "email-otp-token-field",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "email-otp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "subscribe-btn-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://status.bitbucket.org/",
+    "action": "https://bitbucket.status.atlassian.com/subscriptions/new-sms",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "otp_verify_flow",
+        "id": "otp_verify_flow",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "subscriber_code",
+        "id": "subscriber_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "phone_country",
+        "id": "phone-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "af",
+          "al",
+          "dz",
+          "as",
+          "ad",
+          "ao",
+          "ai",
+          "ag",
+          "ar",
+          "am",
+          "aw",
+          "au",
+          "at",
+          "az",
+          "bs",
+          "bh",
+          "bd",
+          "bb",
+          "by",
+          "be",
+          "bz",
+          "bj",
+          "bm",
+          "bo",
+          "ba",
+          "bw",
+          "br",
+          "bn",
+          "bg",
+          "bf",
+          "bi",
+          "kh",
+          "cm",
+          "ca",
+          "cv",
+          "ky",
+          "cf",
+          "td",
+          "cl",
+          "cn",
+          "co",
+          "km",
+          "cg",
+          "cd",
+          "cr",
+          "hr",
+          "cy",
+          "cz",
+          "dk",
+          "dj",
+          "dm",
+          "do",
+          "eg",
+          "sv",
+          "gq",
+          "ee",
+          "et",
+          "fo",
+          "fj",
+          "fi",
+          "fr",
+          "gf",
+          "pf",
+          "ga",
+          "gm",
+          "ge",
+          "de",
+          "gh",
+          "gi",
+          "gr",
+          "gl",
+          "gd",
+          "gp",
+          "gu",
+          "gt",
+          "gn",
+          "gy",
+          "ht",
+          "hn",
+          "hk",
+          "hu",
+          "is",
+          "in",
+          "id",
+          "iq",
+          "ie",
+          "il",
+          "it",
+          "jm",
+          "jp",
+          "jo",
+          "ke",
+          "kr",
+          "xk",
+          "kw",
+          "kg",
+          "la",
+          "lv",
+          "lb",
+          "ls",
+          "lr",
+          "ly",
+          "li",
+          "lt",
+          "lu",
+          "mo",
+          "mk",
+          "mg",
+          "mw",
+          "my",
+          "mv",
+          "ml",
+          "mt",
+          "mq",
+          "mr",
+          "mu",
+          "mx",
+          "mc",
+          "mn",
+          "me",
+          "ms",
+          "ma",
+          "mz",
+          "na",
+          "np",
+          "nl",
+          "nz",
+          "ni",
+          "ne",
+          "ng",
+          "no",
+          "om",
+          "pk",
+          "ps",
+          "pa",
+          "py",
+          "pe",
+          "ph",
+          "pl",
+          "pt",
+          "pr",
+          "qa",
+          "re",
+          "ro",
+          "ru",
+          "rw",
+          "ws",
+          "sm",
+          "sa",
+          "sn",
+          "rs",
+          "sc",
+          "sl",
+          "sg",
+          "sk",
+          "si",
+          "za",
+          "es",
+          "lk",
+          "kn",
+          "lc",
+          "vc",
+          "sd",
+          "sr",
+          "sz",
+          "se",
+          "ch",
+          "tw",
+          "tj",
+          "tz",
+          "th",
+          "tg",
+          "to",
+          "tt",
+          "tn",
+          "tr",
+          "tc",
+          "ug",
+          "ua",
+          "ae",
+          "gb",
+          "us",
+          "uy",
+          "uz",
+          "ve",
+          "vn",
+          "vg",
+          "vi",
+          "ye",
+          "zm",
+          "zw"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "phone_number",
+        "id": "phone-number",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "otp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "subscribe-btn-sms",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://status.bitbucket.org/",
+    "action": "https://bitbucket.status.atlassian.com/subscriptions/webhook.json",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "endpoint",
+        "id": "endpoint-webhooks",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email-webhooks",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "subscribe-btn-webhook",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/generate-pull-request-descriptions-with-atlassian-intelligence#:~:text=AI%2Dassisted%20pull%20request%20descriptions%20are%20part%20of%20the%20Atlassian,accept%20the%20terms%20of%20service.",
+    "action": "https://www.atlassian.com/blog/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Search for something",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/generate-pull-request-descriptions-with-atlassian-intelligence#:~:text=AI%2Dassisted%20pull%20request%20descriptions%20are%20part%20of%20the%20Atlassian,accept%20the%20terms%20of%20service.",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "consenthub_email",
+        "id": "consenthub_email",
+        "placeholder": "Email Address",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_form_id",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_success_msg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "consenthub_form_submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product/features/pipelines/integrations?category=codequality&p=atlassian/bitbucket-chatgpt-codereview",
+    "action": "https://bitbucket.org/product/features/pipelines/integrations?category=codequality&p=atlassian/bitbucket-chatgpt-codereview",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "id": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "list_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product/features/pipelines/integrations?category=codequality&p=atlassian/bitbucket-chatgpt-codereview",
+    "action": "https://bitbucket.org/product/features/pipelines/integrations?category=codequality&p=atlassian/bitbucket-chatgpt-codereview#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "url",
+        "id": "footer-language-selector",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Choose your language",
+          "https://bitbucket.org/product/de/features/pipelines/integrations",
+          "https://bitbucket.org/product/features/pipelines/integrations",
+          "https://bitbucket.org/product/es/features/pipelines/integrations",
+          "https://bitbucket.org/product/fr/features/pipelines/integrations",
+          "https://bitbucket.org/product/it/features/pipelines/integrations",
+          "https://bitbucket.org/product/ko/features/pipelines/integrations",
+          "https://bitbucket.org/product/nl/features/pipelines/integrations",
+          "https://bitbucket.org/product/ja/features/pipelines/integrations",
+          "https://bitbucket.org/product/pl/features/pipelines/integrations",
+          "https://bitbucket.org/product/br/features/pipelines/integrations",
+          "https://bitbucket.org/product/ru/features/pipelines/integrations",
+          "https://bitbucket.org/product/zh/features/pipelines/integrations"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product/pricing",
+    "action": "https://www.atlassian.com/software/bitbucket/pricing",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "autocomplete-0-input",
+        "placeholder": "Search Keywords",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product/pricing",
+    "action": "https://www.atlassian.com/software/bitbucket/pricing",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "autocomplete-1-input",
+        "placeholder": "Search Keywords",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product/version-control-software",
+    "action": "https://bitbucket.org/product/version-control-software",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "id": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "list_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product/version-control-software",
+    "action": "https://bitbucket.org/product/version-control-software#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "url",
+        "id": "footer-language-selector",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Choose your language",
+          "https://bitbucket.org/product/de/version-control-software",
+          "https://bitbucket.org/product/version-control-software",
+          "https://bitbucket.org/product/es/version-control-software",
+          "https://bitbucket.org/product/fr/version-control-software",
+          "https://bitbucket.org/product/it/version-control-software",
+          "https://bitbucket.org/product/ko/version-control-software",
+          "https://bitbucket.org/product/nl/version-control-software",
+          "https://bitbucket.org/product/ja/version-control-software",
+          "https://bitbucket.org/product/pl/version-control-software",
+          "https://bitbucket.org/product/br/version-control-software",
+          "https://bitbucket.org/product/ru/version-control-software",
+          "https://bitbucket.org/product/zh/version-control-software"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/introducing-dynamic-pipelines-a-new-standard-in-ci-cd-flexibility",
+    "action": "https://www.atlassian.com/blog/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Search for something",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/introducing-dynamic-pipelines-a-new-standard-in-ci-cd-flexibility",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "consenthub_email",
+        "id": "consenthub_email",
+        "placeholder": "Email Address",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_form_id",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_success_msg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "consenthub_form_submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product",
+    "action": "https://bitbucket.org/product/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "id": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "list_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product",
+    "action": "https://bitbucket.org/product/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "url",
+        "id": "footer-language-selector",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Choose your language",
+          "https://bitbucket.org/product/de",
+          "https://bitbucket.org/product",
+          "https://bitbucket.org/product/es",
+          "https://bitbucket.org/product/fr",
+          "https://bitbucket.org/product/it",
+          "https://bitbucket.org/product/ko",
+          "https://bitbucket.org/product/nl",
+          "https://bitbucket.org/product/ja",
+          "https://bitbucket.org/product/pl",
+          "https://bitbucket.org/product/br",
+          "https://bitbucket.org/product/ru",
+          "https://bitbucket.org/product/zh"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product/write/license",
+    "action": "https://bitbucket.org/product/write/license",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "id": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "list_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product/write/license",
+    "action": "https://bitbucket.org/product/write/license#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "url",
+        "id": "footer-language-selector",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Choose your language",
+          "https://bitbucket.org/product/de/write/license",
+          "https://bitbucket.org/product/write/license",
+          "https://bitbucket.org/product/es/write/license",
+          "https://bitbucket.org/product/fr/write/license",
+          "https://bitbucket.org/product/it/write/license",
+          "https://bitbucket.org/product/ko/write/license",
+          "https://bitbucket.org/product/nl/write/license",
+          "https://bitbucket.org/product/ja/write/license",
+          "https://bitbucket.org/product/pl/write/license",
+          "https://bitbucket.org/product/br/write/license",
+          "https://bitbucket.org/product/ru/write/license",
+          "https://bitbucket.org/product/zh/write/license"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/lamp-vs-mean-which-stack-is-right-for-you",
+    "action": "https://www.atlassian.com/blog/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Search for something",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/lamp-vs-mean-which-stack-is-right-for-you",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "consenthub_email",
+        "id": "consenthub_email",
+        "placeholder": "Email Address",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_form_id",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_success_msg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "consenthub_form_submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/bitbucket-bitrise-configuring-continuous-integration-for-an-ios-app",
+    "action": "https://www.atlassian.com/blog/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Search for something",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/bitbucket-bitrise-configuring-continuous-integration-for-an-ios-app",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "consenthub_email",
+        "id": "consenthub_email",
+        "placeholder": "Email Address",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_form_id",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_success_msg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "consenthub_form_submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/deploying-an-angular-app-on-a-google-vm-using-bitbucket-pipelines",
+    "action": "https://www.atlassian.com/blog/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Search for something",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/deploying-an-angular-app-on-a-google-vm-using-bitbucket-pipelines",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "consenthub_email",
+        "id": "consenthub_email",
+        "placeholder": "Email Address",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_form_id",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_success_msg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "consenthub_form_submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/big-strides-cloud-security-ip-whitelisting-required-2-step-verification-bitbucket",
+    "action": "https://www.atlassian.com/blog/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Search for something",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/big-strides-cloud-security-ip-whitelisting-required-2-step-verification-bitbucket",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "consenthub_email",
+        "id": "consenthub_email",
+        "placeholder": "Email Address",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_form_id",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_success_msg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "consenthub_form_submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/share-ci-config",
+    "action": "https://www.atlassian.com/blog/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Search for something",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/share-ci-config",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "consenthub_email",
+        "id": "consenthub_email",
+        "placeholder": "Email Address",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_form_id",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_success_msg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "consenthub_form_submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/deployment-permissions-now-available-in-bitbucket-pipelines",
+    "action": "https://www.atlassian.com/blog/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Search for something",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/deployment-permissions-now-available-in-bitbucket-pipelines",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "consenthub_email",
+        "id": "consenthub_email",
+        "placeholder": "Email Address",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_form_id",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_success_msg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "consenthub_form_submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product/",
+    "action": "https://bitbucket.org/product/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "id": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "list_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product/",
+    "action": "https://bitbucket.org/product/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "url",
+        "id": "footer-language-selector",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Choose your language",
+          "https://bitbucket.org/product/de",
+          "https://bitbucket.org/product",
+          "https://bitbucket.org/product/es",
+          "https://bitbucket.org/product/fr",
+          "https://bitbucket.org/product/it",
+          "https://bitbucket.org/product/ko",
+          "https://bitbucket.org/product/nl",
+          "https://bitbucket.org/product/ja",
+          "https://bitbucket.org/product/pl",
+          "https://bitbucket.org/product/br",
+          "https://bitbucket.org/product/ru",
+          "https://bitbucket.org/product/zh"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product/code-repository",
+    "action": "https://bitbucket.org/product/code-repository",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "id": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "list_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product/code-repository",
+    "action": "https://bitbucket.org/product/code-repository#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "url",
+        "id": "footer-language-selector",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Choose your language",
+          "https://bitbucket.org/product/de/code-repository",
+          "https://bitbucket.org/product/code-repository",
+          "https://bitbucket.org/product/es/code-repository",
+          "https://bitbucket.org/product/fr/code-repository",
+          "https://bitbucket.org/product/it/code-repository",
+          "https://bitbucket.org/product/ko/code-repository",
+          "https://bitbucket.org/product/nl/code-repository",
+          "https://bitbucket.org/product/ja/code-repository",
+          "https://bitbucket.org/product/pl/code-repository",
+          "https://bitbucket.org/product/br/code-repository",
+          "https://bitbucket.org/product/ru/code-repository",
+          "https://bitbucket.org/product/zh/code-repository"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/generate-pull-request-descriptions-with-atlassian-intelligence",
+    "action": "https://www.atlassian.com/blog/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Search for something",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/generate-pull-request-descriptions-with-atlassian-intelligence",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "consenthub_email",
+        "id": "consenthub_email",
+        "placeholder": "Email Address",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_form_id",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_success_msg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "consenthub_form_submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://bitbucket.org/product",
+    "action": "https://bitbucket.org/product/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "id": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "list_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://bitbucket.org/product",
+    "action": "https://bitbucket.org/product/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "url",
+        "id": "footer-language-selector",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Choose your language",
+          "https://bitbucket.org/product/de",
+          "https://bitbucket.org/product",
+          "https://bitbucket.org/product/es",
+          "https://bitbucket.org/product/fr",
+          "https://bitbucket.org/product/it",
+          "https://bitbucket.org/product/ko",
+          "https://bitbucket.org/product/nl",
+          "https://bitbucket.org/product/ja",
+          "https://bitbucket.org/product/pl",
+          "https://bitbucket.org/product/br",
+          "https://bitbucket.org/product/ru",
+          "https://bitbucket.org/product/zh"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "http://bitbucket.org/product/write",
+    "action": "https://bitbucket.org/product/write",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "id": "et-e3bb2ec9-6479-471c-bdce-76bea62a4c6a",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "list_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://bitbucket.org/product/write",
+    "action": "https://bitbucket.org/product/write#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "url",
+        "id": "footer-language-selector",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Choose your language",
+          "https://bitbucket.org/product/de/write",
+          "https://bitbucket.org/product/write",
+          "https://bitbucket.org/product/es/write",
+          "https://bitbucket.org/product/fr/write",
+          "https://bitbucket.org/product/it/write",
+          "https://bitbucket.org/product/ko/write",
+          "https://bitbucket.org/product/nl/write",
+          "https://bitbucket.org/product/ja/write",
+          "https://bitbucket.org/product/pl/write",
+          "https://bitbucket.org/product/br/write",
+          "https://bitbucket.org/product/ru/write",
+          "https://bitbucket.org/product/zh/write"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/2015/09/10/two-step-verification-is-here/",
+    "action": "https://www.atlassian.com/blog/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Search for something",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/2015/09/10/two-step-verification-is-here/",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "consenthub_email",
+        "id": "consenthub_email",
+        "placeholder": "Email Address",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_form_id",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "consenthub_success_msg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "consenthub_form_submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/files/2017/02/upload.png",
+    "action": "https://www.atlassian.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "four-o-four-search-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/files/2017/02/upload.png",
+    "action": "https://www.atlassian.com/bitbucket/blog/files/2017/02/upload.png#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "url",
+        "id": "footer-language-selector",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Choose language",
+          "https://www.atlassian.com/de/404",
+          "https://www.atlassian.com/404",
+          "https://www.atlassian.com/es/404",
+          "https://www.atlassian.com/fr/404",
+          "https://www.atlassian.com/it/404",
+          "https://www.atlassian.com/ko/404",
+          "https://www.atlassian.com/nl/404",
+          "https://www.atlassian.com/ja/404",
+          "https://www.atlassian.com/pl/404",
+          "https://www.atlassian.com/br/404",
+          "https://www.atlassian.com/ru/404",
+          "https://www.atlassian.com/zh/404"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product/pricing/upcoming",
+    "action": "https://www.atlassian.com/software/bitbucket/pricing",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "autocomplete-0-input",
+        "placeholder": "Search Keywords",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/product/pricing/upcoming",
+    "action": "https://www.atlassian.com/software/bitbucket/pricing",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "autocomplete-1-input",
+        "placeholder": "Search Keywords",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://bitbucket.org/product/pricing",
+    "action": "https://www.atlassian.com/software/bitbucket/pricing",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "autocomplete-0-input",
+        "placeholder": "Search Keywords",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://bitbucket.org/product/pricing",
+    "action": "https://www.atlassian.com/software/bitbucket/pricing",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "autocomplete-1-input",
+        "placeholder": "Search Keywords",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/site/master/issues/5811/support-two-factor-authentication-bb-7016",
+    "action": "https://jira.atlassian.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/site/master/issues/5811/support-two-factor-authentication-bb-7016",
+    "action": "https://jira.atlassian.com/browse/BCLOUD-5811/support-two-factor-authentication-bb-7016",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/files/2015/09/Screenshot-2015-09-09-15.18.18.png",
+    "action": "https://www.atlassian.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "four-o-four-search-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitbucket.org/blog/files/2015/09/Screenshot-2015-09-09-15.18.18.png",
+    "action": "https://www.atlassian.com/bitbucket/blog/files/2015/09/Screenshot-2015-09-09-15.18.18.png#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "url",
+        "id": "footer-language-selector",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Choose language",
+          "https://www.atlassian.com/de/404",
+          "https://www.atlassian.com/404",
+          "https://www.atlassian.com/es/404",
+          "https://www.atlassian.com/fr/404",
+          "https://www.atlassian.com/it/404",
+          "https://www.atlassian.com/ko/404",
+          "https://www.atlassian.com/nl/404",
+          "https://www.atlassian.com/ja/404",
+          "https://www.atlassian.com/pl/404",
+          "https://www.atlassian.com/br/404",
+          "https://www.atlassian.com/ru/404",
+          "https://www.atlassian.com/zh/404"
+        ]
+      }
+    ]
   }
 ]
