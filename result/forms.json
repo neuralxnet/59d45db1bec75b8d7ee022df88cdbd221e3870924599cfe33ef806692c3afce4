@@ -2966,5 +2966,19 @@
         ]
       }
     ]
+  },
+  {
+    "url": "https://marketplace.atlassian.com",
+    "action": "https://marketplace.atlassian.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "search-input",
+        "placeholder": "Search for apps within Marketplace",
+        "required": false
+      }
+    ]
   }
 ]
