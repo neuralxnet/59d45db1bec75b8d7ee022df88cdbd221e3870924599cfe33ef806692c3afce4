@@ -3940,5 +3940,19 @@
         ]
       }
     ]
+  },
+  {
+    "url": "https://app.aurory.io",
+    "action": "https://app.aurory.io/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Type your message...",
+        "required": false
+      }
+    ]
   }
 ]
