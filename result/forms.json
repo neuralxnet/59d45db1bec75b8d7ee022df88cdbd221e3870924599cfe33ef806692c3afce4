@@ -3954,5 +3954,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://manage.cic-bug-bounty.auth0app.com",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": true
+      }
+    ]
   }
 ]
