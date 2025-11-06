@@ -4531,5 +4531,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.pornhub.com",
+    "action": "https://www.pornhub.com/video/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "searchInput",
+        "placeholder": "Search Pornhub",
+        "required": false
+      }
+    ]
   }
 ]
