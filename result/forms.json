@@ -3982,5 +3982,26 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://dashboard.fga.dev",
+    "action": "https://auth.fga.dev/u/login?state=hKFo2SA3aTNnQWFUOXJnM1Y1NHQ5dUdNVUtzWDF4TDRTeGtVMKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGJ3ZG9kdnJwMXNKUWFpVDBxNERXUkZiLVlFWXZnSGc4o2NpZNkgWWVFVXZMcGViYlkwS3VJVFh2VFQ5WktuSU1SUWU1V2k",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
