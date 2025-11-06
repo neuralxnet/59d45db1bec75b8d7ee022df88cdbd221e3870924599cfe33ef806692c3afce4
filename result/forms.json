@@ -4003,5 +4003,241 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.digitalplayground.com/content-removal",
+    "action": "https://www.digitalplayground.com/content-removal",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "confirmEmail",
+        "id": "",
+        "placeholder": "Confirm Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "legalName",
+        "id": "",
+        "placeholder": "Enter Legal Name",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "reportingFor",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "urls",
+        "id": "",
+        "placeholder": "Enter URL here",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "urls",
+        "id": "",
+        "placeholder": "Enter URL here",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "urls",
+        "id": "",
+        "placeholder": "Enter URL here",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "urls",
+        "id": "",
+        "placeholder": "Enter URL here",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "urls",
+        "id": "",
+        "placeholder": "Enter URL here",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "additionalInformation",
+        "id": "",
+        "placeholder": "Enter Additional Information",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "digitalSignature",
+        "id": "",
+        "placeholder": "Enter Legal Name",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.digitalplayground.com/accessibility",
+    "action": "https://support.digitalplayground.com/accessibility",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "1",
+          "11"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Anonymous Accessibility Form",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "",
+        "placeholder": "Provide your anonymous feedback",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.digitalplayground.com/managemydata/requestDataCopy?productId=10178&productDomain=digitalplayground.com",
+    "action": "https://www.digitalplayground.com/managemydata/ContactUs/ChangeCurrentCulture",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "Language",
+        "id": "Language",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "en",
+          "de",
+          "fr",
+          "es",
+          "it",
+          "pt",
+          "pl",
+          "nl",
+          "cs"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.digitalplayground.com/managemydata/requestDataCopy?productId=10178&productDomain=digitalplayground.com",
+    "action": "https://www.digitalplayground.com/managemydata/validateRequest",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RequestType",
+        "id": "RequestType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProductId",
+        "id": "ProductId",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.digitalplayground.com/managemydata/requestDataDeletion?productId=10178&productDomain=digitalplayground.com",
+    "action": "https://www.digitalplayground.com/managemydata/ContactUs/ChangeCurrentCulture",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "Language",
+        "id": "Language",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "en",
+          "de",
+          "fr",
+          "es",
+          "it",
+          "pt",
+          "pl",
+          "nl",
+          "cs"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.digitalplayground.com/managemydata/requestDataDeletion?productId=10178&productDomain=digitalplayground.com",
+    "action": "https://www.digitalplayground.com/managemydata/validateRequest",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RequestType",
+        "id": "RequestType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProductId",
+        "id": "ProductId",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
