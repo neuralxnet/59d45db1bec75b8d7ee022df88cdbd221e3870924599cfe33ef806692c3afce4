@@ -4239,5 +4239,297 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://transangels.com",
+    "action": "https://www.transangels.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transangels.com",
+    "action": "https://www.transangels.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://transangels.com",
+    "action": "https://www.transangels.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transangels.com/content-removal",
+    "action": "https://www.transangels.com/content-removal",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "confirmEmail",
+        "id": "",
+        "placeholder": "Confirm Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "legalName",
+        "id": "",
+        "placeholder": "Enter Legal Name",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "reportingFor",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "urls",
+        "id": "",
+        "placeholder": "Enter URL here",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "urls",
+        "id": "",
+        "placeholder": "Enter URL here",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "urls",
+        "id": "",
+        "placeholder": "Enter URL here",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "urls",
+        "id": "",
+        "placeholder": "Enter URL here",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "urls",
+        "id": "",
+        "placeholder": "Enter URL here",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "additionalInformation",
+        "id": "",
+        "placeholder": "Enter Additional Information",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "digitalSignature",
+        "id": "",
+        "placeholder": "Enter Legal Name",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.transangels.com/accessibility",
+    "action": "https://support.transangels.com/accessibility",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "1",
+          "11"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Anonymous Accessibility Form",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "",
+        "placeholder": "Provide your anonymous feedback",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transangels.com/",
+    "action": "https://www.transangels.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transangels.com/managemydata/requestDataCopy?productId=10178&productDomain=transangels.com",
+    "action": "https://www.transangels.com/managemydata/ContactUs/ChangeCurrentCulture",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "Language",
+        "id": "Language",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "en",
+          "de",
+          "fr",
+          "es",
+          "it",
+          "pt",
+          "pl",
+          "nl",
+          "cs"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.transangels.com/managemydata/requestDataCopy?productId=10178&productDomain=transangels.com",
+    "action": "https://www.transangels.com/managemydata/validateRequest",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RequestType",
+        "id": "RequestType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProductId",
+        "id": "ProductId",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transangels.com/managemydata/requestDataDeletion?productId=10178&productDomain=transangels.com",
+    "action": "https://www.transangels.com/managemydata/ContactUs/ChangeCurrentCulture",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "Language",
+        "id": "Language",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "en",
+          "de",
+          "fr",
+          "es",
+          "it",
+          "pt",
+          "pl",
+          "nl",
+          "cs"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.transangels.com/managemydata/requestDataDeletion?productId=10178&productDomain=transangels.com",
+    "action": "https://www.transangels.com/managemydata/validateRequest",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RequestType",
+        "id": "RequestType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProductId",
+        "id": "ProductId",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
