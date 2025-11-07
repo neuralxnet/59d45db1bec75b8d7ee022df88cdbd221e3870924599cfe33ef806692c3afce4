@@ -4559,5 +4559,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.youporn.com",
+    "action": "https://www.youporn.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search Youporn",
+        "required": false
+      }
+    ]
   }
 ]
