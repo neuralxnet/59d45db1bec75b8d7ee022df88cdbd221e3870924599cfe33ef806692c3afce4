@@ -4874,5 +4874,124 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://xnxx.nutaku.net",
+    "action": "https://xnxx.nutaku.net/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "mailAddress",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "nickname",
+        "id": "",
+        "placeholder": "Username",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter",
+        "id": "receive-newsletter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaSignup",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "registerFailedData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pre_register_title_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "titleId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://xnxx.nutaku.net",
+    "action": "https://xnxx.nutaku.net/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isGI",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pre_register_title_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://xnxx.nutaku.net",
+    "action": "https://xnxx.nutaku.net/accept/disclaimer/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
