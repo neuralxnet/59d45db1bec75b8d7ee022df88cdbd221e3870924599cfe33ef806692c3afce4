@@ -4545,5 +4545,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.redtube.com",
+    "action": "https://www.redtube.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "header_search_field",
+        "placeholder": "Search...",
+        "required": false
+      }
+    ]
   }
 ]
