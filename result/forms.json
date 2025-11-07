@@ -4587,5 +4587,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.thumbzilla.com",
+    "action": "https://www.thumbzilla.com/video/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "searchInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
