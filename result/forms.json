@@ -4573,5 +4573,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://pornhub.mainhub.com",
+    "action": "https://www.pornhub.com/video/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "searchInput",
+        "placeholder": "Search Pornhub",
+        "required": false
+      }
+    ]
   }
 ]
