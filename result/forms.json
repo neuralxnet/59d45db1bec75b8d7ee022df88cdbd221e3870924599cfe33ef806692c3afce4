@@ -5193,5 +5193,26 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://app.bitgo.com",
+    "action": "https://app.bitgo.com/web/auth/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "username",
+        "id": "Inputfield-:r0:",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "Inputfield-:r1:",
+        "placeholder": "",
+        "required": true
+      }
+    ]
   }
 ]
