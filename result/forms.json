@@ -5235,5 +5235,75 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://bitgo.ae/complaint-form",
+    "action": "https://bitgo.ae/complaint-form",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "fullName",
+        "id": "fullName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "phoneNumber",
+        "id": "phoneNumber",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "address",
+        "id": "address",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "dateTime",
+        "id": "dateTime",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "natureOfComplaint",
+        "id": "natureOfComplaint",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productRelated",
+        "id": "productRelated",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "complaintDetails",
+        "id": "complaintDetails",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "url",
+        "name": "complaintDocument",
+        "id": "complaintDocument",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
