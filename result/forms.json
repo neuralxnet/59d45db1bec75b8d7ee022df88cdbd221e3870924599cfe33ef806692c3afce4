@@ -5112,5 +5112,72 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.backblaze.com/help",
+    "action": "https://www.backblaze.com/help",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search the knowledge base",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.backblaze.com/cloud-storage",
+    "action": "https://www.backblaze.com/cloud-storage",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://www.backblaze.com/cloud-backup/business",
+    "action": "https://www.backblaze.com/cloud-backup/business",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://www.backblaze.com/cloud-backup/personal",
+    "action": "https://www.backblaze.com/cloud-backup/personal",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://www.backblaze.com/cloud-storage/solutions/ransomware-readiness-and-recovery",
+    "action": "https://www.backblaze.com/cloud-storage/solutions/ransomware-readiness-and-recovery",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "upload_initial",
+        "id": "initialUpload",
+        "placeholder": "5000",
+        "required": false
+      },
+      {
+        "type": "range",
+        "name": "how-many-years",
+        "id": "dataStoredSlider",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "monthly_download",
+        "id": "monthlyDownload",
+        "placeholder": "2500",
+        "required": false
+      },
+      {
+        "type": "range",
+        "name": "monthlyDownloadSlider",
+        "id": "monthlyDownloadSlider",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
