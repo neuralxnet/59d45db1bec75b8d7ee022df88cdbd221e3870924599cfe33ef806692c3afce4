@@ -5179,5 +5179,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.barracuda.com",
+    "action": "https://www.barracuda.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "addsearch",
+        "id": "desktop-search-input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
