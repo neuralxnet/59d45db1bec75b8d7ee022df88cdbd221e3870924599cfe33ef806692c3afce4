@@ -5319,5 +5319,33 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://api.blockchain.info",
+    "action": "https://www.blockchain.com/explorer/api",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search Blockchain.com",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://api.blockchain.info",
+    "action": "https://www.blockchain.com/explorer/api",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Search Blockchain, Transactions, Addresses and Blocks",
+        "required": false
+      }
+    ]
   }
 ]
