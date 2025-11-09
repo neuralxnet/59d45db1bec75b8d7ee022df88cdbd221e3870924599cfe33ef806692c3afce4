@@ -8174,5 +8174,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://tracker.bugcrowd.com",
+    "action": "https://identity.bugcrowd.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "user_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "remember-me",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
