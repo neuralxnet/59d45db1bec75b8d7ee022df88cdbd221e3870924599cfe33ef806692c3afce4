@@ -8209,5 +8209,143 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://investor.bullish.com",
+    "action": "https://investors.bullish.com/overview/default.aspx",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "SearchTerm",
+        "id": "_ctrl0_ctl01_navPrimaryNavigationDesktopContainer_evergreenNavigationDesktopSearchInput",
+        "placeholder": "Investor Search",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "SearchTerm",
+        "id": "_ctrl0_ctl01_divPrimaryNavigationMobileContainer_evergreen-navigation-mobile-menu_primaryMobileSearchInput",
+        "placeholder": "Investor Search",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "_ctrl0$FooterPane_footer_pane_main$ctl10$txtEmailAddress",
+        "id": "_ctrl0_FooterPane_footer_pane_main_ctl10_txtEmailAddress",
+        "placeholder": "Enter Your Email Address",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "_ctrl0$FooterPane_footer_pane_main$ctl10$chkLists$0",
+        "id": "_ctrl0_FooterPane_footer_pane_main_ctl10_chkLists_0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "_ctrl0$FooterPane_footer_pane_main$ctl10$chkLists$1",
+        "id": "_ctrl0_FooterPane_footer_pane_main_ctl10_chkLists_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "_ctrl0$FooterPane_footer_pane_main$ctl10$chkLists$2",
+        "id": "_ctrl0_FooterPane_footer_pane_main_ctl10_chkLists_2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "_ctrl0$FooterPane_footer_pane_main$ctl10$chkLists$3",
+        "id": "_ctrl0_FooterPane_footer_pane_main_ctl10_chkLists_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "_ctrl0$FooterPane_footer_pane_main$ctl10$chkLists$4",
+        "id": "_ctrl0_FooterPane_footer_pane_main_ctl10_chkLists_4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "_ctrl0$FooterPane_footer_pane_main$ctl10$chkLists$5",
+        "id": "_ctrl0_FooterPane_footer_pane_main_ctl10_chkLists_5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "_ctrl0$FooterPane_footer_pane_main$ctl10$btnSubmit",
+        "id": "_ctrl0_FooterPane_footer_pane_main_ctl10_btnSubmit",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__antiCSRF",
+        "id": "__antiCSRF",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationAntiCSRFToken",
+        "id": "__RequestVerificationAntiCSRFToken",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__SCROLLPOSITIONX",
+        "id": "__SCROLLPOSITIONX",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__SCROLLPOSITIONY",
+        "id": "__SCROLLPOSITIONY",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://investor.bullish.com",
+    "action": "https://investors.bullish.com/search-results/default.aspx",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://investor.bullish.com",
+    "action": "https://investors.bullish.com/search-results/default.aspx",
+    "method": "post",
+    "fields": []
   }
 ]
