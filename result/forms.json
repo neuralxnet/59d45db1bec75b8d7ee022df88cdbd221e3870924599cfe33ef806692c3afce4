@@ -5471,5 +5471,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://docs.bugcrowd.com",
+    "action": "https://docs.bugcrowd.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "search-hero",
+        "placeholder": "Search documentation…",
+        "required": false
+      }
+    ]
   }
 ]
