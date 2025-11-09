@@ -5347,5 +5347,129 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://bolt.eu/en/business/",
+    "action": "https://bolt.eu/en/business/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "phoneCode-input",
+        "placeholder": "Select",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "id": "phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "company",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "city",
+        "id": "city",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bolt.eu/en/food/merchant/",
+    "action": "https://bolt.eu/en/food/merchant/",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://bolt.eu/en/food/merchant/",
+    "action": "https://bolt.eu/en/food/merchant/",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://bolt.eu/business/",
+    "action": "https://bolt.eu/en/business/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "phoneCode-input",
+        "placeholder": "Select",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "id": "phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "company",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "city",
+        "id": "city",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
