@@ -5305,5 +5305,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.blockchain.com",
+    "action": "https://www.blockchain.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Your email address",
+        "required": true
+      }
+    ]
   }
 ]
