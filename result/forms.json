@@ -9103,5 +9103,61 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://education.cfr.org",
+    "action": "https://education.cfr.org/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "edit-search",
+        "placeholder": "Find Resources",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_build_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://education.cfr.org",
+    "action": "https://education.cfr.org/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "edit-search--2",
+        "placeholder": "Find Resources",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_build_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
