@@ -12316,5 +12316,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://apps.meraki.io",
+    "action": "https://marketplace.cisco.com/en-US/home",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "inputSearch",
+        "id": "inputSearch",
+        "placeholder": "Search Apps by Name or Category",
+        "required": true
+      }
+    ]
   }
 ]
