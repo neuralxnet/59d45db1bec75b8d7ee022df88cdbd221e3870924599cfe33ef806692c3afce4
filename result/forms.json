@@ -12288,5 +12288,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://meraki.cisco.com",
+    "action": "https://meraki.cisco.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "global-search",
+        "placeholder": "Search Meraki",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://meraki.cisco.com",
+    "action": "https://meraki.cisco.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "mobile-global-search",
+        "placeholder": "Search Meraki",
+        "required": false
+      }
+    ]
   }
 ]
