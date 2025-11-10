@@ -9257,5 +9257,26 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://app.chime.com",
+    "action": "https://app.chime.com/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "Password",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
