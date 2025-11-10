@@ -9299,5 +9299,26 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://app-qa.chime.com",
+    "action": "https://app-qa.chime.com/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "Password",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
