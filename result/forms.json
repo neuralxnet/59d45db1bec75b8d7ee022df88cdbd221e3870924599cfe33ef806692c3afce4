@@ -12330,5 +12330,11 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://www.wien.gv.at",
+    "action": "https://www.wien.gv.at/suche",
+    "method": "get",
+    "fields": []
   }
 ]
