@@ -8375,5 +8375,733 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://thinkglobalhealth.org",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://thinkglobalhealth.org",
+    "action": "https://www.thinkglobalhealth.org/#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://thinkglobalhealth.org",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://thinkglobalhealth.org",
+    "action": "https://www.thinkglobalhealth.org/#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org",
+    "action": "https://www.thinkglobalhealth.org/#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org",
+    "action": "https://www.thinkglobalhealth.org/#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://thinkglobalhealth.org",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://thinkglobalhealth.org",
+    "action": "https://www.thinkglobalhealth.org/#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://thinkglobalhealth.org",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://thinkglobalhealth.org",
+    "action": "https://www.thinkglobalhealth.org/#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/",
+    "action": "https://www.thinkglobalhealth.org/#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/",
+    "action": "https://www.thinkglobalhealth.org/#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/environment",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/environment",
+    "action": "https://www.thinkglobalhealth.org/topic/environment#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/environment",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/environment",
+    "action": "https://www.thinkglobalhealth.org/topic/environment#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/poverty",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/poverty",
+    "action": "https://www.thinkglobalhealth.org/topic/poverty#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/poverty",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/poverty",
+    "action": "https://www.thinkglobalhealth.org/topic/poverty#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/trade",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/trade",
+    "action": "https://www.thinkglobalhealth.org/topic/trade#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/trade",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/trade",
+    "action": "https://www.thinkglobalhealth.org/topic/trade#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/governance",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/governance",
+    "action": "https://www.thinkglobalhealth.org/topic/governance#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/governance",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/governance",
+    "action": "https://www.thinkglobalhealth.org/topic/governance#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/food",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/food",
+    "action": "https://www.thinkglobalhealth.org/topic/food#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/food",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/food",
+    "action": "https://www.thinkglobalhealth.org/topic/food#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/urbanization",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/urbanization",
+    "action": "https://www.thinkglobalhealth.org/topic/urbanization#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/urbanization",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/urbanization",
+    "action": "https://www.thinkglobalhealth.org/topic/urbanization#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/aging",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/aging",
+    "action": "https://www.thinkglobalhealth.org/topic/aging#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/aging",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/aging",
+    "action": "https://www.thinkglobalhealth.org/topic/aging#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/gender",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/gender",
+    "action": "https://www.thinkglobalhealth.org/topic/gender#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/gender",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/gender",
+    "action": "https://www.thinkglobalhealth.org/topic/gender#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/migration",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/migration",
+    "action": "https://www.thinkglobalhealth.org/topic/migration#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/migration",
+    "action": "https://www.thinkglobalhealth.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "full_text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thinkglobalhealth.org/topic/migration",
+    "action": "https://www.thinkglobalhealth.org/topic/migration#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
   }
 ]
