@@ -12246,5 +12246,47 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://catering.chipotle.com",
+    "action": "https://catering.chipotle.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "emailInput",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "passwordInput",
+        "placeholder": "Password",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "__BVID__38",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://catering.chipotle.com",
+    "action": "https://catering.chipotle.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "promoCode",
+        "placeholder": "Enter a Promo Code",
+        "required": false
+      }
+    ]
   }
 ]
