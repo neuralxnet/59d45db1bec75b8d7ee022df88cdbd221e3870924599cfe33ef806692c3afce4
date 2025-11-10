@@ -8347,5 +8347,33 @@
     "action": "https://investors.bullish.com/search-results/default.aspx",
     "method": "post",
     "fields": []
+  },
+  {
+    "url": "https://www.cfr.org",
+    "action": "https://www.cfr.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "keyword",
+        "id": "",
+        "placeholder": "What are you searching for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.cfr.org",
+    "action": "https://www.cfr.org/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "keyword",
+        "id": "",
+        "placeholder": "What are you searching for?",
+        "required": false
+      }
+    ]
   }
 ]
