@@ -9320,5 +9320,2931 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/",
+    "action": "https://jobs.chipotle.co.uk/search-jobs",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "k",
+        "id": "search-keyword-487de13f2f",
+        "placeholder": "Keyword",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "l",
+        "id": "search-location-487de13f2f",
+        "placeholder": "City, State, or ZIP",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "",
+        "id": "search-location-pin-487de13f2f",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "r",
+        "id": "search-radius-487de13f2f",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select Radius",
+          "5",
+          "15",
+          "25",
+          "35",
+          "50"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "orgIds",
+        "id": "search-org-ids-487de13f2f",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-27e9c4e12b",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-30b0cb6c36",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailAddress",
+        "id": "form-field-4cae01ac07",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-5d58961216",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-5d58961216",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-5d58961216",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-5d58961216",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-5d58961216",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-5d58961216",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-5d58961216",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-5d58961216",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/#content",
+    "action": "https://jobs.chipotle.co.uk/search-jobs",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "k",
+        "id": "search-keyword-487de13f2f",
+        "placeholder": "Keyword",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "l",
+        "id": "search-location-487de13f2f",
+        "placeholder": "City, State, or ZIP",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "",
+        "id": "search-location-pin-487de13f2f",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "r",
+        "id": "search-radius-487de13f2f",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select Radius",
+          "5",
+          "15",
+          "25",
+          "35",
+          "50"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "orgIds",
+        "id": "search-org-ids-487de13f2f",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/#content",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-27e9c4e12b",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-30b0cb6c36",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailAddress",
+        "id": "form-field-4cae01ac07",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-5d58961216",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-5d58961216",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-5d58961216",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-5d58961216",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-5d58961216",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-5d58961216",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-5d58961216",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-5d58961216",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/in-restaurant",
+    "action": "https://jobs.chipotle.co.uk/search-jobs",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "k",
+        "id": "search-keyword-cfc4c12ae0",
+        "placeholder": "Keyword",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "l",
+        "id": "search-location-cfc4c12ae0",
+        "placeholder": "City, State, or ZIP",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "",
+        "id": "search-location-pin-cfc4c12ae0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "r",
+        "id": "search-radius-cfc4c12ae0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select Radius",
+          "5",
+          "15",
+          "25",
+          "35",
+          "50"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "orgIds",
+        "id": "search-org-ids-cfc4c12ae0",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/in-restaurant",
+    "action": "https://jobs.chipotle.co.uk/search-jobs",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "l",
+        "id": "search-location-3f3b461d5b",
+        "placeholder": "City, State, or ZIP",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "",
+        "id": "search-location-pin-3f3b461d5b",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "orgIds",
+        "id": "search-org-ids-3f3b461d5b",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs/Crew%20Member?orgIds=282&kt=1&ac=8584192",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-786dc07bd6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-cd45beb914",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailAddress",
+        "id": "form-field-316cf0bfce",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-338dd1484a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-338dd1484a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-338dd1484a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-338dd1484a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-338dd1484a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-338dd1484a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-338dd1484a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-338dd1484a",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs?ac=8584192",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-7d438b791e",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-014c89f084",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailAddress",
+        "id": "form-field-e9fd986378",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs/Kitchen%20Manager?orgIds=282&kt=1&ac=8738176",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-163c3f5b4c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-05b6a59096",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailAddress",
+        "id": "form-field-12340504b5",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-278c1f5603",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs/Service%20Manager?orgIds=282&kt=1&ac=8738176",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-812dd81762",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-445470d178",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailAddress",
+        "id": "form-field-2312c44f9e",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-42d4a0ce73",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-42d4a0ce73",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-42d4a0ce73",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-42d4a0ce73",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-42d4a0ce73",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-42d4a0ce73",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-42d4a0ce73",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-42d4a0ce73",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs/Assistant%20General%20Manager?orgIds=282&kt=1&ac=8738176",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-7a481aebdb",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-641bee21ef",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailAddress",
+        "id": "form-field-1363b03868",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-b60440d058",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs/General%20Manager?orgIds=282&kt=1&ac=8738176",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-6061afacd3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-b8416f23cf",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailAddress",
+        "id": "form-field-abab8162e2",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-518f1b047a",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/in-restaurant#content",
+    "action": "https://jobs.chipotle.co.uk/search-jobs",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "k",
+        "id": "search-keyword-cfc4c12ae0",
+        "placeholder": "Keyword",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "l",
+        "id": "search-location-cfc4c12ae0",
+        "placeholder": "City, State, or ZIP",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "",
+        "id": "search-location-pin-cfc4c12ae0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "r",
+        "id": "search-radius-cfc4c12ae0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select Radius",
+          "5",
+          "15",
+          "25",
+          "35",
+          "50"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "orgIds",
+        "id": "search-org-ids-cfc4c12ae0",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/in-restaurant#content",
+    "action": "https://jobs.chipotle.co.uk/search-jobs",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "l",
+        "id": "search-location-3f3b461d5b",
+        "placeholder": "City, State, or ZIP",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "",
+        "id": "search-location-pin-3f3b461d5b",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "orgIds",
+        "id": "search-org-ids-3f3b461d5b",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs/Crew%20Member?orgIds=282&kt=1&ac=8584192#content",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-786dc07bd6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-cd45beb914",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailAddress",
+        "id": "form-field-316cf0bfce",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-338dd1484a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-338dd1484a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-338dd1484a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-338dd1484a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-338dd1484a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-338dd1484a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-338dd1484a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-338dd1484a",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/job/london/crew-member/47547/70957804976",
+    "action": "https://jobs.chipotle.co.uk/subscribe/workwithme",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/job/london/crew-member/47547/70957804976",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-f2c9b9267b",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-f7d71b14a5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailAddress",
+        "id": "form-field-59db73feed",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-7db8641371",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-7db8641371",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-7db8641371",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-7db8641371",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-7db8641371",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-7db8641371",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-7db8641371",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-7db8641371",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/job/london/restaurant-crew-member/47547/79141121904",
+    "action": "https://jobs.chipotle.co.uk/subscribe/workwithme",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/job/london/restaurant-crew-member/47547/79141121904",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-8399bc08d6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-2d404b6a08",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailAddress",
+        "id": "form-field-6446fee766",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-034532f635",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-034532f635",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-034532f635",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-034532f635",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-034532f635",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-034532f635",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-034532f635",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-034532f635",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/job/london/service-leader/47547/70958298368",
+    "action": "https://jobs.chipotle.co.uk/subscribe/workwithme",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/job/london/service-leader/47547/70958298368",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-ebbeda7c3c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-c18bb8a07e",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "EmailAddress",
+        "id": "form-field-450c09038b",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-f09c09ead2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-f09c09ead2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-f09c09ead2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-f09c09ead2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-f09c09ead2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-f09c09ead2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-f09c09ead2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-f09c09ead2",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/job/london/kitchen-leader/47547/70957804880",
+    "action": "https://jobs.chipotle.co.uk/subscribe/workwithme",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/job/london/kitchen-leader/47547/70957804880",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-65c6bcf980",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-10eed014d4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailAddress",
+        "id": "form-field-ab5aa53ed4",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-eb46587449",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-eb46587449",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-eb46587449",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-eb46587449",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-eb46587449",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-eb46587449",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-eb46587449",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-eb46587449",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-dc8452827f",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-2431db58b8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailAddress",
+        "id": "form-field-486abed6e7",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-fbc8a544b5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-fbc8a544b5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-fbc8a544b5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-fbc8a544b5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-fbc8a544b5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-fbc8a544b5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-fbc8a544b5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-fbc8a544b5",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs?ac=8584192#content",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-7d438b791e",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-014c89f084",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailAddress",
+        "id": "form-field-e9fd986378",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs?ac=8584192#search-results-list",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-7d438b791e",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-014c89f084",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailAddress",
+        "id": "form-field-e9fd986378",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs?ac=8584192#search-filters",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-7d438b791e",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-014c89f084",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "EmailAddress",
+        "id": "form-field-e9fd986378",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-2f4949eac8",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs/Kitchen%20Manager?orgIds=282&kt=1&ac=8738176#content",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-163c3f5b4c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-05b6a59096",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailAddress",
+        "id": "form-field-12340504b5",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-278c1f5603",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs/Kitchen%20Manager?orgIds=282&kt=1&ac=8738176#search-results-list",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-163c3f5b4c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-05b6a59096",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "EmailAddress",
+        "id": "form-field-12340504b5",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-278c1f5603",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs/Kitchen%20Manager?orgIds=282&kt=1&ac=8738176#search-filters",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-163c3f5b4c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-05b6a59096",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "EmailAddress",
+        "id": "form-field-12340504b5",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-278c1f5603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-278c1f5603",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs/Service%20Manager?orgIds=282&kt=1&ac=8738176#content",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-812dd81762",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-445470d178",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailAddress",
+        "id": "form-field-2312c44f9e",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-42d4a0ce73",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-42d4a0ce73",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-42d4a0ce73",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-42d4a0ce73",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-42d4a0ce73",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-42d4a0ce73",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-42d4a0ce73",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-42d4a0ce73",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs/Assistant%20General%20Manager?orgIds=282&kt=1&ac=8738176#content",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-7a481aebdb",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-641bee21ef",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailAddress",
+        "id": "form-field-1363b03868",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-b60440d058",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs/Assistant%20General%20Manager?orgIds=282&kt=1&ac=8738176#search-results-list",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-7a481aebdb",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-641bee21ef",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "EmailAddress",
+        "id": "form-field-1363b03868",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-b60440d058",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs/Assistant%20General%20Manager?orgIds=282&kt=1&ac=8738176#search-filters",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-7a481aebdb",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-641bee21ef",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "EmailAddress",
+        "id": "form-field-1363b03868",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-b60440d058",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-b60440d058",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs/General%20Manager?orgIds=282&kt=1&ac=8738176#content",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-6061afacd3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-b8416f23cf",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailAddress",
+        "id": "form-field-abab8162e2",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-518f1b047a",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs/General%20Manager?orgIds=282&kt=1&ac=8738176#search-results-list",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-6061afacd3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-b8416f23cf",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "EmailAddress",
+        "id": "form-field-abab8162e2",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-518f1b047a",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://jobs.chipotle.co.uk/search-jobs/General%20Manager?orgIds=282&kt=1&ac=8738176#search-filters",
+    "action": "https://jobs.chipotle.co.uk/form/submit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "form-field-6061afacd3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "form-field-b8416f23cf",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "EmailAddress",
+        "id": "form-field-abab8162e2",
+        "placeholder": "email@domain.com",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "OptinPromotion",
+        "id": "optin-promotion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "EmailConfirm",
+        "id": "form-field-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormType",
+        "id": "form-type-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ModuleName",
+        "id": "module-name-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobId",
+        "id": "job-id-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobOrganizationId",
+        "id": "job-organization-id-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RedirectUrl",
+        "id": "redirect-url-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageUrl",
+        "id": "page-url-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageName",
+        "id": "page-name-518f1b047a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PageType",
+        "id": "page-type-518f1b047a",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
