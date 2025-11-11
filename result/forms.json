@@ -12392,5 +12392,75 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.akhwien.at",
+    "action": "https://www.akhwien.at/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.akhwien.at",
+    "action": "https://www.akhwien.at/default.aspx?pid=2815",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchtext",
+        "id": "searchtext",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "searchdocument",
+        "id": "searchdocument",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "_module_4402_btnSearchName",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.akhwien.at",
+    "action": "https://www.akhwien.at/default.aspx",
+    "method": "post",
+    "fields": [
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
