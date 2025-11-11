@@ -12560,5 +12560,3321 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://wien.at",
+    "action": "https://www.wien.gv.at/suche",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.wien.at",
+    "action": "https://www.wien.gv.at/suche",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "http://wien.at",
+    "action": "https://www.wien.gv.at/suche",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/#content",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/#content",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/meine-vorteile",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/meine-vorteile",
+    "action": "https://vorteilsclub.wien.at/meine-vorteile",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "title",
+        "id": "title",
+        "placeholder": "Vorteil suchen",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "district",
+        "id": "districtOption",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "bitte auswählen"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "1district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "2district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "3district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "4district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "5district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "6district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "7district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "8district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "9district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "10district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "11district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "12district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "13district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "14district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "15district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "16district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "17district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "18district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "19district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "20district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "21district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "22district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "23district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "categoryOption",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "bitte auswählen"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "alltag_alle",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "events_alle",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "familie_alle",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "gastronomie_alle",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "heurigen",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "kaffeehaeuser",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "nachtleben",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "restaurants",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "kultur_alle",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "buehnen",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "kino",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "museen",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "sport_alle",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "wohlbefinden_alle",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/meine-vorteile",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/aktionstage",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/aktionstage",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/gewinnspiele",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/gewinnspiele",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/mitglied-werden",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/b2b-kontakt",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/login",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/login",
+    "action": "https://vorteilsclub.wien.at/perform_login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/login",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/gewinnspiele/freiherz_1",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/gewinnspiele/freiherz_1",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/gewinnspiele/imperial-lights-lichtergarten",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/gewinnspiele/imperial-lights-lichtergarten",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/meine-vorteile#content",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/meine-vorteile#content",
+    "action": "https://vorteilsclub.wien.at/meine-vorteile#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "title",
+        "id": "title",
+        "placeholder": "Vorteil suchen",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "district",
+        "id": "districtOption",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "bitte auswählen"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "1district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "2district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "3district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "4district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "5district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "6district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "7district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "8district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "9district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "10district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "11district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "12district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "13district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "14district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "15district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "16district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "17district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "18district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "19district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "20district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "21district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "22district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "23district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "categoryOption",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "bitte auswählen"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "alltag_alle",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "events_alle",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "familie_alle",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "gastronomie_alle",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "heurigen",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "kaffeehaeuser",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "nachtleben",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "restaurants",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "kultur_alle",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "buehnen",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "kino",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "museen",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "sport_alle",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "wohlbefinden_alle",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/meine-vorteile#content",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/meine-vorteile#modalBenefitFavorite",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/meine-vorteile#modalBenefitFavorite",
+    "action": "https://vorteilsclub.wien.at/meine-vorteile#modalBenefitFavorite",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "title",
+        "id": "title",
+        "placeholder": "Vorteil suchen",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "district",
+        "id": "districtOption",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "bitte auswählen"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "1district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "2district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "3district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "4district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "5district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "6district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "7district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "8district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "9district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "10district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "11district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "12district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "13district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "14district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "15district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "16district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "17district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "18district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "19district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "20district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "21district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "22district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "districts",
+        "id": "23district",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "categoryOption",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "bitte auswählen"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "alltag_alle",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "events_alle",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "familie_alle",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "gastronomie_alle",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "heurigen",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "kaffeehaeuser",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "nachtleben",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "restaurants",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "kultur_alle",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "buehnen",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "kino",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "museen",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "sport_alle",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "kategorien",
+        "id": "wohlbefinden_alle",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/meine-vorteile#modalBenefitFavorite",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/aktionstage#content",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/aktionstage#content",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/aktionstage/besuche-uns-bei-der-viecc-vienna-comic-con",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/aktionstage/besuche-uns-bei-der-viecc-vienna-comic-con",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/aktionstage/wintermarkt-am-riesenradplatz-prater-montag_1",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/aktionstage/wintermarkt-am-riesenradplatz-prater-montag_1",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/gewinnspiele#content",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/gewinnspiele#content",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/gewinnspiele/silvester-im-akzent-cornelius-obonya_1",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/gewinnspiele/silvester-im-akzent-cornelius-obonya_1",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/mitglied-werden#content",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/registrieren",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/registrieren",
+    "action": "https://vorteilsclub.wien.at/registrieren",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "firstname",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastname",
+        "id": "lastname",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "gender",
+        "id": "gender",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "NOT_STATED",
+          "FEMALE",
+          "MALE",
+          "DIVERSE",
+          "INTER",
+          "OPEN"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "address1",
+        "id": "address1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address2",
+        "id": "address2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "zipCode",
+        "id": "zipCode",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "city",
+        "id": "city",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "country",
+        "id": "country",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "\n                            \n                        ",
+          "Österreich",
+          "------------------",
+          "Afghanistan",
+          "Albanien",
+          "Algerien",
+          "Amerikanisch-Samoa",
+          "Amerikanische Jungferninseln",
+          "Amerikanische Überseeinseln",
+          "Andorra",
+          "Angola",
+          "Anguilla",
+          "Antarktis",
+          "Antigua und Barbuda",
+          "Argentinien",
+          "Armenien",
+          "Aruba",
+          "Aserbaidschan",
+          "Australien",
+          "Ägypten",
+          "Äquatorialguinea",
+          "Äthiopien",
+          "Ålandinseln",
+          "Bahamas",
+          "Bahrain",
+          "Bangladesch",
+          "Barbados",
+          "Belarus",
+          "Belgien",
+          "Belize",
+          "Benin",
+          "Bermuda",
+          "Bhutan",
+          "Bolivien",
+          "Bonaire, Sint Eustatius und Saba",
+          "Bosnien und Herzegowina",
+          "Botsuana",
+          "Bouvetinsel",
+          "Brasilien",
+          "Britische Jungferninseln",
+          "Britisches Territorium im Indischen Ozean",
+          "Brunei Darussalam",
+          "Bulgarien",
+          "Burkina Faso",
+          "Burundi",
+          "Cabo Verde",
+          "Chile",
+          "China",
+          "Cookinseln",
+          "Costa Rica",
+          "Côte d’Ivoire",
+          "Curaçao",
+          "Dänemark",
+          "Deutschland",
+          "Dominica",
+          "Dominikanische Republik",
+          "Dschibuti",
+          "Ecuador",
+          "El Salvador",
+          "Eritrea",
+          "Estland",
+          "Falklandinseln",
+          "Färöer",
+          "Fidschi",
+          "Finnland",
+          "Frankreich",
+          "Französisch-Guayana",
+          "Französisch-Polynesien",
+          "Französische Süd- und Antarktisgebiete",
+          "Gabun",
+          "Gambia",
+          "Georgien",
+          "Ghana",
+          "Gibraltar",
+          "Grenada",
+          "Griechenland",
+          "Grönland",
+          "Guadeloupe",
+          "Guam",
+          "Guatemala",
+          "Guernsey",
+          "Guinea",
+          "Guinea-Bissau",
+          "Guyana",
+          "Haiti",
+          "Heard und McDonaldinseln",
+          "Honduras",
+          "Indien",
+          "Indonesien",
+          "Irak",
+          "Iran",
+          "Irland",
+          "Island",
+          "Isle of Man",
+          "Israel",
+          "Italien",
+          "Jamaika",
+          "Japan",
+          "Jemen",
+          "Jersey",
+          "Jordanien",
+          "Kaimaninseln",
+          "Kambodscha",
+          "Kamerun",
+          "Kanada",
+          "Kasachstan",
+          "Katar",
+          "Kenia",
+          "Kirgisistan",
+          "Kiribati",
+          "Kokosinseln",
+          "Kolumbien",
+          "Komoren",
+          "Kongo-Brazzaville",
+          "Kongo-Kinshasa",
+          "Kroatien",
+          "Kuba",
+          "Kuwait",
+          "Laos",
+          "Lesotho",
+          "Lettland",
+          "Libanon",
+          "Liberia",
+          "Libyen",
+          "Liechtenstein",
+          "Litauen",
+          "Luxemburg",
+          "Madagaskar",
+          "Malawi",
+          "Malaysia",
+          "Malediven",
+          "Mali",
+          "Malta",
+          "Marokko",
+          "Marshallinseln",
+          "Martinique",
+          "Mauretanien",
+          "Mauritius",
+          "Mayotte",
+          "Mazedonien",
+          "Mexiko",
+          "Mikronesien",
+          "Monaco",
+          "Mongolei",
+          "Montenegro",
+          "Montserrat",
+          "Mosambik",
+          "Myanmar",
+          "Namibia",
+          "Nauru",
+          "Nepal",
+          "Neukaledonien",
+          "Neuseeland",
+          "Nicaragua",
+          "Niederlande",
+          "Niger",
+          "Nigeria",
+          "Niue",
+          "Nordkorea",
+          "Norfolkinsel",
+          "Norwegen",
+          "Nördliche Marianen",
+          "Oman",
+          "Pakistan",
+          "Palau",
+          "Palästinensische Autonomiegebiete",
+          "Panama",
+          "Papua-Neuguinea",
+          "Paraguay",
+          "Peru",
+          "Philippinen",
+          "Pitcairninseln",
+          "Polen",
+          "Portugal",
+          "Puerto Rico",
+          "Republik Moldau",
+          "Réunion",
+          "Ruanda",
+          "Rumänien",
+          "Russland",
+          "Salomonen",
+          "Sambia",
+          "Samoa",
+          "San Marino",
+          "Saudi-Arabien",
+          "São Tomé und Príncipe",
+          "Schweden",
+          "Schweiz",
+          "Senegal",
+          "Serbien",
+          "Seychellen",
+          "Sierra Leone",
+          "Simbabwe",
+          "Singapur",
+          "Sint Maarten",
+          "Slowakei",
+          "Slowenien",
+          "Somalia",
+          "Sonderverwaltungsregion Hongkong",
+          "Sonderverwaltungsregion Macau",
+          "Spanien",
+          "Spitzbergen und Jan Mayen",
+          "Sri Lanka",
+          "St. Barthélemy",
+          "St. Helena",
+          "St. Kitts und Nevis",
+          "St. Lucia",
+          "St. Martin",
+          "St. Pierre und Miquelon",
+          "St. Vincent und die Grenadinen",
+          "Sudan",
+          "Suriname",
+          "Südafrika",
+          "Südgeorgien und die Südlichen Sandwichinseln",
+          "Südkorea",
+          "Südsudan",
+          "Swasiland",
+          "Syrien",
+          "Tadschikistan",
+          "Taiwan",
+          "Tansania",
+          "Thailand",
+          "Timor-Leste",
+          "Togo",
+          "Tokelau",
+          "Tonga",
+          "Trinidad und Tobago",
+          "Tschad",
+          "Tschechien",
+          "Tunesien",
+          "Turkmenistan",
+          "Turks- und Caicosinseln",
+          "Tuvalu",
+          "Türkei",
+          "Uganda",
+          "Ukraine",
+          "Ungarn",
+          "Uruguay",
+          "Usbekistan",
+          "Vanuatu",
+          "Vatikanstadt",
+          "Venezuela",
+          "Vereinigte Arabische Emirate",
+          "Vereinigte Staaten",
+          "Vereinigtes Königreich",
+          "Vietnam",
+          "Wallis und Futuna",
+          "Weihnachtsinsel",
+          "Westsahara",
+          "Zentralafrikanische Republik",
+          "Zypern"
+        ]
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "telephone",
+        "id": "telephone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "date",
+        "name": "birthday",
+        "id": "birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "passwordConfirmation",
+        "id": "passwordConfirmation",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "consentData",
+        "id": "consentData",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "cityMarketingConsent",
+        "id": "cityMarketingConsent",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "consentDataNewsletter",
+        "id": "consentDataNewsletter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/registrieren",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/b2b-kontakt#content",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/page/impressum",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/page/impressum",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/login#content",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/login#content",
+    "action": "https://vorteilsclub.wien.at/perform_login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/login#content",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/passwort-vergessen",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/passwort-vergessen",
+    "action": "https://vorteilsclub.wien.at/passwort-vergessen#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/passwort-vergessen",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/gewinnspiele/freiherz_1#content",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/gewinnspiele/freiherz_1#content",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/meine-vorteile/freiherz_1",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/meine-vorteile/freiherz_1",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/gewinnspiele/imperial-lights-lichtergarten#content",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/gewinnspiele/imperial-lights-lichtergarten#content",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/meine-vorteile/imperial-lights-lichtergarten",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/meine-vorteile/imperial-lights-lichtergarten",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/aktionstage/besuche-uns-bei-der-viecc-vienna-comic-con#content",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/aktionstage/besuche-uns-bei-der-viecc-vienna-comic-con#content",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/aktionstage/bewirb-dich-fuer-eine-filmrolle",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/aktionstage/bewirb-dich-fuer-eine-filmrolle",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/aktionstage/wintermarkt-am-riesenradplatz-prater-montag_1#content",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/aktionstage/wintermarkt-am-riesenradplatz-prater-montag_1#content",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/gewinnspiele/silvester-im-akzent-cornelius-obonya_1#content",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/gewinnspiele/silvester-im-akzent-cornelius-obonya_1#content",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/registrieren#content",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/registrieren#content",
+    "action": "https://vorteilsclub.wien.at/registrieren#content",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "firstname",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastname",
+        "id": "lastname",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "gender",
+        "id": "gender",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "NOT_STATED",
+          "FEMALE",
+          "MALE",
+          "DIVERSE",
+          "INTER",
+          "OPEN"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "address1",
+        "id": "address1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address2",
+        "id": "address2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "zipCode",
+        "id": "zipCode",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "city",
+        "id": "city",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "country",
+        "id": "country",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "\n                            \n                        ",
+          "Österreich",
+          "------------------",
+          "Afghanistan",
+          "Albanien",
+          "Algerien",
+          "Amerikanisch-Samoa",
+          "Amerikanische Jungferninseln",
+          "Amerikanische Überseeinseln",
+          "Andorra",
+          "Angola",
+          "Anguilla",
+          "Antarktis",
+          "Antigua und Barbuda",
+          "Argentinien",
+          "Armenien",
+          "Aruba",
+          "Aserbaidschan",
+          "Australien",
+          "Ägypten",
+          "Äquatorialguinea",
+          "Äthiopien",
+          "Ålandinseln",
+          "Bahamas",
+          "Bahrain",
+          "Bangladesch",
+          "Barbados",
+          "Belarus",
+          "Belgien",
+          "Belize",
+          "Benin",
+          "Bermuda",
+          "Bhutan",
+          "Bolivien",
+          "Bonaire, Sint Eustatius und Saba",
+          "Bosnien und Herzegowina",
+          "Botsuana",
+          "Bouvetinsel",
+          "Brasilien",
+          "Britische Jungferninseln",
+          "Britisches Territorium im Indischen Ozean",
+          "Brunei Darussalam",
+          "Bulgarien",
+          "Burkina Faso",
+          "Burundi",
+          "Cabo Verde",
+          "Chile",
+          "China",
+          "Cookinseln",
+          "Costa Rica",
+          "Côte d’Ivoire",
+          "Curaçao",
+          "Dänemark",
+          "Deutschland",
+          "Dominica",
+          "Dominikanische Republik",
+          "Dschibuti",
+          "Ecuador",
+          "El Salvador",
+          "Eritrea",
+          "Estland",
+          "Falklandinseln",
+          "Färöer",
+          "Fidschi",
+          "Finnland",
+          "Frankreich",
+          "Französisch-Guayana",
+          "Französisch-Polynesien",
+          "Französische Süd- und Antarktisgebiete",
+          "Gabun",
+          "Gambia",
+          "Georgien",
+          "Ghana",
+          "Gibraltar",
+          "Grenada",
+          "Griechenland",
+          "Grönland",
+          "Guadeloupe",
+          "Guam",
+          "Guatemala",
+          "Guernsey",
+          "Guinea",
+          "Guinea-Bissau",
+          "Guyana",
+          "Haiti",
+          "Heard und McDonaldinseln",
+          "Honduras",
+          "Indien",
+          "Indonesien",
+          "Irak",
+          "Iran",
+          "Irland",
+          "Island",
+          "Isle of Man",
+          "Israel",
+          "Italien",
+          "Jamaika",
+          "Japan",
+          "Jemen",
+          "Jersey",
+          "Jordanien",
+          "Kaimaninseln",
+          "Kambodscha",
+          "Kamerun",
+          "Kanada",
+          "Kasachstan",
+          "Katar",
+          "Kenia",
+          "Kirgisistan",
+          "Kiribati",
+          "Kokosinseln",
+          "Kolumbien",
+          "Komoren",
+          "Kongo-Brazzaville",
+          "Kongo-Kinshasa",
+          "Kroatien",
+          "Kuba",
+          "Kuwait",
+          "Laos",
+          "Lesotho",
+          "Lettland",
+          "Libanon",
+          "Liberia",
+          "Libyen",
+          "Liechtenstein",
+          "Litauen",
+          "Luxemburg",
+          "Madagaskar",
+          "Malawi",
+          "Malaysia",
+          "Malediven",
+          "Mali",
+          "Malta",
+          "Marokko",
+          "Marshallinseln",
+          "Martinique",
+          "Mauretanien",
+          "Mauritius",
+          "Mayotte",
+          "Mazedonien",
+          "Mexiko",
+          "Mikronesien",
+          "Monaco",
+          "Mongolei",
+          "Montenegro",
+          "Montserrat",
+          "Mosambik",
+          "Myanmar",
+          "Namibia",
+          "Nauru",
+          "Nepal",
+          "Neukaledonien",
+          "Neuseeland",
+          "Nicaragua",
+          "Niederlande",
+          "Niger",
+          "Nigeria",
+          "Niue",
+          "Nordkorea",
+          "Norfolkinsel",
+          "Norwegen",
+          "Nördliche Marianen",
+          "Oman",
+          "Pakistan",
+          "Palau",
+          "Palästinensische Autonomiegebiete",
+          "Panama",
+          "Papua-Neuguinea",
+          "Paraguay",
+          "Peru",
+          "Philippinen",
+          "Pitcairninseln",
+          "Polen",
+          "Portugal",
+          "Puerto Rico",
+          "Republik Moldau",
+          "Réunion",
+          "Ruanda",
+          "Rumänien",
+          "Russland",
+          "Salomonen",
+          "Sambia",
+          "Samoa",
+          "San Marino",
+          "Saudi-Arabien",
+          "São Tomé und Príncipe",
+          "Schweden",
+          "Schweiz",
+          "Senegal",
+          "Serbien",
+          "Seychellen",
+          "Sierra Leone",
+          "Simbabwe",
+          "Singapur",
+          "Sint Maarten",
+          "Slowakei",
+          "Slowenien",
+          "Somalia",
+          "Sonderverwaltungsregion Hongkong",
+          "Sonderverwaltungsregion Macau",
+          "Spanien",
+          "Spitzbergen und Jan Mayen",
+          "Sri Lanka",
+          "St. Barthélemy",
+          "St. Helena",
+          "St. Kitts und Nevis",
+          "St. Lucia",
+          "St. Martin",
+          "St. Pierre und Miquelon",
+          "St. Vincent und die Grenadinen",
+          "Sudan",
+          "Suriname",
+          "Südafrika",
+          "Südgeorgien und die Südlichen Sandwichinseln",
+          "Südkorea",
+          "Südsudan",
+          "Swasiland",
+          "Syrien",
+          "Tadschikistan",
+          "Taiwan",
+          "Tansania",
+          "Thailand",
+          "Timor-Leste",
+          "Togo",
+          "Tokelau",
+          "Tonga",
+          "Trinidad und Tobago",
+          "Tschad",
+          "Tschechien",
+          "Tunesien",
+          "Turkmenistan",
+          "Turks- und Caicosinseln",
+          "Tuvalu",
+          "Türkei",
+          "Uganda",
+          "Ukraine",
+          "Ungarn",
+          "Uruguay",
+          "Usbekistan",
+          "Vanuatu",
+          "Vatikanstadt",
+          "Venezuela",
+          "Vereinigte Arabische Emirate",
+          "Vereinigte Staaten",
+          "Vereinigtes Königreich",
+          "Vietnam",
+          "Wallis und Futuna",
+          "Weihnachtsinsel",
+          "Westsahara",
+          "Zentralafrikanische Republik",
+          "Zypern"
+        ]
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "telephone",
+        "id": "telephone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "date",
+        "name": "birthday",
+        "id": "birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "passwordConfirmation",
+        "id": "passwordConfirmation",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "consentData",
+        "id": "consentData",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "cityMarketingConsent",
+        "id": "cityMarketingConsent",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "consentDataNewsletter",
+        "id": "consentDataNewsletter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/registrieren#content",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/page/datenschutz",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/page/datenschutz",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/page/impressum#content",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/page/impressum#content",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/page/impressum#newsletter-subscribe",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/page/impressum#newsletter-subscribe",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/passwort-vergessen#content",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/passwort-vergessen#content",
+    "action": "https://vorteilsclub.wien.at/passwort-vergessen#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/passwort-vergessen#content",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/passwort-vergessen#newsletter-subscribe",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/passwort-vergessen#newsletter-subscribe",
+    "action": "https://vorteilsclub.wien.at/passwort-vergessen#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/passwort-vergessen#newsletter-subscribe",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/meine-vorteile/freiherz_1#content",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/meine-vorteile/freiherz_1#content",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/meine-vorteile/freiherz_1#modalBenefitFavorite",
+    "action": "https://vorteilsclub.wien.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "site_search",
+        "placeholder": "Seite durchsuchen...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vorteilsclub.wien.at/meine-vorteile/freiherz_1#modalBenefitFavorite",
+    "action": "https://vorteilsclub.wien.at/subscription",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "newsletter_email",
+        "id": "newsletter_email",
+        "placeholder": "E-Mail Adresse",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "newsletter_consentDataNewsletter",
+        "id": "newsletter_consentDataNewsletter",
+        "placeholder": "",
+        "required": true
+      }
+    ]
   }
 ]
