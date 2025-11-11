@@ -12336,5 +12336,61 @@
     "action": "https://www.wien.gv.at/suche",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://www.gesundheitsverbund.at",
+    "action": "https://gesundheitsverbund.at/suche",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "ooo-solr-fulltext-65142",
+        "placeholder": "Geben Sie hier Ihren Suchbegriff ein",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "site[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "paged",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
