@@ -15876,5 +15876,1547 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/",
+    "action": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "stdportal_PreventTsCreation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "stdportal_TsOriginalRequestUrl",
+        "id": "stdportal_TsOriginalRequestUrlHI",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "auth_uid",
+        "id": "auth_uid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "auth_pwd",
+        "id": "auth_pwd",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Meine-Amtswege/",
+    "action": "https://mein.wien.gv.at/Meine-Amtswege/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "suchfeld",
+        "placeholder": "z.B. Parkpickerl",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Meine-Amtswege/",
+    "action": "https://mein.wien.gv.at/Meine-Amtswege/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "dss-meine-amtswege-kontakt-email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "betreff",
+        "id": "dss-meine-amtswege-kontakt-betreff",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "nachricht",
+        "id": "dss-meine-amtswege-kontakt-nachricht",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Meine-Amtswege/",
+    "action": "https://mein.wien.gv.at/Meine-Amtswege/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "countryCode",
+        "id": "dss-meine-amtswege-parkpickerl-gueltigkeit-land",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Österreich",
+          "Deutschland",
+          "Albanien",
+          "Andorra",
+          "Belgien",
+          "Bosnien und Herzegowina",
+          "Belarus (Weißrussland)",
+          "Dänemark",
+          "Estland",
+          "Frankreich",
+          "Finnland",
+          "Griechenland",
+          "Ungarn",
+          "Kroatien",
+          "Italien",
+          "Irland",
+          "Island",
+          "Liechtenstein",
+          "Litauen",
+          "Lettland",
+          "Luxemburg",
+          "Malta",
+          "Mazedonien",
+          "Monaco",
+          "Moldau",
+          "Montenegro",
+          "Norwegen",
+          "Niederlande",
+          "Polen",
+          "Portugal",
+          "Rumänien",
+          "Russische Föderation",
+          "Schweden",
+          "Schweiz",
+          "Serbien",
+          "Slowakei",
+          "Slowenien",
+          "Spanien",
+          "Tschechische Republik",
+          "Türkei",
+          "Ukraine",
+          "Vatikan",
+          "Vereinigtes Königreich",
+          "Zypern",
+          "Sonstiges"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "kennzeichen",
+        "id": "dss-meine-amtswege-parkpickerl-gueltigkeit-kennzeichen",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Registrieren",
+    "action": "https://mein.wien.gv.at/Registrieren",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "dssf-email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "email2",
+        "id": "dssf-email2",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "dssf-username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "terms",
+        "id": "dssf-terms",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "dss-registrieren-form-ida-authid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "dssf_password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password2",
+        "id": "dssf_password2",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/login?redirect=https://mein.wien.gv.at/",
+    "action": "https://mein.wien.gv.at/login?redirect=https://mein.wien.gv.at/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "stdportal_PreventTsCreation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "stdportal_TsOriginalRequestUrl",
+        "id": "stdportal_TsOriginalRequestUrlHI",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "auth_uid",
+        "id": "auth_uid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "auth_pwd",
+        "id": "auth_pwd",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/Beta-Test",
+    "action": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/Beta-Test",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "stdportal_PreventTsCreation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "stdportal_TsOriginalRequestUrl",
+        "id": "stdportal_TsOriginalRequestUrlHI",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "auth_uid",
+        "id": "auth_uid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "auth_pwd",
+        "id": "auth_pwd",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Meine-Amtswege",
+    "action": "https://mein.wien.gv.at/Meine-Amtswege",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "suchfeld",
+        "placeholder": "z.B. Parkpickerl",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Meine-Amtswege",
+    "action": "https://mein.wien.gv.at/Meine-Amtswege",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "dss-meine-amtswege-kontakt-email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "betreff",
+        "id": "dss-meine-amtswege-kontakt-betreff",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "nachricht",
+        "id": "dss-meine-amtswege-kontakt-nachricht",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Meine-Amtswege",
+    "action": "https://mein.wien.gv.at/Meine-Amtswege",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "countryCode",
+        "id": "dss-meine-amtswege-parkpickerl-gueltigkeit-land",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Österreich",
+          "Deutschland",
+          "Albanien",
+          "Andorra",
+          "Belgien",
+          "Bosnien und Herzegowina",
+          "Belarus (Weißrussland)",
+          "Dänemark",
+          "Estland",
+          "Frankreich",
+          "Finnland",
+          "Griechenland",
+          "Ungarn",
+          "Kroatien",
+          "Italien",
+          "Irland",
+          "Island",
+          "Liechtenstein",
+          "Litauen",
+          "Lettland",
+          "Luxemburg",
+          "Malta",
+          "Mazedonien",
+          "Monaco",
+          "Moldau",
+          "Montenegro",
+          "Norwegen",
+          "Niederlande",
+          "Polen",
+          "Portugal",
+          "Rumänien",
+          "Russische Föderation",
+          "Schweden",
+          "Schweiz",
+          "Serbien",
+          "Slowakei",
+          "Slowenien",
+          "Spanien",
+          "Tschechische Republik",
+          "Türkei",
+          "Ukraine",
+          "Vatikan",
+          "Vereinigtes Königreich",
+          "Zypern",
+          "Sonstiges"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "kennzeichen",
+        "id": "dss-meine-amtswege-parkpickerl-gueltigkeit-kennzeichen",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/#accessibletabscontent1762845783261",
+    "action": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/#accessibletabscontent1762845783261",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "stdportal_PreventTsCreation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "stdportal_TsOriginalRequestUrl",
+        "id": "stdportal_TsOriginalRequestUrlHI",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "auth_uid",
+        "id": "auth_uid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "auth_pwd",
+        "id": "auth_pwd",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/#",
+    "action": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "stdportal_PreventTsCreation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "stdportal_TsOriginalRequestUrl",
+        "id": "stdportal_TsOriginalRequestUrlHI",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "auth_uid",
+        "id": "auth_uid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "auth_pwd",
+        "id": "auth_pwd",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Zugangsdaten-vergessen/",
+    "action": "https://mein.wien.gv.at/Zugangsdaten-vergessen/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "formPasswordEMail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Registrieren/",
+    "action": "https://mein.wien.gv.at/Registrieren/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "dssf-email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "email2",
+        "id": "dssf-email2",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "dssf-username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "terms",
+        "id": "dssf-terms",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "dss-registrieren-form-ida-authid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "dssf_password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password2",
+        "id": "dssf_password2",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/login?redirect=https://mein.wien.gv.at/#",
+    "action": "https://mein.wien.gv.at/login?redirect=https://mein.wien.gv.at/#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "stdportal_PreventTsCreation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "stdportal_TsOriginalRequestUrl",
+        "id": "stdportal_TsOriginalRequestUrlHI",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "auth_uid",
+        "id": "auth_uid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "auth_pwd",
+        "id": "auth_pwd",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Meine-Amtswege/#content",
+    "action": "https://mein.wien.gv.at/Meine-Amtswege/#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "suchfeld",
+        "placeholder": "z.B. Parkpickerl",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Meine-Amtswege/#content",
+    "action": "https://mein.wien.gv.at/Meine-Amtswege/#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "dss-meine-amtswege-kontakt-email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "betreff",
+        "id": "dss-meine-amtswege-kontakt-betreff",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "nachricht",
+        "id": "dss-meine-amtswege-kontakt-nachricht",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Meine-Amtswege/#content",
+    "action": "https://mein.wien.gv.at/Meine-Amtswege/#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "countryCode",
+        "id": "dss-meine-amtswege-parkpickerl-gueltigkeit-land",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Österreich",
+          "Deutschland",
+          "Albanien",
+          "Andorra",
+          "Belgien",
+          "Bosnien und Herzegowina",
+          "Belarus (Weißrussland)",
+          "Dänemark",
+          "Estland",
+          "Frankreich",
+          "Finnland",
+          "Griechenland",
+          "Ungarn",
+          "Kroatien",
+          "Italien",
+          "Irland",
+          "Island",
+          "Liechtenstein",
+          "Litauen",
+          "Lettland",
+          "Luxemburg",
+          "Malta",
+          "Mazedonien",
+          "Monaco",
+          "Moldau",
+          "Montenegro",
+          "Norwegen",
+          "Niederlande",
+          "Polen",
+          "Portugal",
+          "Rumänien",
+          "Russische Föderation",
+          "Schweden",
+          "Schweiz",
+          "Serbien",
+          "Slowakei",
+          "Slowenien",
+          "Spanien",
+          "Tschechische Republik",
+          "Türkei",
+          "Ukraine",
+          "Vatikan",
+          "Vereinigtes Königreich",
+          "Zypern",
+          "Sonstiges"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "kennzeichen",
+        "id": "dss-meine-amtswege-parkpickerl-gueltigkeit-kennzeichen",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/Meine-Amtswege/",
+    "action": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/Meine-Amtswege/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "stdportal_PreventTsCreation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "stdportal_TsOriginalRequestUrl",
+        "id": "stdportal_TsOriginalRequestUrlHI",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "auth_uid",
+        "id": "auth_uid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "auth_pwd",
+        "id": "auth_pwd",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Meine-Amtswege/#",
+    "action": "https://mein.wien.gv.at/Meine-Amtswege/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "suchfeld",
+        "placeholder": "z.B. Parkpickerl",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Meine-Amtswege/#",
+    "action": "https://mein.wien.gv.at/Meine-Amtswege/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "dss-meine-amtswege-kontakt-email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "betreff",
+        "id": "dss-meine-amtswege-kontakt-betreff",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "nachricht",
+        "id": "dss-meine-amtswege-kontakt-nachricht",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Meine-Amtswege/#",
+    "action": "https://mein.wien.gv.at/Meine-Amtswege/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "countryCode",
+        "id": "dss-meine-amtswege-parkpickerl-gueltigkeit-land",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Österreich",
+          "Deutschland",
+          "Albanien",
+          "Andorra",
+          "Belgien",
+          "Bosnien und Herzegowina",
+          "Belarus (Weißrussland)",
+          "Dänemark",
+          "Estland",
+          "Frankreich",
+          "Finnland",
+          "Griechenland",
+          "Ungarn",
+          "Kroatien",
+          "Italien",
+          "Irland",
+          "Island",
+          "Liechtenstein",
+          "Litauen",
+          "Lettland",
+          "Luxemburg",
+          "Malta",
+          "Mazedonien",
+          "Monaco",
+          "Moldau",
+          "Montenegro",
+          "Norwegen",
+          "Niederlande",
+          "Polen",
+          "Portugal",
+          "Rumänien",
+          "Russische Föderation",
+          "Schweden",
+          "Schweiz",
+          "Serbien",
+          "Slowakei",
+          "Slowenien",
+          "Spanien",
+          "Tschechische Republik",
+          "Türkei",
+          "Ukraine",
+          "Vatikan",
+          "Vereinigtes Königreich",
+          "Zypern",
+          "Sonstiges"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "kennzeichen",
+        "id": "dss-meine-amtswege-parkpickerl-gueltigkeit-kennzeichen",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Registrieren#content",
+    "action": "https://mein.wien.gv.at/Registrieren#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "dssf-email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "email2",
+        "id": "dssf-email2",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "dssf-username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "terms",
+        "id": "dssf-terms",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "dss-registrieren-form-ida-authid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "dssf_password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password2",
+        "id": "dssf_password2",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Registrieren#",
+    "action": "https://mein.wien.gv.at/Registrieren#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "dssf-email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "email2",
+        "id": "dssf-email2",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "dssf-username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "terms",
+        "id": "dssf-terms",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "dss-registrieren-form-ida-authid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "dssf_password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password2",
+        "id": "dssf_password2",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/login",
+    "action": "https://mein.wien.gv.at/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "stdportal_PreventTsCreation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "stdportal_TsOriginalRequestUrl",
+        "id": "stdportal_TsOriginalRequestUrlHI",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "auth_uid",
+        "id": "auth_uid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "auth_pwd",
+        "id": "auth_pwd",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/login?redirect=https://mein.wien.gv.at/#accessibletabscontent1762845784433",
+    "action": "https://mein.wien.gv.at/login?redirect=https://mein.wien.gv.at/#accessibletabscontent1762845784433",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "stdportal_PreventTsCreation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "stdportal_TsOriginalRequestUrl",
+        "id": "stdportal_TsOriginalRequestUrlHI",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "auth_uid",
+        "id": "auth_uid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "auth_pwd",
+        "id": "auth_pwd",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/Beta-Test#content",
+    "action": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/Beta-Test#content",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "stdportal_PreventTsCreation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "stdportal_TsOriginalRequestUrl",
+        "id": "stdportal_TsOriginalRequestUrlHI",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "auth_uid",
+        "id": "auth_uid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "auth_pwd",
+        "id": "auth_pwd",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/Beta-Test#accessibletabscontent1762845784807",
+    "action": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/Beta-Test#accessibletabscontent1762845784807",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "stdportal_PreventTsCreation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "stdportal_TsOriginalRequestUrl",
+        "id": "stdportal_TsOriginalRequestUrlHI",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "auth_uid",
+        "id": "auth_uid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "auth_pwd",
+        "id": "auth_pwd",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/Beta-Test#",
+    "action": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/Beta-Test#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "stdportal_PreventTsCreation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "stdportal_TsOriginalRequestUrl",
+        "id": "stdportal_TsOriginalRequestUrlHI",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "auth_uid",
+        "id": "auth_uid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "auth_pwd",
+        "id": "auth_pwd",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Meine-Amtswege#content",
+    "action": "https://mein.wien.gv.at/Meine-Amtswege#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "suchfeld",
+        "placeholder": "z.B. Parkpickerl",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Meine-Amtswege#content",
+    "action": "https://mein.wien.gv.at/Meine-Amtswege#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "dss-meine-amtswege-kontakt-email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "betreff",
+        "id": "dss-meine-amtswege-kontakt-betreff",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "nachricht",
+        "id": "dss-meine-amtswege-kontakt-nachricht",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Meine-Amtswege#content",
+    "action": "https://mein.wien.gv.at/Meine-Amtswege#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "countryCode",
+        "id": "dss-meine-amtswege-parkpickerl-gueltigkeit-land",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Österreich",
+          "Deutschland",
+          "Albanien",
+          "Andorra",
+          "Belgien",
+          "Bosnien und Herzegowina",
+          "Belarus (Weißrussland)",
+          "Dänemark",
+          "Estland",
+          "Frankreich",
+          "Finnland",
+          "Griechenland",
+          "Ungarn",
+          "Kroatien",
+          "Italien",
+          "Irland",
+          "Island",
+          "Liechtenstein",
+          "Litauen",
+          "Lettland",
+          "Luxemburg",
+          "Malta",
+          "Mazedonien",
+          "Monaco",
+          "Moldau",
+          "Montenegro",
+          "Norwegen",
+          "Niederlande",
+          "Polen",
+          "Portugal",
+          "Rumänien",
+          "Russische Föderation",
+          "Schweden",
+          "Schweiz",
+          "Serbien",
+          "Slowakei",
+          "Slowenien",
+          "Spanien",
+          "Tschechische Republik",
+          "Türkei",
+          "Ukraine",
+          "Vatikan",
+          "Vereinigtes Königreich",
+          "Zypern",
+          "Sonstiges"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "kennzeichen",
+        "id": "dss-meine-amtswege-parkpickerl-gueltigkeit-kennzeichen",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/Meine-Amtswege",
+    "action": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/Meine-Amtswege",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "stdportal_PreventTsCreation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "stdportal_TsOriginalRequestUrl",
+        "id": "stdportal_TsOriginalRequestUrlHI",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "auth_uid",
+        "id": "auth_uid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "auth_pwd",
+        "id": "auth_pwd",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Meine-Amtswege#",
+    "action": "https://mein.wien.gv.at/Meine-Amtswege#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "suchfeld",
+        "placeholder": "z.B. Parkpickerl",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Meine-Amtswege#",
+    "action": "https://mein.wien.gv.at/Meine-Amtswege#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "dss-meine-amtswege-kontakt-email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "betreff",
+        "id": "dss-meine-amtswege-kontakt-betreff",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "nachricht",
+        "id": "dss-meine-amtswege-kontakt-nachricht",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Meine-Amtswege#",
+    "action": "https://mein.wien.gv.at/Meine-Amtswege#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "countryCode",
+        "id": "dss-meine-amtswege-parkpickerl-gueltigkeit-land",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Österreich",
+          "Deutschland",
+          "Albanien",
+          "Andorra",
+          "Belgien",
+          "Bosnien und Herzegowina",
+          "Belarus (Weißrussland)",
+          "Dänemark",
+          "Estland",
+          "Frankreich",
+          "Finnland",
+          "Griechenland",
+          "Ungarn",
+          "Kroatien",
+          "Italien",
+          "Irland",
+          "Island",
+          "Liechtenstein",
+          "Litauen",
+          "Lettland",
+          "Luxemburg",
+          "Malta",
+          "Mazedonien",
+          "Monaco",
+          "Moldau",
+          "Montenegro",
+          "Norwegen",
+          "Niederlande",
+          "Polen",
+          "Portugal",
+          "Rumänien",
+          "Russische Föderation",
+          "Schweden",
+          "Schweiz",
+          "Serbien",
+          "Slowakei",
+          "Slowenien",
+          "Spanien",
+          "Tschechische Republik",
+          "Türkei",
+          "Ukraine",
+          "Vatikan",
+          "Vereinigtes Königreich",
+          "Zypern",
+          "Sonstiges"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "kennzeichen",
+        "id": "dss-meine-amtswege-parkpickerl-gueltigkeit-kennzeichen",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/Mein-Graetzl",
+    "action": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/Mein-Graetzl",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "stdportal_PreventTsCreation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "stdportal_TsOriginalRequestUrl",
+        "id": "stdportal_TsOriginalRequestUrlHI",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "auth_uid",
+        "id": "auth_uid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "auth_pwd",
+        "id": "auth_pwd",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/#accessibletabscontent1762845786209",
+    "action": "https://mein.wien.gv.at/login/?redirect=https://mein.wien.gv.at/#accessibletabscontent1762845786209",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "stdportal_PreventTsCreation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "stdportal_TsOriginalRequestUrl",
+        "id": "stdportal_TsOriginalRequestUrlHI",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "auth_uid",
+        "id": "auth_uid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "auth_pwd",
+        "id": "auth_pwd",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Zugangsdaten-vergessen/#content",
+    "action": "https://mein.wien.gv.at/Zugangsdaten-vergessen/#content",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "formPasswordEMail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/Registrieren/#content",
+    "action": "https://mein.wien.gv.at/Registrieren/#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "dssf-email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "email2",
+        "id": "dssf-email2",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "dssf-username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "terms",
+        "id": "dssf-terms",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "dss-registrieren-form-ida-authid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "dssf_password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password2",
+        "id": "dssf_password2",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://mein.wien.gv.at/login?type=Handy-Signatur",
+    "action": "https://mein.wien.gv.at/login?type=Handy-Signatur",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "stdportal_PreventTsCreation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "stdportal_TsOriginalRequestUrl",
+        "id": "stdportal_TsOriginalRequestUrlHI",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "auth_uid",
+        "id": "auth_uid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "auth_pwd",
+        "id": "auth_pwd",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
