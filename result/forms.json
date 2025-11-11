@@ -12462,5 +12462,103 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://stp.wien.gv.at",
+    "action": "https://stp.wien.gv.at/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "stdportal_PreventTsCreation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "start_default_authentication",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "stdportal_TsOriginalRequestUrl",
+        "id": "stdportal_TsOriginalRequestUrlHI",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "input_putKerberosToBackground",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "input_cancelKerberosAuthentication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "input_timeout_cancelKerberosAuthentication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "auth_uid",
+        "id": "auth_uid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "auth_pwd",
+        "id": "auth_pwd",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "use_token",
+        "id": "use_token",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "auth_token",
+        "id": "auth_token",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "start_default_authentication",
+        "id": "login_submit",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "start_eid_authentication",
+        "id": "start_eid_authentication_submit",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "moaIsCitizenRequest",
+        "id": "moaIsCitizenRequest",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
