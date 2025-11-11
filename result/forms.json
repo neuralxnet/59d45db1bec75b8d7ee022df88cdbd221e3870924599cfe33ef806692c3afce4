@@ -17418,5 +17418,11 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://stadtwien-my.sharepoint.com",
+    "action": "https://login.microsoftonline.com/c24d8aa0-a7b0-4e41-aef8-420332667c26/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=6388807458762387B2A9A6188C9B14A391771DD1942E59CF%2DBCF1780AB16B4DF45D344A5EF2F4AC5EA67D261021CB1E46FC879CD10F3D6354&redirect%5Furi=https%3A%2F%2Fstadtwien%2Dmy%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=154ad8a1%2D70fc%2De000%2D67e1%2D03222f93c9c8&sso_reload=true",
+    "method": "post",
+    "fields": []
   }
 ]
