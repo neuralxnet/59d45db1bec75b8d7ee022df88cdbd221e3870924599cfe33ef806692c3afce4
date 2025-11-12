@@ -18520,5 +18520,111 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://translate.elementor.com",
+    "action": "https://translate.elementor.com/wp-login.php",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "log",
+        "id": "user_login",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "pwd",
+        "id": "user_pass",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "rememberme",
+        "id": "rememberme",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "wp-submit",
+        "id": "wp-submit",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_to",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "testcookie",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://translate.elementor.com",
+    "action": "https://translate.elementor.com/wp-login.php?redirect_to=https%3A%2F%2Ftranslate.elementor.com%2Fprojects%2F",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "wp_lang",
+        "id": "language-switcher-locales",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "en_US",
+          "elementor-store-de",
+          "elementor-store-es",
+          "elementor-store-fr",
+          "elementor-store-it",
+          "elementor-store-nl",
+          "elementor-store-pt",
+          "elementor-swc-de",
+          "elementor-swc-es",
+          "elementor-swc-fr",
+          "elementor-swc-it",
+          "elementor-swc-nl",
+          "elementor-swc-pt",
+          "en_GB",
+          "he_IL",
+          "woocommerce-de",
+          "woocommerce-es",
+          "woocommerce-fr",
+          "woocommerce-gateway-stripe-de",
+          "woocommerce-gateway-stripe-es",
+          "woocommerce-gateway-stripe-fr",
+          "woocommerce-gateway-stripe-it",
+          "woocommerce-gateway-stripe-nl",
+          "woocommerce-gateway-stripe-pt",
+          "woocommerce-it",
+          "woocommerce-nl",
+          "woocommerce-pt"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_to",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
