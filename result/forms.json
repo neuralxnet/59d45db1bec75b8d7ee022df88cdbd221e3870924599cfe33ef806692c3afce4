@@ -18345,5 +18345,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://sandbox.directly.com",
+    "action": "https://sandbox.directly.com/j_spring_security_check",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "j_username",
+        "id": "j_username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "j_password",
+        "id": "j_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__spring_security_remember_me",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "_spring_security_remember_me",
+        "id": "remember_me",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
