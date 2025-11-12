@@ -17772,5 +17772,19 @@
     "action": "https://cloudinary.com/integrations#",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://res.cloudinary.com",
+    "action": "https://cloudinary.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "autocomplete-0-input",
+        "placeholder": "Search for...",
+        "required": false
+      }
+    ]
   }
 ]
