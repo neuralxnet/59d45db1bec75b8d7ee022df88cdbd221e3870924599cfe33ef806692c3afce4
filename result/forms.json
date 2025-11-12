@@ -18219,5 +18219,96 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://console.delltechnologies.com",
+    "action": "https://www.dell.com/di/idp/dwa/authorize?response_type=id_token&client_id=657d850a-459b-4b56-ab6d-361e7181b981&redirect_uri=https%3a%2f%2fwww.dell.com%2fdci%2ffp%2fsession%2fauthorize%3fclient_id%3d45f15b67-076c-434d-a0e0-446c17d7ba7e%26redirect_uri%3dhttps%253a%252f%252fwww.dell.com%252fbuyer%252fmdcpcf%252fma-portal%252f%252fmyaccount%252fen-us%252fpremier%252fsubscriptions%252fbilling-history%253fsource%253dapexconsole%2526ts%253d1762946418%26ReasonCode%3dUnAuthorized%26ContextId%3daa58d3cbb8a24800b5ac5ecc5022520a&tag=cid=45f15b67-076c-434d-a0e0-446c17d7ba7e&state=fp&scope=openid&code_challenge=E9Melhoa2OwvFrEMTJguCHaoeK1t8URWbuGJSstw-cM&code_challenge_method=S256&nonce=19ee86ba-1c68-4a97-a3a7-6a68cbb07f23&contextid=aa58d3cbb8a24800b5ac5ecc5022520a",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ConnectionId",
+        "id": "connectionId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ClientQueryString",
+        "id": "signInQueryString",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HashedQueryString",
+        "id": "pwdHasedQueryString",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "urlFragString",
+        "id": "urlFragPwd",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "userUtils",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "SignInModel.EmailAddress",
+        "id": "SignInModel_EmailAddress",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "",
+        "id": "btnSSoContinue",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SignInModel.IsRTLLanguage",
+        "id": "hdnIsRTLLanguageId_UserInputSecret",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "userPwd_UserInputSecret",
+        "id": "userPwd_UserInputSecret",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "",
+        "id": "btnContinue",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "btnSignIn",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "DI-CSRF-TOKEN-INPUT",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
