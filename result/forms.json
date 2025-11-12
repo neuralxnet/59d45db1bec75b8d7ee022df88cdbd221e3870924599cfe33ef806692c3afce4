@@ -17786,5 +17786,389 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://adhoc-bugcrowd.cdn-code.org/yourschool",
+    "action": "https://adhoc-bugcrowd.cdn-code.org/en-US/your-school",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "schoolZip",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "schoolId",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": []
+      },
+      {
+        "type": "email",
+        "name": "submitter_email_address",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "submitter_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "submitter_role",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "",
+          "TEACHER",
+          "ADMINISTRATOR",
+          "PARENT",
+          "VOLUNTEER",
+          "OTHER"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "how_many_do_hoc",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "",
+          "NONE",
+          "SOME",
+          "ALL",
+          "I DON'T KNOW"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "how_many_after_school",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "",
+          "NONE",
+          "SOME",
+          "ALL",
+          "I DON'T KNOW"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "how_many_10_hours",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "",
+          "NONE",
+          "SOME",
+          "ALL",
+          "I DON'T KNOW"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "how_many_20_hours",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "",
+          "NONE",
+          "SOME",
+          "ALL",
+          "I DON'T KNOW"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "name": "other_classes_under_20_hours",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "share_with_regional_partners",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "opt_in",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adhoc-bugcrowd.cdn-code.org/en-US/your-school#map",
+    "action": "https://adhoc-bugcrowd.cdn-code.org/en-US/your-school#map",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "schoolZip",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "schoolId",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": []
+      },
+      {
+        "type": "email",
+        "name": "submitter_email_address",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "submitter_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "submitter_role",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "",
+          "TEACHER",
+          "ADMINISTRATOR",
+          "PARENT",
+          "VOLUNTEER",
+          "OTHER"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "how_many_do_hoc",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "",
+          "NONE",
+          "SOME",
+          "ALL",
+          "I DON'T KNOW"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "how_many_after_school",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "",
+          "NONE",
+          "SOME",
+          "ALL",
+          "I DON'T KNOW"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "how_many_10_hours",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "",
+          "NONE",
+          "SOME",
+          "ALL",
+          "I DON'T KNOW"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "how_many_20_hours",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "",
+          "NONE",
+          "SOME",
+          "ALL",
+          "I DON'T KNOW"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "name": "other_classes_under_20_hours",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "share_with_regional_partners",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "opt_in",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adhoc-bugcrowd.cdn-code.org/en-US/your-school#form",
+    "action": "https://adhoc-bugcrowd.cdn-code.org/en-US/your-school#form",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "schoolZip",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "schoolId",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": []
+      },
+      {
+        "type": "email",
+        "name": "submitter_email_address",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "submitter_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "submitter_role",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "",
+          "TEACHER",
+          "ADMINISTRATOR",
+          "PARENT",
+          "VOLUNTEER",
+          "OTHER"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "how_many_do_hoc",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "",
+          "NONE",
+          "SOME",
+          "ALL",
+          "I DON'T KNOW"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "how_many_after_school",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "",
+          "NONE",
+          "SOME",
+          "ALL",
+          "I DON'T KNOW"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "how_many_10_hours",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "",
+          "NONE",
+          "SOME",
+          "ALL",
+          "I DON'T KNOW"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "how_many_20_hours",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "",
+          "NONE",
+          "SOME",
+          "ALL",
+          "I DON'T KNOW"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "name": "other_classes_under_20_hours",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "share_with_regional_partners",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "opt_in",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
