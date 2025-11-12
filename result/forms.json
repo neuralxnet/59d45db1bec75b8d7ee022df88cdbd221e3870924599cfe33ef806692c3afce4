@@ -18380,5 +18380,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://docs.eazybi.com",
+    "action": "https://docs.eazybi.com/eazybi/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "max",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "s",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
