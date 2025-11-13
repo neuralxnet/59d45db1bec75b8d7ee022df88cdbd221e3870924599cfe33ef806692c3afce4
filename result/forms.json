@@ -19312,5 +19312,11 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://projects.epam.com",
+    "action": "https://login.microsoftonline.com/epam.com/oauth2/v2.0/authorize?scope=openid+profile+email&state=hjMti_Sr4y1xndqN3k6w6zMjDYdVXLajhmbtFH2u7mI.7QwagqStsu0.A61qHe4aQd2IlCbYazMuIw.eyJydSI6Imh0dHBzOi8vcHJvamVjdHMuZXBhbS5jb20vbG9naW4vb2F1dGgyL2NvZGUvZXBhbSIsInJ0IjoiY29kZSIsInN0IjoiVURLb2NkZ3RJUFlwYXBLWVh0QjRZdFlqc2pmWFFmTFJLWkVLcHg2eTBoTzlITzZwLVc0TjQ1Qm1OcW40cXgtbVBtS25tWWs1MGs2Wnl3NlhCNG9ydWxwVUthLUgyWHBhVWN3MW1feC1SOGVHeThla0RLV2k5UXpXVzRDa01uZ1dvOGp5UUE9PSJ9&response_type=code&client_id=9c24f30e-3beb-4740-b183-888de9d8596b&redirect_uri=https%3A%2F%2Faccess.epam.com%2Fauth%2Frealms%2Fplusx%2Fbroker%2Fepam-microsoft%2Fendpoint&max_age=86400&sso_reload=true",
+    "method": "post",
+    "fields": []
   }
 ]
