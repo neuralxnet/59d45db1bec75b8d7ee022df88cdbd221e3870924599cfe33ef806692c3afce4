@@ -19270,5 +19270,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.coral.co.uk",
+    "action": "https://help.coral.co.uk/closed",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "searchInput",
+        "placeholder": "Search help topics",
+        "required": false
+      }
+    ]
   }
 ]
