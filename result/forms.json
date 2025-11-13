@@ -19298,5 +19298,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.galacasino.com",
+    "action": "https://help.galacasino.com/closed",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "searchInput",
+        "placeholder": "Search help topics",
+        "required": false
+      }
+    ]
   }
 ]
