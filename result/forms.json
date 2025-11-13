@@ -19284,5 +19284,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.galabingo.com",
+    "action": "https://help.galabingo.com/closed",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "searchInput",
+        "placeholder": "Search help topics",
+        "required": false
+      }
+    ]
   }
 ]
