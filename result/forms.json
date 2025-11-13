@@ -19256,5 +19256,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.ladbrokes.com",
+    "action": "https://help.ladbrokes.com/closed",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "searchInput",
+        "placeholder": "Search help topics",
+        "required": false
+      }
+    ]
   }
 ]
