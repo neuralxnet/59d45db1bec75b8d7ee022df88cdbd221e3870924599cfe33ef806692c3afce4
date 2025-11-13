@@ -19374,5 +19374,82 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://fivetran.com",
+    "action": "https://www.fivetran.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "query",
+        "id": "search",
+        "placeholder": "Search our 700+ sources",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fivetran.com",
+    "action": "https://www.fivetran.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "query",
+        "id": "search",
+        "placeholder": "Search our 700+ sources",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://fivetran.com",
+    "action": "https://www.fivetran.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "query",
+        "id": "search",
+        "placeholder": "Search our 700+ sources",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fivetran.com/?r=0",
+    "action": "https://www.fivetran.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "query",
+        "id": "search",
+        "placeholder": "Search our 700+ sources",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fivetran.com/data-movement/saas-replication",
+    "action": "https://www.fivetran.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "query",
+        "id": "search",
+        "placeholder": "Search our 700+ sources",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
