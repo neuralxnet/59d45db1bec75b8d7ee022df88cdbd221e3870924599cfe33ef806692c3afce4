@@ -19332,5 +19332,47 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://help.etsy.com",
+    "action": "https://help.etsy.com/hc/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "",
+        "placeholder": "Type your question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.etsy.com",
+    "action": "https://help.etsy.com/hc/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "",
+        "placeholder": "Type your question",
+        "required": false
+      }
+    ]
   }
 ]
