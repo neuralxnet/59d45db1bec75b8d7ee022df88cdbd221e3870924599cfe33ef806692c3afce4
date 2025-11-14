@@ -19857,5 +19857,55 @@
     "action": "https://www.eyeko.com/emailSignUp.account",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://www.glossybox.com",
+    "action": "https://www.glossybox.co.uk/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-input",
+        "placeholder": "Search for a product...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.glossybox.com",
+    "action": "https://www.glossybox.co.uk/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.glossybox.com",
+    "action": "https://www.glossybox.co.uk/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.glossybox.com",
+    "action": "https://www.glossybox.co.uk/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.glossybox.com",
+    "action": "https://www.glossybox.co.uk/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.glossybox.com",
+    "action": "https://www.glossybox.co.uk/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.glossybox.com",
+    "action": "https://www.glossybox.co.uk/",
+    "method": "dialog",
+    "fields": []
   }
 ]
