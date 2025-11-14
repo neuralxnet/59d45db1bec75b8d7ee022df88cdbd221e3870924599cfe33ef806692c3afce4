@@ -20017,5 +20017,25 @@
     "action": "https://www.hqhair.com/emailSignUp.account",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://www.illamasqua.com",
+    "action": "https://www.illamasqua.com/elysium.search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "header-search-input",
+        "placeholder": "Search for a product",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.illamasqua.com",
+    "action": "https://www.illamasqua.com/emailSignUp.account",
+    "method": "get",
+    "fields": []
   }
 ]
