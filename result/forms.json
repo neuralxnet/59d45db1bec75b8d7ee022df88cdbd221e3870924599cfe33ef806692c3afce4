@@ -19465,5 +19465,75 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://financeiro.hostgator.com.br",
+    "action": "https://financeiro.hostgator.com.br/index.php",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Insira seu e-mail",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Senha",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "csrf.token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "invoiceid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "supportform",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "clientprofile",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hCaptchaIsEnabled",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fingerprintId",
+        "id": "fingerprintId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
