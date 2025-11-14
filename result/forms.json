@@ -20101,5 +20101,60 @@
     "action": "https://www.lookfantastic.com/",
     "method": "dialog",
     "fields": []
+  },
+  {
+    "url": "https://www.mankind.co.uk",
+    "action": "https://www.mankind.co.uk/elysium.search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "header-search-input",
+        "placeholder": "Search for a product or brand...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mankind.co.uk",
+    "action": "https://www.mankind.co.uk/modalEmailSignUp.account",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "returnTo",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "elysium_username",
+        "id": "email",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "submit",
+        "id": "emailReengagementForm_submitBtn",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mankind.co.uk",
+    "action": "https://www.mankind.co.uk/emailSignUp.account",
+    "method": "get",
+    "fields": []
   }
 ]
