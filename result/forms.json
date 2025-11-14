@@ -19590,5 +19590,69 @@
     "action": "https://www.beautyexpert.com/emailSignUp.account",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://www.cultbeauty.co.uk",
+    "action": "https://www.cultbeauty.co.uk/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-input",
+        "placeholder": "Search for a product or brand",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.cultbeauty.co.uk",
+    "action": "https://www.cultbeauty.co.uk/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-input",
+        "placeholder": "Search for a product or brand",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.cultbeauty.co.uk",
+    "action": "https://www.cultbeauty.co.uk/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.cultbeauty.co.uk",
+    "action": "https://www.cultbeauty.co.uk/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.cultbeauty.co.uk",
+    "action": "https://www.cultbeauty.co.uk/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.cultbeauty.co.uk",
+    "action": "https://www.cultbeauty.co.uk/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.cultbeauty.co.uk",
+    "action": "https://www.cultbeauty.co.uk/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.cultbeauty.co.uk",
+    "action": "https://www.cultbeauty.co.uk/",
+    "method": "dialog",
+    "fields": []
   }
 ]
