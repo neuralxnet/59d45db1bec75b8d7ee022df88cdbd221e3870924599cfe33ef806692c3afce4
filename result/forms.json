@@ -19718,5 +19718,69 @@
     "action": "https://www.dermstore.com/",
     "method": "dialog",
     "fields": []
+  },
+  {
+    "url": "https://www.espaskincare.com",
+    "action": "https://www.espaskincare.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-input",
+        "placeholder": "Search for a product...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.espaskincare.com",
+    "action": "https://www.espaskincare.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-input",
+        "placeholder": "Search for a product...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.espaskincare.com",
+    "action": "https://www.espaskincare.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.espaskincare.com",
+    "action": "https://www.espaskincare.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.espaskincare.com",
+    "action": "https://www.espaskincare.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.espaskincare.com",
+    "action": "https://www.espaskincare.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.espaskincare.com",
+    "action": "https://www.espaskincare.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.espaskincare.com",
+    "action": "https://www.espaskincare.com/",
+    "method": "dialog",
+    "fields": []
   }
 ]
