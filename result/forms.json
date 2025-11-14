@@ -19654,5 +19654,69 @@
     "action": "https://www.cultbeauty.co.uk/",
     "method": "dialog",
     "fields": []
+  },
+  {
+    "url": "https://www.dermstore.com",
+    "action": "https://www.dermstore.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-input",
+        "placeholder": "SEARCH",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.dermstore.com",
+    "action": "https://www.dermstore.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-input",
+        "placeholder": "SEARCH",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.dermstore.com",
+    "action": "https://www.dermstore.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.dermstore.com",
+    "action": "https://www.dermstore.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.dermstore.com",
+    "action": "https://www.dermstore.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.dermstore.com",
+    "action": "https://www.dermstore.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.dermstore.com",
+    "action": "https://www.dermstore.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.dermstore.com",
+    "action": "https://www.dermstore.com/",
+    "method": "dialog",
+    "fields": []
   }
 ]
