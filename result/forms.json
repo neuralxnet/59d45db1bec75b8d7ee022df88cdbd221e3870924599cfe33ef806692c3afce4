@@ -19782,5 +19782,60 @@
     "action": "https://www.espaskincare.com/",
     "method": "dialog",
     "fields": []
+  },
+  {
+    "url": "https://www.exantediet.com",
+    "action": "https://www.exantediet.com/elysium.search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "header-search-input",
+        "placeholder": "Search for a product…",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.exantediet.com",
+    "action": "https://www.exantediet.com/modalEmailSignUp.account",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "returnTo",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "elysium_username",
+        "id": "email",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "submit",
+        "id": "emailReengagementForm_submitBtn",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.exantediet.com",
+    "action": "https://www.exantediet.com/emailSignUp.account",
+    "method": "get",
+    "fields": []
   }
 ]
