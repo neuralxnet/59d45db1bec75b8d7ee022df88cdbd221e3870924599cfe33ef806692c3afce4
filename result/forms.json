@@ -19962,5 +19962,60 @@
     "action": "https://www.growgorgeous.com/emailSignUp.account",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://www.hqhair.com",
+    "action": "https://www.hqhair.com/elysium.search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "header-search-input",
+        "placeholder": "Search for a product or brand...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.hqhair.com",
+    "action": "https://www.hqhair.com/modalEmailSignUp.account",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "returnTo",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "elysium_username",
+        "id": "email",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "submit",
+        "id": "emailReengagementForm_submitBtn",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.hqhair.com",
+    "action": "https://www.hqhair.com/emailSignUp.account",
+    "method": "get",
+    "fields": []
   }
 ]
