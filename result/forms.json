@@ -19837,5 +19837,25 @@
     "action": "https://www.exantediet.com/emailSignUp.account",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://www.eyeko.com",
+    "action": "https://www.eyeko.com/elysium.search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "header-search-input",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eyeko.com",
+    "action": "https://www.eyeko.com/emailSignUp.account",
+    "method": "get",
+    "fields": []
   }
 ]
