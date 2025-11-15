@@ -20347,5 +20347,235 @@
     "action": "https://www.powerman.co.uk/emailSignUp.account",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://ipn.ibotta.com/?hsLang=en",
+    "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/7106961/4c047bca-8e70-4d2e-bb63-f2b8eace484c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-4c047bca-8e70-4d2e-bb63-f2b8eace484c_5176",
+        "placeholder": "Enter your email...*",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "gclid-4c047bca-8e70-4d2e-bb63-f2b8eace484c_5176",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hs_context",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://investors.ibotta.com/news-events",
+    "action": "https://investors.ibotta.com/news-events/press-releases",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "year",
+        "id": "year",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "-1",
+          "2025",
+          "2024",
+          "2023",
+          "2022",
+          "2021",
+          "2020",
+          "2019",
+          "2018",
+          "2017",
+          "2016",
+          "2015"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "all",
+          "financial"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://investors.ibotta.com/news-events/press-releases",
+    "action": "https://investors.ibotta.com/news-events/press-releases",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "year",
+        "id": "year",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "-1",
+          "2025",
+          "2024",
+          "2023",
+          "2022",
+          "2021",
+          "2020",
+          "2019",
+          "2018",
+          "2017",
+          "2016",
+          "2015"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "all",
+          "financial"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://investors.ibotta.com/news-events/press-releases#mainContent",
+    "action": "https://investors.ibotta.com/news-events/press-releases#mainContent",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "year",
+        "id": "year",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "-1",
+          "2025",
+          "2024",
+          "2023",
+          "2022",
+          "2021",
+          "2020",
+          "2019",
+          "2018",
+          "2017",
+          "2016",
+          "2015"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "all",
+          "financial"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://investors.ibotta.com/news-events/press-releases#footer",
+    "action": "https://investors.ibotta.com/news-events/press-releases#footer",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "year",
+        "id": "year",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "-1",
+          "2025",
+          "2024",
+          "2023",
+          "2022",
+          "2021",
+          "2020",
+          "2019",
+          "2018",
+          "2017",
+          "2016",
+          "2015"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "all",
+          "financial"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://investors.ibotta.com/news-events/press-releases#",
+    "action": "https://investors.ibotta.com/news-events/press-releases#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "year",
+        "id": "year",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "-1",
+          "2025",
+          "2024",
+          "2023",
+          "2022",
+          "2021",
+          "2020",
+          "2019",
+          "2018",
+          "2017",
+          "2016",
+          "2015"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "all",
+          "financial"
+        ]
+      }
+    ]
   }
 ]
