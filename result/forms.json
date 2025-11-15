@@ -20577,5 +20577,33 @@
         ]
       }
     ]
+  },
+  {
+    "url": "https://www.shop.ifood.com.br",
+    "action": "https://shop.ifood.com.br/auth/realms/shop/login-actions/authenticate?session_code=AP4jI4Wfljic6TsCZozDexM_AmLavMsWJsSn88N6Slc&execution=0ceac4c6-9c29-4132-9ba0-ff59fc2c153e&client_id=shop-identity&tab_id=EzYVud3X3Gw&client_data=eyJydSI6Imh0dHBzOi8vc2hvcC5pZm9vZC5jb20uYnIvc3NvIiwicnQiOiJjb2RlIiwicm0iOiJmcmFnbWVudCIsInN0IjoiODgxMTM1YTgtYmFjNy00N2VlLWIzYWEtMmM0ZmE0MGUxODk0In0",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://shop.ifood.com.br",
+    "action": "https://shop.ifood.com.br/auth/realms/shop/login-actions/authenticate?session_code=Og6hqSyqjKSDLYIrajHYRBonFLD6_Dxg3jf0-WaKXKo&execution=0ceac4c6-9c29-4132-9ba0-ff59fc2c153e&client_id=shop-identity&tab_id=5twrowZh_Fc&client_data=eyJydSI6Imh0dHBzOi8vc2hvcC5pZm9vZC5jb20uYnIvc3NvIiwicnQiOiJjb2RlIiwicm0iOiJmcmFnbWVudCIsInN0IjoiYTZjZDM4Y2MtYjJlNS00NGUzLWE5MDgtMGYyZDk4YjgzOTY5In0",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
