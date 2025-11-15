@@ -20208,5 +20208,144 @@
     "action": "https://www.myvitamins.com/",
     "method": "dialog",
     "fields": []
+  },
+  {
+    "url": "https://www.powerman.co.uk",
+    "action": "https://www.powerman.co.uk/elysium.search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "header-search-input",
+        "placeholder": "Try Our Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.powerman.co.uk",
+    "action": "https://www.powerman.co.uk/submit.profile",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "profile_key",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "submission",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "profiles:ProteinGoal",
+        "id": " profiles_ProteinGoal_Bulk",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "profiles:ProteinGoal",
+        "id": " profiles_ProteinGoal_LoseWeight",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "profiles:ProteinGoal",
+        "id": " profiles_ProteinGoal_Tone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "profiles:StrawberryQuestion",
+        "id": " profiles_StrawberryQuestion_Taste",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "profiles:StrawberryQuestion",
+        "id": " profiles_StrawberryQuestion_Colour",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "profiles:FlavourPreference",
+        "id": " profiles_FlavourPreference_Chocolate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "profiles:FlavourPreference",
+        "id": " profiles_FlavourPreference_Strawberry",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "profiles:FlavourPreference",
+        "id": " profiles_FlavourPreference_Banana",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.powerman.co.uk",
+    "action": "https://www.powerman.co.uk/modalEmailSignUp.account",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "returnTo",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "elysium_username",
+        "id": "email",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "submit",
+        "id": "emailReengagementForm_submitBtn",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.powerman.co.uk",
+    "action": "https://www.powerman.co.uk/emailSignUp.account",
+    "method": "get",
+    "fields": []
   }
 ]
