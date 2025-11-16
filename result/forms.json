@@ -20633,5 +20633,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://hub.immutable.com",
+    "action": "https://hub.immutable.com/login?returnTo=%2F",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "_R_mklcqav5ubtdb_",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hub.immutable.com",
+    "action": "https://hub.immutable.com/login?returnTo=%2F",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "_R_baldaav5ubtdb_",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
   }
 ]
