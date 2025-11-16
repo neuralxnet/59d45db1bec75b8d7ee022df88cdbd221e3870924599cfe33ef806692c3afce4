@@ -20605,5 +20605,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://auth.immutable.com",
+    "action": "https://www.immutable.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "Email-5",
+        "placeholder": "Your email address",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "current-page",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
