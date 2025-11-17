@@ -20817,5 +20817,125 @@
     "action": "https://developers.intercom.com/docs/guides/mcp",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://www.irobot.com",
+    "action": "https://www.irobot.com/en_US/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "searchCharsMinLength",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.irobot.com",
+    "action": "https://www.irobot.com/en_US/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "searchCharsMinLength",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.irobot.com",
+    "action": "https://cloud.email.irobot.com/sitecore_form_processing",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "country",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "language",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "field0",
+        "placeholder": "Email address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.irobot.com",
+    "action": "https://www.irobot.com/on/demandware.store/Sites-iRobotUS-Site/en_US/TradeIn-SubmitModel",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "dwfrm_tradeinModel_tradeinSelectModel",
+        "id": "irb-trade-in__choose-model",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "",
+          "TRDINT1",
+          "TRDINT2",
+          "TRDINT3",
+          "TRDINT4",
+          "TRDINT5"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.irobot.com",
+    "action": "https://www.irobot.com/on/demandware.store/Sites-iRobotUS-Site/en_US/TradeIn-SubmitSerialNumber",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "dwfrm_tradeinSerialNumber_serialNumber",
+        "id": "irb-trade-in__serial-number",
+        "placeholder": "Serial number",
+        "required": false
+      }
+    ]
   }
 ]
