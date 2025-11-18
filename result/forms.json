@@ -22127,5 +22127,26 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://insidetrack.skipthedishes.com/",
+    "action": "https://insidetrack.skipthedishes.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search for news, FAQs",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
