@@ -23877,5 +23877,19 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://www.microsoft.com",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
   }
 ]
