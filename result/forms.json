@@ -23856,5 +23856,26 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.unscreen.com",
+    "action": "https://www.unscreen.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": true
+      }
+    ]
   }
 ]
