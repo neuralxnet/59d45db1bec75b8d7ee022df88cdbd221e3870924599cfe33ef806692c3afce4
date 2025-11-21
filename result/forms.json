@@ -24283,5 +24283,327 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://compliance.lastpass.com/",
+    "action": "https://compliance.lastpass.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": ":R5aj6egqlqekkr6:",
+        "placeholder": "Search content",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://lastpass.com/create-account.php",
+    "action": "https://lastpass.com/create_account.php",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": " ",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "masterpassword",
+        "id": "newmpw",
+        "placeholder": " ",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "confirmmpw",
+        "placeholder": " ",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "passwordreminder",
+        "id": "passwordreminder",
+        "placeholder": " ",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "data",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "loglogins",
+        "id": "loglogins",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "improve",
+        "id": "improve",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "marketingOptOutSeen",
+        "id": "marketingOptOutSeen",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contactPermission",
+        "id": "contactPermission",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "contactPermissionCheckbox",
+        "id": "contactPermissionCheckbox",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "experiment_version",
+        "id": "experimentversion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ref",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "uaTracking",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "timezone",
+        "id": "timezone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "language2",
+        "id": "language2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "json",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "website",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hash",
+        "id": "hash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "iterations",
+        "id": "iterations",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://lastpass.com/create-account.php#",
+    "action": "https://lastpass.com/create_account.php",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": " ",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "masterpassword",
+        "id": "newmpw",
+        "placeholder": " ",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "confirmmpw",
+        "placeholder": " ",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "passwordreminder",
+        "id": "passwordreminder",
+        "placeholder": " ",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "data",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "loglogins",
+        "id": "loglogins",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "improve",
+        "id": "improve",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "marketingOptOutSeen",
+        "id": "marketingOptOutSeen",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contactPermission",
+        "id": "contactPermission",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "contactPermissionCheckbox",
+        "id": "contactPermissionCheckbox",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "experiment_version",
+        "id": "experimentversion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ref",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "uaTracking",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "timezone",
+        "id": "timezone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "language2",
+        "id": "language2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "json",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "website",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hash",
+        "id": "hash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "iterations",
+        "id": "iterations",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
