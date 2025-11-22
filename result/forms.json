@@ -25179,5 +25179,26 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://legacy-blockexplorer.electroneum.com",
+    "action": "https://legacy-blockexplorer.electroneum.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "value",
+        "id": "",
+        "placeholder": "Search by Block Height, Block Hash, Transaction Hash or ETN Address",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
