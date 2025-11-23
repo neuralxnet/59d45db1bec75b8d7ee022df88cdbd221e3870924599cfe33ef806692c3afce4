@@ -27827,5 +27827,75 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.lululemon.co.kr",
+    "action": "https://www.lululemon.co.kr/ko-kr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "Ntt",
+        "id": "",
+        "placeholder": "검색하기",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lululemon.co.kr",
+    "action": "https://www.lululemon.co.kr/ko-kr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "Ntt",
+        "id": "",
+        "placeholder": "검색하기",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lululemon.co.kr",
+    "action": "https://www.lululemon.co.kr/ko-kr/home",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "smart welcome offer legal checkboxes everyone agrees",
+        "id": "signupsmart welcome offer legal checkboxes everyone agrees",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "smart welcome offer legal checkboxes I am over 14 years old",
+        "id": "signupsmart welcome offer legal checkboxes I am over 14 years old",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "I agree to subscribe to the Lululemon newsletter",
+        "id": "signupI agree to subscribe to the Lululemon newsletter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "agree to accept privacy policy",
+        "id": "signupagree to accept privacy policy",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email-address",
+        "id": "email-address",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
