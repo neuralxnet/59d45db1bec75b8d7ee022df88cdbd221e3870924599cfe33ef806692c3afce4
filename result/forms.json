@@ -26082,5 +26082,131 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://linktree.com",
+    "action": "https://linktr.ee/register",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "username-header",
+        "placeholder": "linktr.ee/yourname",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://linktree.com",
+    "action": "https://linktr.ee/register",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "username-footer",
+        "placeholder": "linktr.ee/yourname",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.linktree.com",
+    "action": "https://linktr.ee/register",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "username-header",
+        "placeholder": "linktr.ee/yourname",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.linktree.com",
+    "action": "https://linktr.ee/register",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "username-footer",
+        "placeholder": "linktr.ee/yourname",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://linktree.com",
+    "action": "https://linktr.ee/register",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "username-header",
+        "placeholder": "linktr.ee/yourname",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://linktree.com",
+    "action": "https://linktr.ee/register",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "username-footer",
+        "placeholder": "linktr.ee/yourname",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
