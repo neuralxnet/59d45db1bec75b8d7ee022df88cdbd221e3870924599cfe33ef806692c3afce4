@@ -26208,5 +26208,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://tr.ee",
+    "action": "https://tr.ee/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Paste your long link here",
+        "required": false
+      }
+    ]
   }
 ]
