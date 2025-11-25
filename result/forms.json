@@ -33198,5 +33198,397 @@
     "action": "https://mattermost.com/blog/introducing-mattermost-enterprise-advanced/#skip-nav-target",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://mgm.mo",
+    "action": "https://www.mgm.mo/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "Search",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo",
+    "action": "https://www.mgm.mo/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "Search",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://mgm.mo",
+    "action": "https://www.mgm.mo/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "Search",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/en/macau",
+    "action": "https://www.mgm.mo/en/macau",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "Search",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/en/cotai",
+    "action": "https://www.mgm.mo/en/cotai",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "Search",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/en",
+    "action": "https://www.mgm.mo/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "Search",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/zh-hant",
+    "action": "https://www.mgm.mo/zh-hant",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "搜尋",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/zh-hans",
+    "action": "https://www.mgm.mo/zh-hans",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "搜寻",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/ja",
+    "action": "https://www.mgm.mo/ja",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "検索",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/ko",
+    "action": "https://www.mgm.mo/ko",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "검색",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/en/macau/home",
+    "action": "https://www.mgm.mo/en/macau",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "Search",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/zh-hant/macau/home",
+    "action": "https://www.mgm.mo/zh-hant/macau",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "搜尋",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/zh-hans/macau/home",
+    "action": "https://www.mgm.mo/zh-hans/macau",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "搜寻",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/ja/macau/home",
+    "action": "https://www.mgm.mo/ja/macau",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "検索",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/ko/macau/home",
+    "action": "https://www.mgm.mo/ko/macau",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "검색",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/en/cotai/home",
+    "action": "https://www.mgm.mo/en/cotai",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "Search",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/zh-hant/cotai/home",
+    "action": "https://www.mgm.mo/zh-hant/cotai",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "搜尋",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/zh-hans/cotai/home",
+    "action": "https://www.mgm.mo/zh-hans/cotai",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "搜寻",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/ja/cotai/home",
+    "action": "https://www.mgm.mo/ja/cotai",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "検索",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/ko/cotai/home",
+    "action": "https://www.mgm.mo/ko/cotai",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "검색",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/zh-hant/macau",
+    "action": "https://www.mgm.mo/zh-hant/macau",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "搜尋",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/zh-hant/cotai",
+    "action": "https://www.mgm.mo/zh-hant/cotai",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "搜尋",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/zh-hans/macau",
+    "action": "https://www.mgm.mo/zh-hans/macau",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "搜寻",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/zh-hans/cotai",
+    "action": "https://www.mgm.mo/zh-hans/cotai",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "搜寻",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/ja/macau",
+    "action": "https://www.mgm.mo/ja/macau",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "検索",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/ja/cotai",
+    "action": "https://www.mgm.mo/ja/cotai",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "検索",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/ko/macau",
+    "action": "https://www.mgm.mo/ko/macau",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "검색",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.mgm.mo/ko/cotai",
+    "action": "https://www.mgm.mo/ko/cotai",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "search",
+        "placeholder": "검색",
+        "required": true
+      }
+    ]
   }
 ]
