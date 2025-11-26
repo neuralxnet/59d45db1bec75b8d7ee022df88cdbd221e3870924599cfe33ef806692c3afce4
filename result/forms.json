@@ -33590,5 +33590,47 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://mlife.mo",
+    "action": "https://mlife.mo/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "new-user-name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "new-user-email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "new-user-pass",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "new-user-isAdmin",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
