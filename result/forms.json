@@ -42628,5 +42628,173 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://mlivetickets.monash.edu",
+    "action": "https://www.monash.edu/performing-arts-centres/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "as_sfid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "as_fid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mlivetickets.monash.edu",
+    "action": "https://mlivetickets.monash.edu/WebPages/EntaWebShow/ShowListVenues.aspx?start=*",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEENCRYPTED",
+        "id": "__VIEWSTATEENCRYPTED",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "EntaDoubleClickPreventerInput",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "ctl00$MainContentPlaceHolder$lstShows",
+        "id": "ctl00_MainContentPlaceHolder_lstShows",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "1523:1459:ALX",
+          "1532:1475:SG",
+          "1566:1502:JC",
+          "1554:1490:GJT",
+          "1563:1499:ALX",
+          "1548:1484:RBH",
+          "1520:1456:ALX",
+          "1531:1473:SG",
+          "1550:1486:GJT",
+          "1528:1470:SG",
+          "1564:1500:GJT",
+          "1570:1506:RBH",
+          "1567:1503:JC",
+          "1546:1469:JC",
+          "1545:1468:JC",
+          "1560:1496:ALX",
+          "1565:1501:ALX",
+          "1569:1505:ALX",
+          "1555:1491:ALX",
+          "1549:1485:RBH",
+          "1403:1344:RBH",
+          "1533:1474:ALX",
+          "1544:1467:JC",
+          "1535:1477:IPC",
+          "1529:1471:SG",
+          "1543:1466:JC",
+          "1502:1439:GJT",
+          "1515:1451:RBH",
+          "1568:1504:JC",
+          "1557:1493:ALX",
+          "1516:1452:ALX",
+          "1562:1498:ALX",
+          "1527:1463:GJT",
+          "1539:1481:GJT",
+          "1542:1465:JC",
+          "1552:1488:RBH",
+          "1551:1487:GJT",
+          "1541:1464:JC",
+          "1556:1492:ALX",
+          "1530:1472:SG"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "ctl00$MainContentPlaceHolder$ucPromoCd$txtPromoCd",
+        "id": "ctl00_MainContentPlaceHolder_ucPromoCd_txtPromoCd",
+        "placeholder": "Promotion Code",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$MainContentPlaceHolder$ucPromoCd$btnApply",
+        "id": "ctl00_MainContentPlaceHolder_ucPromoCd_btnApply",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "as_sfid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "as_fid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
