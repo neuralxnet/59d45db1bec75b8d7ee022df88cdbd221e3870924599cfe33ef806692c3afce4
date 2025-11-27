@@ -42936,5 +42936,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://redash-staging.getmoneytree.com",
+    "action": "https://redash-staging.getmoneytree.com/login?next=https%3A%2F%2Fredash-staging.getmoneytree.com%2F",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "inputEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "inputPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "remember",
+        "id": "inputRemember",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
