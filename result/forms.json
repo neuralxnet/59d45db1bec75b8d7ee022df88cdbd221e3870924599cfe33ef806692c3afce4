@@ -42796,5 +42796,75 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://pay.monashcollege.edu.au",
+    "action": "https://pay.monashcollege.edu.au/home/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "UDS_ACTION_DATA",
+        "id": "UDS_ACTION_DATA",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "UDS_ACTION",
+        "id": "UDS_ACTION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "csrf-token",
+        "id": "uds_form_csrf",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "UDS_SEARCH_VIEW",
+        "id": "UDS_SEARCH_VIEW",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "UDS_PAGE_VIEW",
+        "id": "UDS_PAGE_VIEW",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "UDS_SEARCH_DETAIL_ID",
+        "id": "UDS_SEARCH_DETAIL_ID",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "UDS_SEARCH_DETAIL_VAR_ID",
+        "id": "UDS_SEARCH_DETAIL_VAR_ID",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "UDS_QUANTITY",
+        "id": "UDS_QUANTITY",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "UDS_SEARCH_TEXT",
+        "id": "UDS_SEARCH_TEXT",
+        "placeholder": "Search…",
+        "required": false
+      }
+    ]
   }
 ]
