@@ -42866,5 +42866,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://mids.monash.edu",
+    "action": "https://monashuni.okta.com/login/cert",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "fromURI",
+        "id": "fromURI",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
