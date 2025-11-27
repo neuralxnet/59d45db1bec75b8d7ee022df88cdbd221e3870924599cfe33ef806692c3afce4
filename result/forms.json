@@ -42880,5 +42880,61 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://collections.monash.edu",
+    "action": "https://collections.monash.edu/nodes/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "keywords",
+        "id": "search-input",
+        "placeholder": "Enter keywords, title, author, etc.",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "submitidx",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "meta",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://collections.monash.edu",
+    "action": "https://collections.monash.edu/nodes",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[Search][keywords]",
+        "id": "kwsearch",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "searchbutton1",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
