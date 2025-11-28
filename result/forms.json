@@ -43051,5 +43051,145 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://electroneum.com/the-world-of-web3/",
+    "action": "https://assets.mailerlite.com/jsonp/1507897/forms/153841537641350502/subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "fields[email]",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ml-submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "anticsrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://electroneum.com/community/#tm-dialog-mobile",
+    "action": "https://assets.mailerlite.com/jsonp/1507897/forms/153841537641350502/subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "fields[email]",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ml-submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "anticsrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://electroneum.com/the-world-of-web3/#tm-dialog-mobile",
+    "action": "https://assets.mailerlite.com/jsonp/1507897/forms/153841537641350502/subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "fields[email]",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ml-submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "anticsrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://electroneum.com/green-credentials/#tm-dialog-mobile",
+    "action": "https://assets.mailerlite.com/jsonp/1507897/forms/153841537641350502/subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "fields[email]",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ml-submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "anticsrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://electroneum.com/about/#tm-dialog-mobile",
+    "action": "https://assets.mailerlite.com/jsonp/1507897/forms/153841537641350502/subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "fields[email]",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ml-submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "anticsrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
