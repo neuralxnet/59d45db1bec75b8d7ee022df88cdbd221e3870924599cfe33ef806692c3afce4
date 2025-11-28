@@ -42971,5 +42971,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://jp-api-staging.getmoneytree.com",
+    "action": "https://jp-api-staging.getmoneytree.com/guests/sign_in",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "guest[email]",
+        "id": "guest_email",
+        "placeholder": "メールアドレス",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "guest[password]",
+        "id": "guest_password",
+        "placeholder": "パスワード",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
