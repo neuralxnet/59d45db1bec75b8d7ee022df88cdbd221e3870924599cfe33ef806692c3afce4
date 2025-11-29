@@ -47377,5 +47377,670 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://nubank.com.br",
+    "action": "https://nubank.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nubank.com.br",
+    "action": "https://nubank.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://nubank.com.br",
+    "action": "https://nubank.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/",
+    "action": "https://nubank.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/nu",
+    "action": "https://nubank.com.br/nu",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/ultravioleta",
+    "action": "https://nubank.com.br/ultravioleta",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/empresas",
+    "action": "https://nubank.com.br/empresas",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cnpj",
+        "id": "cnpj",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://app.nubank.com.br/beta/",
+    "action": "https://app.nubank.com.br/beta/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "cpf",
+        "id": "inputtext_cpf",
+        "placeholder": "000.000.000-00",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/nu/caixinhas",
+    "action": "https://nubank.com.br/nu/caixinhas",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/nu/cartao",
+    "action": "https://nubank.com.br/nu/cartao",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/ultravioleta/cartao-black",
+    "action": "https://nubank.com.br/ultravioleta/cartao-black",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/ultravioleta/cartao-black",
+    "action": "https://nubank.com.br/ultravioleta/cartao-black",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/nu/emprestimos/saque-aniversario-fgts",
+    "action": "https://nubank.com.br/nu/emprestimos/saque-aniversario-fgts",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/nu/cartao/passa-tudo-no-credito",
+    "action": "https://nubank.com.br/nu/cartao/passa-tudo-no-credito",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/nu/conta/caixinha-turbo",
+    "action": "https://nubank.com.br/nu/caixinhas",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/nu/emprestimos/consignado-do-trabalhador",
+    "action": "https://nubank.com.br/nu/emprestimos/consignado-clt",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/ultravioleta/cartao-black/salas-vip",
+    "action": "https://nubank.com.br/ultravioleta/cartao-black/salas-vip",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/ultravioleta/nu-viagens",
+    "action": "https://nubank.com.br/ultravioleta/nu-viagens",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/ultravioleta/investimentos",
+    "action": "https://nubank.com.br/ultravioleta/investimentos",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/empresas/conta/",
+    "action": "https://nubank.com.br/empresas/conta",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cnpj",
+        "id": "cnpj",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/empresas/cartao",
+    "action": "https://nubank.com.br/empresas/cartao",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cnpj",
+        "id": "cnpj",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/empresas/emprestimos/",
+    "action": "https://nubank.com.br/empresas/emprestimos",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cnpj",
+        "id": "cnpj",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/empresas/solucoes-para-cobranca/",
+    "action": "https://nubank.com.br/empresas/solucoes-para-cobranca",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cnpj",
+        "id": "cnpj",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://app.nubank.com.br/roubo/",
+    "action": "https://app.nubank.com.br/roubo/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "cpf",
+        "id": "inputtext_cpf",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "inputtext_password",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/ajuda-e-seguranca/central-de-protecao/",
+    "action": "https://nubank.com.br/ajuda-e-seguranca/central-de-protecao",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/conta-pj/",
+    "action": "https://nubank.com.br/empresas/conta",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cnpj",
+        "id": "cnpj",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.nubank.com.br/",
+    "action": "https://blog.nubank.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Seu email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/nu/cartao/carteira-digital",
+    "action": "https://nubank.com.br/nu/cartao/carteira-digital",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/nu/cartao/limite",
+    "action": "https://nubank.com.br/nu/cartao/limite",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/ultravioleta/cartao-black/carteiras-digitais",
+    "action": "https://nubank.com.br/ultravioleta/cartao-black/carteiras-digitais",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/ultravioleta/cartao-black/seguros-e-protecoes",
+    "action": "https://nubank.com.br/ultravioleta/cartao-black/seguros-e-protecoes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/ultravioleta/cartao-black/iof-zero",
+    "action": "https://nubank.com.br/ultravioleta/cartao-black/iof-zero",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/ultravioleta/cartao-black/pontos-cashback",
+    "action": "https://nubank.com.br/ultravioleta/cartao-black/pontos-cashback",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/nu/emprestimos/pessoal",
+    "action": "https://nubank.com.br/nu/emprestimos/pessoal",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/nu/emprestimos/consignado-publico",
+    "action": "https://nubank.com.br/nu/emprestimos/consignado-publico",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/nu/emprestimos/consignado-inss",
+    "action": "https://nubank.com.br/nu/emprestimos/consignado-inss",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/nu/emprestimos/consignado-clt",
+    "action": "https://nubank.com.br/nu/emprestimos/consignado-clt",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/ultravioleta/nu-viagens/conta-global",
+    "action": "https://nubank.com.br/ultravioleta/nu-viagens/conta-global",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/ultravioleta/nu-viagens/esim-internacional",
+    "action": "https://nubank.com.br/ultravioleta/nu-viagens/esim-internacional",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/ultravioleta/nu-viagens/seguro-viagem",
+    "action": "https://nubank.com.br/ultravioleta/nu-viagens/seguro-viagem",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/ultravioleta/nu-viagens/voos-hoteis",
+    "action": "https://nubank.com.br/ultravioleta/nu-viagens/voos-hoteis",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/ultravioleta/investimentos/cdb",
+    "action": "https://nubank.com.br/ultravioleta/investimentos/cdb",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/ultravioleta/investimentos/fundos-de-investimento",
+    "action": "https://nubank.com.br/ultravioleta/investimentos/fundos-de-investimento",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/ultravioleta/investimentos/tesouro-direto",
+    "action": "https://nubank.com.br/ultravioleta/investimentos/tesouro-direto",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/ultravioleta/investimentos/lci-lca",
+    "action": "https://nubank.com.br/ultravioleta/investimentos/lci-lca",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cpf",
+        "id": "cpf",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/empresas/conta/assistente-de-pagamentos",
+    "action": "https://nubank.com.br/empresas/conta/assistente-de-pagamentos",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cnpj",
+        "id": "cnpj",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nubank.com.br/empresas/conta/pix",
+    "action": "https://nubank.com.br/empresas/conta/pix",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "cnpj",
+        "id": "cnpj",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
   }
 ]
