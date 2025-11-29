@@ -46278,5 +46278,930 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://newrelic.com",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.newrelic.com",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://newrelic.com",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/#main-content",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/signup",
+    "action": "https://newrelic.com/signup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Company Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "name",
+        "placeholder": "Name",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/request-demo",
+    "action": "https://newrelic.com/request-demo",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://newrelic.com/request-demo",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/event/new-relic-now-on-demand",
+    "action": "https://newrelic.com/event/new-relic-now-on-demand",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://newrelic.com/event/new-relic-now-on-demand",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/platform/transaction-360",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/platform",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/pricing",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/contact-sales",
+    "action": "https://newrelic.com/contact-sales",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://newrelic.com/contact-sales",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/termsandconditions/privacy",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/termsandconditions/website-terms",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/termsandconditions/terms",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://login.newrelic.com/login",
+    "action": "https://login.newrelic.com/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "login[email]",
+        "id": "login_email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/jp/signup",
+    "action": "https://newrelic.com/jp/sign-up-japan",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://newrelic.com/jp/signup",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "何をお探しですか？",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/fr/signup",
+    "action": "https://newrelic.com/fr/signup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Adresse e-mail",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "name",
+        "placeholder": "Nom",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/de/signup",
+    "action": "https://newrelic.com/de/signup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Unternehmens-E-Mail",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "name",
+        "placeholder": "Name",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/kr/signup",
+    "action": "https://newrelic.com/kr/signup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "회사 이메일",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "name",
+        "placeholder": "이름",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/termsandconditions/dmca",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/request-demo#main-content",
+    "action": "https://newrelic.com/request-demo#main-content",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://newrelic.com/request-demo#main-content",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/platform/application-monitoring",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/event/new-relic-now-on-demand#main-content",
+    "action": "https://newrelic.com/event/new-relic-now-on-demand#main-content",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://newrelic.com/event/new-relic-now-on-demand#main-content",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/resources/report/observability-forecast/2025",
+    "action": "https://newrelic.com/resources/report/observability-forecast/2025",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://newrelic.com/resources/report/observability-forecast/2025",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/blog/nerdlog/new-relic-now-winter-2025-round-up",
+    "action": "https://newrelic.com/blog/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "blog-header-search-input",
+        "placeholder": "Type your search here",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/blog/nerdlog/new-relic-now-winter-2025-round-up",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/resources/report/state-of-observability-for-retail-2025",
+    "action": "https://newrelic.com/resources/report/state-of-observability-for-retail-2025",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://newrelic.com/resources/report/state-of-observability-for-retail-2025",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/customers/mercadolibre",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/customers/world-kinect",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/blog/best-practices/kurt-geiger-core-web-vitals",
+    "action": "https://newrelic.com/blog/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "blog-header-search-input",
+        "placeholder": "Type your search here",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/blog/best-practices/kurt-geiger-core-web-vitals",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/customers/shutterstock",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/platform/transaction-360#main-content",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://one.newrelic.com/admin-portal/promotion-management/home",
+    "action": "https://login.newrelic.com/login?return_to=https%3A%2F%2Fone.newrelic.com%2Fadmin-portal%2Fpromotion-management%2Fhome",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "return_to",
+        "id": "return_to",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "login[email]",
+        "id": "login_email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/platform/infrastructure",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/platform/browser-monitoring",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/platform/mobile-monitoring",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/blog/nerdlog/new-relic-now-2025-innovations-business-uptime",
+    "action": "https://newrelic.com/blog/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "blog-header-search-input",
+        "placeholder": "Type your search here",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/blog/nerdlog/new-relic-now-2025-innovations-business-uptime",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/blog/nerdlog/new-relic-now-2025-innovations-digital-experience-monitoring",
+    "action": "https://newrelic.com/blog/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "blog-header-search-input",
+        "placeholder": "Type your search here",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/blog/nerdlog/new-relic-now-2025-innovations-digital-experience-monitoring",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/blog/nerdlog/apm-360",
+    "action": "https://newrelic.com/blog/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "blog-header-search-input",
+        "placeholder": "Type your search here",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/blog/nerdlog/apm-360",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/platform#main-content",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/platform/ai-monitoring",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/pricing#main-content",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/request-pricing",
+    "action": "https://newrelic.com/request-pricing",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://newrelic.com/request-pricing",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/pricing#new-relic-pricing-faqs",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/pricing/free-tier",
+    "action": "https://newrelic.com/pricing/free-tier",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Company Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/pricing/free-tier",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/request-pricing-standard",
+    "action": "https://newrelic.com/request-pricing-standard",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://newrelic.com/request-pricing-standard",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/pricing/compute",
+    "action": "https://newrelic.com/pricing/compute",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Company Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/pricing/compute",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/request-pricing-pro",
+    "action": "https://newrelic.com/request-pricing-pro",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://newrelic.com/request-pricing-pro",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/contact-sales#main-content",
+    "action": "https://newrelic.com/contact-sales#main-content",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://newrelic.com/contact-sales#main-content",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://newrelic.com/about/contact-us",
+    "action": "https://newrelic.com/about/contact-us",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://newrelic.com/about/contact-us",
+    "action": "https://newrelic.com/search",
+    "method": "post",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "header-search",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
   }
 ]
