@@ -47209,5 +47209,173 @@
     "action": "https://learn.newrelic.com/",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://www.northwesternmutual.com",
+    "action": "https://www.northwesternmutual.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "nmx-search-field",
+        "placeholder": "Search nm.com",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.northwesternmutual.com",
+    "action": "https://www.northwesternmutual.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "suspect-email-capture-form-first-name-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "suspect-email-capture-form-last-name-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "suspect-email-capture-form-email-input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://northwesternmutual.com",
+    "action": "https://www.northwesternmutual.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "nmx-search-field",
+        "placeholder": "Search nm.com",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://northwesternmutual.com",
+    "action": "https://www.northwesternmutual.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "suspect-email-capture-form-first-name-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "suspect-email-capture-form-last-name-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "suspect-email-capture-form-email-input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.northwesternmutual.com/#main",
+    "action": "https://www.northwesternmutual.com/#main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "nmx-search-field",
+        "placeholder": "Search nm.com",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.northwesternmutual.com/#main",
+    "action": "https://www.northwesternmutual.com/#main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "suspect-email-capture-form-first-name-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "suspect-email-capture-form-last-name-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "suspect-email-capture-form-email-input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.northwesternmutual.com/",
+    "action": "https://www.northwesternmutual.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "nmx-search-field",
+        "placeholder": "Search nm.com",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.northwesternmutual.com/",
+    "action": "https://www.northwesternmutual.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "suspect-email-capture-form-first-name-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "suspect-email-capture-form-last-name-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "suspect-email-capture-form-email-input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
