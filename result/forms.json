@@ -48188,5 +48188,26 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://chat.openai.com",
+    "action": "https://chatgpt.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "file",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "prompt-textarea",
+        "id": "",
+        "placeholder": "Ask anything",
+        "required": false
+      }
+    ]
   }
 ]
