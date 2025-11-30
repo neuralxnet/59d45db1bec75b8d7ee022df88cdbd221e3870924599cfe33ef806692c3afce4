@@ -48209,5 +48209,61 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://openai.com",
+    "action": "https://openai.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "",
+        "placeholder": "Quiz me on vocabulary",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://openai.com",
+    "action": "https://openai.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Ask ChatGPT",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.openai.com",
+    "action": "https://openai.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "",
+        "placeholder": "Quiz me on vocabulary",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.openai.com",
+    "action": "https://openai.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Ask ChatGPT",
+        "required": false
+      }
+    ]
   }
 ]
