@@ -50519,5 +50519,46 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://net.geo.opera.com",
+    "action": "https://www.opera.com/i18n/setlang/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "next",
+        "id": "footer__lang-input-next",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "language",
+        "id": "footer__lang-selector",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "en",
+          "de",
+          "es",
+          "es-419",
+          "fr",
+          "id",
+          "it",
+          "ja",
+          "ko",
+          "nb",
+          "pl",
+          "pt",
+          "pt-br",
+          "ru",
+          "tr",
+          "uk",
+          "vi",
+          "zh-cn"
+        ]
+      }
+    ]
   }
 ]
