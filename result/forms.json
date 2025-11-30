@@ -48265,5 +48265,2259 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://etherscan.io",
+    "action": "https://etherscan.io/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "f",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "6",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-panel",
+        "placeholder": "Search by Address / Txn Hash / Block / Token / Domain Name",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchText",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnIsTestNet",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://etherscan.io",
+    "action": "https://etherscan.io/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkAdvancedFilter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets4",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://etherscan.io",
+    "action": "https://etherscan.io/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "saveTxnNoteHash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "text",
+        "id": "editTxnNote",
+        "placeholder": "Short description..",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.etherscan.io",
+    "action": "https://etherscan.io/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "f",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "6",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-panel",
+        "placeholder": "Search by Address / Txn Hash / Block / Token / Domain Name",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchText",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnIsTestNet",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.etherscan.io",
+    "action": "https://etherscan.io/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkAdvancedFilter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets4",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.etherscan.io",
+    "action": "https://etherscan.io/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "saveTxnNoteHash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "text",
+        "id": "editTxnNote",
+        "placeholder": "Short description..",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://etherscan.io",
+    "action": "https://etherscan.io/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "f",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "6",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-panel",
+        "placeholder": "Search by Address / Txn Hash / Block / Token / Domain Name",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchText",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnIsTestNet",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://etherscan.io",
+    "action": "https://etherscan.io/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkAdvancedFilter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets4",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://etherscan.io",
+    "action": "https://etherscan.io/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "saveTxnNoteHash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "text",
+        "id": "editTxnNote",
+        "placeholder": "Short description..",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://etherscan.io/chart/etherprice",
+    "action": "https://etherscan.io/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-panel",
+        "placeholder": "Search by Address / Txn Hash / Block / Token / Domain Name",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchText",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnIsTestNet",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://etherscan.io/chart/etherprice",
+    "action": "https://etherscan.io/chart/etherprice",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Zoom",
+          "1m",
+          "6m",
+          "1y",
+          "All"
+        ]
+      },
+      {
+        "type": "date",
+        "name": "min",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "date",
+        "name": "max",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://etherscan.io/chart/etherprice",
+    "action": "https://etherscan.io/chart/etherprice",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "saveTxnNoteHash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "text",
+        "id": "editTxnNote",
+        "placeholder": "Short description..",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://etherscan.io/gastracker",
+    "action": "https://etherscan.io/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-panel",
+        "placeholder": "Search by Address / Txn Hash / Block / Token / Domain Name",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchText",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnIsTestNet",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://etherscan.io/gastracker",
+    "action": "https://etherscan.io/gastracker",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "saveTxnNoteHash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "text",
+        "id": "editTxnNote",
+        "placeholder": "Short description..",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://etherscan.io/settings",
+    "action": "https://etherscan.io/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-panel",
+        "placeholder": "Search by Address / Txn Hash / Block / Token / Domain Name",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchText",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnIsTestNet",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://etherscan.io/settings",
+    "action": "https://etherscan.io/settings",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ctl00$ContentPlaceHolder1$ckExperimentalFeature",
+        "id": "ContentPlaceHolder1_ckExperimentalFeature",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ctl00$ContentPlaceHolder1$chkAdvanceMode",
+        "id": "ContentPlaceHolder1_chkAdvanceMode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ctl00$ContentPlaceHolder1$chkHidePoorToken",
+        "id": "ContentPlaceHolder1_chkHidePoorToken",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ctl00$ContentPlaceHolder1$chkHideZero",
+        "id": "ContentPlaceHolder1_chkHideZero",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ctl00$ContentPlaceHolder1$chkEns",
+        "id": "ContentPlaceHolder1_chkEns",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ctl00$ContentPlaceHolder1$chkHighlight",
+        "id": "ContentPlaceHolder1_chkHighlight",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "ctl00$ContentPlaceHolder1$ddLang",
+        "id": "ContentPlaceHolder1_ddLang",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "en",
+          "zh-CN",
+          "ko-KR",
+          "ru-RU",
+          "ja-JP"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "ctl00$ContentPlaceHolder1$ddCurrency",
+        "id": "ContentPlaceHolder1_ddCurrency",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "USD",
+          "AUD",
+          "BND",
+          "BRL",
+          "CAD",
+          "CHF",
+          "CNY",
+          "DKK",
+          "EUR",
+          "GBP",
+          "HKD",
+          "IDR",
+          "ILS",
+          "INR",
+          "IRR",
+          "JPY",
+          "KPW",
+          "KRW",
+          "LKR",
+          "MXN",
+          "MYR",
+          "NGN",
+          "NOK",
+          "NZD",
+          "PHP",
+          "PKR",
+          "QAR",
+          "RSD",
+          "RUB",
+          "SAR",
+          "SEK",
+          "SGD",
+          "THB",
+          "TRY",
+          "TWD",
+          "UAH",
+          "VEF",
+          "VND",
+          "ZAR"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "ctl00$ContentPlaceHolder1$ddlTruncateFormat",
+        "id": "ContentPlaceHolder1_ddlTruncateFormat",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "ctl00$ContentPlaceHolder1$DDLDatetimeFormat",
+        "id": "ContentPlaceHolder1_DDLDatetimeFormat",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "UTC",
+          "LOCAL"
+        ]
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$ContentPlaceHolder1$btnSubmit",
+        "id": "ContentPlaceHolder1_btnSubmit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://etherscan.io/settings",
+    "action": "https://etherscan.io/settings",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "saveTxnNoteHash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "text",
+        "id": "editTxnNote",
+        "placeholder": "Short description..",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://etherscan.io/",
+    "action": "https://etherscan.io/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "f",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "6",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-panel",
+        "placeholder": "Search by Address / Txn Hash / Block / Token / Domain Name",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchText",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnIsTestNet",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://etherscan.io/",
+    "action": "https://etherscan.io/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkAdvancedFilter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets4",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://etherscan.io/",
+    "action": "https://etherscan.io/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "saveTxnNoteHash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "text",
+        "id": "editTxnNote",
+        "placeholder": "Short description..",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sepolia.etherscan.io/",
+    "action": "https://sepolia.etherscan.io/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "f",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-panel",
+        "placeholder": "Search by Address / Txn Hash / Block / Token",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchText",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnIsTestNet",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sepolia.etherscan.io/",
+    "action": "https://sepolia.etherscan.io/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkAdvancedFilter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets4",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sepolia.etherscan.io/",
+    "action": "https://sepolia.etherscan.io/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "saveTxnNoteHash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "text",
+        "id": "editTxnNote",
+        "placeholder": "Short description..",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hoodi.etherscan.io/",
+    "action": "https://hoodi.etherscan.io/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "f",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-panel",
+        "placeholder": "Search by Address / Txn Hash / Block / Token",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchText",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnIsTestNet",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hoodi.etherscan.io/",
+    "action": "https://hoodi.etherscan.io/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkAdvancedFilter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "checkCustomOption",
+        "id": "checkPresets4",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hoodi.etherscan.io/",
+    "action": "https://hoodi.etherscan.io/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "saveTxnNoteHash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "text",
+        "id": "editTxnNote",
+        "placeholder": "Short description..",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://etherscan.io/login",
+    "action": "https://etherscan.io/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-panel",
+        "placeholder": "Search by Address / Txn Hash / Block / Token / Domain Name",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchText",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnIsTestNet",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://etherscan.io/login",
+    "action": "https://etherscan.io/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ctl00$ContentPlaceHolder1$txtUserName",
+        "id": "ContentPlaceHolder1_txtUserName",
+        "placeholder": "e.g. johndoe",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "ctl00$ContentPlaceHolder1$txtPassword",
+        "id": "ContentPlaceHolder1_txtPassword",
+        "placeholder": "*************",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "ctl00$ContentPlaceHolder1$chkRemember",
+        "id": "ContentPlaceHolder1_chkRemember",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$ContentPlaceHolder1$btnLogin",
+        "id": "ContentPlaceHolder1_btnLogin",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://etherscan.io/login",
+    "action": "https://etherscan.io/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "saveTxnNoteHash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "text",
+        "id": "editTxnNote",
+        "placeholder": "Short description..",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://etherscan.io/txs",
+    "action": "https://etherscan.io/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-panel",
+        "placeholder": "Search by Address / Txn Hash / Block / Token / Domain Name",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchText",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnIsTestNet",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://etherscan.io/txs",
+    "action": "https://etherscan.io/txs",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__LASTFOCUS",
+        "id": "__LASTFOCUS",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "ctl00$ContentPlaceHolder1$ddlRecordsPerPage",
+        "id": "ContentPlaceHolder1_ddlRecordsPerPage",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "10",
+          "25",
+          "50",
+          "100"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://etherscan.io/txs",
+    "action": "https://etherscan.io/txs",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "saveTxnNoteHash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "text",
+        "id": "editTxnNote",
+        "placeholder": "Short description..",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sepolia.etherscan.io/settings",
+    "action": "https://sepolia.etherscan.io/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-panel",
+        "placeholder": "Search by Address / Txn Hash / Block / Token",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchText",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnIsTestNet",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sepolia.etherscan.io/settings",
+    "action": "https://sepolia.etherscan.io/settings",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ctl00$ContentPlaceHolder1$chkAdvanceMode",
+        "id": "ContentPlaceHolder1_chkAdvanceMode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ctl00$ContentPlaceHolder1$chkHideZero",
+        "id": "ContentPlaceHolder1_chkHideZero",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ctl00$ContentPlaceHolder1$chkHighlight",
+        "id": "ContentPlaceHolder1_chkHighlight",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "ctl00$ContentPlaceHolder1$ddLang",
+        "id": "ContentPlaceHolder1_ddLang",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "en",
+          "zh-CN",
+          "ko-KR",
+          "ru-RU",
+          "ja-JP"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "ctl00$ContentPlaceHolder1$ddlTruncateFormat",
+        "id": "ContentPlaceHolder1_ddlTruncateFormat",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "ctl00$ContentPlaceHolder1$DDLDatetimeFormat",
+        "id": "ContentPlaceHolder1_DDLDatetimeFormat",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "UTC",
+          "LOCAL"
+        ]
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$ContentPlaceHolder1$btnSubmit",
+        "id": "ContentPlaceHolder1_btnSubmit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sepolia.etherscan.io/settings",
+    "action": "https://sepolia.etherscan.io/settings",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "saveTxnNoteHash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "text",
+        "id": "editTxnNote",
+        "placeholder": "Short description..",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sepolia.etherscan.io/txs",
+    "action": "https://sepolia.etherscan.io/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-panel",
+        "placeholder": "Search by Address / Txn Hash / Block / Token",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchText",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnIsTestNet",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sepolia.etherscan.io/txs",
+    "action": "https://sepolia.etherscan.io/txs",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__LASTFOCUS",
+        "id": "__LASTFOCUS",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "ctl00$ContentPlaceHolder1$ddlRecordsPerPage",
+        "id": "ContentPlaceHolder1_ddlRecordsPerPage",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "10",
+          "25",
+          "50",
+          "100"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://sepolia.etherscan.io/txs",
+    "action": "https://sepolia.etherscan.io/txs",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "saveTxnNoteHash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "text",
+        "id": "editTxnNote",
+        "placeholder": "Short description..",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sepolia.etherscan.io/txsPending",
+    "action": "https://sepolia.etherscan.io/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-panel",
+        "placeholder": "Search by Address / Txn Hash / Block / Token",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchText",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnIsTestNet",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sepolia.etherscan.io/txsPending",
+    "action": "https://sepolia.etherscan.io/txsPending",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "cn",
+        "id": "q",
+        "placeholder": "Filter by Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sepolia.etherscan.io/txsPending",
+    "action": "https://sepolia.etherscan.io/txsPending",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "saveTxnNoteHash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "text",
+        "id": "editTxnNote",
+        "placeholder": "Short description..",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sepolia.etherscan.io/txsInternal",
+    "action": "https://sepolia.etherscan.io/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-panel",
+        "placeholder": "Search by Address / Txn Hash / Block / Token",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchText",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnIsTestNet",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sepolia.etherscan.io/txsInternal",
+    "action": "https://sepolia.etherscan.io/txsInternal",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__LASTFOCUS",
+        "id": "__LASTFOCUS",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "ctl00$ContentPlaceHolder1$ddlRecordsPerPage",
+        "id": "ContentPlaceHolder1_ddlRecordsPerPage",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "10",
+          "25",
+          "50",
+          "100"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://sepolia.etherscan.io/txsInternal",
+    "action": "https://sepolia.etherscan.io/txsInternal",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "saveTxnNoteHash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "text",
+        "id": "editTxnNote",
+        "placeholder": "Short description..",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hoodi.etherscan.io/settings",
+    "action": "https://hoodi.etherscan.io/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-panel",
+        "placeholder": "Search by Address / Txn Hash / Block / Token",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchText",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnIsTestNet",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hoodi.etherscan.io/settings",
+    "action": "https://hoodi.etherscan.io/settings",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ctl00$ContentPlaceHolder1$chkAdvanceMode",
+        "id": "ContentPlaceHolder1_chkAdvanceMode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ctl00$ContentPlaceHolder1$chkHideZero",
+        "id": "ContentPlaceHolder1_chkHideZero",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ctl00$ContentPlaceHolder1$chkHighlight",
+        "id": "ContentPlaceHolder1_chkHighlight",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "ctl00$ContentPlaceHolder1$ddLang",
+        "id": "ContentPlaceHolder1_ddLang",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "en",
+          "zh-CN",
+          "ko-KR",
+          "ru-RU",
+          "ja-JP"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "ctl00$ContentPlaceHolder1$ddlTruncateFormat",
+        "id": "ContentPlaceHolder1_ddlTruncateFormat",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "1"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "ctl00$ContentPlaceHolder1$DDLDatetimeFormat",
+        "id": "ContentPlaceHolder1_DDLDatetimeFormat",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "UTC",
+          "LOCAL"
+        ]
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$ContentPlaceHolder1$btnSubmit",
+        "id": "ContentPlaceHolder1_btnSubmit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hoodi.etherscan.io/settings",
+    "action": "https://hoodi.etherscan.io/settings",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "saveTxnNoteHash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "text",
+        "id": "editTxnNote",
+        "placeholder": "Short description..",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hoodi.etherscan.io/txs",
+    "action": "https://hoodi.etherscan.io/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-panel",
+        "placeholder": "Search by Address / Txn Hash / Block / Token",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchText",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnIsTestNet",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hoodi.etherscan.io/txs",
+    "action": "https://hoodi.etherscan.io/txs",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__LASTFOCUS",
+        "id": "__LASTFOCUS",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "ctl00$ContentPlaceHolder1$ddlRecordsPerPage",
+        "id": "ContentPlaceHolder1_ddlRecordsPerPage",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "10",
+          "25",
+          "50",
+          "100"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://hoodi.etherscan.io/txs",
+    "action": "https://hoodi.etherscan.io/txs",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "saveTxnNoteHash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "text",
+        "id": "editTxnNote",
+        "placeholder": "Short description..",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hoodi.etherscan.io/txsPending",
+    "action": "https://hoodi.etherscan.io/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-panel",
+        "placeholder": "Search by Address / Txn Hash / Block / Token",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchText",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnIsTestNet",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hoodi.etherscan.io/txsPending",
+    "action": "https://hoodi.etherscan.io/txsPending",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "cn",
+        "id": "q",
+        "placeholder": "Filter by Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hoodi.etherscan.io/txsPending",
+    "action": "https://hoodi.etherscan.io/txsPending",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__LASTFOCUS",
+        "id": "__LASTFOCUS",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "ctl00$ContentPlaceHolder1$ddlRecordsPerPage",
+        "id": "ContentPlaceHolder1_ddlRecordsPerPage",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "10",
+          "25",
+          "50",
+          "100"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://hoodi.etherscan.io/txsPending",
+    "action": "https://hoodi.etherscan.io/txsPending",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "saveTxnNoteHash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "text",
+        "id": "editTxnNote",
+        "placeholder": "Short description..",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hoodi.etherscan.io/txsInternal",
+    "action": "https://hoodi.etherscan.io/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-panel",
+        "placeholder": "Search by Address / Txn Hash / Block / Token",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchText",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnSearchLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "hdnIsTestNet",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hoodi.etherscan.io/txsInternal",
+    "action": "https://hoodi.etherscan.io/txsInternal",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__LASTFOCUS",
+        "id": "__LASTFOCUS",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "ctl00$ContentPlaceHolder1$ddlRecordsPerPage",
+        "id": "ContentPlaceHolder1_ddlRecordsPerPage",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "10",
+          "25",
+          "50",
+          "100"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://hoodi.etherscan.io/txsInternal",
+    "action": "https://hoodi.etherscan.io/txsInternal",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "saveTxnNoteHash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "text",
+        "id": "editTxnNote",
+        "placeholder": "Short description..",
+        "required": false
+      }
+    ]
   }
 ]
