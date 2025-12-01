@@ -50719,5 +50719,299 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://gx.games",
+    "action": "https://gx.games/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.gx.games",
+    "action": "https://gx.games/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://gx.games",
+    "action": "https://gx.games/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/",
+    "action": "https://gx.games/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/games/75o6dq/idle-farm/",
+    "action": "https://gx.games/games/75o6dq/idle-farm/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/games/1dcu66/climb-jump/",
+    "action": "https://gx.games/games/1dcu66/climb-jump/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/games/2j2g8j/key-gunner/",
+    "action": "https://gx.games/games/2j2g8j/key-gunner/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/games/g3qxuk/pushy-worm-classic/",
+    "action": "https://gx.games/games/g3qxuk/pushy-worm-classic/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/discover/",
+    "action": "https://gx.games/discover/?platform=desktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/feed/new/",
+    "action": "https://gx.games/feed/new/?platform=desktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/discover/?sort=total-time-played-desc",
+    "action": "https://gx.games/discover/?sort=total-time-played-desc&platform=desktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/feed/updated/",
+    "action": "https://gx.games/feed/updated/?platform=desktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/feed/gamejams/",
+    "action": "https://gx.games/feed/gamejams/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/feed/paid-games/",
+    "action": "https://gx.games/feed/paid-games/?platform=desktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/tags/idle/",
+    "action": "https://gx.games/tags/idle/?platform=desktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/tags/adventure/",
+    "action": "https://gx.games/tags/adventure/?platform=desktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/tags/puzzle/",
+    "action": "https://gx.games/tags/puzzle/?platform=desktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/studios/1040256a-7b7c-4b05-b588-644a54f3031b/",
+    "action": "https://gx.games/studios/1040256a-7b7c-4b05-b588-644a54f3031b/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/faq/",
+    "action": "https://gx.games/faq/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/studios/b3b15ed4-d3cd-4660-ae54-d857242a90bf/",
+    "action": "https://gx.games/studios/b3b15ed4-d3cd-4660-ae54-d857242a90bf/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/studios/54337462-a150-4061-b84b-d6a33ca4ec32/",
+    "action": "https://gx.games/studios/54337462-a150-4061-b84b-d6a33ca4ec32/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
   }
 ]
