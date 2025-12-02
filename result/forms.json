@@ -51348,5 +51348,75 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.app.optimizely.com",
+    "action": "https://www.app.optimizely.com/account/signin",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "signin-email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin-password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "persist",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.app.optimizely.com/",
+    "action": "https://www.app.optimizely.com/account/signin",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "signin-email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin-password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "persist",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.app.optimizely.com/signin/sso?continue_to=https%3A//www.app.optimizely.com/v2%3F",
+    "action": "https://www.app.optimizely.com/signin/sso?continue_to=https%3A//www.app.optimizely.com/v2%3F",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
