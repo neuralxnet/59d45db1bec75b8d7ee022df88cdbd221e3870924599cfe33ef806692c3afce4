@@ -51136,5 +51136,33 @@
         ]
       }
     ]
+  },
+  {
+    "url": "https://marketplace.gamemaker.io",
+    "action": "https://marketplace.gamemaker.io/search/results",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search the Marketplace…",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://marketplace.gamemaker.io",
+    "action": "https://marketplace.gamemaker.io/search/results",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search the Marketplace…",
+        "required": false
+      }
+    ]
   }
 ]
