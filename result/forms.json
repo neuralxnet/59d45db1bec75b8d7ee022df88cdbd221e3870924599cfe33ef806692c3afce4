@@ -51164,5 +51164,69 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.lookfantastic.com",
+    "action": "https://www.lookfantastic.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-input",
+        "placeholder": "Search for a product...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lookfantastic.com",
+    "action": "https://www.lookfantastic.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-input",
+        "placeholder": "Search for a product...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lookfantastic.com",
+    "action": "https://www.lookfantastic.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.lookfantastic.com",
+    "action": "https://www.lookfantastic.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.lookfantastic.com",
+    "action": "https://www.lookfantastic.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.lookfantastic.com",
+    "action": "https://www.lookfantastic.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.lookfantastic.com",
+    "action": "https://www.lookfantastic.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.lookfantastic.com",
+    "action": "https://www.lookfantastic.com/",
+    "method": "dialog",
+    "fields": []
   }
 ]
