@@ -51306,5 +51306,33 @@
     "action": "https://www.arrowfilms.com/",
     "method": "dialog",
     "fields": []
+  },
+  {
+    "url": "https://www.matalan.co.uk",
+    "action": "https://www.matalan.co.uk/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Search product, brand or code",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.matalan.co.uk",
+    "action": "https://www.matalan.co.uk/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Search product, brand or code",
+        "required": false
+      }
+    ]
   }
 ]
