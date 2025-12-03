@@ -51481,5 +51481,131 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://accounts.welcomesoftware.com",
+    "action": "https://accounts.welcomesoftware.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "bob@atomicmarketing.com",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.accounts.welcomesoftware.com",
+    "action": "https://www.accounts.cmp.optimizely.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "bob@atomicmarketing.com",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://accounts.welcomesoftware.com",
+    "action": "https://accounts.welcomesoftware.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "bob@atomicmarketing.com",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://accounts.welcomesoftware.com/social-auth/google",
+    "action": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1194825748%3A1764739414747329&client_id=147518026908-81n6m8t55cllj87ef3e8si4eqmghij3s.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Faccounts.cmp.optimizely.com%2Fsocial-auth%2Fgoogle%2Fcallback&response_type=code&scope=profile+email&service=lso&state=dbade7702bbcc1750e7d6b358ce43e31aa5d55aaf1ed1821bebe83e5c2470931388fe01cee177f1f391aac83449b0fbf911ea1aa08fa7a42b30109ff415daa45&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMvgMzGRjlfQ6phEjg-CWH27P8g540pc6DUs04KWpjAgOd9IJ8oZcd6cerZz9ht97FZYifzw8e3kAhKZB5bjDi8zj7l2bW_YnoIpHIAQbt0rJe7m_GRZHBsKqxCkS1Ig8weVjB-hZR1ta3mp9yG43KON2jGTHKJ46_SRUkwxd75VdJhMj_d7KF-8f6wVkOpHowZDE9JxTYi81scLqoYJE__gT7E--rQS5ebNjZw13SVs59lAjxhPi7XCYHoXHgHkiUTvSph7Nf7McHHKybM2s_1e0i1AEQATtsScTUc2yVXYtn1z1UsZNJ9B3coOeHhE5xQIxi07Ax6EVaUWxIyuOb5Fv-9I9C-9QUSgSDPU9fK81uQtT3tJ6eHwsSBuG6mz7ico3EjGnjZ8hwkFDoWM1Dd-dI7YcwSMXl5Nitr5QeWXbaHBXFXtKKYFn8J-Ns601bw9JZOLm9bRILqgsVHfYEihrsRqqTl3g74Q54JdCWBYzEFrWI%26flowName%3DGeneralOAuthFlow%26as%3DS1194825748%253A1764739414747329%26client_id%3D147518026908-81n6m8t55cllj87ef3e8si4eqmghij3s.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Faccounts.cmp.optimizely.com&rart=ANgoxccwjlUpqT9LlTCXDpGtvyA9hhxM8U1tN9Q_KjztZMMtls-n-sPi1NTDVB08WR1GSO37_l6NfNCPkYoVcvuJ27C3dPUY-a8_bHMl0PMmVuSIzuz5fcE",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "identifier",
+        "id": "identifierId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "hiddenPassword",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ca",
+        "id": "ca",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ct",
+        "id": "ct",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "usi",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "domain",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "region",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "fidoUserHandle",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
