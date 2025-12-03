@@ -51607,5 +51607,194 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://accounts.cmp.optimizely.com",
+    "action": "https://accounts.cmp.optimizely.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "bob@atomicmarketing.com",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.accounts.cmp.optimizely.com",
+    "action": "https://www.accounts.cmp.optimizely.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "bob@atomicmarketing.com",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://accounts.cmp.optimizely.com",
+    "action": "https://accounts.cmp.optimizely.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "bob@atomicmarketing.com",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://accounts.cmp.optimizely.com/social-auth/google",
+    "action": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1010492535%3A1764757722929692&client_id=147518026908-81n6m8t55cllj87ef3e8si4eqmghij3s.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Faccounts.cmp.optimizely.com%2Fsocial-auth%2Fgoogle%2Fcallback&response_type=code&scope=profile+email&service=lso&state=6421204830f53cfa9246c084815b3d14ba531ef62a14e5504b7f1742c73624d100aa967d64c3d48cc44182eb53b932477ceb9cda305be53fa1b7003edd4f5c38&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOBTL7aNAh5aSIZQ9-tIHDjVBv5mCyr1QYIY4vsTY0uOrPCIZWXHsWX0xEU1we6agUZKESCQZvCmtQUE7nOirKnay1pscITeljfo4sX9u7BviN74ZqLBaeRfy7hnuXu2BWKK2SwkJx7K2jtJYYBAGJWU3tSoLi2zQeZclz_DoEyO72vRCCNPgsSH3BeFZW7a0fYrIti7i6fOd5BYAyEEsRoa3NcCgPumrlByW44g2989OPHsN4E2167d2CfGoqdzsDN7Utv6wLOcLtZddBFk6A2AlXonl3_aGB6ZTLcTNx7a4ommFtU2sXfmDyuoCs7KvPVJNd_T_WKhFiNkCVWwdGe9h8WAuzQiucRyIFTZ9ctK31SxAc2OVwBeHAclFCIeQ2NReXbPaFL82rqQYCV0EFRWrYI5405v1msJ87S_soLM68AOCnfQkFOuTc7ckkQ3YZtP-QNCQ56vbe86TUvKnY4_LbbE_yieJdV2ZAZ8n9pKsc0wHw%26flowName%3DGeneralOAuthFlow%26as%3DS1010492535%253A1764757722929692%26client_id%3D147518026908-81n6m8t55cllj87ef3e8si4eqmghij3s.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Faccounts.cmp.optimizely.com&rart=ANgoxcf9N9EEMRB1FnwNWSc-ICPPDs896srbbPRPGW1BGfriGE5Uuytl-mibxbyu0K2g-dqrNC56G62ONGainG_KufjvqDCB_VcLWCYayCg725HQrRaG8J4",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "identifier",
+        "id": "identifierId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "hiddenPassword",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ca",
+        "id": "ca",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ct",
+        "id": "ct",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "usi",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "domain",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "region",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "fidoUserHandle",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.accounts.cmp.optimizely.com/social-auth/google",
+    "action": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S121172533%3A1764757723416239&client_id=147518026908-81n6m8t55cllj87ef3e8si4eqmghij3s.apps.googleusercontent.com&o2v=2&redirect_uri=https%3A%2F%2Faccounts.cmp.optimizely.com%2Fsocial-auth%2Fgoogle%2Fcallback&response_type=code&scope=profile+email&service=lso&state=d7de0b97e7e191dbcd2856a7aa5df61586d438df9b4e9eff763723c34adedbc0af8df2faf078912ed29b41f48ff3d576175062ad7df9c7fcb4cca188970da553&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMcEVNdbPRRVxgupTzJfFG-jymeUuHYOKMZG-M8EfU072csHYEfbmbjVGAYt0pFMOn-KVhbqKxGM602CXCt2k6ZxRWHdQGNQq7ROSBAVf3OR0QW0EXWZUVEUMGu0WDbWgfdyKOuoa6gNukN4ujn199CkI3Lma0WKlClBvp56TuZwsKq5tM3Wbmlm4CmUfvzBW-A5H-XJ9fXIAyjvAWgwJTyNKNhB7HS_5Ca-9-n5ZGVOSMbmz2eTvLhqdTa4O6CENMc8IZwcs2sLpndcKwdx16Wn7kZUQ5mOqnTwuIeeQ8v_wWCDQU_4_7jEk0oxF-nihYkHzozHjFiHmGXjQaUqpzj98Qg2-lNlmwTTC4XKRwY6fWNu1RfyI61UG4oM5JOy3JgQ-2LiR0Al6aAnTM7mAKoVzgtF_05KCNqJsSsqDLrOuM_XCIF0BxXg_aycBit64TaG6rs_yBDYnM2vEEJ1SuAAMjOSsw4d1EAKjSk0ZLTAcQUkq8%26flowName%3DGeneralOAuthFlow%26as%3DS121172533%253A1764757723416239%26client_id%3D147518026908-81n6m8t55cllj87ef3e8si4eqmghij3s.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Faccounts.cmp.optimizely.com&rart=ANgoxcfkgvrs8-wPYCxFk43w6xwaEIvldnkClC17HlxncVQMsjp1aKr1u4C-gcA9tb9CKKFpJQCLV9jpcBXPTyt6QMA691noQYmFTikr4_JNj2QhC6i8taA",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "identifier",
+        "id": "identifierId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "hiddenPassword",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ca",
+        "id": "ca",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ct",
+        "id": "ct",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "usi",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "domain",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "region",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "fidoUserHandle",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
