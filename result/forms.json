@@ -51796,5 +51796,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.winconnect.com.au",
+    "action": "https://www.winconnect.com.au/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
