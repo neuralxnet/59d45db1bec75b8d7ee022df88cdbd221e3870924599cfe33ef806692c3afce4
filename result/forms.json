@@ -52020,5 +52020,367 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://devstaging.pcapcloud.com",
+    "action": "https://devstaging.pcapcloud.com/page/login/goHome",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "redirectTo",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "skipFirstUse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "skipLinkAccount",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "referrerId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "",
+        "placeholder": "you@example.com",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://devstaging.pcapcloud.com",
+    "action": "https://devstaging.pcapcloud.com/page/login/goHome",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "bindDevice",
+        "id": "rememberMe",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "deviceName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirectTo",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "skipFirstUse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "skipLinkAccount",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "referrerId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "passwd",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://devstaging.pcapcloud.com",
+    "action": "https://devstaging.pcapcloud.com/page/login/goHome",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "challengeReason",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "challengeMethod",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://devstaging.pcapcloud.com",
+    "action": "https://devstaging.pcapcloud.com/page/login/goHome",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "challengeReason",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "challengeMethod",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "totpCode",
+        "id": "totp-code-input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://devstaging.pcapcloud.com",
+    "action": "https://devstaging.pcapcloud.com/page/login/goHome",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "challengeReason",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "challengeMethod",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "code",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://devstaging.pcapcloud.com",
+    "action": "https://devstaging.pcapcloud.com/page/login/goHome",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "challengeReason",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "challengeMethod",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://devstaging.pcapcloud.com",
+    "action": "https://devstaging.pcapcloud.com/page/login/goHome",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "challengeReason",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "challengeMethod",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "code",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://devstaging.pcapcloud.com",
+    "action": "https://devstaging.pcapcloud.com/page/login/goHome",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "challengeReason",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "PASSWORD",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://devstaging.pcapcloud.com",
+    "action": "https://devstaging.pcapcloud.com/page/login/goHome",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://devstaging.pcapcloud.com",
+    "action": "https://devstaging.pcapcloud.com/page/login/goHome",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "bindDevice",
+        "id": "rememberMe",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "deviceName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "pinNumber",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://devstaging.pcapcloud.com",
+    "action": "https://devstaging.pcapcloud.com/page/login/goHome",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "challengeReason",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "flags",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirectTo",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "skipFirstUse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "skipLinkAccount",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "referrerId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "passwd",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "passwd2",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://devstaging.pcapcloud.com",
+    "action": "https://devstaging.pcapcloud.com/page/login/goHome",
+    "method": "get",
+    "fields": []
   }
 ]
