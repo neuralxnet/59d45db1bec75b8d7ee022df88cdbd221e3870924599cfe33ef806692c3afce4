@@ -51810,5 +51810,194 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://myconnect.com.au/posts",
+    "action": "https://www.myconnect.com.au/hub/get-connected",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "postcode",
+        "placeholder": "Postcode",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.myconnect.com.au/posts",
+    "action": "https://www.myconnect.com.au/hub/get-connected",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "postcode",
+        "placeholder": "Postcode",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.myconnect.com.au/post/category/energy-utilities",
+    "action": "https://www.myconnect.com.au/hub/get-connected",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "postcode",
+        "placeholder": "Postcode",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.myconnect.com.au/post/category/moving-house-tips",
+    "action": "https://www.myconnect.com.au/hub/get-connected",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "postcode",
+        "placeholder": "Postcode",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.myconnect.com.au/post/category/lifestyle",
+    "action": "https://www.myconnect.com.au/hub/get-connected",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "postcode",
+        "placeholder": "Postcode",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.myconnect.com.au/post/category/how-tos",
+    "action": "https://www.myconnect.com.au/hub/get-connected",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "postcode",
+        "placeholder": "Postcode",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.myconnect.com.au/post/category/renting",
+    "action": "https://www.myconnect.com.au/hub/get-connected",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "postcode",
+        "placeholder": "Postcode",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.myconnect.com.au/post/the-best-interior-design-tips-for-your-small-space",
+    "action": "https://blog.myconnect.com.au/wp-comments-post.php?wpe-comment-post=myconnectblog",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "author",
+        "id": "author",
+        "placeholder": "e.g Julian",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "e.g Roberts",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "comment",
+        "id": "comment",
+        "placeholder": "Start typing...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "comment_post_ID",
+        "id": "comment_post_ID",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "comment_parent",
+        "id": "comment_parent",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
