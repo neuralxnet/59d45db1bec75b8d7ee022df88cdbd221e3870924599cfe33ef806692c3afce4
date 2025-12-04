@@ -52473,5 +52473,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://addons.mozilla.org",
+    "action": "https://addons.mozilla.org/en-US/firefox/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "AutoSearchInput-q",
+        "placeholder": "Find add-ons",
+        "required": false
+      }
+    ]
   }
 ]
