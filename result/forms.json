@@ -52396,5 +52396,82 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://microsoftedge.microsoft.com/addons/report/dhoenijjpgpeimemopealfcbiecgceod",
+    "action": "https://microsoftedge.microsoft.com/addons/report/dhoenijjpgpeimemopealfcbiecgceod",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "",
+        "id": "5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "",
+        "id": "1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "",
+        "id": "3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "",
+        "id": "6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "",
+        "id": "2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "",
+        "id": "7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "commentTextArea",
+        "placeholder": "Please provide as much detail as possible about the abuse or offensive behavior you are reporting. Please do not provide any personal or sensitive information.",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "includeEmailCheckbox",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "emailTextField",
+        "placeholder": "Enter email address",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "HipSolutionTextField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
