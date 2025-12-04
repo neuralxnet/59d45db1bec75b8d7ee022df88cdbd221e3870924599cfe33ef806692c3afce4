@@ -51999,5 +51999,26 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://hub.myconnect.com.au",
+    "action": "https://www.myconnect.com.au/hub/get-connected",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "postcode",
+        "placeholder": "Postcode",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
