@@ -55238,5 +55238,131 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "http://world.planethoster.net",
+    "action": "https://my.planethoster.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "username",
+        "id": "login-email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "login-password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "login-btn",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://world.planethoster.net",
+    "action": "https://my.planethoster.com/client-area/new-client",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": "Lance",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": "Pierre",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "lancepierre@example.com",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email_confirm",
+        "id": "email_confirm",
+        "placeholder": "lancepierre@example.com",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "currency",
+        "id": "eur",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "currency",
+        "id": "cad",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "currency",
+        "id": "usd",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "currency",
+        "id": "gbp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "currency",
+        "id": "chf",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
