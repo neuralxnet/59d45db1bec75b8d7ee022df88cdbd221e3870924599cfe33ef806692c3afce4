@@ -55847,5 +55847,985 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://forum.rec.net/t/introducing-click-through-rate-ctr-for-rooms-2-in-the-creator-hub/7727",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/t/say-cheese-or-not-new-tagging-photo-controls/6062",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/t/room-rewards-cash-grabs-and-what-s-changing/7543",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/t/2025-build-contest-overview-and-rules/8687",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/t/introducing-click-through-rate-ctr-for-rooms-2-in-the-creator-hub/7727/4",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/t/introducing-click-through-rate-ctr-for-rooms-2-in-the-creator-hub/7727/1",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/t/introducing-click-through-rate-ctr-for-rooms-2-in-the-creator-hub/7727#main-container",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/t/welcome-to-the-creator-forums-please-read/61",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/c/official/4",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/t/say-cheese-or-not-new-tagging-photo-controls/6062/4",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/t/say-cheese-or-not-new-tagging-photo-controls/6062/1",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/t/say-cheese-or-not-new-tagging-photo-controls/6062#main-container",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/t/room-rewards-cash-grabs-and-what-s-changing/7543/31",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/t/room-rewards-cash-grabs-and-what-s-changing/7543/1",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/t/room-rewards-cash-grabs-and-what-s-changing/7543#main-container",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/t/2025-build-contest-overview-and-rules/8687/38",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/t/2025-build-contest-overview-and-rules/8687/1",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/t/2025-build-contest-overview-and-rules/8687#main-container",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/c/contests/53",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/t/introducing-click-through-rate-ctr-for-rooms-2-in-the-creator-hub/7727/4#main-container",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/tag/rooms-2",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/t/introducing-click-through-rate-ctr-for-rooms-2-in-the-creator-hub/7727/1#main-container",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/#main-container",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/categories",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/latest",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/top",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://forum.rec.net/docs",
+    "action": "https://forum.rec.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
