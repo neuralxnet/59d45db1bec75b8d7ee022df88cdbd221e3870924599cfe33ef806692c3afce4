@@ -56897,5 +56897,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://blog.recroom.com/",
+    "action": "https://blog.recroom.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-yui_3_17_2_1_1736390053786_6321-field",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
   }
 ]
