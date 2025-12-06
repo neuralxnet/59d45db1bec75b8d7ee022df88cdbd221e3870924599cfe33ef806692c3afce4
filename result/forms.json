@@ -56883,5 +56883,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.xbox.com",
+    "action": "https://www.xbox.com/en-us/Search/Results",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search Xbox.com",
+        "required": false
+      }
+    ]
   }
 ]
