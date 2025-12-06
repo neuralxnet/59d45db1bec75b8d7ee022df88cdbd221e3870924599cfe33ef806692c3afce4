@@ -56827,5 +56827,61 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.nintendo.com",
+    "action": "https://www.nintendo.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search games, hardware, news, etc",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cat",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nintendo.com",
+    "action": "https://www.nintendo.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search games, hardware, news, etc",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cat",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
