@@ -55427,5 +55427,425 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://rea-group.com",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://rea-group.com",
+    "action": "https://www.rea-group.com/#search-results-page-tab-1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "mastbanner_1-s",
+        "placeholder": "Search keywords",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com",
+    "action": "https://www.rea-group.com/#search-results-page-tab-1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "mastbanner_1-s",
+        "placeholder": "Search keywords",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://rea-group.com",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://rea-group.com",
+    "action": "https://www.rea-group.com/#search-results-page-tab-1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "mastbanner_1-s",
+        "placeholder": "Search keywords",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/#nav",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/#nav",
+    "action": "https://www.rea-group.com/#search-results-page-tab-1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "mastbanner_1-s",
+        "placeholder": "Search keywords",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/#content",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/#content",
+    "action": "https://www.rea-group.com/#search-results-page-tab-1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "mastbanner_1-s",
+        "placeholder": "Search keywords",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/",
+    "action": "https://www.rea-group.com/#search-results-page-tab-1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "mastbanner_1-s",
+        "placeholder": "Search keywords",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/careers/jobs/",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/careers/jobs/",
+    "action": "https://www.rea-group.com/careers/jobs/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "terms",
+        "id": "s-jobs",
+        "placeholder": "Search keywords",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/about-us/",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/about-us/about-rea-group/",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/about-us/our-people-and-story/",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/about-us/business-and-brands/",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/careers/jobs/#nav",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/careers/jobs/#nav",
+    "action": "https://www.rea-group.com/careers/jobs/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "terms",
+        "id": "s-jobs",
+        "placeholder": "Search keywords",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/careers/jobs/#content",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/careers/jobs/#content",
+    "action": "https://www.rea-group.com/careers/jobs/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "terms",
+        "id": "s-jobs",
+        "placeholder": "Search keywords",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/about-us/#nav",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/about-us/#content",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/about-us/about-rea-group/#nav",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/about-us/about-rea-group/#content",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/about-us/our-people-and-story/#nav",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/about-us/our-people-and-story/#content",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/about-us/business-and-brands/#nav",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rea-group.com/about-us/business-and-brands/#content",
+    "action": "https://www.rea-group.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search REA Group",
+        "required": false
+      }
+    ]
   }
 ]
