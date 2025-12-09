@@ -57116,5 +57116,47 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://splus-static-site-pages-slot1.pnimedia.com",
+    "action": "https://splus-static-site-pages-slot1.pnimedia.com/services/printing/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "address-search",
+        "placeholder": "Search city, state, zip",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://splus-static-site-pages-slot1.pnimedia.com",
+    "action": "https://splus-static-site-pages-slot1.pnimedia.com/services/printing/Search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "site-search",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://splus-static-site-pages-slot1.pnimedia.com",
+    "action": "https://splus-static-site-pages-slot1.pnimedia.com/services/printing/Search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "site-search",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
   }
 ]
