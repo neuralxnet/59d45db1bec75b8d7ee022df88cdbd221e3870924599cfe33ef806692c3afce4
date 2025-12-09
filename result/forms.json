@@ -57158,5 +57158,537 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://simplisafe.com",
+    "action": "https://simplisafe.com/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.simplisafe.com",
+    "action": "https://simplisafe.com/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://simplisafe.com",
+    "action": "https://simplisafe.com/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/#content",
+    "action": "https://simplisafe.com/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/legal/accessibility_statement",
+    "action": "https://simplisafe.com/legal/accessibility_statement#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/",
+    "action": "https://simplisafe.com/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/business",
+    "action": "https://simplisafe.com/business#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "businessFirstName",
+        "id": "businessFirstName",
+        "placeholder": "First name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "businessCompanyName",
+        "id": "businessCompanyName",
+        "placeholder": "Company, inc.",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "businessEmail",
+        "id": "businessEmail",
+        "placeholder": "Email address",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "businessPhone",
+        "id": "businessPhone",
+        "placeholder": "Phone",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "businessNumLocations",
+        "id": "1 Location",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "businessNumLocations",
+        "id": "2-9 Locations",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "businessNumLocations",
+        "id": "10+ Locations",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/business",
+    "action": "https://simplisafe.com/business#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/home-security-shop-packages",
+    "action": "https://simplisafe.com/home-security-shop-packages#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/refurb-home-security-systems-2",
+    "action": "https://simplisafe.com/refurb-home-security-systems-2#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/alarm-sensors",
+    "action": "https://simplisafe.com/alarm-sensors#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/home-security-system-beacon",
+    "action": "https://simplisafe.com/home-security-system-beacon#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/home-security-system-lighthouse",
+    "action": "https://simplisafe.com/home-security-system-lighthouse#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/legal/accessibility_statement#content",
+    "action": "https://simplisafe.com/legal/accessibility_statement#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/home-security-system-starter",
+    "action": "https://simplisafe.com/home-security-system-starter#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/business#content",
+    "action": "https://simplisafe.com/business#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "businessFirstName",
+        "id": "businessFirstName",
+        "placeholder": "First name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "businessCompanyName",
+        "id": "businessCompanyName",
+        "placeholder": "Company, inc.",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "businessEmail",
+        "id": "businessEmail",
+        "placeholder": "Email address",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "businessPhone",
+        "id": "businessPhone",
+        "placeholder": "Phone",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "businessNumLocations",
+        "id": "1 Location",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "businessNumLocations",
+        "id": "2-9 Locations",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "businessNumLocations",
+        "id": "10+ Locations",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/business#content",
+    "action": "https://simplisafe.com/business#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/business/build-my-system",
+    "action": "https://simplisafe.com/business/build-my-system#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/business/features-alarm-monitoring",
+    "action": "https://simplisafe.com/business/features-alarm-monitoring#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/home-security-shop-packages#content",
+    "action": "https://simplisafe.com/home-security-shop-packages#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/refurb-home-security-systems-2#content",
+    "action": "https://simplisafe.com/refurb-home-security-systems-2#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/alarm-sensors#content",
+    "action": "https://simplisafe.com/alarm-sensors#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/home-security-system-beacon#content",
+    "action": "https://simplisafe.com/home-security-system-beacon#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/home-security-system-lighthouse#content",
+    "action": "https://simplisafe.com/home-security-system-lighthouse#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/home-security-system-starter#content",
+    "action": "https://simplisafe.com/home-security-system-starter#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/business/build-my-system#content",
+    "action": "https://simplisafe.com/business/build-my-system#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/business/features-alarm-monitoring#content",
+    "action": "https://simplisafe.com/business/features-alarm-monitoring#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/features-alarm-monitoring",
+    "action": "https://simplisafe.com/features-alarm-monitoring#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/?utm_source=help_center&utm_medium=topnav",
+    "action": "https://simplisafe.com/?utm_source=help_center&utm_medium=topnav#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/features-alarm-monitoring#content",
+    "action": "https://simplisafe.com/features-alarm-monitoring#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/?utm_source=help_center&utm_medium=topnav#content",
+    "action": "https://simplisafe.com/?utm_source=help_center&utm_medium=topnav#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://simplisafe.com/alarm-sensors/ss3?utm_source=help_center&utm_medium=productpage",
+    "action": "https://simplisafe.com/alarm-sensors/ss3?utm_source=help_center&utm_medium=productpage#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "footerEmail",
+        "id": "footerEmail",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
   }
 ]
