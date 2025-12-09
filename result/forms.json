@@ -57046,5 +57046,33 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://splus-static-site.pnimedia.com/header-v2",
+    "action": "https://splus-static-site.pnimedia.com/header-v2",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "address-search",
+        "placeholder": "Search city, state, zip",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://splus-static-site.pnimedia.com/header-v2",
+    "action": "https://splus-static-site.pnimedia.com/services/printing/Search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "site-search",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
   }
 ]
