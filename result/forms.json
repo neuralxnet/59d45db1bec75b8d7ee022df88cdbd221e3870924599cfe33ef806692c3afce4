@@ -63556,5 +63556,1108 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://metrobyt-mobile.com",
+    "action": "https://www.metrobyt-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://metrobyt-mobile.com",
+    "action": "https://www.metrobyt-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com",
+    "action": "https://www.metrobyt-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com",
+    "action": "https://www.metrobyt-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://metrobyt-mobile.com",
+    "action": "https://www.metrobyt-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://metrobyt-mobile.com",
+    "action": "https://www.metrobyt-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/#content-main",
+    "action": "https://www.metrobyt-mobile.com/#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/#content-main",
+    "action": "https://www.metrobyt-mobile.com/#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/?INTNAV=tNav:Metro",
+    "action": "https://www.metrobyt-mobile.com/?INTNAV=tNav:Metro",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/?INTNAV=tNav:Metro",
+    "action": "https://www.metrobyt-mobile.com/?INTNAV=tNav:Metro",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/my-account/dashboard",
+    "action": "https://www.metrobyt-mobile.com/my-account/dashboard",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "logOutParam",
+        "id": "logOutParamtext",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirectUrlParam",
+        "id": "redirectUrlParamText",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/my-account/monthlytotal",
+    "action": "https://www.metrobyt-mobile.com/my-account/monthlytotal",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "logOutParam",
+        "id": "logOutParamtext",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirectUrlParam",
+        "id": "redirectUrlParamText",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/phone-plans?INTNAV=tNav%3APlans",
+    "action": "https://www.metrobyt-mobile.com/phone-plans?INTNAV=tNav%3APlans",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/phone-plans?INTNAV=tNav%3APlans",
+    "action": "https://www.metrobyt-mobile.com/phone-plans?INTNAV=tNav%3APlans",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/phone-plans?INTNAV=tNav%3APlans%3ACellphoneplans",
+    "action": "https://www.metrobyt-mobile.com/phone-plans?INTNAV=tNav%3APlans%3ACellphoneplans",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/phone-plans?INTNAV=tNav%3APlans%3ACellphoneplans",
+    "action": "https://www.metrobyt-mobile.com/phone-plans?INTNAV=tNav%3APlans%3ACellphoneplans",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/plans/connected-devices?INTNAV=tNav%3APlans%3AWatchtabletplans",
+    "action": "https://www.metrobyt-mobile.com/plans/connected-devices?INTNAV=tNav%3APlans%3AWatchtabletplans",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/plans/connected-devices?INTNAV=tNav%3APlans%3AWatchtabletplans",
+    "action": "https://www.metrobyt-mobile.com/plans/connected-devices?INTNAV=tNav%3APlans%3AWatchtabletplans",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/plans/home-internet?INTNAV=tNav%3APlans%3AHomeinternetplans",
+    "action": "https://www.metrobyt-mobile.com/plans/home-internet?INTNAV=tNav%3APlans%3AHomeinternetplans",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/plans/home-internet?INTNAV=tNav%3APlans%3AHomeinternetplans",
+    "action": "https://www.metrobyt-mobile.com/plans/home-internet?INTNAV=tNav%3APlans%3AHomeinternetplans",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/deals/one-line-for-25-phone-plan?INTNAV=tNav%3APlans%3ABringyourownphone",
+    "action": "https://www.metrobyt-mobile.com/deals/one-line-for-25-phone-plan?INTNAV=tNav%3APlans%3ABringyourownphone",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/deals/one-line-for-25-phone-plan?INTNAV=tNav%3APlans%3ABringyourownphone",
+    "action": "https://www.metrobyt-mobile.com/deals/one-line-for-25-phone-plan?INTNAV=tNav%3APlans%3ABringyourownphone",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/?INTNAV=tNav:Metro#content-main",
+    "action": "https://www.metrobyt-mobile.com/?INTNAV=tNav:Metro#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/?INTNAV=tNav:Metro#content-main",
+    "action": "https://www.metrobyt-mobile.com/?INTNAV=tNav:Metro#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/",
+    "action": "https://www.metrobyt-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/",
+    "action": "https://www.metrobyt-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/cell-phones",
+    "action": "https://www.metrobyt-mobile.com/cell-phones",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "logOutParam",
+        "id": "logOutParamtext",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirectUrlParam",
+        "id": "redirectUrlParamText",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/cell-phones",
+    "action": "https://www.metrobyt-mobile.com/cell-phones",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/cell-phones/brand/apple",
+    "action": "https://www.metrobyt-mobile.com/cell-phones/brand/apple",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "logOutParam",
+        "id": "logOutParamtext",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirectUrlParam",
+        "id": "redirectUrlParamText",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/cell-phones/brand/apple",
+    "action": "https://www.metrobyt-mobile.com/cell-phones/brand/apple",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "Brands",
+        "id": "mat-checkbox-919-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Brands",
+        "id": "mat-checkbox-920-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Brands",
+        "id": "mat-checkbox-921-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Brands",
+        "id": "mat-checkbox-922-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Brands",
+        "id": "mat-checkbox-923-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Brands",
+        "id": "mat-checkbox-924-input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/cell-phones/osy/android",
+    "action": "https://www.metrobyt-mobile.com/cell-phones/osy/android",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "logOutParam",
+        "id": "logOutParamtext",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirectUrlParam",
+        "id": "redirectUrlParamText",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/cell-phones/osy/android",
+    "action": "https://www.metrobyt-mobile.com/cell-phones/osy/android",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "Operating system",
+        "id": "mat-checkbox-986-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Operating system",
+        "id": "mat-checkbox-987-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Operating system",
+        "id": "mat-checkbox-988-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Operating system",
+        "id": "mat-checkbox-989-input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/tablets",
+    "action": "https://www.metrobyt-mobile.com/tablets",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "logOutParam",
+        "id": "logOutParamtext",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirectUrlParam",
+        "id": "redirectUrlParamText",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/tablets",
+    "action": "https://www.metrobyt-mobile.com/tablets",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/smart-watches",
+    "action": "https://www.metrobyt-mobile.com/smart-watches",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "logOutParam",
+        "id": "logOutParamtext",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirectUrlParam",
+        "id": "redirectUrlParamText",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/smart-watches",
+    "action": "https://www.metrobyt-mobile.com/smart-watches",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/resources/bring-your-own-phone?INTNAV=tNav%3APhonesanddevices%3ABringyourownphone",
+    "action": "https://www.metrobyt-mobile.com/resources/bring-your-own-phone?INTNAV=tNav%3APhonesanddevices%3ABringyourownphone",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/resources/bring-your-own-phone?INTNAV=tNav%3APhonesanddevices%3ABringyourownphone",
+    "action": "https://www.metrobyt-mobile.com/resources/bring-your-own-phone?INTNAV=tNav%3APhonesanddevices%3ABringyourownphone",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/phone-plans?INTNAV=tNav%3APlans#content-main",
+    "action": "https://www.metrobyt-mobile.com/phone-plans?INTNAV=tNav%3APlans#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/phone-plans?INTNAV=tNav%3APlans#content-main",
+    "action": "https://www.metrobyt-mobile.com/phone-plans?INTNAV=tNav%3APlans#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/phone-plans?INTNAV=tNav%3APlans%3ACellphoneplans#content-main",
+    "action": "https://www.metrobyt-mobile.com/phone-plans?INTNAV=tNav%3APlans%3ACellphoneplans#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/phone-plans?INTNAV=tNav%3APlans%3ACellphoneplans#content-main",
+    "action": "https://www.metrobyt-mobile.com/phone-plans?INTNAV=tNav%3APlans%3ACellphoneplans#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/plans/connected-devices?INTNAV=tNav%3APlans%3AWatchtabletplans#content-main",
+    "action": "https://www.metrobyt-mobile.com/plans/connected-devices?INTNAV=tNav%3APlans%3AWatchtabletplans#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/plans/connected-devices?INTNAV=tNav%3APlans%3AWatchtabletplans#content-main",
+    "action": "https://www.metrobyt-mobile.com/plans/connected-devices?INTNAV=tNav%3APlans%3AWatchtabletplans#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/plans/home-internet?INTNAV=tNav%3APlans%3AHomeinternetplans#content-main",
+    "action": "https://www.metrobyt-mobile.com/plans/home-internet?INTNAV=tNav%3APlans%3AHomeinternetplans#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/plans/home-internet?INTNAV=tNav%3APlans%3AHomeinternetplans#content-main",
+    "action": "https://www.metrobyt-mobile.com/plans/home-internet?INTNAV=tNav%3APlans%3AHomeinternetplans#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/deals/one-line-for-25-phone-plan?INTNAV=tNav%3APlans%3ABringyourownphone#content-main",
+    "action": "https://www.metrobyt-mobile.com/deals/one-line-for-25-phone-plan?INTNAV=tNav%3APlans%3ABringyourownphone#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/deals/one-line-for-25-phone-plan?INTNAV=tNav%3APlans%3ABringyourownphone#content-main",
+    "action": "https://www.metrobyt-mobile.com/deals/one-line-for-25-phone-plan?INTNAV=tNav%3APlans%3ABringyourownphone#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/payment",
+    "action": "https://www.metrobyt-mobile.com/guestpay/landing",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "logOutParam",
+        "id": "logOutParamtext",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirectUrlParam",
+        "id": "redirectUrlParamText",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/payment",
+    "action": "https://www.metrobyt-mobile.com/guestpay/landing",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "phonenum-input",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "confirm-input",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/phone-plans",
+    "action": "https://www.metrobyt-mobile.com/phone-plans",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/phone-plans",
+    "action": "https://www.metrobyt-mobile.com/phone-plans",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/plans/connected-devices",
+    "action": "https://www.metrobyt-mobile.com/plans/connected-devices",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/plans/connected-devices",
+    "action": "https://www.metrobyt-mobile.com/plans/connected-devices",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/deals/one-line-for-25-phone-plan",
+    "action": "https://www.metrobyt-mobile.com/deals/one-line-for-25-phone-plan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/deals/one-line-for-25-phone-plan",
+    "action": "https://www.metrobyt-mobile.com/deals/one-line-for-25-phone-plan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/shop/services",
+    "action": "https://www.metrobyt-mobile.com/phone-plans/add-on-services",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/shop/services",
+    "action": "https://www.metrobyt-mobile.com/phone-plans/add-on-services",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/deals/single-line-free-phone",
+    "action": "https://www.metrobyt-mobile.com/deals/single-line-free-phone",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/deals/single-line-free-phone",
+    "action": "https://www.metrobyt-mobile.com/deals/single-line-free-phone",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/resources/bring-your-own-phone?INTNAV=tNav%3APhonesanddevices%3ABringyourownphone#content-main",
+    "action": "https://www.metrobyt-mobile.com/resources/bring-your-own-phone?INTNAV=tNav%3APhonesanddevices%3ABringyourownphone#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/resources/bring-your-own-phone?INTNAV=tNav%3APhonesanddevices%3ABringyourownphone#content-main",
+    "action": "https://www.metrobyt-mobile.com/resources/bring-your-own-phone?INTNAV=tNav%3APhonesanddevices%3ABringyourownphone#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/phone-plans#content-main",
+    "action": "https://www.metrobyt-mobile.com/phone-plans#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/phone-plans#content-main",
+    "action": "https://www.metrobyt-mobile.com/phone-plans#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/plans/connected-devices#content-main",
+    "action": "https://www.metrobyt-mobile.com/plans/connected-devices#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/plans/connected-devices#content-main",
+    "action": "https://www.metrobyt-mobile.com/plans/connected-devices#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/deals/one-line-for-25-phone-plan#content-main",
+    "action": "https://www.metrobyt-mobile.com/deals/one-line-for-25-phone-plan#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/deals/one-line-for-25-phone-plan#content-main",
+    "action": "https://www.metrobyt-mobile.com/deals/one-line-for-25-phone-plan#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/phone-plans/add-on-services#content-main",
+    "action": "https://www.metrobyt-mobile.com/phone-plans/add-on-services#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/phone-plans/add-on-services#content-main",
+    "action": "https://www.metrobyt-mobile.com/phone-plans/add-on-services#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/deals/single-line-free-phone#content-main",
+    "action": "https://www.metrobyt-mobile.com/deals/single-line-free-phone#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.metrobyt-mobile.com/deals/single-line-free-phone#content-main",
+    "action": "https://www.metrobyt-mobile.com/deals/single-line-free-phone#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
   }
 ]
