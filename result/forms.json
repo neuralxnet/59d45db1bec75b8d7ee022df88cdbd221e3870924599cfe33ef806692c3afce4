@@ -63500,5 +63500,61 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://manage.statuspage.io",
+    "action": "https://manage.statuspage.io/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "init",
+        "id": "login-init",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "dual_login",
+        "id": "dual-login",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "use_atlassian",
+        "id": "use-atlassian",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "show_dual_login",
+        "id": "show-dual-login",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Enter password",
+        "required": false
+      }
+    ]
   }
 ]
