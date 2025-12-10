@@ -58033,5 +58033,61 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://partnerportal.skyscanner.net",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "js-available",
+        "id": "js-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-available",
+        "id": "webauthn-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is-brave",
+        "id": "is-brave",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-platform-available",
+        "id": "webauthn-platform-available",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
