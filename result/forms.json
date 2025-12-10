@@ -62436,5 +62436,1069 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://squareup.com",
+    "action": "https://squareup.com/us/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Square_AVT__c",
+        "id": "Square_AVT__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formType",
+        "id": "formType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Country",
+        "id": "Country",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Language__c_account",
+        "id": "Language__c_account",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "referrer",
+        "id": "referrer",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formDetail",
+        "id": "formDetail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Sync_to_Marketo__c",
+        "id": "Sync_to_Marketo__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieAffiliate",
+        "id": "cookieAffiliate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieCode",
+        "id": "cookieCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieEntireURL",
+        "id": "cookieEntireURL",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "experiments",
+        "id": "experiments",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RecordTypeId",
+        "id": "RecordTypeId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LeadSource",
+        "id": "LeadSource",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Source_Detail__c_account",
+        "id": "Source_Detail__c_account",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "audienceSegment",
+        "id": "audienceSegment",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "squareBU",
+        "id": "squareBU",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_mkt_trk",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "followUpList",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://squareup.com",
+    "action": "https://squareup.com/us/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "FirstName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "LastName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "",
+        "id": "Phone",
+        "placeholder": "000 000 0000",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Phone",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Company",
+        "id": "Company",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Industry",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Revenue_Range__c_account",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Email_Opt_Out__c",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Sync_to_Marketo__c",
+        "id": "Sync_to_Marketo__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieAffiliate",
+        "id": "cookieAffiliate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieCode",
+        "id": "cookieCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieEntireURL",
+        "id": "cookieEntireURL",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "experiments",
+        "id": "experiments",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "squareBU",
+        "id": "squareBU",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_mkt_trk",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "followUpList",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.squareup.com",
+    "action": "https://squareup.com/us/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Square_AVT__c",
+        "id": "Square_AVT__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formType",
+        "id": "formType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Country",
+        "id": "Country",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Language__c_account",
+        "id": "Language__c_account",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "referrer",
+        "id": "referrer",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formDetail",
+        "id": "formDetail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Sync_to_Marketo__c",
+        "id": "Sync_to_Marketo__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieAffiliate",
+        "id": "cookieAffiliate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieCode",
+        "id": "cookieCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieEntireURL",
+        "id": "cookieEntireURL",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "experiments",
+        "id": "experiments",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RecordTypeId",
+        "id": "RecordTypeId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LeadSource",
+        "id": "LeadSource",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Source_Detail__c_account",
+        "id": "Source_Detail__c_account",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "audienceSegment",
+        "id": "audienceSegment",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "squareBU",
+        "id": "squareBU",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_mkt_trk",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "followUpList",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.squareup.com",
+    "action": "https://squareup.com/us/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "FirstName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "LastName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "",
+        "id": "Phone",
+        "placeholder": "000 000 0000",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Phone",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Company",
+        "id": "Company",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Industry",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Revenue_Range__c_account",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Email_Opt_Out__c",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Sync_to_Marketo__c",
+        "id": "Sync_to_Marketo__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieAffiliate",
+        "id": "cookieAffiliate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieCode",
+        "id": "cookieCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieEntireURL",
+        "id": "cookieEntireURL",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "experiments",
+        "id": "experiments",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "squareBU",
+        "id": "squareBU",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_mkt_trk",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "followUpList",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://squareup.com",
+    "action": "https://squareup.com/us/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Square_AVT__c",
+        "id": "Square_AVT__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formType",
+        "id": "formType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Country",
+        "id": "Country",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Language__c_account",
+        "id": "Language__c_account",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "referrer",
+        "id": "referrer",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formDetail",
+        "id": "formDetail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Sync_to_Marketo__c",
+        "id": "Sync_to_Marketo__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieAffiliate",
+        "id": "cookieAffiliate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieCode",
+        "id": "cookieCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieEntireURL",
+        "id": "cookieEntireURL",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "experiments",
+        "id": "experiments",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RecordTypeId",
+        "id": "RecordTypeId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LeadSource",
+        "id": "LeadSource",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Source_Detail__c_account",
+        "id": "Source_Detail__c_account",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "audienceSegment",
+        "id": "audienceSegment",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "squareBU",
+        "id": "squareBU",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_mkt_trk",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "followUpList",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://squareup.com",
+    "action": "https://squareup.com/us/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "FirstName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "LastName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "",
+        "id": "Phone",
+        "placeholder": "000 000 0000",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Phone",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Company",
+        "id": "Company",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Industry",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Revenue_Range__c_account",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Email_Opt_Out__c",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Sync_to_Marketo__c",
+        "id": "Sync_to_Marketo__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieAffiliate",
+        "id": "cookieAffiliate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieCode",
+        "id": "cookieCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieEntireURL",
+        "id": "cookieEntireURL",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "experiments",
+        "id": "experiments",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "squareBU",
+        "id": "squareBU",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_mkt_trk",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "followUpList",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://squareup.com/us/en#main-content",
+    "action": "https://squareup.com/us/en#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Square_AVT__c",
+        "id": "Square_AVT__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formType",
+        "id": "formType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Country",
+        "id": "Country",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Language__c_account",
+        "id": "Language__c_account",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "referrer",
+        "id": "referrer",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formDetail",
+        "id": "formDetail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Sync_to_Marketo__c",
+        "id": "Sync_to_Marketo__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieAffiliate",
+        "id": "cookieAffiliate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieCode",
+        "id": "cookieCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieEntireURL",
+        "id": "cookieEntireURL",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "experiments",
+        "id": "experiments",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RecordTypeId",
+        "id": "RecordTypeId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LeadSource",
+        "id": "LeadSource",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Source_Detail__c_account",
+        "id": "Source_Detail__c_account",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "audienceSegment",
+        "id": "audienceSegment",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "squareBU",
+        "id": "squareBU",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_mkt_trk",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "followUpList",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://squareup.com/us/en#main-content",
+    "action": "https://squareup.com/us/en#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "FirstName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "LastName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "",
+        "id": "Phone",
+        "placeholder": "000 000 0000",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Phone",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Company",
+        "id": "Company",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Industry",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Revenue_Range__c_account",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Email_Opt_Out__c",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Sync_to_Marketo__c",
+        "id": "Sync_to_Marketo__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieAffiliate",
+        "id": "cookieAffiliate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieCode",
+        "id": "cookieCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cookieEntireURL",
+        "id": "cookieEntireURL",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "experiments",
+        "id": "experiments",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "squareBU",
+        "id": "squareBU",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_mkt_trk",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "followUpList",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
