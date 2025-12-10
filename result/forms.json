@@ -62373,5 +62373,68 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://soundcloud.org",
+    "action": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue%2526hd%253D*&dsh=S404168532%3A1765387583293493&client_id=138009452611-sjeieq88qlhfp7ti9t4aotqarhhb8erm.apps.googleusercontent.com&code_challenge=003vNLfWxcD7TQ1G3uWGGuKTS-Vz76cSZqvTx_nb3-E&code_challenge_method=S256&hd=*&o2v=2&redirect_uri=https%3A%2F%2Fiap.googleapis.com%2Fv1%2Foauth%2FclientIds%2F138009452611-sjeieq88qlhfp7ti9t4aotqarhhb8erm.apps.googleusercontent.com%3AhandleRedirect&response_type=code&scope=openid+email&service=lso&state=AcTtZtcESLek5RdxzojzbUH3JiP1n_hhDDQZHQTyUi0IIV2lpzrqB6wQSy-q7ZYqfqs0uvluZ5XmRcaCUnuQdQR5FPDzknnIlUAz8WZZeTcQQr34rJ99T0SY65EjwPJI4pebESWM6kiSwsI4-o7LsV0q2Jg8EyF4lgGR3gmgDk5m5AINxzZ45YbzJ3_l7D-gJiy0iqKSllbUbNJZ3_uoLAzZcqhsLdnkEjdkfuIXve_94VwBf2ILqGk0_EhjMeTzJ5hzkGvWzcES8r5sCA93IEolI1QzXJ461ojQVsszs3vS0knPTLr4ybvCFZdITFnigngxBzSuAnAw8jKcJHL62-_UqvTTcdVI7EfV-dXLUO8DWV4-0zgOwTS71s8O0uG_rbGXlPCzodB3zxgi0nUTiKiWMqFcLvTTjEfOCY7OlcIPy2jjK_W0GjdxIJCtE8F8PD-AQo1QGoy9TRm6fJb2nPyXgr7brn1tVbtkv40kfO7nhlp_osMDXYqlnhUmyRTGwyquQjSEop1HarRlAaOGbvHst1E4X84iXQ8vqGLeQ_CJ46abUsdGImcYfMBOHTXykSc-ECDfg6L_sVAL--hNnVot-kVdYnWgEWvLUSYE45PSaB6NfCSjuIRLRAWkLW0Erd9dG4GHtBq-1O1LIcW08WRBUBfC4iX1YJLBkCKHyaCmxGmn_alpNRQWrarXr9W95Tf-f6SCi1fI_ubYYi6sIuOJaQ8ppRCU_9QLPUZWUCryuWfHhybKMNvJMfS5Vkh245fmkPfStbd3WNNAmcJPkIgdf4UqXsjphxVB7y01tEIUsBRzUyFjYCZsvQBYV_wIAeC3ufQxH6rtYFpMKXV1yfQycwduQX974wSpOdGVwvxn3Y2LvjtN2UcrkGxJ5vgpLI4YsbDD_vCwIOr5zgh4tVS6fWvpxzOaEfHo-Q4WYEx0KuRyyyDGc1BbzC_qUV9uAqZ71s9G31TQ0jhK0nQ0syl4A3pQIYwBiPXdmyylNvQgMRT5-LhhJtDAL1_EmxZTb8rbJBSmmz8LWrgXG2unmRhrNPR_YbMG-6W25JbaAOmKe5wTu4lbpMOcxPWlYYO50y_gPbYr3XE4a7ubXlyGvcpbcCKHFZCC8-WCWwJyv4VQ&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANHGN53RuVPy-idvhZDf1SvQ043ZvjurZJrM_zd0hzNnnGXnXc-yj2BIiY8G34V1J5r3W4hDffDfm2-n78YEVJLxfJ1xRPDXwMog6BxizuRD7llET76Q9uSV-JX3TsBAIaAUQdItNOLiJ1eaI1gq3hl06uma-aXdI165ptza3CVpYkDpC7PGFfXAe9vD4HHRVKteVhGlkKiBWDUudoUW03zXA8C5L4CrCjQgc1c-36HWwyZqEq6E-ZjXXqZo3_3k0xsR_PW37tRY5WSzW0CkvXUq9UoHa7cPBp4rWFbHzRbpIc3367-ZPjxF0EKc_IleSAaKLIcDrnyIyj1nLSRxiOyBduiQHdCTWRiCTfRemKrPC3yTYCZXtEVKab6QeFYN465d_cps6D9qs62YKatVhOESKXXTZK0vw1HkJaW4DYMXbtHZCGDFMeiWZedtr2mLt5eT5NNV5V2MMEZMN87nX5td1q0nQ%26flowName%3DGeneralOAuthFlow%26as%3DS404168532%253A1765387583293493%26client_id%3D138009452611-sjeieq88qlhfp7ti9t4aotqarhhb8erm.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Fiap.googleapis.com&rart=ANgoxccaqR8e_hQQ1abt-MTK4LFL7wm6NoZ7auUT3PG-J15C8dlhvysazgBGFtmn2Z9Ok893v5goEbkqURfekkz71_VF31xPe3dmIiw5teGDVNnaKozXUH0",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "identifier",
+        "id": "identifierId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "hiddenPassword",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ca",
+        "id": "ca",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ct",
+        "id": "ct",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "usi",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "domain",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "region",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "fidoUserHandle",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
