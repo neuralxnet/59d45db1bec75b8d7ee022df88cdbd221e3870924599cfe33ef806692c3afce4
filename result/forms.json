@@ -68304,5 +68304,26 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://docker-staging.adstruc.com",
+    "action": "https://docker-staging.adstruc.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
   }
 ]
