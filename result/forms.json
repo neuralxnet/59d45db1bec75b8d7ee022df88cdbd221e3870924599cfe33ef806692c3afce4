@@ -68241,5 +68241,68 @@
     "action": "https://login.microsoftonline.com/be0f980b-dd99-4b19-bd7b-bc71a09b026c/saml2?SAMLRequest=lVLBjtsgEP0Vizs29qZxjOJIbqKqkbZba5P20BuGcRYJg8vgbPv39ZKsdntopEocEPPmvTdvWKMYTDHyZgpP9hF%2BToAh%2BTUYi%2FxSqcnkLXcCNXIrBkAeJD80X%2B55kTI%2BehecdIYkDSL4oJ3dOovTAP4A%2FqwlfHu8r8lTCCPyLAuAmOKlQK17TqUbMivOozhBqhxJdrO8tuKF563LuJO26aCld%2Bj64KzRFmJrB6yvVqyjSlUVXXR5RTtVdrSTZS5Y1bFiKbM4B0k%2BOS8hjlmTXhgEkux3NTk8bEXPqruyK3tZSFWqu0W%2FXIj5tipXSiz7xQzEViDqM7y1Ik6wtxiEDTUpWPGB5gXN8yMreTGfORy2%2BkGS9hrQR22VtqfbaXYXEPLPx2NL26%2BHYyQ4awX%2BYUb%2FR5DfwWMMceYlm3XMgEfT%2Fv16b%2FsRrzslm1vC6%2Bw9%2FVVs5C%2BO97vWGS1%2FJ40x7nnrQYR5iuAniAsZRPi3gzzN44tWtI9QDoPQplHKzyZItrnq%2Fv15N38A&RelayState=eccbd97c97393e50be3dbdf0f053af5e&sso_reload=true",
     "method": "post",
     "fields": []
+  },
+  {
+    "url": "https://storybook.vistarmedia.com",
+    "action": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S1983757799%3A1765463157238122&client_id=846679811649-v0k6hq3tc50c134v55oktp3ihmhnucii.apps.googleusercontent.com&login_hint=vistarmedia.com&o2v=1&redirect_uri=https%3A%2F%2Fstorybook.vistarmedia.com%2F_oauth&response_type=code&scope=email&service=lso&state=https%3A%2F%2Fstorybook.vistarmedia.com%2F&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPvXcmGn6ceyMYmrcRPGqk1hysyBV87QuV5hj9gVOZO_W15irPJKh1ZkXaQpur23hi731ue1YSxLJ4Nhpp5pBkoJCDYcVmXbeknGkxYLScIEz_hH643J_UGcwSQ4htvRvmWxx9_0ZXDJvDuOg1UumM4LjZ1oTTSc5OSq3OkkiM4PHNWReoHKGrtbPGbOtdcR1aM0bMOLalNU2z909shMgZfWSa3ftk5Rvq876N8Gw0qXBbL9wsYtHw7YMJgvXYQtB0Fuyz_GYtKqK9vCB42idQIWz2dXOi-vKlqZp5BGrjewe8HazZ29kEPSEjxk9_XWh3eqpXa52cb55hKMyEco43gr-pf9YwMDW5bGcG45mBohleW2cU76IkQPtK03rQIJy9PnxU3DF9PIjg9tmewHvHGC45ftgrFf_RY7G9s2QoRxgQMuvyCiK1kJP3QujnoMLZd3dRsvU1snhtMWD_Siu5TtP0cV_2wH5lTmfTBsbaU4-77X3k%26flowName%3DGeneralOAuthFlow%26as%3DS1983757799%253A1765463157238122%26client_id%3D846679811649-v0k6hq3tc50c134v55oktp3ihmhnucii.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Fstorybook.vistarmedia.com&rart=ANgoxccvTbhuQN_lFGyrn_hO7_3Eb-wPNEeehRipv3-UsDP3JIsk-gaBDD-evGfpUUfrkNw2YS4pS6P-L4CrwOz6pZkIM0s1yBkaUjS-thcbm3A9LJmzefI",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "identifier",
+        "id": "identifierId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "hiddenPassword",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ca",
+        "id": "ca",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ct",
+        "id": "ct",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "usi",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "domain",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "region",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "fidoUserHandle",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
