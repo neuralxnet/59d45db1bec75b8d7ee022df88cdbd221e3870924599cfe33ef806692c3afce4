@@ -68235,5 +68235,11 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://tess.service-now.com",
+    "action": "https://login.microsoftonline.com/be0f980b-dd99-4b19-bd7b-bc71a09b026c/saml2?SAMLRequest=lVLBjtsgEP0Vizs29qZxjOJIbqKqkbZba5P20BuGcRYJg8vgbPv39ZKsdntopEocEPPmvTdvWKMYTDHyZgpP9hF%2BToAh%2BTUYi%2FxSqcnkLXcCNXIrBkAeJD80X%2B55kTI%2BehecdIYkDSL4oJ3dOovTAP4A%2FqwlfHu8r8lTCCPyLAuAmOKlQK17TqUbMivOozhBqhxJdrO8tuKF563LuJO26aCld%2Bj64KzRFmJrB6yvVqyjSlUVXXR5RTtVdrSTZS5Y1bFiKbM4B0k%2BOS8hjlmTXhgEkux3NTk8bEXPqruyK3tZSFWqu0W%2FXIj5tipXSiz7xQzEViDqM7y1Ik6wtxiEDTUpWPGB5gXN8yMreTGfORy2%2BkGS9hrQR22VtqfbaXYXEPLPx2NL26%2BHYyQ4awX%2BYUb%2FR5DfwWMMceYlm3XMgEfT%2Fv16b%2FsRrzslm1vC6%2Bw9%2FVVs5C%2BO97vWGS1%2FJ40x7nnrQYR5iuAniAsZRPi3gzzN44tWtI9QDoPQplHKzyZItrnq%2Fv15N38A&RelayState=eccbd97c97393e50be3dbdf0f053af5e&sso_reload=true",
+    "method": "post",
+    "fields": []
   }
 ]
