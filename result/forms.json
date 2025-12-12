@@ -68535,5 +68535,89 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://blog.tempus-ex.com/",
+    "action": "https://blog.tempus-ex.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "search-field",
+        "placeholder": "Search...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.tempus-ex.com/pro-video-with-arduinos-an-intro-to-sdi-video-and-pcb-fab/",
+    "action": "https://blog.tempus-ex.com/pro-video-with-arduinos-an-intro-to-sdi-video-and-pcb-fab/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "search-field",
+        "placeholder": "Search...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.tempus-ex.com/tag/fpga/",
+    "action": "https://blog.tempus-ex.com/tag/fpga/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "search-field",
+        "placeholder": "Search...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.tempus-ex.com/author/chris/",
+    "action": "https://blog.tempus-ex.com/author/chris/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "search-field",
+        "placeholder": "Search...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.tempus-ex.com/hello-microcontroller/",
+    "action": "https://blog.tempus-ex.com/hello-microcontroller/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "search-field",
+        "placeholder": "Search...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.tempus-ex.com/tag/rust/",
+    "action": "https://blog.tempus-ex.com/tag/rust/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "search-field",
+        "placeholder": "Search...",
+        "required": false
+      }
+    ]
   }
 ]
