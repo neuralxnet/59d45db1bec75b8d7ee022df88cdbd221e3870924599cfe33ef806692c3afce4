@@ -68325,5 +68325,68 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://docsite.vistarmedia.com",
+    "action": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S137366684%3A1765510065321593&client_id=846679811649-v0k6hq3tc50c134v55oktp3ihmhnucii.apps.googleusercontent.com&login_hint=vistarmedia.com&o2v=1&redirect_uri=https%3A%2F%2Fdocsite.vistarmedia.com%2F_oauth&response_type=code&scope=email&service=lso&state=https%3A%2F%2Fdocsite.vistarmedia.com%2F&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOn9ZO4gX7AV8wbPGVuFeyvUwfAZPlJo0seNTbVE84oDz3oEUHjJlciW77cKEHvsPLuS00kzihqGkjZlwtfLPHemI3czr9iMopdToVJxi0YXI4Rox84SMNSUWPt4DSgIrBk_PHX1AZVBUUjYtKqgGgrHySwOdkoV6lXnlybhpW8_9e_VbAs0a2Xfq_itjTvGdsT9E4s7hZvWbt0RHPfXeqOdO59BdRNBlsHFiUe2sda3wslSGSTXMkf6bEpOlNjw_kiyjT_a3Utsd3fVgNvURw7xZRek1Ej1hAtsMexf0JFLYebYmaKk24fWp-3SKaWq6_GKSx_2Tsh8b6M_Uuh_z6WCNUAJvuTDQ6WpJY44FYD2GvrDZSUjM1gToMODivXefcWDrpRIj343Rx7a_yCKMgft_6ta5XeB_MLjNNXuAD3HZJpFfxwydw-mnMAmq75IRQIp5QiU4nhIN4pu4aIpqDv-JzxqA%26flowName%3DGeneralOAuthFlow%26as%3DS137366684%253A1765510065321593%26client_id%3D846679811649-v0k6hq3tc50c134v55oktp3ihmhnucii.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Fdocsite.vistarmedia.com&rart=ANgoxcc6l_q6tozUKNq-d3b5eyviF64KGcON2peXG7Sz6k6Nn5cIUsPNbIM_Rsq9b6ijNL--x1o08kCs6fD3X-a6vkrM0lYm-G14eXfLSNzZo1Cas_koONQ",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "identifier",
+        "id": "identifierId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "hiddenPassword",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ca",
+        "id": "ca",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ct",
+        "id": "ct",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "usi",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "domain",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "region",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "fidoUserHandle",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
