@@ -68458,5 +68458,82 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.tagesanzeiger.ch",
+    "action": "https://www.tagesanzeiger.ch/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Suchbegriffe eingeben",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tagesanzeiger.ch",
+    "action": "https://www.tagesanzeiger.ch/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "fullName",
+        "id": "fullName",
+        "placeholder": "Vor- und Nachname*",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email*",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "phoneNumber",
+        "id": "phoneNumber",
+        "placeholder": "Telefonnummer",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "problemDescription",
+        "id": "problemDescription",
+        "placeholder": "Ihre Erklärung",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "errorMessage",
+        "id": "errorMessage",
+        "placeholder": "Ihre Erklärung",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tamediaId",
+        "id": "tamediaId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "customVars",
+        "id": "customVars",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "entitlements",
+        "id": "entitlements",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
