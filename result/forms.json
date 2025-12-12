@@ -68437,5 +68437,26 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://demo.adstruc.com",
+    "action": "https://demo.adstruc.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
   }
 ]
