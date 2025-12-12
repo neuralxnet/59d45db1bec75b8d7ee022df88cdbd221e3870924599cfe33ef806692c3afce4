@@ -68388,5 +68388,26 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://sfleet.cortexpowered.com",
+    "action": "https://sfleet.cortexpowered.com/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
   }
 ]
