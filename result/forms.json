@@ -72383,5 +72383,11 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://cstg-integ.uidapi.com",
+    "action": "https://cstg-integ.uidapi.com/",
+    "method": "get",
+    "fields": []
   }
 ]
