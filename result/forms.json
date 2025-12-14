@@ -72464,5 +72464,26 @@
     "action": "https://example-jssdk-integ.uidapi.com/",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://example-srvonly-integ.uidapi.com",
+    "action": "https://example-srvonly-integ.uidapi.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter an email address",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
