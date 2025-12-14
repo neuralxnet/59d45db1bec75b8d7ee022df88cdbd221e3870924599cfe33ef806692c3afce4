@@ -72416,5 +72416,26 @@
     "action": "https://esp-jssdk-integ.uidapi.com/",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://esp-srvonly-integ.uidapi.com",
+    "action": "https://esp-srvonly-integ.uidapi.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter an email address",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
