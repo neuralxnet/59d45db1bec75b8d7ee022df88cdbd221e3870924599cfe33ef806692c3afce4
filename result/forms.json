@@ -73970,5 +73970,124 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.twilio.com/login",
+    "action": "https://www.twilio.com/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email_input",
+        "id": "email",
+        "placeholder": "example@twilio.com",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.twilio.com/try-twilio",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ulp-first-name",
+        "id": "first-name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "ulp-last-name",
+        "id": "last-name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "passwordPolicy.isFlexible",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "strengthPolicy",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "complexityOptions.minLength",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "captcha",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ulp-terms-of-service",
+        "id": "terms-of-service",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ulp-talon",
+        "id": "talon",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.twilio.com/try-twilio",
+    "action": "https://login.twilio.com/u/signup?state=hKFo2SA1WVQydHUzekNCSGhCUGJIb2ZZY1BBSEZzYXR1d2FLZ6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIG9ZOEpMMUd0WkV4TExPb25NNjlrdDc3QVZLaWVfajA0o2NpZNkgTW05M1lTTDVSclpmNzdobUlKZFI3QktZYjZPOXV1cks",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
