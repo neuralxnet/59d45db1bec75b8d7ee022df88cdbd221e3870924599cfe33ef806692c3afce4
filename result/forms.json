@@ -84240,5 +84240,89 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://mintmobile.com",
+    "action": "https://www.mintmobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "zipCode",
+        "placeholder": "ZIP Code",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mintmobile.com",
+    "action": "https://www.mintmobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "zipcode2",
+        "placeholder": "ZIP Code",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mintmobile.com",
+    "action": "https://www.mintmobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "subscribe_email_address_input",
+        "placeholder": "email address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mintmobile.com",
+    "action": "https://www.mintmobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "zipCode",
+        "placeholder": "ZIP Code",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mintmobile.com",
+    "action": "https://www.mintmobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "zipcode2",
+        "placeholder": "ZIP Code",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mintmobile.com",
+    "action": "https://www.mintmobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "subscribe_email_address_input",
+        "placeholder": "email address",
+        "required": false
+      }
+    ]
   }
 ]
