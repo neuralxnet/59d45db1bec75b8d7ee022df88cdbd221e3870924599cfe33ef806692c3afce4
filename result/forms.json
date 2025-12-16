@@ -77191,5 +77191,7026 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://segment.com",
+    "action": "https://segment.com/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Your work email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "",
+        "placeholder": "Full name",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "id": "",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "disableProgressiveForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "showOnlyProgressForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "customFormIdentifier",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "customTrackingType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://segment.com",
+    "action": "https://segment.com/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "jobTitle",
+        "id": "",
+        "placeholder": "Job Title",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "companySize",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "1 - 249",
+          "250 - 999",
+          "1,000 - 4,999",
+          "5,000+"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "monthlyTraffic",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "I'm not sure",
+          "1 - 999 users/mo",
+          "1,000 - 9,999 users/mo",
+          "10,000+ users/mo"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "timeLine",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "Within 4 weeks",
+          "Within 6 months",
+          "Within 1 year",
+          "No rush"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.segment.com",
+    "action": "https://segment.com/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Your work email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "",
+        "placeholder": "Full name",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "id": "",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "disableProgressiveForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "showOnlyProgressForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "customFormIdentifier",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "customTrackingType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.segment.com",
+    "action": "https://segment.com/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "jobTitle",
+        "id": "",
+        "placeholder": "Job Title",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "companySize",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "1 - 249",
+          "250 - 999",
+          "1,000 - 4,999",
+          "5,000+"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "monthlyTraffic",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "I'm not sure",
+          "1 - 999 users/mo",
+          "1,000 - 9,999 users/mo",
+          "10,000+ users/mo"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "timeLine",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "Within 4 weeks",
+          "Within 6 months",
+          "Within 1 year",
+          "No rush"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "http://segment.com",
+    "action": "https://segment.com/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Your work email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "",
+        "placeholder": "Full name",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "id": "",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "disableProgressiveForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "showOnlyProgressForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "customFormIdentifier",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "customTrackingType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://segment.com",
+    "action": "https://segment.com/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "jobTitle",
+        "id": "",
+        "placeholder": "Job Title",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "companySize",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "1 - 249",
+          "250 - 999",
+          "1,000 - 4,999",
+          "5,000+"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "monthlyTraffic",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "I'm not sure",
+          "1 - 999 users/mo",
+          "1,000 - 9,999 users/mo",
+          "10,000+ users/mo"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "timeLine",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "Within 4 weeks",
+          "Within 6 months",
+          "Within 1 year",
+          "No rush"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/",
+    "action": "https://status.segment.com/subscriptions/new-email",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "email_otp_verify_flow",
+        "id": "email_otp_verify_flow",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_otp_auth_token",
+        "id": "email-otp-token-field",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "email-otp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "subscribe-btn-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/",
+    "action": "https://status.segment.com/subscriptions/new-sms",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "otp_verify_flow",
+        "id": "otp_verify_flow",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "subscriber_code",
+        "id": "subscriber_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "phone_country",
+        "id": "phone-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "af",
+          "al",
+          "dz",
+          "as",
+          "ad",
+          "ao",
+          "ai",
+          "ag",
+          "ar",
+          "am",
+          "aw",
+          "au",
+          "at",
+          "az",
+          "bs",
+          "bh",
+          "bd",
+          "bb",
+          "by",
+          "be",
+          "bz",
+          "bj",
+          "bm",
+          "bo",
+          "ba",
+          "bw",
+          "br",
+          "bn",
+          "bg",
+          "bf",
+          "bi",
+          "kh",
+          "cm",
+          "ca",
+          "cv",
+          "ky",
+          "cf",
+          "td",
+          "cl",
+          "cn",
+          "co",
+          "km",
+          "cg",
+          "cd",
+          "cr",
+          "hr",
+          "cy",
+          "cz",
+          "dk",
+          "dj",
+          "dm",
+          "do",
+          "eg",
+          "sv",
+          "gq",
+          "ee",
+          "et",
+          "fo",
+          "fj",
+          "fi",
+          "fr",
+          "gf",
+          "pf",
+          "ga",
+          "gm",
+          "ge",
+          "de",
+          "gh",
+          "gi",
+          "gr",
+          "gl",
+          "gd",
+          "gp",
+          "gu",
+          "gt",
+          "gn",
+          "gy",
+          "ht",
+          "hn",
+          "hk",
+          "hu",
+          "is",
+          "in",
+          "id",
+          "iq",
+          "ie",
+          "il",
+          "it",
+          "jm",
+          "jp",
+          "jo",
+          "ke",
+          "kr",
+          "xk",
+          "kw",
+          "kg",
+          "la",
+          "lv",
+          "lb",
+          "ls",
+          "lr",
+          "ly",
+          "li",
+          "lt",
+          "lu",
+          "mo",
+          "mk",
+          "mg",
+          "mw",
+          "my",
+          "mv",
+          "ml",
+          "mt",
+          "mq",
+          "mr",
+          "mu",
+          "mx",
+          "mc",
+          "mn",
+          "me",
+          "ms",
+          "ma",
+          "mz",
+          "na",
+          "np",
+          "nl",
+          "nz",
+          "ni",
+          "ne",
+          "ng",
+          "no",
+          "om",
+          "pk",
+          "ps",
+          "pa",
+          "py",
+          "pe",
+          "ph",
+          "pl",
+          "pt",
+          "pr",
+          "qa",
+          "re",
+          "ro",
+          "ru",
+          "rw",
+          "ws",
+          "sm",
+          "sa",
+          "sn",
+          "rs",
+          "sc",
+          "sl",
+          "sg",
+          "sk",
+          "si",
+          "za",
+          "es",
+          "lk",
+          "kn",
+          "lc",
+          "vc",
+          "sd",
+          "sr",
+          "sz",
+          "se",
+          "ch",
+          "tw",
+          "tj",
+          "tz",
+          "th",
+          "tg",
+          "to",
+          "tt",
+          "tn",
+          "tr",
+          "tc",
+          "ug",
+          "ua",
+          "ae",
+          "gb",
+          "us",
+          "uy",
+          "uz",
+          "ve",
+          "vn",
+          "vg",
+          "vi",
+          "ye",
+          "zm",
+          "zw"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "phone_number",
+        "id": "phone-number",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "otp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "subscribe-btn-sms",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/",
+    "action": "https://status.segment.com/subscriptions/incident.json",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "incident_code",
+        "id": "incident_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "phone_country",
+        "id": "phone-country-q5ggjl390b33",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "af",
+          "al",
+          "dz",
+          "as",
+          "ad",
+          "ao",
+          "ai",
+          "ag",
+          "ar",
+          "am",
+          "aw",
+          "au",
+          "at",
+          "az",
+          "bs",
+          "bh",
+          "bd",
+          "bb",
+          "by",
+          "be",
+          "bz",
+          "bj",
+          "bm",
+          "bo",
+          "ba",
+          "bw",
+          "br",
+          "bn",
+          "bg",
+          "bf",
+          "bi",
+          "kh",
+          "cm",
+          "ca",
+          "cv",
+          "ky",
+          "cf",
+          "td",
+          "cl",
+          "cn",
+          "co",
+          "km",
+          "cg",
+          "cd",
+          "cr",
+          "hr",
+          "cy",
+          "cz",
+          "dk",
+          "dj",
+          "dm",
+          "do",
+          "eg",
+          "sv",
+          "gq",
+          "ee",
+          "et",
+          "fo",
+          "fj",
+          "fi",
+          "fr",
+          "gf",
+          "pf",
+          "ga",
+          "gm",
+          "ge",
+          "de",
+          "gh",
+          "gi",
+          "gr",
+          "gl",
+          "gd",
+          "gp",
+          "gu",
+          "gt",
+          "gn",
+          "gy",
+          "ht",
+          "hn",
+          "hk",
+          "hu",
+          "is",
+          "in",
+          "id",
+          "iq",
+          "ie",
+          "il",
+          "it",
+          "jm",
+          "jp",
+          "jo",
+          "ke",
+          "kr",
+          "xk",
+          "kw",
+          "kg",
+          "la",
+          "lv",
+          "lb",
+          "ls",
+          "lr",
+          "ly",
+          "li",
+          "lt",
+          "lu",
+          "mo",
+          "mk",
+          "mg",
+          "mw",
+          "my",
+          "mv",
+          "ml",
+          "mt",
+          "mq",
+          "mr",
+          "mu",
+          "mx",
+          "mc",
+          "mn",
+          "me",
+          "ms",
+          "ma",
+          "mz",
+          "na",
+          "np",
+          "nl",
+          "nz",
+          "ni",
+          "ne",
+          "ng",
+          "no",
+          "om",
+          "pk",
+          "ps",
+          "pa",
+          "py",
+          "pe",
+          "ph",
+          "pl",
+          "pt",
+          "pr",
+          "qa",
+          "re",
+          "ro",
+          "ru",
+          "rw",
+          "ws",
+          "sm",
+          "sa",
+          "sn",
+          "rs",
+          "sc",
+          "sl",
+          "sg",
+          "sk",
+          "si",
+          "za",
+          "es",
+          "lk",
+          "kn",
+          "lc",
+          "vc",
+          "sd",
+          "sr",
+          "sz",
+          "se",
+          "ch",
+          "tw",
+          "tj",
+          "tz",
+          "th",
+          "tg",
+          "to",
+          "tt",
+          "tn",
+          "tr",
+          "tc",
+          "ug",
+          "ua",
+          "ae",
+          "gb",
+          "us",
+          "uy",
+          "uz",
+          "ve",
+          "vn",
+          "vg",
+          "vi",
+          "ye",
+          "zm",
+          "zw"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "phone_number",
+        "id": "phone-number-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "incident-code-q5ggjl390b33",
+        "id": "incident-code-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "otp-field-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://segment.com/?ref=nav",
+    "action": "https://segment.com/?ref=nav#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Your work email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "",
+        "placeholder": "Full name",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "id": "",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "disableProgressiveForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "showOnlyProgressForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "customFormIdentifier",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "customTrackingType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://segment.com/?ref=nav",
+    "action": "https://segment.com/?ref=nav#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "jobTitle",
+        "id": "",
+        "placeholder": "Job Title",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "companySize",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "1 - 249",
+          "250 - 999",
+          "1,000 - 4,999",
+          "5,000+"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "monthlyTraffic",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "I'm not sure",
+          "1 - 999 users/mo",
+          "1,000 - 9,999 users/mo",
+          "10,000+ users/mo"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "timeLine",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "Within 4 weeks",
+          "Within 6 months",
+          "Within 1 year",
+          "No rush"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://segment.com/product/connections?ref=nav",
+    "action": "https://segment.com/product/connections/?ref=nav#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Your work email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "",
+        "placeholder": "Full name",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "id": "",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "disableProgressiveForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "showOnlyProgressForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "customFormIdentifier",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "customTrackingType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://segment.com/product/connections?ref=nav",
+    "action": "https://segment.com/product/connections/?ref=nav#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "jobTitle",
+        "id": "",
+        "placeholder": "Job Title",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "companySize",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "1 - 249",
+          "250 - 999",
+          "1,000 - 4,999",
+          "5,000+"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "monthlyTraffic",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "I'm not sure",
+          "1 - 999 users/mo",
+          "1,000 - 9,999 users/mo",
+          "10,000+ users/mo"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "timeLine",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "Within 4 weeks",
+          "Within 6 months",
+          "Within 1 year",
+          "No rush"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://segment.com/product/warehouses?ref=nav",
+    "action": "https://segment.com/product/warehouses/?ref=nav#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Your work email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "",
+        "placeholder": "Full name",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "id": "",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "disableProgressiveForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "showOnlyProgressForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "customFormIdentifier",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "customTrackingType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://segment.com/product/warehouses?ref=nav",
+    "action": "https://segment.com/product/warehouses/?ref=nav#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "jobTitle",
+        "id": "",
+        "placeholder": "Job Title",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "companySize",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "1 - 249",
+          "250 - 999",
+          "1,000 - 4,999",
+          "5,000+"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "monthlyTraffic",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "I'm not sure",
+          "1 - 999 users/mo",
+          "1,000 - 9,999 users/mo",
+          "10,000+ users/mo"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "timeLine",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "Within 4 weeks",
+          "Within 6 months",
+          "Within 1 year",
+          "No rush"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://segment.com/product/reverse-etl?ref=nav",
+    "action": "https://segment.com/product/reverse-etl/?ref=nav#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Your work email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "",
+        "placeholder": "Full name",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "id": "",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "disableProgressiveForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "showOnlyProgressForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "customFormIdentifier",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "customTrackingType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://segment.com/product/reverse-etl?ref=nav",
+    "action": "https://segment.com/product/reverse-etl/?ref=nav#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "jobTitle",
+        "id": "",
+        "placeholder": "Job Title",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "companySize",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "1 - 249",
+          "250 - 999",
+          "1,000 - 4,999",
+          "5,000+"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "monthlyTraffic",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "I'm not sure",
+          "1 - 999 users/mo",
+          "1,000 - 9,999 users/mo",
+          "10,000+ users/mo"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "timeLine",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "Within 4 weeks",
+          "Within 6 months",
+          "Within 1 year",
+          "No rush"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://segment.com/product/connections/functions?ref=nav",
+    "action": "https://segment.com/product/connections/functions/?ref=nav#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Your work email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "",
+        "placeholder": "Full name",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "id": "",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "disableProgressiveForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "showOnlyProgressForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "customFormIdentifier",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "customTrackingType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://segment.com/product/connections/functions?ref=nav",
+    "action": "https://segment.com/product/connections/functions/?ref=nav#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "jobTitle",
+        "id": "",
+        "placeholder": "Job Title",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "companySize",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "1 - 249",
+          "250 - 999",
+          "1,000 - 4,999",
+          "5,000+"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "monthlyTraffic",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "I'm not sure",
+          "1 - 999 users/mo",
+          "1,000 - 9,999 users/mo",
+          "10,000+ users/mo"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "timeLine",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select one",
+          "Within 4 weeks",
+          "Within 6 months",
+          "Within 1 year",
+          "No rush"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/product-updates",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/product-updates",
+    "action": "https://community.segment.com/member/forgotPassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "forgotPassword[username]",
+        "id": "forgotPassword_username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "forgotPassword[_token]",
+        "id": "forgotPassword__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://segment.com/academy",
+    "action": "https://www.twilio.com/en-us/resource-center/guides",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://segment.com/academy",
+    "action": "https://www.twilio.com/en-us/resource-center/guides",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://segment.com/academy",
+    "action": "https://www.twilio.com/en-us/resource-center/guides",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/#",
+    "action": "https://status.segment.com/subscriptions/new-email",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "email_otp_verify_flow",
+        "id": "email_otp_verify_flow",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_otp_auth_token",
+        "id": "email-otp-token-field",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "email-otp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "subscribe-btn-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/#",
+    "action": "https://status.segment.com/subscriptions/new-sms",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "otp_verify_flow",
+        "id": "otp_verify_flow",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "subscriber_code",
+        "id": "subscriber_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "phone_country",
+        "id": "phone-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "af",
+          "al",
+          "dz",
+          "as",
+          "ad",
+          "ao",
+          "ai",
+          "ag",
+          "ar",
+          "am",
+          "aw",
+          "au",
+          "at",
+          "az",
+          "bs",
+          "bh",
+          "bd",
+          "bb",
+          "by",
+          "be",
+          "bz",
+          "bj",
+          "bm",
+          "bo",
+          "ba",
+          "bw",
+          "br",
+          "bn",
+          "bg",
+          "bf",
+          "bi",
+          "kh",
+          "cm",
+          "ca",
+          "cv",
+          "ky",
+          "cf",
+          "td",
+          "cl",
+          "cn",
+          "co",
+          "km",
+          "cg",
+          "cd",
+          "cr",
+          "hr",
+          "cy",
+          "cz",
+          "dk",
+          "dj",
+          "dm",
+          "do",
+          "eg",
+          "sv",
+          "gq",
+          "ee",
+          "et",
+          "fo",
+          "fj",
+          "fi",
+          "fr",
+          "gf",
+          "pf",
+          "ga",
+          "gm",
+          "ge",
+          "de",
+          "gh",
+          "gi",
+          "gr",
+          "gl",
+          "gd",
+          "gp",
+          "gu",
+          "gt",
+          "gn",
+          "gy",
+          "ht",
+          "hn",
+          "hk",
+          "hu",
+          "is",
+          "in",
+          "id",
+          "iq",
+          "ie",
+          "il",
+          "it",
+          "jm",
+          "jp",
+          "jo",
+          "ke",
+          "kr",
+          "xk",
+          "kw",
+          "kg",
+          "la",
+          "lv",
+          "lb",
+          "ls",
+          "lr",
+          "ly",
+          "li",
+          "lt",
+          "lu",
+          "mo",
+          "mk",
+          "mg",
+          "mw",
+          "my",
+          "mv",
+          "ml",
+          "mt",
+          "mq",
+          "mr",
+          "mu",
+          "mx",
+          "mc",
+          "mn",
+          "me",
+          "ms",
+          "ma",
+          "mz",
+          "na",
+          "np",
+          "nl",
+          "nz",
+          "ni",
+          "ne",
+          "ng",
+          "no",
+          "om",
+          "pk",
+          "ps",
+          "pa",
+          "py",
+          "pe",
+          "ph",
+          "pl",
+          "pt",
+          "pr",
+          "qa",
+          "re",
+          "ro",
+          "ru",
+          "rw",
+          "ws",
+          "sm",
+          "sa",
+          "sn",
+          "rs",
+          "sc",
+          "sl",
+          "sg",
+          "sk",
+          "si",
+          "za",
+          "es",
+          "lk",
+          "kn",
+          "lc",
+          "vc",
+          "sd",
+          "sr",
+          "sz",
+          "se",
+          "ch",
+          "tw",
+          "tj",
+          "tz",
+          "th",
+          "tg",
+          "to",
+          "tt",
+          "tn",
+          "tr",
+          "tc",
+          "ug",
+          "ua",
+          "ae",
+          "gb",
+          "us",
+          "uy",
+          "uz",
+          "ve",
+          "vn",
+          "vg",
+          "vi",
+          "ye",
+          "zm",
+          "zw"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "phone_number",
+        "id": "phone-number",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "otp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "subscribe-btn-sms",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/#",
+    "action": "https://status.segment.com/subscriptions/incident.json",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "incident_code",
+        "id": "incident_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "phone_country",
+        "id": "phone-country-q5ggjl390b33",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "af",
+          "al",
+          "dz",
+          "as",
+          "ad",
+          "ao",
+          "ai",
+          "ag",
+          "ar",
+          "am",
+          "aw",
+          "au",
+          "at",
+          "az",
+          "bs",
+          "bh",
+          "bd",
+          "bb",
+          "by",
+          "be",
+          "bz",
+          "bj",
+          "bm",
+          "bo",
+          "ba",
+          "bw",
+          "br",
+          "bn",
+          "bg",
+          "bf",
+          "bi",
+          "kh",
+          "cm",
+          "ca",
+          "cv",
+          "ky",
+          "cf",
+          "td",
+          "cl",
+          "cn",
+          "co",
+          "km",
+          "cg",
+          "cd",
+          "cr",
+          "hr",
+          "cy",
+          "cz",
+          "dk",
+          "dj",
+          "dm",
+          "do",
+          "eg",
+          "sv",
+          "gq",
+          "ee",
+          "et",
+          "fo",
+          "fj",
+          "fi",
+          "fr",
+          "gf",
+          "pf",
+          "ga",
+          "gm",
+          "ge",
+          "de",
+          "gh",
+          "gi",
+          "gr",
+          "gl",
+          "gd",
+          "gp",
+          "gu",
+          "gt",
+          "gn",
+          "gy",
+          "ht",
+          "hn",
+          "hk",
+          "hu",
+          "is",
+          "in",
+          "id",
+          "iq",
+          "ie",
+          "il",
+          "it",
+          "jm",
+          "jp",
+          "jo",
+          "ke",
+          "kr",
+          "xk",
+          "kw",
+          "kg",
+          "la",
+          "lv",
+          "lb",
+          "ls",
+          "lr",
+          "ly",
+          "li",
+          "lt",
+          "lu",
+          "mo",
+          "mk",
+          "mg",
+          "mw",
+          "my",
+          "mv",
+          "ml",
+          "mt",
+          "mq",
+          "mr",
+          "mu",
+          "mx",
+          "mc",
+          "mn",
+          "me",
+          "ms",
+          "ma",
+          "mz",
+          "na",
+          "np",
+          "nl",
+          "nz",
+          "ni",
+          "ne",
+          "ng",
+          "no",
+          "om",
+          "pk",
+          "ps",
+          "pa",
+          "py",
+          "pe",
+          "ph",
+          "pl",
+          "pt",
+          "pr",
+          "qa",
+          "re",
+          "ro",
+          "ru",
+          "rw",
+          "ws",
+          "sm",
+          "sa",
+          "sn",
+          "rs",
+          "sc",
+          "sl",
+          "sg",
+          "sk",
+          "si",
+          "za",
+          "es",
+          "lk",
+          "kn",
+          "lc",
+          "vc",
+          "sd",
+          "sr",
+          "sz",
+          "se",
+          "ch",
+          "tw",
+          "tj",
+          "tz",
+          "th",
+          "tg",
+          "to",
+          "tt",
+          "tn",
+          "tr",
+          "tc",
+          "ug",
+          "ua",
+          "ae",
+          "gb",
+          "us",
+          "uy",
+          "uz",
+          "ve",
+          "vn",
+          "vg",
+          "vi",
+          "ye",
+          "zm",
+          "zw"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "phone_number",
+        "id": "phone-number-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "incident-code-q5ggjl390b33",
+        "id": "incident-code-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "otp-field-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/#updates-dropdown-email",
+    "action": "https://status.segment.com/subscriptions/new-email",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "email_otp_verify_flow",
+        "id": "email_otp_verify_flow",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_otp_auth_token",
+        "id": "email-otp-token-field",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "email-otp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "subscribe-btn-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/#updates-dropdown-email",
+    "action": "https://status.segment.com/subscriptions/new-sms",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "otp_verify_flow",
+        "id": "otp_verify_flow",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "subscriber_code",
+        "id": "subscriber_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "phone_country",
+        "id": "phone-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "af",
+          "al",
+          "dz",
+          "as",
+          "ad",
+          "ao",
+          "ai",
+          "ag",
+          "ar",
+          "am",
+          "aw",
+          "au",
+          "at",
+          "az",
+          "bs",
+          "bh",
+          "bd",
+          "bb",
+          "by",
+          "be",
+          "bz",
+          "bj",
+          "bm",
+          "bo",
+          "ba",
+          "bw",
+          "br",
+          "bn",
+          "bg",
+          "bf",
+          "bi",
+          "kh",
+          "cm",
+          "ca",
+          "cv",
+          "ky",
+          "cf",
+          "td",
+          "cl",
+          "cn",
+          "co",
+          "km",
+          "cg",
+          "cd",
+          "cr",
+          "hr",
+          "cy",
+          "cz",
+          "dk",
+          "dj",
+          "dm",
+          "do",
+          "eg",
+          "sv",
+          "gq",
+          "ee",
+          "et",
+          "fo",
+          "fj",
+          "fi",
+          "fr",
+          "gf",
+          "pf",
+          "ga",
+          "gm",
+          "ge",
+          "de",
+          "gh",
+          "gi",
+          "gr",
+          "gl",
+          "gd",
+          "gp",
+          "gu",
+          "gt",
+          "gn",
+          "gy",
+          "ht",
+          "hn",
+          "hk",
+          "hu",
+          "is",
+          "in",
+          "id",
+          "iq",
+          "ie",
+          "il",
+          "it",
+          "jm",
+          "jp",
+          "jo",
+          "ke",
+          "kr",
+          "xk",
+          "kw",
+          "kg",
+          "la",
+          "lv",
+          "lb",
+          "ls",
+          "lr",
+          "ly",
+          "li",
+          "lt",
+          "lu",
+          "mo",
+          "mk",
+          "mg",
+          "mw",
+          "my",
+          "mv",
+          "ml",
+          "mt",
+          "mq",
+          "mr",
+          "mu",
+          "mx",
+          "mc",
+          "mn",
+          "me",
+          "ms",
+          "ma",
+          "mz",
+          "na",
+          "np",
+          "nl",
+          "nz",
+          "ni",
+          "ne",
+          "ng",
+          "no",
+          "om",
+          "pk",
+          "ps",
+          "pa",
+          "py",
+          "pe",
+          "ph",
+          "pl",
+          "pt",
+          "pr",
+          "qa",
+          "re",
+          "ro",
+          "ru",
+          "rw",
+          "ws",
+          "sm",
+          "sa",
+          "sn",
+          "rs",
+          "sc",
+          "sl",
+          "sg",
+          "sk",
+          "si",
+          "za",
+          "es",
+          "lk",
+          "kn",
+          "lc",
+          "vc",
+          "sd",
+          "sr",
+          "sz",
+          "se",
+          "ch",
+          "tw",
+          "tj",
+          "tz",
+          "th",
+          "tg",
+          "to",
+          "tt",
+          "tn",
+          "tr",
+          "tc",
+          "ug",
+          "ua",
+          "ae",
+          "gb",
+          "us",
+          "uy",
+          "uz",
+          "ve",
+          "vn",
+          "vg",
+          "vi",
+          "ye",
+          "zm",
+          "zw"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "phone_number",
+        "id": "phone-number",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "otp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "subscribe-btn-sms",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/#updates-dropdown-email",
+    "action": "https://status.segment.com/subscriptions/incident.json",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "incident_code",
+        "id": "incident_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "phone_country",
+        "id": "phone-country-q5ggjl390b33",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "af",
+          "al",
+          "dz",
+          "as",
+          "ad",
+          "ao",
+          "ai",
+          "ag",
+          "ar",
+          "am",
+          "aw",
+          "au",
+          "at",
+          "az",
+          "bs",
+          "bh",
+          "bd",
+          "bb",
+          "by",
+          "be",
+          "bz",
+          "bj",
+          "bm",
+          "bo",
+          "ba",
+          "bw",
+          "br",
+          "bn",
+          "bg",
+          "bf",
+          "bi",
+          "kh",
+          "cm",
+          "ca",
+          "cv",
+          "ky",
+          "cf",
+          "td",
+          "cl",
+          "cn",
+          "co",
+          "km",
+          "cg",
+          "cd",
+          "cr",
+          "hr",
+          "cy",
+          "cz",
+          "dk",
+          "dj",
+          "dm",
+          "do",
+          "eg",
+          "sv",
+          "gq",
+          "ee",
+          "et",
+          "fo",
+          "fj",
+          "fi",
+          "fr",
+          "gf",
+          "pf",
+          "ga",
+          "gm",
+          "ge",
+          "de",
+          "gh",
+          "gi",
+          "gr",
+          "gl",
+          "gd",
+          "gp",
+          "gu",
+          "gt",
+          "gn",
+          "gy",
+          "ht",
+          "hn",
+          "hk",
+          "hu",
+          "is",
+          "in",
+          "id",
+          "iq",
+          "ie",
+          "il",
+          "it",
+          "jm",
+          "jp",
+          "jo",
+          "ke",
+          "kr",
+          "xk",
+          "kw",
+          "kg",
+          "la",
+          "lv",
+          "lb",
+          "ls",
+          "lr",
+          "ly",
+          "li",
+          "lt",
+          "lu",
+          "mo",
+          "mk",
+          "mg",
+          "mw",
+          "my",
+          "mv",
+          "ml",
+          "mt",
+          "mq",
+          "mr",
+          "mu",
+          "mx",
+          "mc",
+          "mn",
+          "me",
+          "ms",
+          "ma",
+          "mz",
+          "na",
+          "np",
+          "nl",
+          "nz",
+          "ni",
+          "ne",
+          "ng",
+          "no",
+          "om",
+          "pk",
+          "ps",
+          "pa",
+          "py",
+          "pe",
+          "ph",
+          "pl",
+          "pt",
+          "pr",
+          "qa",
+          "re",
+          "ro",
+          "ru",
+          "rw",
+          "ws",
+          "sm",
+          "sa",
+          "sn",
+          "rs",
+          "sc",
+          "sl",
+          "sg",
+          "sk",
+          "si",
+          "za",
+          "es",
+          "lk",
+          "kn",
+          "lc",
+          "vc",
+          "sd",
+          "sr",
+          "sz",
+          "se",
+          "ch",
+          "tw",
+          "tj",
+          "tz",
+          "th",
+          "tg",
+          "to",
+          "tt",
+          "tn",
+          "tr",
+          "tc",
+          "ug",
+          "ua",
+          "ae",
+          "gb",
+          "us",
+          "uy",
+          "uz",
+          "ve",
+          "vn",
+          "vg",
+          "vi",
+          "ye",
+          "zm",
+          "zw"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "phone_number",
+        "id": "phone-number-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "incident-code-q5ggjl390b33",
+        "id": "incident-code-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "otp-field-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/#updates-dropdown-sms",
+    "action": "https://status.segment.com/subscriptions/new-email",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "email_otp_verify_flow",
+        "id": "email_otp_verify_flow",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_otp_auth_token",
+        "id": "email-otp-token-field",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "email-otp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "subscribe-btn-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/#updates-dropdown-sms",
+    "action": "https://status.segment.com/subscriptions/new-sms",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "otp_verify_flow",
+        "id": "otp_verify_flow",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "subscriber_code",
+        "id": "subscriber_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "phone_country",
+        "id": "phone-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "af",
+          "al",
+          "dz",
+          "as",
+          "ad",
+          "ao",
+          "ai",
+          "ag",
+          "ar",
+          "am",
+          "aw",
+          "au",
+          "at",
+          "az",
+          "bs",
+          "bh",
+          "bd",
+          "bb",
+          "by",
+          "be",
+          "bz",
+          "bj",
+          "bm",
+          "bo",
+          "ba",
+          "bw",
+          "br",
+          "bn",
+          "bg",
+          "bf",
+          "bi",
+          "kh",
+          "cm",
+          "ca",
+          "cv",
+          "ky",
+          "cf",
+          "td",
+          "cl",
+          "cn",
+          "co",
+          "km",
+          "cg",
+          "cd",
+          "cr",
+          "hr",
+          "cy",
+          "cz",
+          "dk",
+          "dj",
+          "dm",
+          "do",
+          "eg",
+          "sv",
+          "gq",
+          "ee",
+          "et",
+          "fo",
+          "fj",
+          "fi",
+          "fr",
+          "gf",
+          "pf",
+          "ga",
+          "gm",
+          "ge",
+          "de",
+          "gh",
+          "gi",
+          "gr",
+          "gl",
+          "gd",
+          "gp",
+          "gu",
+          "gt",
+          "gn",
+          "gy",
+          "ht",
+          "hn",
+          "hk",
+          "hu",
+          "is",
+          "in",
+          "id",
+          "iq",
+          "ie",
+          "il",
+          "it",
+          "jm",
+          "jp",
+          "jo",
+          "ke",
+          "kr",
+          "xk",
+          "kw",
+          "kg",
+          "la",
+          "lv",
+          "lb",
+          "ls",
+          "lr",
+          "ly",
+          "li",
+          "lt",
+          "lu",
+          "mo",
+          "mk",
+          "mg",
+          "mw",
+          "my",
+          "mv",
+          "ml",
+          "mt",
+          "mq",
+          "mr",
+          "mu",
+          "mx",
+          "mc",
+          "mn",
+          "me",
+          "ms",
+          "ma",
+          "mz",
+          "na",
+          "np",
+          "nl",
+          "nz",
+          "ni",
+          "ne",
+          "ng",
+          "no",
+          "om",
+          "pk",
+          "ps",
+          "pa",
+          "py",
+          "pe",
+          "ph",
+          "pl",
+          "pt",
+          "pr",
+          "qa",
+          "re",
+          "ro",
+          "ru",
+          "rw",
+          "ws",
+          "sm",
+          "sa",
+          "sn",
+          "rs",
+          "sc",
+          "sl",
+          "sg",
+          "sk",
+          "si",
+          "za",
+          "es",
+          "lk",
+          "kn",
+          "lc",
+          "vc",
+          "sd",
+          "sr",
+          "sz",
+          "se",
+          "ch",
+          "tw",
+          "tj",
+          "tz",
+          "th",
+          "tg",
+          "to",
+          "tt",
+          "tn",
+          "tr",
+          "tc",
+          "ug",
+          "ua",
+          "ae",
+          "gb",
+          "us",
+          "uy",
+          "uz",
+          "ve",
+          "vn",
+          "vg",
+          "vi",
+          "ye",
+          "zm",
+          "zw"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "phone_number",
+        "id": "phone-number",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "otp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "subscribe-btn-sms",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/#updates-dropdown-sms",
+    "action": "https://status.segment.com/subscriptions/incident.json",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "incident_code",
+        "id": "incident_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "phone_country",
+        "id": "phone-country-q5ggjl390b33",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "af",
+          "al",
+          "dz",
+          "as",
+          "ad",
+          "ao",
+          "ai",
+          "ag",
+          "ar",
+          "am",
+          "aw",
+          "au",
+          "at",
+          "az",
+          "bs",
+          "bh",
+          "bd",
+          "bb",
+          "by",
+          "be",
+          "bz",
+          "bj",
+          "bm",
+          "bo",
+          "ba",
+          "bw",
+          "br",
+          "bn",
+          "bg",
+          "bf",
+          "bi",
+          "kh",
+          "cm",
+          "ca",
+          "cv",
+          "ky",
+          "cf",
+          "td",
+          "cl",
+          "cn",
+          "co",
+          "km",
+          "cg",
+          "cd",
+          "cr",
+          "hr",
+          "cy",
+          "cz",
+          "dk",
+          "dj",
+          "dm",
+          "do",
+          "eg",
+          "sv",
+          "gq",
+          "ee",
+          "et",
+          "fo",
+          "fj",
+          "fi",
+          "fr",
+          "gf",
+          "pf",
+          "ga",
+          "gm",
+          "ge",
+          "de",
+          "gh",
+          "gi",
+          "gr",
+          "gl",
+          "gd",
+          "gp",
+          "gu",
+          "gt",
+          "gn",
+          "gy",
+          "ht",
+          "hn",
+          "hk",
+          "hu",
+          "is",
+          "in",
+          "id",
+          "iq",
+          "ie",
+          "il",
+          "it",
+          "jm",
+          "jp",
+          "jo",
+          "ke",
+          "kr",
+          "xk",
+          "kw",
+          "kg",
+          "la",
+          "lv",
+          "lb",
+          "ls",
+          "lr",
+          "ly",
+          "li",
+          "lt",
+          "lu",
+          "mo",
+          "mk",
+          "mg",
+          "mw",
+          "my",
+          "mv",
+          "ml",
+          "mt",
+          "mq",
+          "mr",
+          "mu",
+          "mx",
+          "mc",
+          "mn",
+          "me",
+          "ms",
+          "ma",
+          "mz",
+          "na",
+          "np",
+          "nl",
+          "nz",
+          "ni",
+          "ne",
+          "ng",
+          "no",
+          "om",
+          "pk",
+          "ps",
+          "pa",
+          "py",
+          "pe",
+          "ph",
+          "pl",
+          "pt",
+          "pr",
+          "qa",
+          "re",
+          "ro",
+          "ru",
+          "rw",
+          "ws",
+          "sm",
+          "sa",
+          "sn",
+          "rs",
+          "sc",
+          "sl",
+          "sg",
+          "sk",
+          "si",
+          "za",
+          "es",
+          "lk",
+          "kn",
+          "lc",
+          "vc",
+          "sd",
+          "sr",
+          "sz",
+          "se",
+          "ch",
+          "tw",
+          "tj",
+          "tz",
+          "th",
+          "tg",
+          "to",
+          "tt",
+          "tn",
+          "tr",
+          "tc",
+          "ug",
+          "ua",
+          "ae",
+          "gb",
+          "us",
+          "uy",
+          "uz",
+          "ve",
+          "vn",
+          "vg",
+          "vi",
+          "ye",
+          "zm",
+          "zw"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "phone_number",
+        "id": "phone-number-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "incident-code-q5ggjl390b33",
+        "id": "incident-code-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "otp-field-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/#updates-dropdown-twitter",
+    "action": "https://status.segment.com/subscriptions/new-email",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "email_otp_verify_flow",
+        "id": "email_otp_verify_flow",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_otp_auth_token",
+        "id": "email-otp-token-field",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "email-otp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "subscribe-btn-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/#updates-dropdown-twitter",
+    "action": "https://status.segment.com/subscriptions/new-sms",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "otp_verify_flow",
+        "id": "otp_verify_flow",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "subscriber_code",
+        "id": "subscriber_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "phone_country",
+        "id": "phone-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "af",
+          "al",
+          "dz",
+          "as",
+          "ad",
+          "ao",
+          "ai",
+          "ag",
+          "ar",
+          "am",
+          "aw",
+          "au",
+          "at",
+          "az",
+          "bs",
+          "bh",
+          "bd",
+          "bb",
+          "by",
+          "be",
+          "bz",
+          "bj",
+          "bm",
+          "bo",
+          "ba",
+          "bw",
+          "br",
+          "bn",
+          "bg",
+          "bf",
+          "bi",
+          "kh",
+          "cm",
+          "ca",
+          "cv",
+          "ky",
+          "cf",
+          "td",
+          "cl",
+          "cn",
+          "co",
+          "km",
+          "cg",
+          "cd",
+          "cr",
+          "hr",
+          "cy",
+          "cz",
+          "dk",
+          "dj",
+          "dm",
+          "do",
+          "eg",
+          "sv",
+          "gq",
+          "ee",
+          "et",
+          "fo",
+          "fj",
+          "fi",
+          "fr",
+          "gf",
+          "pf",
+          "ga",
+          "gm",
+          "ge",
+          "de",
+          "gh",
+          "gi",
+          "gr",
+          "gl",
+          "gd",
+          "gp",
+          "gu",
+          "gt",
+          "gn",
+          "gy",
+          "ht",
+          "hn",
+          "hk",
+          "hu",
+          "is",
+          "in",
+          "id",
+          "iq",
+          "ie",
+          "il",
+          "it",
+          "jm",
+          "jp",
+          "jo",
+          "ke",
+          "kr",
+          "xk",
+          "kw",
+          "kg",
+          "la",
+          "lv",
+          "lb",
+          "ls",
+          "lr",
+          "ly",
+          "li",
+          "lt",
+          "lu",
+          "mo",
+          "mk",
+          "mg",
+          "mw",
+          "my",
+          "mv",
+          "ml",
+          "mt",
+          "mq",
+          "mr",
+          "mu",
+          "mx",
+          "mc",
+          "mn",
+          "me",
+          "ms",
+          "ma",
+          "mz",
+          "na",
+          "np",
+          "nl",
+          "nz",
+          "ni",
+          "ne",
+          "ng",
+          "no",
+          "om",
+          "pk",
+          "ps",
+          "pa",
+          "py",
+          "pe",
+          "ph",
+          "pl",
+          "pt",
+          "pr",
+          "qa",
+          "re",
+          "ro",
+          "ru",
+          "rw",
+          "ws",
+          "sm",
+          "sa",
+          "sn",
+          "rs",
+          "sc",
+          "sl",
+          "sg",
+          "sk",
+          "si",
+          "za",
+          "es",
+          "lk",
+          "kn",
+          "lc",
+          "vc",
+          "sd",
+          "sr",
+          "sz",
+          "se",
+          "ch",
+          "tw",
+          "tj",
+          "tz",
+          "th",
+          "tg",
+          "to",
+          "tt",
+          "tn",
+          "tr",
+          "tc",
+          "ug",
+          "ua",
+          "ae",
+          "gb",
+          "us",
+          "uy",
+          "uz",
+          "ve",
+          "vn",
+          "vg",
+          "vi",
+          "ye",
+          "zm",
+          "zw"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "phone_number",
+        "id": "phone-number",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "otp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "subscribe-btn-sms",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/#updates-dropdown-twitter",
+    "action": "https://status.segment.com/subscriptions/incident.json",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "incident_code",
+        "id": "incident_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "phone_country",
+        "id": "phone-country-q5ggjl390b33",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "af",
+          "al",
+          "dz",
+          "as",
+          "ad",
+          "ao",
+          "ai",
+          "ag",
+          "ar",
+          "am",
+          "aw",
+          "au",
+          "at",
+          "az",
+          "bs",
+          "bh",
+          "bd",
+          "bb",
+          "by",
+          "be",
+          "bz",
+          "bj",
+          "bm",
+          "bo",
+          "ba",
+          "bw",
+          "br",
+          "bn",
+          "bg",
+          "bf",
+          "bi",
+          "kh",
+          "cm",
+          "ca",
+          "cv",
+          "ky",
+          "cf",
+          "td",
+          "cl",
+          "cn",
+          "co",
+          "km",
+          "cg",
+          "cd",
+          "cr",
+          "hr",
+          "cy",
+          "cz",
+          "dk",
+          "dj",
+          "dm",
+          "do",
+          "eg",
+          "sv",
+          "gq",
+          "ee",
+          "et",
+          "fo",
+          "fj",
+          "fi",
+          "fr",
+          "gf",
+          "pf",
+          "ga",
+          "gm",
+          "ge",
+          "de",
+          "gh",
+          "gi",
+          "gr",
+          "gl",
+          "gd",
+          "gp",
+          "gu",
+          "gt",
+          "gn",
+          "gy",
+          "ht",
+          "hn",
+          "hk",
+          "hu",
+          "is",
+          "in",
+          "id",
+          "iq",
+          "ie",
+          "il",
+          "it",
+          "jm",
+          "jp",
+          "jo",
+          "ke",
+          "kr",
+          "xk",
+          "kw",
+          "kg",
+          "la",
+          "lv",
+          "lb",
+          "ls",
+          "lr",
+          "ly",
+          "li",
+          "lt",
+          "lu",
+          "mo",
+          "mk",
+          "mg",
+          "mw",
+          "my",
+          "mv",
+          "ml",
+          "mt",
+          "mq",
+          "mr",
+          "mu",
+          "mx",
+          "mc",
+          "mn",
+          "me",
+          "ms",
+          "ma",
+          "mz",
+          "na",
+          "np",
+          "nl",
+          "nz",
+          "ni",
+          "ne",
+          "ng",
+          "no",
+          "om",
+          "pk",
+          "ps",
+          "pa",
+          "py",
+          "pe",
+          "ph",
+          "pl",
+          "pt",
+          "pr",
+          "qa",
+          "re",
+          "ro",
+          "ru",
+          "rw",
+          "ws",
+          "sm",
+          "sa",
+          "sn",
+          "rs",
+          "sc",
+          "sl",
+          "sg",
+          "sk",
+          "si",
+          "za",
+          "es",
+          "lk",
+          "kn",
+          "lc",
+          "vc",
+          "sd",
+          "sr",
+          "sz",
+          "se",
+          "ch",
+          "tw",
+          "tj",
+          "tz",
+          "th",
+          "tg",
+          "to",
+          "tt",
+          "tn",
+          "tr",
+          "tc",
+          "ug",
+          "ua",
+          "ae",
+          "gb",
+          "us",
+          "uy",
+          "uz",
+          "ve",
+          "vn",
+          "vg",
+          "vi",
+          "ye",
+          "zm",
+          "zw"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "phone_number",
+        "id": "phone-number-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "incident-code-q5ggjl390b33",
+        "id": "incident-code-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "otp-field-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/#updates-dropdown-support",
+    "action": "https://status.segment.com/subscriptions/new-email",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "email_otp_verify_flow",
+        "id": "email_otp_verify_flow",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_otp_auth_token",
+        "id": "email-otp-token-field",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "email-otp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "subscribe-btn-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/#updates-dropdown-support",
+    "action": "https://status.segment.com/subscriptions/new-sms",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "otp_verify_flow",
+        "id": "otp_verify_flow",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "subscriber_code",
+        "id": "subscriber_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "phone_country",
+        "id": "phone-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "af",
+          "al",
+          "dz",
+          "as",
+          "ad",
+          "ao",
+          "ai",
+          "ag",
+          "ar",
+          "am",
+          "aw",
+          "au",
+          "at",
+          "az",
+          "bs",
+          "bh",
+          "bd",
+          "bb",
+          "by",
+          "be",
+          "bz",
+          "bj",
+          "bm",
+          "bo",
+          "ba",
+          "bw",
+          "br",
+          "bn",
+          "bg",
+          "bf",
+          "bi",
+          "kh",
+          "cm",
+          "ca",
+          "cv",
+          "ky",
+          "cf",
+          "td",
+          "cl",
+          "cn",
+          "co",
+          "km",
+          "cg",
+          "cd",
+          "cr",
+          "hr",
+          "cy",
+          "cz",
+          "dk",
+          "dj",
+          "dm",
+          "do",
+          "eg",
+          "sv",
+          "gq",
+          "ee",
+          "et",
+          "fo",
+          "fj",
+          "fi",
+          "fr",
+          "gf",
+          "pf",
+          "ga",
+          "gm",
+          "ge",
+          "de",
+          "gh",
+          "gi",
+          "gr",
+          "gl",
+          "gd",
+          "gp",
+          "gu",
+          "gt",
+          "gn",
+          "gy",
+          "ht",
+          "hn",
+          "hk",
+          "hu",
+          "is",
+          "in",
+          "id",
+          "iq",
+          "ie",
+          "il",
+          "it",
+          "jm",
+          "jp",
+          "jo",
+          "ke",
+          "kr",
+          "xk",
+          "kw",
+          "kg",
+          "la",
+          "lv",
+          "lb",
+          "ls",
+          "lr",
+          "ly",
+          "li",
+          "lt",
+          "lu",
+          "mo",
+          "mk",
+          "mg",
+          "mw",
+          "my",
+          "mv",
+          "ml",
+          "mt",
+          "mq",
+          "mr",
+          "mu",
+          "mx",
+          "mc",
+          "mn",
+          "me",
+          "ms",
+          "ma",
+          "mz",
+          "na",
+          "np",
+          "nl",
+          "nz",
+          "ni",
+          "ne",
+          "ng",
+          "no",
+          "om",
+          "pk",
+          "ps",
+          "pa",
+          "py",
+          "pe",
+          "ph",
+          "pl",
+          "pt",
+          "pr",
+          "qa",
+          "re",
+          "ro",
+          "ru",
+          "rw",
+          "ws",
+          "sm",
+          "sa",
+          "sn",
+          "rs",
+          "sc",
+          "sl",
+          "sg",
+          "sk",
+          "si",
+          "za",
+          "es",
+          "lk",
+          "kn",
+          "lc",
+          "vc",
+          "sd",
+          "sr",
+          "sz",
+          "se",
+          "ch",
+          "tw",
+          "tj",
+          "tz",
+          "th",
+          "tg",
+          "to",
+          "tt",
+          "tn",
+          "tr",
+          "tc",
+          "ug",
+          "ua",
+          "ae",
+          "gb",
+          "us",
+          "uy",
+          "uz",
+          "ve",
+          "vn",
+          "vg",
+          "vi",
+          "ye",
+          "zm",
+          "zw"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "phone_number",
+        "id": "phone-number",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "otp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "subscribe-btn-sms",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/#updates-dropdown-support",
+    "action": "https://status.segment.com/subscriptions/incident.json",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "incident_code",
+        "id": "incident_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "phone_country",
+        "id": "phone-country-q5ggjl390b33",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "af",
+          "al",
+          "dz",
+          "as",
+          "ad",
+          "ao",
+          "ai",
+          "ag",
+          "ar",
+          "am",
+          "aw",
+          "au",
+          "at",
+          "az",
+          "bs",
+          "bh",
+          "bd",
+          "bb",
+          "by",
+          "be",
+          "bz",
+          "bj",
+          "bm",
+          "bo",
+          "ba",
+          "bw",
+          "br",
+          "bn",
+          "bg",
+          "bf",
+          "bi",
+          "kh",
+          "cm",
+          "ca",
+          "cv",
+          "ky",
+          "cf",
+          "td",
+          "cl",
+          "cn",
+          "co",
+          "km",
+          "cg",
+          "cd",
+          "cr",
+          "hr",
+          "cy",
+          "cz",
+          "dk",
+          "dj",
+          "dm",
+          "do",
+          "eg",
+          "sv",
+          "gq",
+          "ee",
+          "et",
+          "fo",
+          "fj",
+          "fi",
+          "fr",
+          "gf",
+          "pf",
+          "ga",
+          "gm",
+          "ge",
+          "de",
+          "gh",
+          "gi",
+          "gr",
+          "gl",
+          "gd",
+          "gp",
+          "gu",
+          "gt",
+          "gn",
+          "gy",
+          "ht",
+          "hn",
+          "hk",
+          "hu",
+          "is",
+          "in",
+          "id",
+          "iq",
+          "ie",
+          "il",
+          "it",
+          "jm",
+          "jp",
+          "jo",
+          "ke",
+          "kr",
+          "xk",
+          "kw",
+          "kg",
+          "la",
+          "lv",
+          "lb",
+          "ls",
+          "lr",
+          "ly",
+          "li",
+          "lt",
+          "lu",
+          "mo",
+          "mk",
+          "mg",
+          "mw",
+          "my",
+          "mv",
+          "ml",
+          "mt",
+          "mq",
+          "mr",
+          "mu",
+          "mx",
+          "mc",
+          "mn",
+          "me",
+          "ms",
+          "ma",
+          "mz",
+          "na",
+          "np",
+          "nl",
+          "nz",
+          "ni",
+          "ne",
+          "ng",
+          "no",
+          "om",
+          "pk",
+          "ps",
+          "pa",
+          "py",
+          "pe",
+          "ph",
+          "pl",
+          "pt",
+          "pr",
+          "qa",
+          "re",
+          "ro",
+          "ru",
+          "rw",
+          "ws",
+          "sm",
+          "sa",
+          "sn",
+          "rs",
+          "sc",
+          "sl",
+          "sg",
+          "sk",
+          "si",
+          "za",
+          "es",
+          "lk",
+          "kn",
+          "lc",
+          "vc",
+          "sd",
+          "sr",
+          "sz",
+          "se",
+          "ch",
+          "tw",
+          "tj",
+          "tz",
+          "th",
+          "tg",
+          "to",
+          "tt",
+          "tn",
+          "tr",
+          "tc",
+          "ug",
+          "ua",
+          "ae",
+          "gb",
+          "us",
+          "uy",
+          "uz",
+          "ve",
+          "vn",
+          "vg",
+          "vi",
+          "ye",
+          "zm",
+          "zw"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "phone_number",
+        "id": "phone-number-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "incident-code-q5ggjl390b33",
+        "id": "incident-code-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "otp-field-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/#updates-dropdown-atom",
+    "action": "https://status.segment.com/subscriptions/new-email",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "email_otp_verify_flow",
+        "id": "email_otp_verify_flow",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_otp_auth_token",
+        "id": "email-otp-token-field",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "email-otp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "subscribe-btn-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/#updates-dropdown-atom",
+    "action": "https://status.segment.com/subscriptions/new-sms",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "otp_verify_flow",
+        "id": "otp_verify_flow",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "subscriber_code",
+        "id": "subscriber_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "phone_country",
+        "id": "phone-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "af",
+          "al",
+          "dz",
+          "as",
+          "ad",
+          "ao",
+          "ai",
+          "ag",
+          "ar",
+          "am",
+          "aw",
+          "au",
+          "at",
+          "az",
+          "bs",
+          "bh",
+          "bd",
+          "bb",
+          "by",
+          "be",
+          "bz",
+          "bj",
+          "bm",
+          "bo",
+          "ba",
+          "bw",
+          "br",
+          "bn",
+          "bg",
+          "bf",
+          "bi",
+          "kh",
+          "cm",
+          "ca",
+          "cv",
+          "ky",
+          "cf",
+          "td",
+          "cl",
+          "cn",
+          "co",
+          "km",
+          "cg",
+          "cd",
+          "cr",
+          "hr",
+          "cy",
+          "cz",
+          "dk",
+          "dj",
+          "dm",
+          "do",
+          "eg",
+          "sv",
+          "gq",
+          "ee",
+          "et",
+          "fo",
+          "fj",
+          "fi",
+          "fr",
+          "gf",
+          "pf",
+          "ga",
+          "gm",
+          "ge",
+          "de",
+          "gh",
+          "gi",
+          "gr",
+          "gl",
+          "gd",
+          "gp",
+          "gu",
+          "gt",
+          "gn",
+          "gy",
+          "ht",
+          "hn",
+          "hk",
+          "hu",
+          "is",
+          "in",
+          "id",
+          "iq",
+          "ie",
+          "il",
+          "it",
+          "jm",
+          "jp",
+          "jo",
+          "ke",
+          "kr",
+          "xk",
+          "kw",
+          "kg",
+          "la",
+          "lv",
+          "lb",
+          "ls",
+          "lr",
+          "ly",
+          "li",
+          "lt",
+          "lu",
+          "mo",
+          "mk",
+          "mg",
+          "mw",
+          "my",
+          "mv",
+          "ml",
+          "mt",
+          "mq",
+          "mr",
+          "mu",
+          "mx",
+          "mc",
+          "mn",
+          "me",
+          "ms",
+          "ma",
+          "mz",
+          "na",
+          "np",
+          "nl",
+          "nz",
+          "ni",
+          "ne",
+          "ng",
+          "no",
+          "om",
+          "pk",
+          "ps",
+          "pa",
+          "py",
+          "pe",
+          "ph",
+          "pl",
+          "pt",
+          "pr",
+          "qa",
+          "re",
+          "ro",
+          "ru",
+          "rw",
+          "ws",
+          "sm",
+          "sa",
+          "sn",
+          "rs",
+          "sc",
+          "sl",
+          "sg",
+          "sk",
+          "si",
+          "za",
+          "es",
+          "lk",
+          "kn",
+          "lc",
+          "vc",
+          "sd",
+          "sr",
+          "sz",
+          "se",
+          "ch",
+          "tw",
+          "tj",
+          "tz",
+          "th",
+          "tg",
+          "to",
+          "tt",
+          "tn",
+          "tr",
+          "tc",
+          "ug",
+          "ua",
+          "ae",
+          "gb",
+          "us",
+          "uy",
+          "uz",
+          "ve",
+          "vn",
+          "vg",
+          "vi",
+          "ye",
+          "zm",
+          "zw"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "phone_number",
+        "id": "phone-number",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "otp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "subscribe-btn-sms",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://status.segment.com/#updates-dropdown-atom",
+    "action": "https://status.segment.com/subscriptions/incident.json",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "incident_code",
+        "id": "incident_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "phone_country",
+        "id": "phone-country-q5ggjl390b33",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "af",
+          "al",
+          "dz",
+          "as",
+          "ad",
+          "ao",
+          "ai",
+          "ag",
+          "ar",
+          "am",
+          "aw",
+          "au",
+          "at",
+          "az",
+          "bs",
+          "bh",
+          "bd",
+          "bb",
+          "by",
+          "be",
+          "bz",
+          "bj",
+          "bm",
+          "bo",
+          "ba",
+          "bw",
+          "br",
+          "bn",
+          "bg",
+          "bf",
+          "bi",
+          "kh",
+          "cm",
+          "ca",
+          "cv",
+          "ky",
+          "cf",
+          "td",
+          "cl",
+          "cn",
+          "co",
+          "km",
+          "cg",
+          "cd",
+          "cr",
+          "hr",
+          "cy",
+          "cz",
+          "dk",
+          "dj",
+          "dm",
+          "do",
+          "eg",
+          "sv",
+          "gq",
+          "ee",
+          "et",
+          "fo",
+          "fj",
+          "fi",
+          "fr",
+          "gf",
+          "pf",
+          "ga",
+          "gm",
+          "ge",
+          "de",
+          "gh",
+          "gi",
+          "gr",
+          "gl",
+          "gd",
+          "gp",
+          "gu",
+          "gt",
+          "gn",
+          "gy",
+          "ht",
+          "hn",
+          "hk",
+          "hu",
+          "is",
+          "in",
+          "id",
+          "iq",
+          "ie",
+          "il",
+          "it",
+          "jm",
+          "jp",
+          "jo",
+          "ke",
+          "kr",
+          "xk",
+          "kw",
+          "kg",
+          "la",
+          "lv",
+          "lb",
+          "ls",
+          "lr",
+          "ly",
+          "li",
+          "lt",
+          "lu",
+          "mo",
+          "mk",
+          "mg",
+          "mw",
+          "my",
+          "mv",
+          "ml",
+          "mt",
+          "mq",
+          "mr",
+          "mu",
+          "mx",
+          "mc",
+          "mn",
+          "me",
+          "ms",
+          "ma",
+          "mz",
+          "na",
+          "np",
+          "nl",
+          "nz",
+          "ni",
+          "ne",
+          "ng",
+          "no",
+          "om",
+          "pk",
+          "ps",
+          "pa",
+          "py",
+          "pe",
+          "ph",
+          "pl",
+          "pt",
+          "pr",
+          "qa",
+          "re",
+          "ro",
+          "ru",
+          "rw",
+          "ws",
+          "sm",
+          "sa",
+          "sn",
+          "rs",
+          "sc",
+          "sl",
+          "sg",
+          "sk",
+          "si",
+          "za",
+          "es",
+          "lk",
+          "kn",
+          "lc",
+          "vc",
+          "sd",
+          "sr",
+          "sz",
+          "se",
+          "ch",
+          "tw",
+          "tj",
+          "tz",
+          "th",
+          "tg",
+          "to",
+          "tt",
+          "tn",
+          "tr",
+          "tc",
+          "ug",
+          "ua",
+          "ae",
+          "gb",
+          "us",
+          "uy",
+          "uz",
+          "ve",
+          "vn",
+          "vg",
+          "vi",
+          "ye",
+          "zm",
+          "zw"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "phone_number",
+        "id": "phone-number-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "incident-code-q5ggjl390b33",
+        "id": "incident-code-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "otp-field-q5ggjl390b33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/product-updates#",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search across all resources",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/product-updates#",
+    "action": "https://community.segment.com/member/forgotPassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "forgotPassword[username]",
+        "id": "forgotPassword_username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "forgotPassword[_token]",
+        "id": "forgotPassword__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/topic/new",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/topic/new",
+    "action": "https://community.segment.com/topic/new",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "topic[firstPost][application_name]",
+        "id": "topic_firstPost_application_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "topic[type]",
+        "id": "topic_content_type_question",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "topic[type]",
+        "id": "topic_content_type_discussion",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "topic[firstPost][content]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "topic[firstPost][poll][question]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_18",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_17",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_14",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_13",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_15",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_12",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_19",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_9",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_16",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "topic[tags]",
+        "id": "topic_tags",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "downshift-0-input",
+        "placeholder": "Add tags",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "topic[_token]",
+        "id": "topic__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/topic/new",
+    "action": "https://community.segment.com/topic/new",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/topic/new",
+    "action": "https://community.segment.com/member/forgotPassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "forgotPassword[username]",
+        "id": "forgotPassword_username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "forgotPassword[_token]",
+        "id": "forgotPassword__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/",
+    "action": "https://community.segment.com/member/forgotPassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "forgotPassword[username]",
+        "id": "forgotPassword_username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "forgotPassword[_token]",
+        "id": "forgotPassword__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/community",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/community",
+    "action": "https://community.segment.com/member/forgotPassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "forgotPassword[username]",
+        "id": "forgotPassword_username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "forgotPassword[_token]",
+        "id": "forgotPassword__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/activity/recent",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/activity/recent",
+    "action": "https://community.segment.com/member/forgotPassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "forgotPassword[username]",
+        "id": "forgotPassword_username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "forgotPassword[_token]",
+        "id": "forgotPassword__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/activity/unanswered",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/activity/unanswered",
+    "action": "https://community.segment.com/member/forgotPassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "forgotPassword[username]",
+        "id": "forgotPassword_username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "forgotPassword[_token]",
+        "id": "forgotPassword__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/about-community-1",
+    "action": "https://community.segment.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search across all resources",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/about-community-1",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search across all resources",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/about-community-1",
+    "action": "https://community.segment.com/member/forgotPassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "forgotPassword[username]",
+        "id": "forgotPassword_username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "forgotPassword[_token]",
+        "id": "forgotPassword__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/welcome-3",
+    "action": "https://community.segment.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search across all resources",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/welcome-3",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search across all resources",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/welcome-3",
+    "action": "https://community.segment.com/member/forgotPassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "forgotPassword[username]",
+        "id": "forgotPassword_username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "forgotPassword[_token]",
+        "id": "forgotPassword__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/community-chatter-65",
+    "action": "https://community.segment.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search across all resources",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/community-chatter-65",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search across all resources",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/community-chatter-65",
+    "action": "https://community.segment.com/member/forgotPassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "forgotPassword[username]",
+        "id": "forgotPassword_username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "forgotPassword[_token]",
+        "id": "forgotPassword__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/product-q-a-66",
+    "action": "https://community.segment.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search across all resources",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/product-q-a-66",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search across all resources",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/product-q-a-66",
+    "action": "https://community.segment.com/member/forgotPassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "forgotPassword[username]",
+        "id": "forgotPassword_username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "forgotPassword[_token]",
+        "id": "forgotPassword__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/?utm_referrer=https%3A%2F%2Fwww.twilio.com%2Fen-us%2Fresource-center%2Fguides",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/?utm_referrer=https%3A%2F%2Fwww.twilio.com%2Fen-us%2Fresource-center%2Fguides",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/?utm_referrer=https%3A%2F%2Fwww.twilio.com%2Fen-us%2Fresource-center%2Fguides",
+    "action": "https://community.segment.com/member/forgotPassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "forgotPassword[username]",
+        "id": "forgotPassword_username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "forgotPassword[_token]",
+        "id": "forgotPassword__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://segment.com/recipes/?utm_referrer=https%3A%2F%2Fwww.twilio.com%2Fen-us%2Fresource-center%2Fguides",
+    "action": "https://www.twilio.com/en-us/recipes?utm_referrer=https%3A%2F%2Fwww.twilio.com%2Fen-us%2Fresource-center%2Fguides",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "categories",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/?ref=nav",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search across all resources",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/?ref=nav",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search across all resources",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/?ref=nav",
+    "action": "https://community.segment.com/member/forgotPassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "forgotPassword[username]",
+        "id": "forgotPassword_username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "forgotPassword[_token]",
+        "id": "forgotPassword__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://segment.com/help/?ref=nav",
+    "action": "https://segment.com/help/?ref=nav",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search the knowledge base...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://segment.com/signup/",
+    "action": "https://segment.com/signup/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "",
+        "placeholder": "Full name",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Your work email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Enter a strong password",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "customFormIdentifier",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/ssoproxy/login?ssoType=saml",
+    "action": "https://twilio.okta.com/login/cert",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "fromURI",
+        "id": "fromURI",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/topic/new#breadcrumbs-target",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search across all resources",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/topic/new#breadcrumbs-target",
+    "action": "https://community.segment.com/topic/new#breadcrumbs-target",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "topic[firstPost][application_name]",
+        "id": "topic_firstPost_application_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "topic[type]",
+        "id": "topic_content_type_question",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "topic[type]",
+        "id": "topic_content_type_discussion",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "topic[firstPost][content]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "topic[firstPost][poll][question]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_18",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_17",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_14",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_13",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_15",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_12",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_19",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_9",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_16",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "product-area-selector_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "topic[tags]",
+        "id": "topic_tags",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "downshift-0-input",
+        "placeholder": "Add tags",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "topic[_token]",
+        "id": "topic__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/topic/new#breadcrumbs-target",
+    "action": "https://community.segment.com/topic/new#breadcrumbs-target",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/topic/new#breadcrumbs-target",
+    "action": "https://community.segment.com/member/forgotPassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "forgotPassword[username]",
+        "id": "forgotPassword_username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "forgotPassword[_token]",
+        "id": "forgotPassword__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/#",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search across all resources",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/#",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search across all resources",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/#",
+    "action": "https://community.segment.com/member/forgotPassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "forgotPassword[username]",
+        "id": "forgotPassword_username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "forgotPassword[_token]",
+        "id": "forgotPassword__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/community#",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search across all resources",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/community#",
+    "action": "https://community.segment.com/member/forgotPassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "forgotPassword[username]",
+        "id": "forgotPassword_username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "forgotPassword[_token]",
+        "id": "forgotPassword__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/activity/recent#breadcrumbs-target",
+    "action": "https://community.segment.com/search/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://community.segment.com/activity/recent#breadcrumbs-target",
+    "action": "https://community.segment.com/member/forgotPassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "forgotPassword[username]",
+        "id": "forgotPassword_username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "forgotPassword[_token]",
+        "id": "forgotPassword__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
