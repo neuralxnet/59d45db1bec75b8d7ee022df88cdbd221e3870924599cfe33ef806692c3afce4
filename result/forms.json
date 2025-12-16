@@ -84324,5 +84324,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.underarmour.com",
+    "action": "https://www.underarmour.com/en-us/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "search-input",
+        "placeholder": "Search UA",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.com",
+    "action": "https://www.underarmour.com/en-us/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "search-input",
+        "placeholder": "Search UA",
+        "required": false
+      }
+    ]
   }
 ]
