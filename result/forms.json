@@ -84212,5 +84212,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://opendata.test-socrata.com",
+    "action": "https://opendata.test-socrata.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-13653",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
   }
 ]
