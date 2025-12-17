@@ -84386,5 +84386,54 @@
     "action": "https://login.microsoftonline.com/7255cebc-84d0-47c0-9740-b001ceaaf7e5/saml2?SAMLRequest=fZJBT%2BMwEIX%2FSuS7E8ckpFhNq%2B4itEggShv2wAW5zqRYSsZZjxPx84nSVstKK47WvHnPM98s1x9dG43gyTosWRoLFgEaV1s8luyluuMLtl4tSXet7NVmCO%2B4gz8DUIimRiR1qpRs8KicJksKdQekglH7zeODkrFQvXfBGdeyaEMEPkxRPx3S0IHfgx%2BtgZfdQ8neQ%2BhJJcnYAx8oHrAGr33nBh8b1yW6t0nrjhaTOTMhcolDYNHt9BuLOswTXExmZdxZ4x25JjhsLcLsU8g8N3AwfJHVgmeFEfymyAQ%2FCJEa0LopID9FsOjOeQPz1CVrdEtT2v1tyTa75yaXsgbBJ%2FmBZ1qmfJGC4cZcpzKvoYBmMWlpq4nsCH%2B7iQa4RwoaQ8mkkDlPJU%2BLSmTq6lpJGd9cpa8s2p5X9sPiCcV3%2Bz2cRKR%2BVdWWb5%2F2FYt%2BX5BOAnYGqOZ0%2F5Xc98b6gout%2Fg%2FlbZTL5Kv36vz891ZWnw%3D%3D&RelayState=372ec40a-080a-44b7-a367-9d86645b9966&sso_reload=true",
     "method": "post",
     "fields": []
+  },
+  {
+    "url": "https://www.underarmour.com.sg",
+    "action": "https://www.underarmour.com.sg/en-sg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search UA",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.com.sg",
+    "action": "https://www.underarmour.com.sg/on/demandware.store/Sites-SEA-Site/en_SG/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "hpEmailSignUp",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.com.sg",
+    "action": "https://www.underarmour.com.sg/on/demandware.store/Sites-SEA-Site/en_SG/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "hpEmailSignUp",
+        "id": "hpEmailSignUp",
+        "placeholder": "",
+        "required": true
+      }
+    ]
   }
 ]
