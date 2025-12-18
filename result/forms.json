@@ -85449,5 +85449,103 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://id.unity.com",
+    "action": "https://id.unity.com/en/conversations/0052ae5e-b5c8-4803-8d17-b21271606ea5001f",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "conversations_create_session_form[email]",
+        "id": "conversations_create_session_form_email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "conversations_create_session_form[password]",
+        "id": "conversations_create_session_form_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "conversations_create_session_form[remember_me]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "conversations_create_session_form[remember_me]",
+        "id": "conversations_create_session_form_remember_me",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://id.unity.com",
+    "action": "https://id.unity.com/en/conversations/0052ae5e-b5c8-4803-8d17-b21271606ea5001f/thirdparty",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "provider",
+        "id": "provider",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "accept_optin",
+        "id": "accept_optin",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
