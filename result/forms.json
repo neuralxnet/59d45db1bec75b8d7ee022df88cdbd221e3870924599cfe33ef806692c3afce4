@@ -86135,5 +86135,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.vwfs.com.ar",
+    "action": "https://www.vwfs.com.ar/busqueda.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
