@@ -86149,5 +86149,306 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.vwfs.com.au",
+    "action": "https://www.vwfs.com.au/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealerportal.vwfs.com.au/login.aspx?ReturnUrl=%2fhome.aspx",
+    "action": "https://dealerportal.vwfs.com.au/login.aspx?ReturnUrl=%2fhome.aspx",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__CMSCsrfToken",
+        "id": "__CMSCsrfToken",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lng",
+        "id": "lng",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__SCROLLPOSITIONX",
+        "id": "__SCROLLPOSITIONX",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__SCROLLPOSITIONY",
+        "id": "__SCROLLPOSITIONY",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "p$lt$LoginControl$Login1$UserName",
+        "id": "UserName",
+        "placeholder": "username",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "p$lt$LoginControl$Login1$Password",
+        "id": "Password",
+        "placeholder": "••••••••",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.com.au/personal-business-finance.html",
+    "action": "https://www.vwfs.com.au/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.com.au/personal-business-finance/personal-finance.html",
+    "action": "https://www.vwfs.com.au/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.com.au/personal-business-finance/personal-finance/how-and-when-to-consider-finance-for-your-new-vehicle.html",
+    "action": "https://www.vwfs.com.au/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.com.au/personal-business-finance/business-finance.html",
+    "action": "https://www.vwfs.com.au/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.com.au/personal-business-finance.html#main-section",
+    "action": "https://www.vwfs.com.au/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.com.au/personal-business-finance.html#footer-section",
+    "action": "https://www.vwfs.com.au/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.com.au/personal-business-finance/business-finance/commercial-loans-for-your-business-vehicle.html",
+    "action": "https://www.vwfs.com.au/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.com.au/personal-business-finance/personal-finance.html#main-section",
+    "action": "https://www.vwfs.com.au/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.com.au/personal-business-finance/personal-finance.html#footer-section",
+    "action": "https://www.vwfs.com.au/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.com.au/personal-business-finance/personal-finance/how-and-when-to-consider-finance-for-your-new-vehicle.html#main-section",
+    "action": "https://www.vwfs.com.au/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.com.au/personal-business-finance/personal-finance/how-and-when-to-consider-finance-for-your-new-vehicle.html#footer-section",
+    "action": "https://www.vwfs.com.au/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.com.au/personal-business-finance/business-finance.html#main-section",
+    "action": "https://www.vwfs.com.au/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.com.au/personal-business-finance/business-finance.html#footer-section",
+    "action": "https://www.vwfs.com.au/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.com.au/personal-business-finance/business-finance/commercial-loans-for-your-business-vehicle.html#main-section",
+    "action": "https://www.vwfs.com.au/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.com.au/personal-business-finance/business-finance/commercial-loans-for-your-business-vehicle.html#footer-section",
+    "action": "https://www.vwfs.com.au/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
