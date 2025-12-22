@@ -89586,5 +89586,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.vwfs.fr",
+    "action": "https://www.vwfs.fr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
