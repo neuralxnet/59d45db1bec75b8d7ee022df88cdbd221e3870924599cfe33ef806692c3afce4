@@ -90164,5 +90164,173 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.networksolutions.com",
+    "action": "https://www.networksolutions.com/bin/newfold/lead",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "fname",
+        "id": "fname",
+        "placeholder": "First Name*",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "lname",
+        "id": "lname",
+        "placeholder": "Last Name*",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "phone",
+        "placeholder": "Phone*",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email*",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaign_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cid_0",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cid_3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cid_5",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cid_6",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cid_7",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cid_9",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "country",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "targetphone fs-mask",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "referrer",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "UUID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "thankyou",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "requestJSONPath",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "conditionalCheckbox-c8d2fddd-808c-44c2-97b5-f5d2d2741c3e",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "optin_status",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "optin_disclaimer_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "optin_disclaimer_version",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "optin_lifetime_consent",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "optin_site_location",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
