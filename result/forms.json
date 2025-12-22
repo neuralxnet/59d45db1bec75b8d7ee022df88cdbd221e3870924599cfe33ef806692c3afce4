@@ -89614,5 +89614,25 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.vwfs.pt",
+    "action": "https://www.vwfs.pt/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.pt",
+    "action": "https://www.vwfs.pt/",
+    "method": "get",
+    "fields": []
   }
 ]
