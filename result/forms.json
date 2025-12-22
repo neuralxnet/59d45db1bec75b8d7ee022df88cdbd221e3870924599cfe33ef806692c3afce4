@@ -89600,5 +89600,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.vwfs.com.br",
+    "action": "https://www.vwfs.com.br/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
