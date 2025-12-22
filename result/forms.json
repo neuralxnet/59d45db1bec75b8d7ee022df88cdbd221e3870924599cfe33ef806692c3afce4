@@ -89558,5 +89558,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.vwfs.mx",
+    "action": "https://www.vwfs.mx/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
