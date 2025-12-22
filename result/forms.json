@@ -90136,5 +90136,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.vwfs.kr",
+    "action": "https://www.vwfs.kr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
