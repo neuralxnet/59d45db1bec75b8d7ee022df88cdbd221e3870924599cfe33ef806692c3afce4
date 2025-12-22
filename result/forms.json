@@ -89732,5 +89732,395 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.vwfs.gr",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr",
+    "action": "https://www.vwfs.gr/",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.vwfs.gr",
+    "action": "https://www.vwfs.gr/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "question_id_609502536",
+        "id": "id_1685481205",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "question_id_609502536",
+        "id": "id_689513530",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "question_1292676407_id_2128187939",
+        "id": "id_864653014",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "question_1292676407_id_2128187939",
+        "id": "id_1644439948",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "question_467314339_id_1931101105",
+        "id": "id_551320612",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "question_467314339_id_1931101105",
+        "id": "id_1294026818",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/",
+    "action": "https://www.vwfs.gr/",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.vwfs.gr/",
+    "action": "https://www.vwfs.gr/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "question_id_609502536",
+        "id": "id_1685481205",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "question_id_609502536",
+        "id": "id_689513530",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "question_1292676407_id_2128187939",
+        "id": "id_864653014",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "question_1292676407_id_2128187939",
+        "id": "id_1644439948",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "question_467314339_id_1931101105",
+        "id": "id_551320612",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "question_467314339_id_1931101105",
+        "id": "id_1294026818",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/CustomerQueries.html",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/finance.html",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/finance/new-cars.html",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/finance/cpi.html",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/finance/required-documents.html",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/finance/Classiccredit.html",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/CustomerQueries.html#main-section",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/CustomerQueries.html#footer-section",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/finance.html#main-section",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/finance.html#footer-section",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/finance/new-cars.html#main-section",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/finance/new-cars.html#footer-section",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/finance/cpi.html#main-section",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/finance/cpi.html#footer-section",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/finance/required-documents.html#main-section",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/finance/required-documents.html#footer-section",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/finance/Classiccredit.html#main-section",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.gr/finance/Classiccredit.html#footer-section",
+    "action": "https://www.vwfs.gr/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
