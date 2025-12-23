@@ -91060,5 +91060,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://apps.apple.com",
+    "action": "https://apps.apple.com/us/iphone/today",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
   }
 ]
