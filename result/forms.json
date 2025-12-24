@@ -91405,5 +91405,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://app.asana.com",
+    "action": "https://app.asana.com/-/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "e",
+        "id": "lui_4",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
