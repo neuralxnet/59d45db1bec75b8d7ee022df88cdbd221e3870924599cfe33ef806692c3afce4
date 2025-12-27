@@ -95811,5 +95811,51 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.backblaze.com/help",
+    "action": "https://www.backblaze.com/help",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search the knowledge base",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.backblaze.com/cloud-storage",
+    "action": "https://www.backblaze.com/cloud-storage",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://www.backblaze.com/cloud-backup/business",
+    "action": "https://www.backblaze.com/cloud-backup/business",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://www.backblaze.com/cloud-backup/personal",
+    "action": "https://www.backblaze.com/cloud-backup/personal",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://www.backblaze.com/fr/help",
+    "action": "https://www.backblaze.com/fr/help",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Rechercher dans la base de connaissances",
+        "required": false
+      }
+    ]
   }
 ]
