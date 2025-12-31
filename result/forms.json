@@ -108814,5 +108814,222 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://adhoc-bugcrowd-studio.cdn-code.org",
+    "action": "https://adhoc-bugcrowd-studio.cdn-code.org/users/sign_in",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "user[hashed_email]",
+        "id": "user_hashed_email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "user[login]",
+        "id": "user_login",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user[password]",
+        "id": "user_password",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adhoc-bugcrowd-studio.cdn-code.org",
+    "action": "https://adhoc-bugcrowd-studio.cdn-code.org/join",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "section_code",
+        "id": "section_code",
+        "placeholder": "Section Code (ABCDEF)",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adhoc-bugcrowd-studio.cdn-code.org",
+    "action": "https://adhoc-bugcrowd-studio.cdn-code.org/users/auth/google_oauth2",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adhoc-bugcrowd-studio.cdn-code.org",
+    "action": "https://adhoc-bugcrowd-studio.cdn-code.org/users/auth/microsoft_v2_auth",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adhoc-bugcrowd-studio.cdn-code.org",
+    "action": "https://adhoc-bugcrowd-studio.cdn-code.org/users/auth/facebook",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adhoc-bugcrowd-studio.cdn-code.org",
+    "action": "https://adhoc-bugcrowd-studio.cdn-code.org/users/auth/clever",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adhoc-bugcrowd-studio.cdn-code.org",
+    "action": "https://adhoc-bugcrowd-studio.cdn-code.org/locale",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "user_return_to",
+        "id": "user_return_to",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "locale",
+        "id": "locale",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "ar-SA",
+          "az-AZ",
+          "bg-BG",
+          "bn-BD",
+          "bs-BA",
+          "ca-ES",
+          "co-CO",
+          "cs-CZ",
+          "da-DK",
+          "de-DE",
+          "dv-MV",
+          "el-GR",
+          "en-GB",
+          "en-US",
+          "es-ES",
+          "es-MX",
+          "et-EE",
+          "eu-ES",
+          "fa-AF",
+          "fa-IR",
+          "fi-FI",
+          "fil-PH",
+          "fr-FR",
+          "ga-IE",
+          "gl-ES",
+          "haw-HI",
+          "he-IL",
+          "hi-IN",
+          "hr-HR",
+          "hu-HU",
+          "hy-AM",
+          "id-ID",
+          "in-TL",
+          "is-IS",
+          "it-IT",
+          "ja-JP",
+          "ka-GE",
+          "kk-KZ",
+          "km-KH",
+          "kn-IN",
+          "ko-KR",
+          "ku-IQ",
+          "ky-KG",
+          "lt-LT",
+          "lv-LV",
+          "mi-NZ",
+          "mk-MK",
+          "mn-MN",
+          "mr-IN",
+          "ms-MY",
+          "mt-MT",
+          "my-MM",
+          "ne-NP",
+          "nl-NL",
+          "nn-NO",
+          "no-NO",
+          "pl-PL",
+          "ps-AF",
+          "pt-BR",
+          "pt-PT",
+          "ro-RO",
+          "ru-RU",
+          "se-FI",
+          "si-LK",
+          "sk-SK",
+          "sl-SI",
+          "sm-WS",
+          "sq-AL",
+          "sr-SP",
+          "sv-SE",
+          "ta-IN",
+          "te-IN",
+          "tg-TJ",
+          "th-TH",
+          "tr-TR",
+          "uk-UA",
+          "ur-PK",
+          "uz-UZ",
+          "vi-VN",
+          "zh-CN",
+          "zh-TW",
+          "zu-ZA"
+        ]
+      }
+    ]
   }
 ]
