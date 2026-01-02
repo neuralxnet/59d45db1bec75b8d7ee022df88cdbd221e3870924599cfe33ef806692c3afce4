@@ -111194,5 +111194,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.hostgator.com.br",
+    "action": "https://www.hostgator.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Pesquise seu domínio",
+        "required": false
+      }
+    ]
   }
 ]
