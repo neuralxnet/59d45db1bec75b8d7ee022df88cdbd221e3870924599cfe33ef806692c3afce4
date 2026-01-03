@@ -111683,5 +111683,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.enjoyselfish.com",
+    "action": "https://www.enjoyselfish.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Search for a product...",
+        "required": false
+      }
+    ]
   }
 ]
