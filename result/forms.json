@@ -111697,5 +111697,200 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://investors.ibotta.com/news-events",
+    "action": "https://investors.ibotta.com/news-events/press-releases",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "year",
+        "id": "year",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "-1",
+          "2025",
+          "2024",
+          "2023",
+          "2022",
+          "2021",
+          "2020",
+          "2019",
+          "2018",
+          "2017",
+          "2016",
+          "2015"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "all",
+          "financial"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://investors.ibotta.com/news-events/press-releases",
+    "action": "https://investors.ibotta.com/news-events/press-releases",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "year",
+        "id": "year",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "-1",
+          "2025",
+          "2024",
+          "2023",
+          "2022",
+          "2021",
+          "2020",
+          "2019",
+          "2018",
+          "2017",
+          "2016",
+          "2015"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "all",
+          "financial"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://investors.ibotta.com/news-events/press-releases#mainContent",
+    "action": "https://investors.ibotta.com/news-events/press-releases#mainContent",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "year",
+        "id": "year",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "-1",
+          "2025",
+          "2024",
+          "2023",
+          "2022",
+          "2021",
+          "2020",
+          "2019",
+          "2018",
+          "2017",
+          "2016",
+          "2015"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "all",
+          "financial"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://investors.ibotta.com/news-events/press-releases#footer",
+    "action": "https://investors.ibotta.com/news-events/press-releases#footer",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "year",
+        "id": "year",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "-1",
+          "2025",
+          "2024",
+          "2023",
+          "2022",
+          "2021",
+          "2020",
+          "2019",
+          "2018",
+          "2017",
+          "2016",
+          "2015"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "all",
+          "financial"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://investors.ibotta.com/news-events/press-releases#",
+    "action": "https://investors.ibotta.com/news-events/press-releases#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "year",
+        "id": "year",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "-1",
+          "2025",
+          "2024",
+          "2023",
+          "2022",
+          "2021",
+          "2020",
+          "2019",
+          "2018",
+          "2017",
+          "2016",
+          "2015"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "all",
+          "financial"
+        ]
+      }
+    ]
   }
 ]
