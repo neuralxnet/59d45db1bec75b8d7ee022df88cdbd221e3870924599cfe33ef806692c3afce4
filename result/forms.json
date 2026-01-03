@@ -111458,5 +111458,57 @@
     "action": "https://www.myprotein.com/",
     "method": "dialog",
     "fields": []
+  },
+  {
+    "url": "https://www.myvitamins.com",
+    "action": "https://www.myvitamins.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "mobile-search-input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.myvitamins.com",
+    "action": "https://www.myvitamins.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-input",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.myvitamins.com",
+    "action": "https://www.myvitamins.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.myvitamins.com",
+    "action": "https://www.myvitamins.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.myvitamins.com",
+    "action": "https://www.myvitamins.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.myvitamins.com",
+    "action": "https://www.myvitamins.com/",
+    "method": "dialog",
+    "fields": []
   }
 ]
