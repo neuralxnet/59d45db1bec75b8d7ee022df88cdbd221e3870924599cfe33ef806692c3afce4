@@ -111406,5 +111406,57 @@
     "action": "https://www.lookfantastic.com/",
     "method": "dialog",
     "fields": []
+  },
+  {
+    "url": "https://www.myprotein.com",
+    "action": "https://www.myprotein.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "mobile-search-input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.myprotein.com",
+    "action": "https://www.myprotein.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search-input",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.myprotein.com",
+    "action": "https://www.myprotein.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.myprotein.com",
+    "action": "https://www.myprotein.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.myprotein.com",
+    "action": "https://www.myprotein.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.myprotein.com",
+    "action": "https://www.myprotein.com/",
+    "method": "dialog",
+    "fields": []
   }
 ]
