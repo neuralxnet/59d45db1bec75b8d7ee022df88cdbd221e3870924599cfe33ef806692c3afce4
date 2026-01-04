@@ -112046,5 +112046,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://play.immutable.com",
+    "action": "https://play.immutable.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "Enter username",
+        "required": false
+      }
+    ]
   }
 ]
