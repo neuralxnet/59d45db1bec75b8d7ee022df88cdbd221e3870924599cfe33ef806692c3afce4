@@ -111920,5 +111920,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://passport.immutable.com",
+    "action": "https://play.immutable.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "Enter username",
+        "required": false
+      }
+    ]
   }
 ]
