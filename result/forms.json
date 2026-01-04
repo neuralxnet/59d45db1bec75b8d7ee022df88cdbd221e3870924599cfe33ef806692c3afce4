@@ -112072,5 +112072,68 @@
     "action": "https://www.imperva.com/?redirect=CloudVector",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://www.indeed.com/hire?co=US&hl=en&ikw=gnav-header-hire&isid=employerlink-US",
+    "action": "https://www.indeed.com/hireV2/api/jsCount",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "jobTitleInput",
+        "placeholder": "Job title or role",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "suggestlist-id",
+        "placeholder": "City, State, or ZIP",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.indeed.com/hire?from=gnav-employer--allspark--employer",
+    "action": "https://www.indeed.com/hireV2/api/jsCount",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "jobTitleInput",
+        "placeholder": "Job title or role",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "suggestlist-id",
+        "placeholder": "City, State, or ZIP",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.indeed.com/hire?from=gnav-msys-unified-cms--swampjs--employer",
+    "action": "https://www.indeed.com/hireV2/api/jsCount",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "jobTitleInput",
+        "placeholder": "Job title or role",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "suggestlist-id",
+        "placeholder": "City, State, or ZIP",
+        "required": false
+      }
+    ]
   }
 ]
