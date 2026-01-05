@@ -112291,5 +112291,33 @@
     "action": "https://developers.intercom.com/docs/guides/mcp",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://pets.webmd.com",
+    "action": "https://www.webmd.com/search/search_results/default.aspx",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "Ask WebMD",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://pets.webmd.com",
+    "action": "https://www.webmd.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "Search WebMD",
+        "required": false
+      }
+    ]
   }
 ]
