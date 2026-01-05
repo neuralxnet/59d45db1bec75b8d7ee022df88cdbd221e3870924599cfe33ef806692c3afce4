@@ -112361,5 +112361,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.mdedge.com",
+    "action": "https://www.mdedge.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "keywords",
+        "id": "mobile-search",
+        "placeholder": "Search MDedge",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mdedge.com",
+    "action": "https://www.mdedge.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "keywords",
+        "id": "nav-search",
+        "placeholder": "Search MDedge",
+        "required": false
+      }
+    ]
   }
 ]
