@@ -112135,5 +112135,80 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://app.intercom.com",
+    "action": "https://app.intercom.com/auth/google_oauth2",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "authenticity_token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://app.intercom.com",
+    "action": "https://app.intercom.com/admins/sign_in",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "admin[email]",
+        "id": "admin_email",
+        "placeholder": "name@company.com",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "admin[password]",
+        "id": "admin_password",
+        "placeholder": "password",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "admin[remember_me]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "admin[remember_me]",
+        "id": "admin_remember_me",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "selected_region",
+        "id": "region-picker",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "us-east-1",
+          "eu-west-1",
+          "ap-southeast-2"
+        ]
+      }
+    ]
   }
 ]
