@@ -112389,5 +112389,47 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://accounts.webmd.com",
+    "action": "https://www.webmd.com/search/search_results/default.aspx",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "Ask WebMD",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://accounts.webmd.com",
+    "action": "https://member.webmd.com/signin",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "rememberme",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
