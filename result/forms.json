@@ -113537,5 +113537,54 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.webmd.com",
+    "action": "https://www.webmd.com/search/search_results/default.aspx",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "Ask WebMD",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.webmd.com",
+    "action": "https://www.webmd.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "city",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pt",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Zip Code or City, State",
+        "required": false
+      }
+    ]
   }
 ]
