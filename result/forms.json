@@ -114161,5 +114161,89 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.irobot.be",
+    "action": "https://www.irobot.be/nl_BE/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "",
+        "placeholder": "Zoeken",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "searchCharsMinLength",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.irobot.be",
+    "action": "https://www.irobot.be/nl_BE/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "",
+        "placeholder": "Zoeken",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "searchCharsMinLength",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.irobot.be",
+    "action": "https://cloud.email.irobot.com/sitecore_form_processing",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "country",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "language",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "field0",
+        "placeholder": "Email address",
+        "required": false
+      }
+    ]
   }
 ]
