@@ -113677,5 +113677,103 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://life.pulsepoint.com",
+    "action": "https://platform.pulsepoint.com/AccountMgmt/LifeLogin.aspx?AspxAutoDetectCookieSupport=1",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEENCRYPTED",
+        "id": "__VIEWSTATEENCRYPTED",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "VIEWSTATEGENERATORCUSTID",
+        "id": "VIEWSTATEGENERATORCUSTID",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "VIEWSTATEGENERATORCUSTVAL1",
+        "id": "VIEWSTATEGENERATORCUSTVAL1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "VIEWSTATEGENERATORCUSTVAL2",
+        "id": "VIEWSTATEGENERATORCUSTVAL2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "UserName",
+        "id": "UserName",
+        "placeholder": "you@example.com",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "password",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "usrSessionId",
+        "id": "usrSessionId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "usrAuthId",
+        "id": "usrAuthId",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
