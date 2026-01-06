@@ -114742,5 +114742,89 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.irobot.pt",
+    "action": "https://www.irobot.pt/pt_PT/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "",
+        "placeholder": "Pesquisar",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "searchCharsMinLength",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.irobot.pt",
+    "action": "https://www.irobot.pt/pt_PT/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "",
+        "placeholder": "Pesquisar",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "searchCharsMinLength",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.irobot.pt",
+    "action": "https://cloud.email.irobot.com/sitecore_form_processing",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "country",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "language",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "field0",
+        "placeholder": "Endereço de e-mail",
+        "required": false
+      }
+    ]
   }
 ]
