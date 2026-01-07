@@ -114875,5 +114875,222 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.just-eat.es/account/login?returnurl=%2Fhelp",
+    "action": "https://www.just-eat.es/account/login/?returnUrl=%2Fhelp",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "Introduce tu email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "Introduce contraseña",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "RememberMe",
+        "id": "RememberMe",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RememberMe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.just-eat.es/account/login?returnurl=%2Fhelp#skipToMain",
+    "action": "https://www.just-eat.es/account/login/?returnUrl=%2Fhelp",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "Introduce tu email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "Introduce contraseña",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "RememberMe",
+        "id": "RememberMe",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RememberMe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.just-eat.es/account/register/?returnurl=%2Fhelp",
+    "action": "https://www.just-eat.es/account/register/?returnurl=%2Fhelp",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "formField-firstName-27",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "formField-lastName-29",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "formField-email-31",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "formField-password-33",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.just-eat.es/account/reset-password/?returnUrl=%2fhelp",
+    "action": "https://www.just-eat.es/account/reset-password?returnUrl=%2Fhelp",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "EmailAddress",
+        "id": "EmailAddress",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.just-eat.es/account/register/?returnUrl=%2Fhelp",
+    "action": "https://www.just-eat.es/account/register/?returnUrl=%2Fhelp",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "formField-firstName-27",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "formField-lastName-29",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "formField-email-31",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "formField-password-33",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.just-eat.es/account/login?returnurl=%2F",
+    "action": "https://www.just-eat.es/account/login/?returnUrl=%2F",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "Introduce tu email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "Introduce contraseña",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "RememberMe",
+        "id": "RememberMe",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RememberMe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
