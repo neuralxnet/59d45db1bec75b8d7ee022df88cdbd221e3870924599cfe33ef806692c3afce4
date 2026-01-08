@@ -115092,5 +115092,47 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.justeattakeaway.com",
+    "action": "https://www.justeattakeaway.com/home/default.aspx",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__antiCSRF",
+        "id": "__antiCSRF",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationAntiCSRFToken",
+        "id": "__RequestVerificationAntiCSRFToken",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
