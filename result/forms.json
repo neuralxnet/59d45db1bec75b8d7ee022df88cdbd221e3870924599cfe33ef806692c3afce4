@@ -116488,5 +116488,117 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.keepersecurity.com/blog/",
+    "action": "https://www.keepersecurity.com/blog/?",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.keepersecurity.com/blog/ja/",
+    "action": "https://www.keepersecurity.com/blog/ja/?",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.keepersecurity.com/blog/es/",
+    "action": "https://www.keepersecurity.com/blog/es/?",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.keepersecurity.com/blog/pt-br/",
+    "action": "https://www.keepersecurity.com/blog/pt-br/?",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.keepersecurity.com/blog/nl/",
+    "action": "https://www.keepersecurity.com/blog/nl/?",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.keepersecurity.com/blog/de/",
+    "action": "https://www.keepersecurity.com/blog/de/?",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.keepersecurity.com/blog/ru/",
+    "action": "https://www.keepersecurity.com/blog/ru/?",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.keepersecurity.com/blog/pl/",
+    "action": "https://www.keepersecurity.com/blog/pl/?",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
   }
 ]
