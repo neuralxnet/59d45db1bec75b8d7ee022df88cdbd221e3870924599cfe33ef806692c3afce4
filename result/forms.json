@@ -115134,5 +115134,1359 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.microsoft.com",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/windows/",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/surface",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/store/b/sale?icid=DSM_TopNavDeals",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/store/b/business",
+    "action": "https://www.microsoft.com/en-us/store/b/business",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "userEmail",
+        "id": "x98c4d7a29a61427b8c34dc40d4737263",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "xc1eda7c4e4c74e21baf3bb382269cbfc",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CZ",
+          "DK",
+          "FI",
+          "FR",
+          "DE",
+          "HU",
+          "IN",
+          "IE",
+          "IL",
+          "IT",
+          "JP",
+          "LU",
+          "MX",
+          "NL",
+          "NZ",
+          "NO",
+          "PL",
+          "PT",
+          "SG",
+          "ZA",
+          "KR",
+          "ES",
+          "SE",
+          "TR",
+          "CH",
+          "GB",
+          "US"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/store/b/business",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.microsoft.com/en-us",
+    "action": "https://support.microsoft.com/en-us/Search/results",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "query",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search for help",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.microsoft.com/en-us",
+    "action": "https://support.microsoft.com/search/results",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "query",
+        "id": "supHomeAndLandingPageSearchBox",
+        "placeholder": "How can we help you?",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "isEnrichedQuery",
+        "id": "supHomeAndLandingPageIsEnrichedQuery",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/windows",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/windows/windows-11",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/windows/compare-windows-11-home-vs-pro-versions",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/windows/comprehensive-security",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/windows/ai-features",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/windows/windows-11?wincampaign=copilot",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/windows/photo-movie-editor",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/windows/paint",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/surface",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/surface/devices/surface-pro",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/store/b/surface-pro-keyboards",
+    "action": "https://www.microsoft.com/en-us/store/b/surface-pro-keyboards",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "userEmail",
+        "id": "xfb0d6c2677854ff082699109abb352f6",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "xd515ad177f0445a68205a6e03462128d",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CZ",
+          "DK",
+          "FI",
+          "FR",
+          "DE",
+          "HU",
+          "IN",
+          "IE",
+          "IL",
+          "IT",
+          "JP",
+          "LU",
+          "MX",
+          "NL",
+          "NZ",
+          "NO",
+          "PL",
+          "PT",
+          "SG",
+          "ZA",
+          "KR",
+          "ES",
+          "SE",
+          "TR",
+          "CH",
+          "GB",
+          "US"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/store/b/surface-pro-keyboards",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/d/surface-slim-pen/8tb9xw8rwc14",
+    "action": "https://www.microsoft.com/en-us/d/surface-slim-pen/8tb9xw8rwc14",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "userEmail",
+        "id": "x8541a013aa2a4326a94a7e238c469dcc",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "x9c9840d479e74bc2af3cd0ba03159a91",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CZ",
+          "DK",
+          "FI",
+          "FR",
+          "DE",
+          "HU",
+          "IN",
+          "IE",
+          "IL",
+          "IT",
+          "JP",
+          "LU",
+          "MX",
+          "NL",
+          "NZ",
+          "NO",
+          "PL",
+          "PT",
+          "SG",
+          "ZA",
+          "KR",
+          "ES",
+          "SE",
+          "TR",
+          "CH",
+          "GB",
+          "US"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/d/surface-slim-pen/8tb9xw8rwc14",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/surface/devices/surface-laptop",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/store/collections/surfacelaptopaccessories?headerid=department-surface",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/d/surface-studio-2/8vlfqc3597k4",
+    "action": "https://www.microsoft.com/en-us/d/surface-studio-2/8vlfqc3597k4?activetab=pivot:overviewtab",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "userEmail",
+        "id": "x7b835da6f4e34049bf3e7839f519cdf8",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "x958a85c1d3c440b6b9aa2c3ed7813f24",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CZ",
+          "DK",
+          "FI",
+          "FR",
+          "DE",
+          "HU",
+          "IN",
+          "IE",
+          "IL",
+          "IT",
+          "JP",
+          "LU",
+          "MX",
+          "NL",
+          "NZ",
+          "NO",
+          "PL",
+          "PT",
+          "SG",
+          "ZA",
+          "KR",
+          "ES",
+          "SE",
+          "TR",
+          "CH",
+          "GB",
+          "US"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/d/surface-studio-2/8vlfqc3597k4",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/d/surface-laptop-studio-2/8rqr54krf1dz",
+    "action": "https://www.microsoft.com/en-us/d/surface-laptop-studio-2/8rqr54krf1dz",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "userEmail",
+        "id": "xf317b4d738c544c384c40f8d86b19936",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "x8759bb4604d04b0b8aee42633fa60d4e",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CZ",
+          "DK",
+          "FI",
+          "FR",
+          "DE",
+          "HU",
+          "IN",
+          "IE",
+          "IL",
+          "IT",
+          "JP",
+          "LU",
+          "MX",
+          "NL",
+          "NZ",
+          "NO",
+          "PL",
+          "PT",
+          "SG",
+          "ZA",
+          "KR",
+          "ES",
+          "SE",
+          "TR",
+          "CH",
+          "GB",
+          "US"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/d/surface-laptop-studio-2/8rqr54krf1dz",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/store/b/business#",
+    "action": "https://www.microsoft.com/en-us/store/b/business#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "userEmail",
+        "id": "x98c4d7a29a61427b8c34dc40d4737263",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "xc1eda7c4e4c74e21baf3bb382269cbfc",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CZ",
+          "DK",
+          "FI",
+          "FR",
+          "DE",
+          "HU",
+          "IN",
+          "IE",
+          "IL",
+          "IT",
+          "JP",
+          "LU",
+          "MX",
+          "NL",
+          "NZ",
+          "NO",
+          "PL",
+          "PT",
+          "SG",
+          "ZA",
+          "KR",
+          "ES",
+          "SE",
+          "TR",
+          "CH",
+          "GB",
+          "US"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/store/b/business#",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/store/b/business?icid=CNav_BusinessStore",
+    "action": "https://www.microsoft.com/en-us/store/b/business?icid=CNav_BusinessStore",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "userEmail",
+        "id": "x98c4d7a29a61427b8c34dc40d4737263",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "xc1eda7c4e4c74e21baf3bb382269cbfc",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CZ",
+          "DK",
+          "FI",
+          "FR",
+          "DE",
+          "HU",
+          "IN",
+          "IE",
+          "IL",
+          "IT",
+          "JP",
+          "LU",
+          "MX",
+          "NL",
+          "NZ",
+          "NO",
+          "PL",
+          "PT",
+          "SG",
+          "ZA",
+          "KR",
+          "ES",
+          "SE",
+          "TR",
+          "CH",
+          "GB",
+          "US"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/store/b/business?icid=CNav_BusinessStore",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/d/surface-pro-for-business-copilot-pc-13-inch-intel/8qfmn9xp1rl9?icid=CNav_Surface_CPProBizInt",
+    "action": "https://www.microsoft.com/en-us/d/surface-pro-for-business-copilot-pc-13-inch-intel/8qfmn9xp1rl9?icid=CNav_Surface_CPProBizInt",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "userEmail",
+        "id": "xd86024dc2c184fb2b39fe40206a84ad0",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "x8d868e778ead4bd4a9408ab23781942c",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CZ",
+          "DK",
+          "FI",
+          "FR",
+          "DE",
+          "HU",
+          "IN",
+          "IE",
+          "IL",
+          "IT",
+          "JP",
+          "LU",
+          "MX",
+          "NL",
+          "NZ",
+          "NO",
+          "PL",
+          "PT",
+          "SG",
+          "ZA",
+          "KR",
+          "ES",
+          "SE",
+          "TR",
+          "CH",
+          "GB",
+          "US"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/d/surface-pro-for-business-copilot-pc-13-inch-intel/8qfmn9xp1rl9?icid=CNav_Surface_CPProBizInt",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/microsoft-365?ocid=cmmttvzgpuy",
+    "action": "https://www.microsoft.com/en-us/microsoft-365/site-search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search Microsoft 365",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.microsoft.com/en-us/microsoft-365",
+    "action": "https://support.microsoft.com/en-us/Search/results",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "query",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search for help",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.microsoft.com/en-us/microsoft-365",
+    "action": "https://support.microsoft.com/search/results",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "query",
+        "id": "supHomeAndLandingPageSearchBox",
+        "placeholder": "How can we help you?",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "supHomeAndLandingPageProductName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isEnrichedQuery",
+        "id": "supHomeAndLandingPageIsEnrichedQuery",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.microsoft.com/en-us/outlook",
+    "action": "https://support.microsoft.com/en-us/Search/results",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "query",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search for help",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.microsoft.com/en-us/outlook",
+    "action": "https://support.microsoft.com/search/results",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "query",
+        "id": "supHomeAndLandingPageSearchBox",
+        "placeholder": "How can we help you?",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "supHomeAndLandingPageProductName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isEnrichedQuery",
+        "id": "supHomeAndLandingPageIsEnrichedQuery",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.microsoft.com/en-us/teams",
+    "action": "https://support.microsoft.com/en-us/Search/results",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "query",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search for help",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.microsoft.com/en-us/teams",
+    "action": "https://support.microsoft.com/search/results",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "query",
+        "id": "supHomeAndLandingPageSearchBox",
+        "placeholder": "How can we help you?",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "supHomeAndLandingPageProductName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isEnrichedQuery",
+        "id": "supHomeAndLandingPageIsEnrichedQuery",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.microsoft.com/en-us/onedrive",
+    "action": "https://support.microsoft.com/en-us/Search/results",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "query",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search for help",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.microsoft.com/en-us/onedrive",
+    "action": "https://support.microsoft.com/search/results",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "query",
+        "id": "supHomeAndLandingPageSearchBox",
+        "placeholder": "How can we help you?",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "supHomeAndLandingPageProductName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isEnrichedQuery",
+        "id": "supHomeAndLandingPageIsEnrichedQuery",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/store/b/surface-pro-keyboards#",
+    "action": "https://www.microsoft.com/en-us/store/b/surface-pro-keyboards#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "userEmail",
+        "id": "x7106ce0c51204097873fb0ff655e7d5d",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "xfa7aac67bf194a41b006e8ffd3b99a1d",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CZ",
+          "DK",
+          "FI",
+          "FR",
+          "DE",
+          "HU",
+          "IN",
+          "IE",
+          "IL",
+          "IT",
+          "JP",
+          "LU",
+          "MX",
+          "NL",
+          "NZ",
+          "NO",
+          "PL",
+          "PT",
+          "SG",
+          "ZA",
+          "KR",
+          "ES",
+          "SE",
+          "TR",
+          "CH",
+          "GB",
+          "US"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/store/b/surface-pro-keyboards#",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/d/surface-slim-pen/8tb9xw8rwc14#",
+    "action": "https://www.microsoft.com/en-us/d/surface-slim-pen/8tb9xw8rwc14#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "userEmail",
+        "id": "x8541a013aa2a4326a94a7e238c469dcc",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "x9c9840d479e74bc2af3cd0ba03159a91",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CZ",
+          "DK",
+          "FI",
+          "FR",
+          "DE",
+          "HU",
+          "IN",
+          "IE",
+          "IL",
+          "IT",
+          "JP",
+          "LU",
+          "MX",
+          "NL",
+          "NZ",
+          "NO",
+          "PL",
+          "PT",
+          "SG",
+          "ZA",
+          "KR",
+          "ES",
+          "SE",
+          "TR",
+          "CH",
+          "GB",
+          "US"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/d/surface-slim-pen/8tb9xw8rwc14#",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/store/collections/surfacelaptopaccessories?headerid=department-surface#",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/d/surface-studio-2/8vlfqc3597k4?activetab=pivot:overviewtab#",
+    "action": "https://www.microsoft.com/en-us/d/surface-studio-2/8vlfqc3597k4?activetab=pivot:overviewtab",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "userEmail",
+        "id": "x7b835da6f4e34049bf3e7839f519cdf8",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "x958a85c1d3c440b6b9aa2c3ed7813f24",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CZ",
+          "DK",
+          "FI",
+          "FR",
+          "DE",
+          "HU",
+          "IN",
+          "IE",
+          "IL",
+          "IT",
+          "JP",
+          "LU",
+          "MX",
+          "NL",
+          "NZ",
+          "NO",
+          "PL",
+          "PT",
+          "SG",
+          "ZA",
+          "KR",
+          "ES",
+          "SE",
+          "TR",
+          "CH",
+          "GB",
+          "US"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/d/surface-studio-2/8vlfqc3597k4?activetab=pivot:overviewtab#",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/d/surface-laptop-studio-2/8rqr54krf1dz#",
+    "action": "https://www.microsoft.com/en-us/d/surface-laptop-studio-2/8rqr54krf1dz#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "userEmail",
+        "id": "xf317b4d738c544c384c40f8d86b19936",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "x8759bb4604d04b0b8aee42633fa60d4e",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CZ",
+          "DK",
+          "FI",
+          "FR",
+          "DE",
+          "HU",
+          "IN",
+          "IE",
+          "IL",
+          "IT",
+          "JP",
+          "LU",
+          "MX",
+          "NL",
+          "NZ",
+          "NO",
+          "PL",
+          "PT",
+          "SG",
+          "ZA",
+          "KR",
+          "ES",
+          "SE",
+          "TR",
+          "CH",
+          "GB",
+          "US"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/d/surface-laptop-studio-2/8rqr54krf1dz#",
+    "action": "https://www.microsoft.com/en-us/search/explore",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "cli_shellHeaderSearchInput",
+        "placeholder": "Search or ask a question",
+        "required": false
+      }
+    ]
   }
 ]
