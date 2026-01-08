@@ -116600,5 +116600,306 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.kucoin.com/ucenter/signin?backUrl=https%3A%2F%2Fwww.kucoin.com%2F",
+    "action": "https://www.kucoin.com/ucenter/signin?backUrl=https%3A%2F%2Fwww.kucoin.com%2F",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kucoin.com/ucenter/signup?backUrl=https%3A%2F%2Fwww.kucoin.com%2F",
+    "action": "https://www.kucoin.com/ucenter/signup?backUrl=https%3A%2F%2Fwww.kucoin.com%2F",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Email/Phone Number (without country code)",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "agreementTermAndPrivacyNotice",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kucoin.com/ucenter/signup",
+    "action": "https://www.kucoin.com/ucenter/signup",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Email/Phone Number (without country code)",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "agreementTermAndPrivacyNotice",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kucoin.com/ucenter/signin?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fabout-us",
+    "action": "https://www.kucoin.com/ucenter/signin?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fabout-us",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kucoin.com/ucenter/signup?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fabout-us",
+    "action": "https://www.kucoin.com/ucenter/signup?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fabout-us",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Email/Phone Number (without country code)",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "agreementTermAndPrivacyNotice",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kucoin.com/ucenter/signin?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fcareers",
+    "action": "https://www.kucoin.com/ucenter/signin?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fcareers",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kucoin.com/ucenter/signup?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fcareers",
+    "action": "https://www.kucoin.com/ucenter/signup?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fcareers",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Email/Phone Number (without country code)",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "agreementTermAndPrivacyNotice",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kucoin.com/ucenter/signin?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fblog",
+    "action": "https://www.kucoin.com/ucenter/signin?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fblog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kucoin.com/ucenter/signup?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fblog",
+    "action": "https://www.kucoin.com/ucenter/signup?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fblog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Email/Phone Number (without country code)",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "agreementTermAndPrivacyNotice",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kucoin.com/ucenter/signin?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fannouncement",
+    "action": "https://www.kucoin.com/ucenter/signin?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fannouncement",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kucoin.com/ucenter/signup?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fannouncement",
+    "action": "https://www.kucoin.com/ucenter/signup?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fannouncement",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Email/Phone Number (without country code)",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "agreementTermAndPrivacyNotice",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kucoin.com/ucenter/signin?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fannouncement%2Fen-kucoin-media-kit",
+    "action": "https://www.kucoin.com/ucenter/signin?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fannouncement%2Fen-kucoin-media-kit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kucoin.com/ucenter/signup?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fannouncement%2Fen-kucoin-media-kit",
+    "action": "https://www.kucoin.com/ucenter/signup?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fannouncement%2Fen-kucoin-media-kit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Email/Phone Number (without country code)",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "agreementTermAndPrivacyNotice",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kucoin.com/ucenter/signin?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fadam-scott-ambassador",
+    "action": "https://www.kucoin.com/ucenter/signin?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fadam-scott-ambassador",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kucoin.com/ucenter/signup?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fadam-scott-ambassador",
+    "action": "https://www.kucoin.com/ucenter/signup?backUrl=https%3A%2F%2Fwww.kucoin.com%2Fadam-scott-ambassador",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Email/Phone Number (without country code)",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "agreementTermAndPrivacyNotice",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kucoin.com/ucenter/signup?backUrl=%2Fevents-hub&utm_source=ambassador_landingpage_adamscott",
+    "action": "https://www.kucoin.com/ucenter/signup?backUrl=%2Fevents-hub&utm_source=ambassador_landingpage_adamscott",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Email/Phone Number (without country code)",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "agreementTermAndPrivacyNotice",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kucoin.com/ucenter/signin",
+    "action": "https://www.kucoin.com/ucenter/signin",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
