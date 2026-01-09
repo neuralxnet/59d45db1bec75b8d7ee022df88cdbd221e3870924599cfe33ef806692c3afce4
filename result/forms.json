@@ -117223,5 +117223,125 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://buyersedge.co.nz",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_query",
+        "id": "search_query",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "action",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          ".NZ",
+          ".KIWI",
+          ".COM"
+        ]
+      },
+      {
+        "type": "submit",
+        "name": "submit_query",
+        "id": "submit_query",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.buyersedge.co.nz",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_query",
+        "id": "search_query",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "action",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          ".NZ",
+          ".KIWI",
+          ".COM"
+        ]
+      },
+      {
+        "type": "submit",
+        "name": "submit_query",
+        "id": "submit_query",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://buyersedge.co.nz",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_query",
+        "id": "search_query",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "action",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          ".NZ",
+          ".KIWI",
+          ".COM"
+        ]
+      },
+      {
+        "type": "submit",
+        "name": "submit_query",
+        "id": "submit_query",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
