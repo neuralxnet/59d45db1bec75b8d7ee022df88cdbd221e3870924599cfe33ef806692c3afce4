@@ -117910,5 +117910,26 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://help.lime.bike",
+    "action": "https://help.li.me/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
   }
 ]
