@@ -120321,5 +120321,326 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.lululemon.co.jp",
+    "action": "https://www.lululemon.co.jp/ja-jp/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "global-search-field",
+        "placeholder": "検索（キーワードなど)",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "searchType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lululemon.co.jp",
+    "action": "https://www.lululemon.co.jp/ja-jp/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "global-search-field",
+        "placeholder": "検索（キーワードなど)",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "searchType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lululemon.co.jp",
+    "action": "https://www.lululemon.co.jp/ja-jp/home",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.lululemon.co.jp",
+    "action": "https://www.lululemon.co.jp/ja-jp/home",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "termsandcondition_0.20242017576995297",
+        "id": "termsandcondition_0.20242017576995297",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "dwfrm_emailSignupPopup_captchatoken",
+        "id": "captcha-token-footer-emailsignup",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "dwfrm_emailSignupPopup_subscribeWomen",
+        "id": "subscribeWomenFooter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "dwfrm_emailSignupPopup_subscribeMen",
+        "id": "subscribeMenFooter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailsignup_0.20242017576995297",
+        "id": "emailsignup_0.20242017576995297",
+        "placeholder": "メールアドレスを入力してください",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lululemon.co.jp",
+    "action": "https://www.lululemon.co.jp/ja-jp/home",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "dwfrm_emailSignupPopup_captchatoken",
+        "id": "captcha-token-emailsignuppopup",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "dwfrm_emailSignupPopup_subscribeWomen",
+        "id": "subscribeWomen",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "dwfrm_emailSignupPopup_subscribeMen",
+        "id": "subscribeMen",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "dwfrm_emailSignupPopup_email",
+        "id": "email",
+        "placeholder": "メールアドレスを入力してください",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lululemon.co.jp",
+    "action": "https://www.lululemon.co.jp/on/demandware.store/Sites-JP-Site/ja_JP/Account-Login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "loginEmail",
+        "id": "login-form-email-false",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "loginPassword",
+        "id": "current-password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "loginRememberMe",
+        "id": "rememberMe_0.8628598147997357",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "login-csrf-token",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "loginRedirectURL",
+        "id": "loginRedirectURL",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lululemon.co.jp",
+    "action": "https://www.lululemon.co.jp/on/demandware.store/Sites-JP-Site/ja_JP/Account-PasswordResetDialogForm?mobile=",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "loginEmail",
+        "id": "reset-password-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lululemon.co.jp",
+    "action": "https://www.lululemon.co.jp/on/demandware.store/Sites-JP-Site/ja_JP/Account-SubmitRegistration",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "dwfrm_profile_customer_email",
+        "id": "registration-form-email-false",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "dwfrm_profile_login_password",
+        "id": "newPassword-false",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "minimumCharacters-false",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "specialcharacter-false",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "digit-false",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "uppercaseCharacter-false",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "lowercaseCharacter-false",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "dwfrm_profile_customer_termsandconditions",
+        "id": "terms-and-conditions_0.8975923389618946",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "dwfrm_profile_customer_addtoemaillist",
+        "id": "add-to-email-list_0.8975923389618946",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "registration-csrf-token",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "dwfrm_profile_customer_captchatoken",
+        "id": "captcha-token-ao-register-form",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "currentSiteID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isSFL",
+        "id": "isSFL",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isQuickSignUp",
+        "id": "isQuickSignUp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "quickSignInEnabled",
+        "id": "quickSignInEnabled",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isCheckoutSignUp",
+        "id": "isCheckoutSignUp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "registerRedirectURL",
+        "id": "registerRedirectURL",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
