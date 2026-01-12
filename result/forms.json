@@ -121354,5 +121354,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.sharerewards.com",
+    "action": "https://www.sharerewards.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "text",
+        "id": "search-autocomplete-list",
+        "placeholder": "Please enter search text",
+        "required": false
+      }
+    ]
   }
 ]
