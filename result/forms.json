@@ -121368,5 +121368,47 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.premogiftcards.com",
+    "action": "https://www.premogiftcards.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "Card Number",
+        "id": "VueInputUi",
+        "placeholder": "Card Number",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.premogiftcards.com",
+    "action": "https://www.premogiftcards.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "Card Number",
+        "id": "VueInputUi",
+        "placeholder": "Card Number",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.premogiftcards.com",
+    "action": "https://www.premogiftcards.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "VueInputUi",
+        "placeholder": "Enter your email address",
+        "required": false
+      }
+    ]
   }
 ]
