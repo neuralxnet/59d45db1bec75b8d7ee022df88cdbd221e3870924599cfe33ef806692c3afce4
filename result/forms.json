@@ -126245,5 +126245,68 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://unihub.monash.edu",
+    "action": "https://www.monash.edu/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "collection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.unihub.monash.edu",
+    "action": "https://www.monash.edu/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "collection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://unihub.monash.edu",
+    "action": "https://www.monash.edu/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "collection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "",
+        "required": true
+      }
+    ]
   }
 ]
