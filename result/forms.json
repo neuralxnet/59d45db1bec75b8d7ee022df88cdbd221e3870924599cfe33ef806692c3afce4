@@ -125643,5 +125643,215 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://monashcollege.edu.au",
+    "action": "https://www.monashcollege.edu.au/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "collection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.monashcollege.edu.au",
+    "action": "https://www.monashcollege.edu.au/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "collection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://monashcollege.edu.au",
+    "action": "https://www.monashcollege.edu.au/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "collection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.monashcollege.edu.au/",
+    "action": "https://www.monashcollege.edu.au/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "collection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.monashcollege.edu.au/life-at-monash-college/our-campus",
+    "action": "https://www.monashcollege.edu.au/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "collection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.monashcollege.edu.au/study",
+    "action": "https://www.monashcollege.edu.au/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "collection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.monashcollege.edu.au/study/study-areas",
+    "action": "https://www.monashcollege.edu.au/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "collection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.monashcollege.edu.au/study/study-areas/art-design-and-architecture",
+    "action": "https://www.monashcollege.edu.au/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "collection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.monashcollege.edu.au/study/study-areas/arts-humanities-and-social-sciences",
+    "action": "https://www.monashcollege.edu.au/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "collection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.monashcollege.edu.au/study/study-areas/business",
+    "action": "https://www.monashcollege.edu.au/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "collection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "",
+        "required": true
+      }
+    ]
   }
 ]
