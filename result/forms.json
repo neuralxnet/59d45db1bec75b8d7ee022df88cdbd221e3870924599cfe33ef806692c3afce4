@@ -125853,5 +125853,362 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://online.monash.edu",
+    "action": "https://online.monash.edu/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "post_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://online.monash.edu",
+    "action": "https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "captcha_settings",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "oid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "retURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "00NRF000001PDO7",
+        "id": "gac_id__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "00NRF000001PDO8",
+        "id": "gcl_id__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "00NRF000001PDO5",
+        "id": "Form_Id__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "00NRF000001nnJy",
+        "id": "fbp_id__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "00NRF000001nnJx",
+        "id": "fbc_id__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": "First name*",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": "Last Name*",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email*",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "mobile",
+        "id": "mobile",
+        "placeholder": "Phone*",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "00N2v00000VhUGp",
+        "id": "00N2v00000VhUGp",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "How can we help?*",
+          "Ready to apply",
+          "Recognition of previous studies",
+          "Course fees",
+          "Entry criteria",
+          "General information",
+          "Other"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "00N2v00000Y7jGD",
+        "id": "00N2v00000Y7jGD",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Commencement date?*",
+          "I'm ready to enrol now",
+          "1 - 3 Months",
+          "I'd like to start within 3-6 months",
+          "I'd like to start within 6-12 months",
+          "1 Year +",
+          "Not sure"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "00N2v00000VhCDA",
+        "id": "00N2v00000VhCDA",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Graduate Diploma of Project Management"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "lead_source",
+        "id": "lead_source",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "event",
+        "id": "event",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recordType",
+        "id": "recordType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "00NRF000001E7aX",
+        "id": "00NRF000001E7aX",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "00N2v00000YLJ6f",
+        "id": "00N2v00000YLJ6f",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://online.monash.edu",
+    "action": "https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "captcha_settings",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "oid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "retURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "00NRF000001PDO7",
+        "id": "gac_id__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "00NRF000001PDO8",
+        "id": "gcl_id__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "00NRF000001PDO5",
+        "id": "Form_Id__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "00NRF000001nnJy",
+        "id": "fbp_id__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "00NRF000001nnJx",
+        "id": "fbc_id__c",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": "First name*",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": "Last Name*",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email*",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "mobile",
+        "id": "mobile",
+        "placeholder": "Phone*",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "00N2v00000VhUGp",
+        "id": "00N2v00000VhUGp",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "How can we help?*",
+          "Ready to apply",
+          "Recognition of previous studies",
+          "Course fees",
+          "Entry criteria",
+          "General information",
+          "Other"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "00N2v00000Y7jGD",
+        "id": "00N2v00000Y7jGD",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "",
+          "I'm ready to enrol now",
+          "1 - 3 Months",
+          "I'd like to start within 3-6 months",
+          "I'd like to start within 6-12 months",
+          "1 Year +",
+          "Not sure"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "00N2v00000VhCDA",
+        "id": "00N2v00000VhCDA",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Home"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "lead_source",
+        "id": "lead_source",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "event",
+        "id": "event",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recordType",
+        "id": "recordType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "00NRF000001E7aX",
+        "id": "00NRF000001E7aX",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "00N2v00000YLJ6f",
+        "id": "00N2v00000YLJ6f",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
