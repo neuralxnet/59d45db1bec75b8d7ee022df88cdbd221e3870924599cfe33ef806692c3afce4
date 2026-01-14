@@ -126210,5 +126210,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://compulsoryunits.monash.edu",
+    "action": "https://compulsoryunits.monash.edu/login/index.php",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "anchor",
+        "id": "anchor",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "logintoken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "Username or email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
   }
 ]
