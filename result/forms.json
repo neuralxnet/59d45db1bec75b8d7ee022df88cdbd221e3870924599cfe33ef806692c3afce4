@@ -134225,5 +134225,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://research.monash.edu",
+    "action": "https://research.monash.edu/en/searchAll/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "global-search-input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
