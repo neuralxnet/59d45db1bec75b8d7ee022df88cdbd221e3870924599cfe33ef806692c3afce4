@@ -134365,5 +134365,50 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://my.thesecurityteam.rocks",
+    "action": "https://my.thesecurityteam.rocks/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "locale",
+        "id": "locale-form",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "ar",
+          "pt_br",
+          "zh",
+          "de",
+          "en",
+          "es",
+          "fr",
+          "hi",
+          "id",
+          "it",
+          "ja",
+          "kh",
+          "ko",
+          "lk",
+          "nl",
+          "pt",
+          "ro",
+          "ru",
+          "th",
+          "tr",
+          "ur",
+          "vn"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "language_options_csrf[_token]",
+        "id": "language_options_csrf_token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
