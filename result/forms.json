@@ -134774,5 +134774,285 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.governmentjobs.com",
+    "action": "https://www.governmentjobs.com/jobs",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "keyword",
+        "id": "keyword-search-input",
+        "placeholder": "Job Title",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "location",
+        "id": "location-search-input",
+        "placeholder": "City, State or Zip",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.governmentjobs.com",
+    "action": "https://www.governmentjobs.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "accept-terms",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.governmentjobs.com/",
+    "action": "https://www.governmentjobs.com/jobs",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "keyword",
+        "id": "keyword-search-input",
+        "placeholder": "Job Title",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "location",
+        "id": "location-search-input",
+        "placeholder": "City, State or Zip",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.governmentjobs.com/",
+    "action": "https://www.governmentjobs.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "accept-terms",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.governmentjobs.com/resources",
+    "action": "https://www.governmentjobs.com/jobs",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "keyword",
+        "id": "keyword-search-input",
+        "placeholder": "Job Title",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "location",
+        "id": "location-search-input",
+        "placeholder": "City, State or Zip",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.governmentjobs.com/resources",
+    "action": "https://www.governmentjobs.com/resources",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "accept-terms",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.governmentjobs.com/OnlineApplication/User/RecoverUserName",
+    "action": "https://www.governmentjobs.com/OnlineApplication/User/RecoverUserNameSubmit",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "recover-user-name-email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "employerFolderName",
+        "id": "employerFolderName",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.governmentjobs.com/OnlineApplication/User/RecoverUserName",
+    "action": "https://www.governmentjobs.com/OnlineApplication/User/RecoverUserName",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "accept-terms",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.governmentjobs.com/OnlineApplication/User/ResetPassword",
+    "action": "https://www.governmentjobs.com/OnlineApplication/User/ResetPasswordSubmit",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "recover-user-name-email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "employerFolderName",
+        "id": "employerFolderName",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.governmentjobs.com/OnlineApplication/User/ResetPassword",
+    "action": "https://www.governmentjobs.com/OnlineApplication/User/ResetPassword",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "accept-terms",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.governmentjobs.com/resources#",
+    "action": "https://www.governmentjobs.com/jobs",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "keyword",
+        "id": "keyword-search-input",
+        "placeholder": "Job Title",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "location",
+        "id": "location-search-input",
+        "placeholder": "City, State or Zip",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.governmentjobs.com/resources#",
+    "action": "https://www.governmentjobs.com/resources#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "accept-terms",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.governmentjobs.com/OnlineApplication/User/RecoverUserName#",
+    "action": "https://www.governmentjobs.com/OnlineApplication/User/RecoverUserNameSubmit",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "recover-user-name-email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "employerFolderName",
+        "id": "employerFolderName",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.governmentjobs.com/OnlineApplication/User/RecoverUserName#",
+    "action": "https://www.governmentjobs.com/OnlineApplication/User/RecoverUserName#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "accept-terms",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.governmentjobs.com/OnlineApplication/User/ResetPassword#",
+    "action": "https://www.governmentjobs.com/OnlineApplication/User/ResetPasswordSubmit",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "recover-user-name-email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "employerFolderName",
+        "id": "employerFolderName",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.governmentjobs.com/OnlineApplication/User/ResetPassword#",
+    "action": "https://www.governmentjobs.com/OnlineApplication/User/ResetPassword#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "accept-terms",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
