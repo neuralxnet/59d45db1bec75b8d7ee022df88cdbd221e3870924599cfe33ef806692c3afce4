@@ -134711,5 +134711,68 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://unified.neogov.com",
+    "action": "https://login.neogov.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SiteCode",
+        "id": "SiteCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ReturnUrlWithFragment",
+        "id": "ReturnUrlWithFragment",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "IsTwoFactorAuthCodeResendRequested",
+        "id": "IsTwoFactorAuthCodeResendRequested",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Brand",
+        "id": "Brand",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "UserName",
+        "id": "UserName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "GoogleCaptchaToken",
+        "id": "GoogleCaptchaToken",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
