@@ -139485,5 +139485,47 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://nubank.com.mx",
+    "action": "https://nu.com.mx/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-on-hero",
+        "placeholder": "Escribe tu correo electrónico",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.nubank.com.mx",
+    "action": "https://nu.com.mx/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-on-hero",
+        "placeholder": "Escribe tu correo electrónico",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://nubank.com.mx",
+    "action": "https://nu.com.mx/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-on-hero",
+        "placeholder": "Escribe tu correo electrónico",
+        "required": true
+      }
+    ]
   }
 ]
