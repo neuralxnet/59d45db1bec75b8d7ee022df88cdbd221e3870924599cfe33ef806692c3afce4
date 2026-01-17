@@ -139527,5 +139527,95 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://octopus.com",
+    "action": "https://octopus.com/",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.octopus.com",
+    "action": "https://octopus.com/",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "http://octopus.com",
+    "action": "https://octopus.com/",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://octopus.com/",
+    "action": "https://octopus.com/",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://octopus.com/use-case/kubernetes",
+    "action": "https://octopus.com/use-case/kubernetes",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://octopus.com/use-case/platform-hub",
+    "action": "https://octopus.com/use-case/platform-hub",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://octopus.com/use-case/platform-hub",
+    "action": "https://octopus.com/use-case/platform-hub",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://octopus.com/use-case/environment-promotion",
+    "action": "https://octopus.com/use-case/environment-promotion",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://octopus.com/use-case/ai-assistant",
+    "action": "https://octopus.com/use-case/ai-assistant",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://octopus.com/use-case/argo-cd-in-octopus",
+    "action": "https://octopus.com/use-case/argo-cd-in-octopus",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://octopus.com/use-case/argo-cd-in-octopus",
+    "action": "https://octopus.com/use-case/argo-cd-in-octopus",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://octopus.com/use-case/runbooks",
+    "action": "https://octopus.com/use-case/runbooks",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://octopus.com/use-case/tenanted-deployments",
+    "action": "https://octopus.com/use-case/tenanted-deployments",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://octopus.com/support/priority",
+    "action": "https://octopus.com/support/premium",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://octopus.com/support/enterprise-argo-support",
+    "action": "https://octopus.com/support/enterprise-argo-support",
+    "method": "get",
+    "fields": []
   }
 ]
