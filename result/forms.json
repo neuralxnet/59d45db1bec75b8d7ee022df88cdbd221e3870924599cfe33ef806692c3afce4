@@ -137833,5 +137833,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://securesignin.powerdms.com",
+    "action": "https://securesignin.powerdms.com/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
