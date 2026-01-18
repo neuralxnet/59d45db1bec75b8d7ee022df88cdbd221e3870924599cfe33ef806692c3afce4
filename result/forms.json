@@ -139617,5 +139617,19 @@
     "action": "https://octopus.com/support/enterprise-argo-support",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://app.scaleft.com",
+    "action": "https://app.scaleft.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Team name",
+        "required": true
+      }
+    ]
   }
 ]
