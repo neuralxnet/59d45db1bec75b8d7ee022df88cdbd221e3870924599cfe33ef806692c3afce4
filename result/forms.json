@@ -144549,5 +144549,285 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://gx.games",
+    "action": "https://gx.games/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.gx.games",
+    "action": "https://gx.games/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://gx.games",
+    "action": "https://gx.games/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/",
+    "action": "https://gx.games/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/games/r4yuo1/gravity-storm-first-mission-demo-/",
+    "action": "https://gx.games/games/r4yuo1/gravity-storm-first-mission-demo-/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/games/vkhkwr/dice-people/",
+    "action": "https://gx.games/games/vkhkwr/dice-people/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/games/t0m2b2/hector-brawlformer-demo/",
+    "action": "https://gx.games/games/t0m2b2/hector-brawlformer-demo/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/games/dtb9c0/apollo/",
+    "action": "https://gx.games/games/dtb9c0/apollo/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/discover/",
+    "action": "https://gx.games/discover/?platform=desktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/feed/new/",
+    "action": "https://gx.games/feed/new/?platform=desktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/discover/?sort=total-time-played-desc",
+    "action": "https://gx.games/discover/?sort=total-time-played-desc&platform=desktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/feed/updated/",
+    "action": "https://gx.games/feed/updated/?platform=desktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/feed/gamejams/",
+    "action": "https://gx.games/feed/gamejams/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/feed/paid-games/",
+    "action": "https://gx.games/feed/paid-games/?platform=desktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/tags/idle/",
+    "action": "https://gx.games/tags/idle/?platform=desktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/tags/adventure/",
+    "action": "https://gx.games/tags/adventure/?platform=desktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/tags/puzzle/",
+    "action": "https://gx.games/tags/puzzle/?platform=desktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/studios/727ec346-4e22-45b9-be21-96f2dee8f34e/",
+    "action": "https://gx.games/studios/727ec346-4e22-45b9-be21-96f2dee8f34e/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/studios/2674e4e9-50d3-44c5-b721-aed65c3e4db5/",
+    "action": "https://gx.games/studios/2674e4e9-50d3-44c5-b721-aed65c3e4db5/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gx.games/faq/",
+    "action": "https://gx.games/faq/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search games",
+        "required": false
+      }
+    ]
   }
 ]
