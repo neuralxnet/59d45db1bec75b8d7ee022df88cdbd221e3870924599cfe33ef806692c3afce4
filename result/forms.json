@@ -142085,5 +142085,2469 @@
         ]
       }
     ]
+  },
+  {
+    "url": "https://bugs.opera.com",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com",
+    "action": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fdefault.jsp&page_caps=&user_role=USER",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fdefault.jsp&page_caps=&user_role=USER#sidebar",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fdefault.jsp&page_caps=&user_role=USER#sidebar",
+    "action": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fdefault.jsp&page_caps=&user_role=USER#sidebar",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/secure/MyJiraHome.jspa",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/secure/MyJiraHome.jspa",
+    "action": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FMyJiraHome.jspa&page_caps=&user_role=USER",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/secure/Dashboard.jspa",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/secure/Dashboard.jspa",
+    "action": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FDashboard.jspa&page_caps=&user_role=USER",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/secure/ViewKeyboardShortcuts!default.jspa",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/secure/ViewKeyboardShortcuts!default.jspa",
+    "action": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FViewKeyboardShortcuts%21default.jspa&page_caps=&user_role=USER",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/secure/AboutPage.jspa",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/secure/AboutPage.jspa",
+    "action": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FAboutPage.jspa&page_caps=&user_role=",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/secure/credits/AroundTheWorld!default.jspa",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/secure/credits/AroundTheWorld!default.jspa",
+    "action": "https://bugs.opera.com/secure/credits/AroundTheWorld!default.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FMyJiraHome.jspa",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FMyJiraHome.jspa",
+    "action": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FMyJiraHome.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FMyJiraHome.jspa&page_caps=&user_role=USER#main",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FMyJiraHome.jspa&page_caps=&user_role=USER#main",
+    "action": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FMyJiraHome.jspa&page_caps=&user_role=USER#main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FMyJiraHome.jspa&page_caps=&user_role=USER#sidebar",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FMyJiraHome.jspa&page_caps=&user_role=USER#sidebar",
+    "action": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FMyJiraHome.jspa&page_caps=&user_role=USER#sidebar",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FDashboard.jspa",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FDashboard.jspa",
+    "action": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FDashboard.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FDashboard.jspa&page_caps=&user_role=USER#main",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FDashboard.jspa&page_caps=&user_role=USER#main",
+    "action": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FDashboard.jspa&page_caps=&user_role=USER#main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FDashboard.jspa&page_caps=&user_role=USER#sidebar",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FDashboard.jspa&page_caps=&user_role=USER#sidebar",
+    "action": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FDashboard.jspa&page_caps=&user_role=USER#sidebar",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FViewKeyboardShortcuts%21default.jspa",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FViewKeyboardShortcuts%21default.jspa",
+    "action": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FViewKeyboardShortcuts%21default.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FViewKeyboardShortcuts%21default.jspa&page_caps=&user_role=USER#main",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FViewKeyboardShortcuts%21default.jspa&page_caps=&user_role=USER#main",
+    "action": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FViewKeyboardShortcuts%21default.jspa&page_caps=&user_role=USER#main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FViewKeyboardShortcuts%21default.jspa&page_caps=&user_role=USER#sidebar",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FViewKeyboardShortcuts%21default.jspa&page_caps=&user_role=USER#sidebar",
+    "action": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FViewKeyboardShortcuts%21default.jspa&page_caps=&user_role=USER#sidebar",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FAboutPage.jspa",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FAboutPage.jspa",
+    "action": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FAboutPage.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FAboutPage.jspa&page_caps=&user_role=#main",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FAboutPage.jspa&page_caps=&user_role=#main",
+    "action": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FAboutPage.jspa&page_caps=&user_role=#main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FAboutPage.jspa&page_caps=&user_role=#sidebar",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FAboutPage.jspa&page_caps=&user_role=#sidebar",
+    "action": "https://bugs.opera.com/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2FAboutPage.jspa&page_caps=&user_role=#sidebar",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2Fcredits%2FAroundTheWorld%21default.jspa",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2Fcredits%2FAroundTheWorld%21default.jspa",
+    "action": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2Fcredits%2FAroundTheWorld%21default.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/secure/credits/AroundTheWorld!default.jspa#main",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/secure/credits/AroundTheWorld!default.jspa#main",
+    "action": "https://bugs.opera.com/secure/credits/AroundTheWorld!default.jspa#main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/secure/credits/AroundTheWorld!default.jspa#sidebar",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/secure/credits/AroundTheWorld!default.jspa#sidebar",
+    "action": "https://bugs.opera.com/secure/credits/AroundTheWorld!default.jspa#sidebar",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FMyJiraHome.jspa#main",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FMyJiraHome.jspa#main",
+    "action": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FMyJiraHome.jspa#main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FMyJiraHome.jspa#sidebar",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FMyJiraHome.jspa#sidebar",
+    "action": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FMyJiraHome.jspa#sidebar",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FDashboard.jspa#main",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FDashboard.jspa#main",
+    "action": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FDashboard.jspa#main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FDashboard.jspa#sidebar",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FDashboard.jspa#sidebar",
+    "action": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FDashboard.jspa#sidebar",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FViewKeyboardShortcuts%21default.jspa#main",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FViewKeyboardShortcuts%21default.jspa#main",
+    "action": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FViewKeyboardShortcuts%21default.jspa#main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FViewKeyboardShortcuts%21default.jspa#sidebar",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FViewKeyboardShortcuts%21default.jspa#sidebar",
+    "action": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FViewKeyboardShortcuts%21default.jspa#sidebar",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FAboutPage.jspa#main",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FAboutPage.jspa#main",
+    "action": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FAboutPage.jspa#main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FAboutPage.jspa#sidebar",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FAboutPage.jspa#sidebar",
+    "action": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2FAboutPage.jspa#sidebar",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2Fcredits%2FAroundTheWorld%21default.jspa#main",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2Fcredits%2FAroundTheWorld%21default.jspa#main",
+    "action": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2Fcredits%2FAroundTheWorld%21default.jspa#main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2Fcredits%2FAroundTheWorld%21default.jspa#sidebar",
+    "action": "https://bugs.opera.com/secure/QuickSearch.jspa",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchString",
+        "id": "quickSearchInput",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2Fcredits%2FAroundTheWorld%21default.jspa#sidebar",
+    "action": "https://bugs.opera.com/login.jsp?os_destination=%2Fsecure%2Fcredits%2FAroundTheWorld%21default.jspa#sidebar",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jira.request.concurrent.requests",
+        "id": "jiraConcurrentRequests",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
