@@ -145008,5 +145008,47 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://paasportal.episerver.net",
+    "action": "https://paasportal.episerver.net/Account/Login?ReturnUrl=%2F&Provider=OptiID",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://paasportal.episerver.net",
+    "action": "https://paasportal.episerver.net/Account/Login?ReturnUrl=%2F&Provider=AD",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
