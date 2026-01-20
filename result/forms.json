@@ -144980,5 +144980,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://app.optimizely.com",
+    "action": "https://app.optimizely.com/account/signin",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "signin-email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin-password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "persist",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
