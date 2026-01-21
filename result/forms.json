@@ -145071,5 +145071,68 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://accounts.welcomesoftware.com",
+    "action": "https://accounts.welcomesoftware.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "bob@atomicmarketing.com",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.accounts.welcomesoftware.com",
+    "action": "https://www.accounts.cmp.optimizely.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "bob@atomicmarketing.com",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://accounts.welcomesoftware.com",
+    "action": "https://accounts.welcomesoftware.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "bob@atomicmarketing.com",
+        "required": true
+      }
+    ]
   }
 ]
