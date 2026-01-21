@@ -145050,5 +145050,26 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://app.welcomesoftware.com",
+    "action": "https://accounts.cmp.optimizely.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "bob@atomicmarketing.com",
+        "required": true
+      }
+    ]
   }
 ]
