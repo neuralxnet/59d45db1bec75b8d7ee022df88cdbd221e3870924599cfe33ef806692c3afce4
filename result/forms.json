@@ -145211,5 +145211,346 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.myconnect.com.au/contact-us/",
+    "action": "https://api.staatic.com/f/01jnfvf4dbdty4y9vn37azz318",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "7233998ff8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_gravity_fields",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_7_1_3",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "input_1.6",
+        "id": "input_7_1_6",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "input_11",
+        "id": "input_7_11",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Email",
+          "Phone"
+        ]
+      },
+      {
+        "type": "email",
+        "name": "input_2",
+        "id": "input_7_2",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "input_5",
+        "id": "input_7_5",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "input_16",
+        "id": "input_7_16",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "General Inquiry",
+          "Connection Support",
+          "Feedback & Suggestions",
+          "PR & Media Requests",
+          "Partnership Opportunities",
+          "Website/Technical Support"
+        ]
+      },
+      {
+        "type": "textarea",
+        "name": "input_3",
+        "id": "input_7_3",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_7",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state_7",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_7",
+        "id": "gform_target_page_number_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_7",
+        "id": "gform_source_page_number_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://myconnect.com.au/posts",
+    "action": "https://www.myconnect.com.au/hub/get-connected",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "postcode",
+        "placeholder": "Postcode",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.myconnect.com.au/posts",
+    "action": "https://www.myconnect.com.au/hub/get-connected",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "postcode",
+        "placeholder": "Postcode",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.myconnect.com.au/post/category/energy-utilities",
+    "action": "https://www.myconnect.com.au/hub/get-connected",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "postcode",
+        "placeholder": "Postcode",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.myconnect.com.au/post/category/moving-house-tips",
+    "action": "https://www.myconnect.com.au/hub/get-connected",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "postcode",
+        "placeholder": "Postcode",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.myconnect.com.au/post/category/lifestyle",
+    "action": "https://www.myconnect.com.au/hub/get-connected",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "postcode",
+        "placeholder": "Postcode",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.myconnect.com.au/post/category/how-tos",
+    "action": "https://www.myconnect.com.au/hub/get-connected",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "postcode",
+        "placeholder": "Postcode",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.myconnect.com.au/post/category/renting",
+    "action": "https://www.myconnect.com.au/hub/get-connected",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "postcode",
+        "placeholder": "Postcode",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.myconnect.com.au/post/the-best-interior-design-tips-for-your-small-space",
+    "action": "https://blog.myconnect.com.au/wp-comments-post.php?wpe-comment-post=myconnectblog",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "author",
+        "id": "author",
+        "placeholder": "e.g Julian",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "e.g Roberts",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "comment",
+        "id": "comment",
+        "placeholder": "Start typing...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "comment_post_ID",
+        "id": "comment_post_ID",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "comment_parent",
+        "id": "comment_parent",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
