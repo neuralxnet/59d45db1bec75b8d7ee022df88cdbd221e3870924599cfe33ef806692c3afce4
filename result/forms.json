@@ -145935,5 +145935,19 @@
     "action": "https://devstaging.pcapcloud.com/page/login/goHome",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://www.pexels.com",
+    "action": "https://www.pexels.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Search for free photos",
+        "required": false
+      }
+    ]
   }
 ]
