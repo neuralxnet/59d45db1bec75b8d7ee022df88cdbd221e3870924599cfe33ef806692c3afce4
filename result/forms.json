@@ -151699,5 +151699,22 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://splus-lmd-api.pnimedia.com",
+    "action": "https://splus-lmd-api.pnimedia.com/swagger/index.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/swagger/v1/swagger.json"
+        ]
+      }
+    ]
   }
 ]
