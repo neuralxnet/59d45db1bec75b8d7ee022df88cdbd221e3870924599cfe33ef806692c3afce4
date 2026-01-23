@@ -151685,5 +151685,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.planethoster.com",
+    "action": "https://www.planethoster.fr/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-input",
+        "placeholder": "Courriel",
+        "required": true
+      }
+    ]
   }
 ]
