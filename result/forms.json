@@ -151786,5 +151786,33 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://splus-static-site-pages.pnimedia.com",
+    "action": "https://splus-static-site-pages.pnimedia.com/services/printing/Search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "site-search",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://splus-static-site-pages.pnimedia.com",
+    "action": "https://splus-static-site-pages.pnimedia.com/services/printing/Search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "site-search",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
   }
 ]
