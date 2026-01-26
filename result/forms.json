@@ -151870,5 +151870,26 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.quintoandar.com.br",
+    "action": "https://www.quintoandar.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "landing-city-input",
+        "id": "downshift-53346-input",
+        "placeholder": "Busque por cidade",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "landing-neighborhood-input",
+        "id": "downshift-53347-input",
+        "placeholder": "Busque por bairro",
+        "required": false
+      }
+    ]
   }
 ]
