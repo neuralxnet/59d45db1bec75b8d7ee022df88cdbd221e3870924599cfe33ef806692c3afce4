@@ -151891,5 +151891,26 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://proprietario.quintoandar.com.br/administracao-de-imoveis-para-proprietarios-investidores",
+    "action": "https://proprietario.quintoandar.com.br/administracao-de-imoveis-para-proprietarios-investidores",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
