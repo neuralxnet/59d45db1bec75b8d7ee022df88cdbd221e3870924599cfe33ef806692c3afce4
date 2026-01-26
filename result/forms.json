@@ -151842,5 +151842,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://cfc.naspers.com",
+    "action": "https://cfc.naspers.com/accounts/login/?next=/task-box/inbox/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "csrfmiddlewaretoken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "id_username",
+        "placeholder": "username",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "id_password",
+        "placeholder": "password",
+        "required": false
+      }
+    ]
   }
 ]
