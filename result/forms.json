@@ -154179,5 +154179,286 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.skroutz.gr",
+    "action": "https://www.skroutz.gr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "keyphrase",
+        "id": "search-bar-input",
+        "placeholder": "Τι ψάχνεις;",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.skroutz.gr",
+    "action": "https://www.skroutz.gr/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "country_code",
+        "id": "country_code",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "GR",
+          "CY",
+          "DE",
+          "FR",
+          "AT",
+          "BE",
+          "IT",
+          "PT",
+          "ES",
+          "HR",
+          "EE",
+          "FI",
+          "IE",
+          "LV",
+          "LT",
+          "LU",
+          "MT",
+          "NL",
+          "SK",
+          "SI",
+          "BG",
+          "CZ",
+          "HU",
+          "PL",
+          "RO",
+          "DK",
+          "SE"
+        ]
+      },
+      {
+        "type": "number",
+        "name": "",
+        "id": "",
+        "placeholder": "Τ.Κ.",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "payment-options",
+        "id": "spot-cash",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "payment-options",
+        "id": "other-payment",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.skroutz.gr",
+    "action": "https://www.skroutz.gr/more",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "category_id",
+        "id": "category_id",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cursor",
+        "id": "cursor",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.skroutz.gr",
+    "action": "https://www.skroutz.gr/privacy_policy",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "user_level",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "policy_level[essential]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "policy_level[performance]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "policy_level[preference]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "policy_level[targeting]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.skroutz.gr",
+    "action": "https://www.skroutz.gr/privacy_policy",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "user_level",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "policy_level[essential]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "policy_level[performance]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "policy_level[preference]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "policy_level[targeting]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.skroutz.gr",
+    "action": "https://www.skroutz.gr/privacy_policy",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "user_level",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "policy_level[essential]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "policy_level[performance]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "policy_level[preference]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "policy_level[targeting]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "policy_level[essential]",
+        "id": "policy_level[essential]",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "policy_level[performance]",
+        "id": "policy_level[performance]",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "policy_level[preference]",
+        "id": "policy_level[preference]",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "policy_level[targeting]",
+        "id": "policy_level[targeting]",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
