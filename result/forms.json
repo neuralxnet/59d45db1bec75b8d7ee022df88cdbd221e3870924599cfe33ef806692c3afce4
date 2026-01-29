@@ -154516,5 +154516,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://blockexplorer.electroneum.com",
+    "action": "https://blockexplorer.electroneum.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Search by address / txn hash / block / token... ",
+        "required": false
+      }
+    ]
   }
 ]
