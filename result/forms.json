@@ -161716,5 +161716,131 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://sprint.com",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sprint.com",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sprint.com",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sprint.com",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sprint.com",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sprint.com",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://sprint.com",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://sprint.com",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://sprint.com",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
