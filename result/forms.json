@@ -158849,5 +158849,656 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/articles/115003564308-Technical-requirements",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/articles/4413524848667",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/articles/1260801306810-Fan-powered-Royalties-FAQs",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/articles/115003564308-Technical-requirements#",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/categories/115000678928-Fans",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us#",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/articles/360051638314-SoundCloud-Go-Subscriptions-FAQs",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/articles/115003566528-I-can-t-login",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/articles/4413524848667-SoundCloud-Status#",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/categories/4413517355163-SoundCloud-Status",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/articles/1260801306810-Fan-powered-Royalties-FAQs#",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/categories/39687280453147-SoundCloud-for-Artists",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/categories/115000678928-Fans#",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/sections/115001113188-Your-listening-experience",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/articles/360051638314-SoundCloud-Go-Subscriptions-FAQs#",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/categories/115000678928-SoundCloud-Fans-Listeners",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/articles/115003566528-I-can-t-login#",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/categories/115000606848-My-Account",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/categories/4413517355163-SoundCloud-Status#",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/sections/4413524808731-SoundCloud-Status",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/categories/39687280453147-SoundCloud-for-Artists#",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/sections/43283308754715-Getting-Started-with-SoundCloud-for-Artists",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/sections/115001113188-Your-listening-experience#",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/categories/115000678928-SoundCloud-Fans-Listeners#",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/categories/115000606848-My-Account#",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/sections/115001107347-Help-Accessing-Your-Account",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/sections/4413524808731-SoundCloud-Status#",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/sections/43283308754715-Getting-Started-with-SoundCloud-for-Artists#",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.soundcloud.com/hc/en-us/sections/115001107347-Help-Accessing-Your-Account#",
+    "action": "https://help.soundcloud.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "🔍   Search",
+        "required": false
+      }
+    ]
   }
 ]
