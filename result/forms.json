@@ -158793,5 +158793,61 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.namejet.com",
+    "action": "https://www.namejet.com/store/basic.action",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "dom",
+        "id": "search-input",
+        "placeholder": "Search Domains",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.namejet.com",
+    "action": "https://www.namejet.com/store/basic.action",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "dom",
+        "id": "search-input",
+        "placeholder": "Search Domains",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.namejet.com",
+    "action": "https://www.namejet.com/store/basic.action",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "dom",
+        "id": "search-input",
+        "placeholder": "Search Domains",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.namejet.com",
+    "action": "https://www.namejet.com/store/basic.action",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "dom",
+        "id": "search-input",
+        "placeholder": "Search Domains",
+        "required": false
+      }
+    ]
   }
 ]
