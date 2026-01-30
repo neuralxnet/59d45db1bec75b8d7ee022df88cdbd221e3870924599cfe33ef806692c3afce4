@@ -164835,5 +164835,26 @@
     "action": "https://login.microsoftonline.com/be0f980b-dd99-4b19-bd7b-bc71a09b026c/saml2?SAMLRequest=lVJLj9MwEP4rke9J7PSRxmoqhVaISstSbQsHbo496Vpy7OBxuvDvybpFuxyoxNXzzfcar1H0phh4M4Zn%2BwQ%2FRsCQ%2FOyNRX6d1GT0ljuBGrkVPSAPkh%2Bbzw%2B8yCgfvAtOOkOSBhF80M5uncWxB38Ef9ESvj491OQ5hAF5ngdAzPA6SK17yaTrcysugzhDphxJdpO8tuKV523LuLO2Wa%2Bld%2Bi64KzRFuJqC7SrVrRNlaqqdN6yKm1V2aatLJmgVUuLpcxjDpJ8dF5CjFmTThgEkux3NTk%2BbgUrW0lnbDEvS7ZaFrLoyhVTs2LOlmzB1ATEg0DUF3hbRRxhbzEIG2pSTEIpZemMnmjJ5zNOF9mqYN9JcrgV9EFbpe35fpvtFYT80%2Bl0SA9fjqdIcNEK%2FOOE%2Fo8iv4HHWOLESzbr2AGPpv378973I%2F7clGzuCa%2Fz9%2FQ3sYG%2FOt7vDs5o%2BStpjHEvWw8iTCmCHyEepBfh3w5YxuKLVmkXoRx6oU2jlJ9MkHxz0%2F37825%2BAw%3D%3D&RelayState=e2de7e3c93fa3a900a1f34986cba1095&sso_reload=true",
     "method": "post",
     "fields": []
+  },
+  {
+    "url": "https://docker-staging.adstruc.com",
+    "action": "https://docker-staging.adstruc.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
   }
 ]
