@@ -161842,5 +161842,2992 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://t-mobile.com",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://t-mobile.com",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://t-mobile.com",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://t-mobile.com",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://t-mobile.com",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://t-mobile.com",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/#content-main",
+    "action": "https://www.t-mobile.com/#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/#content-main",
+    "action": "https://www.t-mobile.com/#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/#content-main",
+    "action": "https://www.t-mobile.com/#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/?INTNAV=tNav:Home",
+    "action": "https://www.t-mobile.com/?INTNAV=tNav:Home",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/?INTNAV=tNav:Home",
+    "action": "https://www.t-mobile.com/?INTNAV=tNav:Home",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/?INTNAV=tNav:Home",
+    "action": "https://www.t-mobile.com/?INTNAV=tNav:Home",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "field-sdd-cart-edit-address-form-firstName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "field-sdd-cart-edit-address-form-lastName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address1",
+        "id": "field-sdd-cart-edit-address-form-address1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address2",
+        "id": "field-sdd-cart-edit-address-form-address2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "city",
+        "id": "field-sdd-cart-edit-address-form-city",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "state",
+        "id": "field-sdd-cart-edit-address-form-state",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "",
+          "AL",
+          "AK",
+          "AZ",
+          "AR",
+          "CA",
+          "CO",
+          "CT",
+          "DE",
+          "FL",
+          "GA",
+          "HI",
+          "ID",
+          "IL",
+          "IN",
+          "IA",
+          "KS",
+          "KY",
+          "LA",
+          "ME",
+          "MD",
+          "MA",
+          "MI",
+          "MN",
+          "MS",
+          "MO",
+          "MT",
+          "NE",
+          "NV",
+          "NH",
+          "NJ",
+          "NM",
+          "NY",
+          "NC",
+          "ND",
+          "OH",
+          "OK",
+          "OR",
+          "PA",
+          "RI",
+          "SC",
+          "SD",
+          "TN",
+          "TX",
+          "UT",
+          "VT",
+          "VA",
+          "WA",
+          "WV",
+          "WI",
+          "WY",
+          "AS",
+          "DC",
+          "GU",
+          "MP",
+          "PR",
+          "VI"
+        ]
+      },
+      {
+        "type": "tel",
+        "name": "zipCode",
+        "id": "field-sdd-cart-edit-address-form-zipCode",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "telephone",
+        "id": "field-sdd-cart-edit-address-form-telephone",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "notes",
+        "id": "sdd-cart-edit-address-form-notes",
+        "placeholder": "Delivery instructions",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "label",
+        "id": "field-update-line-name-input-label",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "action": "javascript:void(0)",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "device-brand",
+        "id": "upf-tradeInForm__device-brand-input",
+        "placeholder": "Type to search",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "device-model",
+        "id": "upf-tradeInForm__device-model-input",
+        "placeholder": "Device model",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "storage-capacity",
+        "id": "upf-trandeInForm__storage-capacity",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Storage Capacity"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "trade-in-imei-search",
+        "id": "field-trade-in-imei-search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "action": "javascript:void(0)",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "verifyCondition",
+        "id": "upf-verify-condition__option-0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "verifyCondition",
+        "id": "upf-verify-condition__option-1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "verifyCondition",
+        "id": "upf-verify-condition__option-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "trade-in-imei-search",
+        "id": "field-trade-in-imei-search",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "trade-in-imei-search",
+        "id": "field-trade-in-imei-search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formIntegration",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formDefinitionURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "field-initial-email-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formIntegration",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formDefinitionURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "field-retrieve-cart-email-input-field-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans",
+    "action": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formIntegration",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formDefinitionURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans",
+    "action": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans%3AMagenta",
+    "action": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans%3AMagenta#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formIntegration",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formDefinitionURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans%3AMagenta",
+    "action": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans%3AMagenta",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/unlimited-55-senior-discount-plans?INTNAV=tNav%3APlans%3AUnlimitedAge55",
+    "action": "https://www.t-mobile.com/cell-phone-plans/unlimited-55-senior-discount-plans?INTNAV=tNav%3APlans%3AUnlimitedAge55",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/unlimited-55-senior-discount-plans?INTNAV=tNav%3APlans%3AUnlimitedAge55",
+    "action": "https://www.t-mobile.com/cell-phone-plans/unlimited-55-senior-discount-plans?INTNAV=tNav%3APlans%3AUnlimitedAge55",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/unlimited-55-senior-discount-plans?INTNAV=tNav%3APlans%3AUnlimitedAge55",
+    "action": "https://www.t-mobile.com/cell-phone-plans/unlimited-55-senior-discount-plans?INTNAV=tNav%3APlans%3AUnlimitedAge55",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-c832570010",
+        "id": "universalEligibilityChecker-c832570010-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-c832570010-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-c832570010",
+        "id": "universalEligibilityChecker-c832570010-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-c832570010-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/unlimited-55-senior-discount-plans?INTNAV=tNav%3APlans%3AUnlimitedAge55",
+    "action": "https://www.t-mobile.com/cell-phone-plans/unlimited-55-senior-discount-plans?INTNAV=tNav%3APlans%3AUnlimitedAge55",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/military-discount-plans?INTNAV=tNav%3APlans%3AMilitaryVeterans",
+    "action": "https://www.t-mobile.com/cell-phone-plans/military-discount-plans?INTNAV=tNav%3APlans%3AMilitaryVeterans",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/military-discount-plans?INTNAV=tNav%3APlans%3AMilitaryVeterans",
+    "action": "https://www.t-mobile.com/cell-phone-plans/military-discount-plans?INTNAV=tNav%3APlans%3AMilitaryVeterans",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/military-discount-plans?INTNAV=tNav%3APlans%3AMilitaryVeterans",
+    "action": "https://www.t-mobile.com/cell-phone-plans/military-discount-plans?INTNAV=tNav%3APlans%3AMilitaryVeterans",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/first-responder-discounts?INTNAV=tNav%3APlans%3AFirstResponder",
+    "action": "https://www.t-mobile.com/cell-phone-plans/first-responder-discounts?INTNAV=tNav%3APlans%3AFirstResponder",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/first-responder-discounts?INTNAV=tNav%3APlans%3AFirstResponder",
+    "action": "https://www.t-mobile.com/cell-phone-plans/first-responder-discounts?INTNAV=tNav%3APlans%3AFirstResponder",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/first-responder-discounts?INTNAV=tNav%3APlans%3AFirstResponder",
+    "action": "https://www.t-mobile.com/cell-phone-plans/first-responder-discounts?INTNAV=tNav%3APlans%3AFirstResponder",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternet",
+    "action": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternet",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternet",
+    "action": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternet",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternet",
+    "action": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternet#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formIntegration",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formDefinitionURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Unit",
+        "id": "field-formFieldInput-86a5a7a02f-Unit",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternet",
+    "action": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternet",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-6b8e2f6b26",
+        "id": "universalEligibilityChecker-6b8e2f6b26-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-6b8e2f6b26-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-6b8e2f6b26",
+        "id": "universalEligibilityChecker-6b8e2f6b26-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-6b8e2f6b26-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternet",
+    "action": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternet",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-eca2e946af",
+        "id": "universalEligibilityChecker-eca2e946af-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-eca2e946af-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-eca2e946af",
+        "id": "universalEligibilityChecker-eca2e946af-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-eca2e946af-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternet",
+    "action": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternet",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/?INTNAV=tNav:Home#content-main",
+    "action": "https://www.t-mobile.com/?INTNAV=tNav:Home#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/?INTNAV=tNav:Home#content-main",
+    "action": "https://www.t-mobile.com/?INTNAV=tNav:Home#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/?INTNAV=tNav:Home#content-main",
+    "action": "https://www.t-mobile.com/?INTNAV=tNav:Home#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/",
+    "action": "https://www.t-mobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/?INTNAV=tNav%3AsubMenu%3AHome",
+    "action": "https://www.t-mobile.com/?INTNAV=tNav%3AsubMenu%3AHome",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/?INTNAV=tNav%3AsubMenu%3AHome",
+    "action": "https://www.t-mobile.com/?INTNAV=tNav%3AsubMenu%3AHome",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/?INTNAV=tNav%3AsubMenu%3AHome",
+    "action": "https://www.t-mobile.com/?INTNAV=tNav%3AsubMenu%3AHome",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/eligibility/prospect",
+    "action": "https://www.t-mobile.com/home-internet/eligibility/prospect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/eligibility/prospect",
+    "action": "https://www.t-mobile.com/home-internet/eligibility/prospect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/eligibility/prospect",
+    "action": "https://www.t-mobile.com/home-internet/eligibility/prospect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-66aa0398c7",
+        "id": "universalEligibilityChecker-66aa0398c7-default-field-eligibility-form-address-address",
+        "placeholder": "Your address*",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-66aa0398c7-field-eligibility-form-address-address-street2",
+        "placeholder": "Unit or suite #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-66aa0398c7",
+        "id": "universalEligibilityChecker-66aa0398c7-sticky-field-eligibility-form-address-address",
+        "placeholder": "Your address*",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-66aa0398c7-field-eligibility-form-address-address-street2",
+        "placeholder": "Unit or suite #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/eligibility/prospect",
+    "action": "https://www.t-mobile.com/home-internet/eligibility/prospect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "field-sdd-cart-edit-address-form-firstName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "field-sdd-cart-edit-address-form-lastName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address1",
+        "id": "field-sdd-cart-edit-address-form-address1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address2",
+        "id": "field-sdd-cart-edit-address-form-address2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "city",
+        "id": "field-sdd-cart-edit-address-form-city",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "state",
+        "id": "field-sdd-cart-edit-address-form-state",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "",
+          "AL",
+          "AK",
+          "AZ",
+          "AR",
+          "CA",
+          "CO",
+          "CT",
+          "DE",
+          "FL",
+          "GA",
+          "HI",
+          "ID",
+          "IL",
+          "IN",
+          "IA",
+          "KS",
+          "KY",
+          "LA",
+          "ME",
+          "MD",
+          "MA",
+          "MI",
+          "MN",
+          "MS",
+          "MO",
+          "MT",
+          "NE",
+          "NV",
+          "NH",
+          "NJ",
+          "NM",
+          "NY",
+          "NC",
+          "ND",
+          "OH",
+          "OK",
+          "OR",
+          "PA",
+          "RI",
+          "SC",
+          "SD",
+          "TN",
+          "TX",
+          "UT",
+          "VT",
+          "VA",
+          "WA",
+          "WV",
+          "WI",
+          "WY",
+          "AS",
+          "DC",
+          "GU",
+          "MP",
+          "PR",
+          "VI"
+        ]
+      },
+      {
+        "type": "tel",
+        "name": "zipCode",
+        "id": "field-sdd-cart-edit-address-form-zipCode",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "telephone",
+        "id": "field-sdd-cart-edit-address-form-telephone",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "notes",
+        "id": "sdd-cart-edit-address-form-notes",
+        "placeholder": "Delivery instructions",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "label",
+        "id": "field-update-line-name-input-label",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "action": "javascript:void(0)",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "device-brand",
+        "id": "upf-tradeInForm__device-brand-input",
+        "placeholder": "Type to search",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "device-model",
+        "id": "upf-tradeInForm__device-model-input",
+        "placeholder": "Device model",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "storage-capacity",
+        "id": "upf-trandeInForm__storage-capacity",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Storage Capacity"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "trade-in-imei-search",
+        "id": "field-trade-in-imei-search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "action": "javascript:void(0)",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "verifyCondition",
+        "id": "upf-verify-condition__option-0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "verifyCondition",
+        "id": "upf-verify-condition__option-1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "verifyCondition",
+        "id": "upf-verify-condition__option-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "trade-in-imei-search",
+        "id": "field-trade-in-imei-search",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "trade-in-imei-search",
+        "id": "field-trade-in-imei-search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formIntegration",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formDefinitionURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "field-initial-email-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formIntegration",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formDefinitionURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "field-retrieve-cart-email-input-field-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "action": "https://www.t-mobile.com/cart?INTNAV=tNav:Cart#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/commerce/cell-phones",
+    "action": "https://www.t-mobile.com/cell-phones",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.t-mobile.com/commerce/cell-phones",
+    "action": "https://www.t-mobile.com/cell-phones#",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.t-mobile.com/commerce/cell-phones",
+    "action": "https://www.t-mobile.com/cell-phones",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-82a059d0e5-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans#wrapper-plans-marketing",
+    "action": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formIntegration",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formDefinitionURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans#wrapper-plans-marketing",
+    "action": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans#wrapper-plans-marketing",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans#",
+    "action": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formIntegration",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formDefinitionURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans#",
+    "action": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans#modal-compare-plans",
+    "action": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formIntegration",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formDefinitionURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans#modal-compare-plans",
+    "action": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans#modal-compare-plans",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/brand/federal-local-surcharges",
+    "action": "https://www.t-mobile.com/brand/federal-local-surcharges",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/brand/federal-local-surcharges",
+    "action": "https://www.t-mobile.com/brand/federal-local-surcharges",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/brand/federal-local-surcharges",
+    "action": "https://www.t-mobile.com/brand/federal-local-surcharges",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans%3AMagenta#wrapper-plans-marketing",
+    "action": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans%3AMagenta#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formIntegration",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formDefinitionURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans%3AMagenta#wrapper-plans-marketing",
+    "action": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans%3AMagenta#wrapper-plans-marketing",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans%3AMagenta#",
+    "action": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans%3AMagenta#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formIntegration",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formDefinitionURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans%3AMagenta#",
+    "action": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans%3AMagenta#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans%3AMagenta#modal-compare-plans",
+    "action": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans%3AMagenta#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formIntegration",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formDefinitionURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans%3AMagenta#modal-compare-plans",
+    "action": "https://www.t-mobile.com/cell-phone-plans?INTNAV=tNav%3APlans%3AMagenta#modal-compare-plans",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/unlimited-55-senior-discount-plans?INTNAV=tNav%3APlans%3AUnlimitedAge55#content-main",
+    "action": "https://www.t-mobile.com/cell-phone-plans/unlimited-55-senior-discount-plans?INTNAV=tNav%3APlans%3AUnlimitedAge55#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/unlimited-55-senior-discount-plans?INTNAV=tNav%3APlans%3AUnlimitedAge55#content-main",
+    "action": "https://www.t-mobile.com/cell-phone-plans/unlimited-55-senior-discount-plans?INTNAV=tNav%3APlans%3AUnlimitedAge55#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/unlimited-55-senior-discount-plans?INTNAV=tNav%3APlans%3AUnlimitedAge55#content-main",
+    "action": "https://www.t-mobile.com/cell-phone-plans/unlimited-55-senior-discount-plans?INTNAV=tNav%3APlans%3AUnlimitedAge55#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-c832570010",
+        "id": "universalEligibilityChecker-c832570010-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-c832570010-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-c832570010",
+        "id": "universalEligibilityChecker-c832570010-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-c832570010-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/unlimited-55-senior-discount-plans?INTNAV=tNav%3APlans%3AUnlimitedAge55#content-main",
+    "action": "https://www.t-mobile.com/cell-phone-plans/unlimited-55-senior-discount-plans?INTNAV=tNav%3APlans%3AUnlimitedAge55#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/military-discount-plans?INTNAV=tNav%3APlans%3AMilitaryVeterans#content-main",
+    "action": "https://www.t-mobile.com/cell-phone-plans/military-discount-plans?INTNAV=tNav%3APlans%3AMilitaryVeterans#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/military-discount-plans?INTNAV=tNav%3APlans%3AMilitaryVeterans#content-main",
+    "action": "https://www.t-mobile.com/cell-phone-plans/military-discount-plans?INTNAV=tNav%3APlans%3AMilitaryVeterans#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/military-discount-plans?INTNAV=tNav%3APlans%3AMilitaryVeterans#content-main",
+    "action": "https://www.t-mobile.com/cell-phone-plans/military-discount-plans?INTNAV=tNav%3APlans%3AMilitaryVeterans#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/first-responder-discounts?INTNAV=tNav%3APlans%3AFirstResponder#content-main",
+    "action": "https://www.t-mobile.com/cell-phone-plans/first-responder-discounts?INTNAV=tNav%3APlans%3AFirstResponder#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/first-responder-discounts?INTNAV=tNav%3APlans%3AFirstResponder#content-main",
+    "action": "https://www.t-mobile.com/cell-phone-plans/first-responder-discounts?INTNAV=tNav%3APlans%3AFirstResponder#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phone-plans/first-responder-discounts?INTNAV=tNav%3APlans%3AFirstResponder#content-main",
+    "action": "https://www.t-mobile.com/cell-phone-plans/first-responder-discounts?INTNAV=tNav%3APlans%3AFirstResponder#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet?INTNAV=tNav:HomeInternet",
+    "action": "https://www.t-mobile.com/home-internet?INTNAV=tNav:HomeInternet",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet?INTNAV=tNav:HomeInternet",
+    "action": "https://www.t-mobile.com/home-internet?INTNAV=tNav:HomeInternet",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet?INTNAV=tNav:HomeInternet",
+    "action": "https://www.t-mobile.com/home-internet?INTNAV=tNav:HomeInternet",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-58d9aff29e",
+        "id": "universalEligibilityChecker-58d9aff29e-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-58d9aff29e-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-58d9aff29e",
+        "id": "universalEligibilityChecker-58d9aff29e-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-58d9aff29e-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet?INTNAV=tNav:HomeInternet",
+    "action": "https://www.t-mobile.com/home-internet?INTNAV=tNav:HomeInternet",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-f7218c2f6a",
+        "id": "universalEligibilityChecker-f7218c2f6a-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-f7218c2f6a-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-f7218c2f6a",
+        "id": "universalEligibilityChecker-f7218c2f6a-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-f7218c2f6a-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet?INTNAV=tNav:HomeInternet",
+    "action": "https://www.t-mobile.com/home-internet?INTNAV=tNav:HomeInternet",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-a1e901e00e",
+        "id": "universalEligibilityChecker-a1e901e00e-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-a1e901e00e-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-a1e901e00e",
+        "id": "universalEligibilityChecker-a1e901e00e-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-a1e901e00e-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet?INTNAV=tNav:HomeInternet",
+    "action": "https://www.t-mobile.com/home-internet?INTNAV=tNav:HomeInternet",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlan",
+    "action": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlan",
+    "action": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlan",
+    "action": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlan#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formIntegration",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formDefinitionURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Unit",
+        "id": "field-formFieldInput-86a5a7a02f-Unit",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlan",
+    "action": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-6b8e2f6b26",
+        "id": "universalEligibilityChecker-6b8e2f6b26-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-6b8e2f6b26-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-6b8e2f6b26",
+        "id": "universalEligibilityChecker-6b8e2f6b26-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-6b8e2f6b26-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlan",
+    "action": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-eca2e946af",
+        "id": "universalEligibilityChecker-eca2e946af-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-eca2e946af-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-eca2e946af",
+        "id": "universalEligibilityChecker-eca2e946af-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-eca2e946af-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlan",
+    "action": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternetPlan",
+    "action": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternetPlan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternetPlan",
+    "action": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternetPlan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternetPlan",
+    "action": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternetPlan#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formIntegration",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formDefinitionURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Unit",
+        "id": "field-formFieldInput-86a5a7a02f-Unit",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternetPlan",
+    "action": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternetPlan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-6b8e2f6b26",
+        "id": "universalEligibilityChecker-6b8e2f6b26-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-6b8e2f6b26-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-6b8e2f6b26",
+        "id": "universalEligibilityChecker-6b8e2f6b26-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-6b8e2f6b26-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternetPlan",
+    "action": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternetPlan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-eca2e946af",
+        "id": "universalEligibilityChecker-eca2e946af-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-eca2e946af-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-eca2e946af",
+        "id": "universalEligibilityChecker-eca2e946af-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-eca2e946af-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternetPlan",
+    "action": "https://www.t-mobile.com/home-internet/plans?INTNAV=tNav%3APlans%3AHomeInternetPlan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans/all-in-unlimited-internet-plan?INTNAV=tNav%3APlans%3AHomeInternetAllinplan",
+    "action": "https://www.t-mobile.com/home-internet/plans/all-in-unlimited-internet-plan?INTNAV=tNav%3APlans%3AHomeInternetAllinplan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans/all-in-unlimited-internet-plan?INTNAV=tNav%3APlans%3AHomeInternetAllinplan",
+    "action": "https://www.t-mobile.com/home-internet/plans/all-in-unlimited-internet-plan?INTNAV=tNav%3APlans%3AHomeInternetAllinplan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans/all-in-unlimited-internet-plan?INTNAV=tNav%3APlans%3AHomeInternetAllinplan",
+    "action": "https://www.t-mobile.com/home-internet/plans/all-in-unlimited-internet-plan?INTNAV=tNav%3APlans%3AHomeInternetAllinplan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-431ad635a2",
+        "id": "universalEligibilityChecker-431ad635a2-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-431ad635a2-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-431ad635a2",
+        "id": "universalEligibilityChecker-431ad635a2-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-431ad635a2-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans/all-in-unlimited-internet-plan?INTNAV=tNav%3APlans%3AHomeInternetAllinplan",
+    "action": "https://www.t-mobile.com/home-internet/plans/all-in-unlimited-internet-plan?INTNAV=tNav%3APlans%3AHomeInternetAllinplan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-acb33fa389",
+        "id": "universalEligibilityChecker-acb33fa389-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-acb33fa389-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-acb33fa389",
+        "id": "universalEligibilityChecker-acb33fa389-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-acb33fa389-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans/all-in-unlimited-internet-plan?INTNAV=tNav%3APlans%3AHomeInternetAllinplan",
+    "action": "https://www.t-mobile.com/home-internet/plans/all-in-unlimited-internet-plan?INTNAV=tNav%3APlans%3AHomeInternetAllinplan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-2d6e3c9b58",
+        "id": "universalEligibilityChecker-2d6e3c9b58-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-2d6e3c9b58-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-2d6e3c9b58",
+        "id": "universalEligibilityChecker-2d6e3c9b58-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-2d6e3c9b58-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans/all-in-unlimited-internet-plan?INTNAV=tNav%3APlans%3AHomeInternetAllinplan",
+    "action": "https://www.t-mobile.com/home-internet/plans/all-in-unlimited-internet-plan?INTNAV=tNav%3APlans%3AHomeInternetAllinplan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans/rv-camper-internet-plans?INTNAV=tNav%3APlans%3AHomeInternetAwayplan",
+    "action": "https://www.t-mobile.com/home-internet/plans/rv-camper-internet-plans?INTNAV=tNav%3APlans%3AHomeInternetAwayplan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans/rv-camper-internet-plans?INTNAV=tNav%3APlans%3AHomeInternetAwayplan",
+    "action": "https://www.t-mobile.com/home-internet/plans/rv-camper-internet-plans?INTNAV=tNav%3APlans%3AHomeInternetAwayplan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans/rv-camper-internet-plans?INTNAV=tNav%3APlans%3AHomeInternetAwayplan",
+    "action": "https://www.t-mobile.com/home-internet/plans/rv-camper-internet-plans?INTNAV=tNav%3APlans%3AHomeInternetAwayplan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans/5g-backup-internet-options?INTNAV=tNav%3APlans%3AHomeInternetBackupplan",
+    "action": "https://www.t-mobile.com/home-internet/plans/5g-backup-internet-options?INTNAV=tNav%3APlans%3AHomeInternetBackupplan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans/5g-backup-internet-options?INTNAV=tNav%3APlans%3AHomeInternetBackupplan",
+    "action": "https://www.t-mobile.com/home-internet/plans/5g-backup-internet-options?INTNAV=tNav%3APlans%3AHomeInternetBackupplan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans/5g-backup-internet-options?INTNAV=tNav%3APlans%3AHomeInternetBackupplan",
+    "action": "https://www.t-mobile.com/home-internet/plans/5g-backup-internet-options?INTNAV=tNav%3APlans%3AHomeInternetBackupplan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-6ffe497c18",
+        "id": "universalEligibilityChecker-6ffe497c18-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-6ffe497c18-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-6ffe497c18",
+        "id": "universalEligibilityChecker-6ffe497c18-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-6ffe497c18-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans/5g-backup-internet-options?INTNAV=tNav%3APlans%3AHomeInternetBackupplan",
+    "action": "https://www.t-mobile.com/home-internet/plans/5g-backup-internet-options?INTNAV=tNav%3APlans%3AHomeInternetBackupplan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-7225378d95",
+        "id": "universalEligibilityChecker-7225378d95-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-7225378d95-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-7225378d95",
+        "id": "universalEligibilityChecker-7225378d95-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-7225378d95-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans/5g-backup-internet-options?INTNAV=tNav%3APlans%3AHomeInternetBackupplan",
+    "action": "https://www.t-mobile.com/home-internet/plans/5g-backup-internet-options?INTNAV=tNav%3APlans%3AHomeInternetBackupplan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-3c90fdff5f",
+        "id": "universalEligibilityChecker-3c90fdff5f-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-3c90fdff5f-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-3c90fdff5f",
+        "id": "universalEligibilityChecker-3c90fdff5f-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-3c90fdff5f-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans/5g-backup-internet-options?INTNAV=tNav%3APlans%3AHomeInternetBackupplan",
+    "action": "https://www.t-mobile.com/home-internet/plans/5g-backup-internet-options?INTNAV=tNav%3APlans%3AHomeInternetBackupplan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-47baf54bbc",
+        "id": "universalEligibilityChecker-47baf54bbc-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-47baf54bbc-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-47baf54bbc",
+        "id": "universalEligibilityChecker-47baf54bbc-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-47baf54bbc-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/plans/5g-backup-internet-options?INTNAV=tNav%3APlans%3AHomeInternetBackupplan",
+    "action": "https://www.t-mobile.com/home-internet/plans/5g-backup-internet-options?INTNAV=tNav%3APlans%3AHomeInternetBackupplan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/business/business-internet/sbi-retail?INTNAV=tNav%3APlans%3ASmallBusinessInternet",
+    "action": "https://www.t-mobile.com/business/business-internet/sbi-retail?INTNAV=tNav%3APlans%3ASmallBusinessInternet",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/business/business-internet/sbi-retail?INTNAV=tNav%3APlans%3ASmallBusinessInternet",
+    "action": "https://www.t-mobile.com/business/business-internet/sbi-retail?INTNAV=tNav%3APlans%3ASmallBusinessInternet",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/fiber?INTNAV=tNav%3AFiberInternet",
+    "action": "https://www.t-mobile.com/home-internet/fiber?INTNAV=tNav%3AFiberInternet",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-705f5980ff",
+        "id": "universalEligibilityChecker-705f5980ff-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-705f5980ff-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-705f5980ff",
+        "id": "universalEligibilityChecker-705f5980ff-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-705f5980ff-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/fiber?INTNAV=tNav%3AFiberInternet",
+    "action": "https://www.t-mobile.com/home-internet/fiber?INTNAV=tNav%3AFiberInternet",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/how-5g-home-internet-works?INTNAV=tNav%3AHowItWorks",
+    "action": "https://www.t-mobile.com/home-internet/how-5g-home-internet-works?INTNAV=tNav%3AHowItWorks",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/how-5g-home-internet-works?INTNAV=tNav%3AHowItWorks",
+    "action": "https://www.t-mobile.com/home-internet/how-5g-home-internet-works?INTNAV=tNav%3AHowItWorks",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/how-5g-home-internet-works?INTNAV=tNav%3AHowItWorks",
+    "action": "https://www.t-mobile.com/home-internet/how-5g-home-internet-works?INTNAV=tNav%3AHowItWorks",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-8f26f6b5fa",
+        "id": "universalEligibilityChecker-8f26f6b5fa-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-8f26f6b5fa-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-8f26f6b5fa",
+        "id": "universalEligibilityChecker-8f26f6b5fa-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-8f26f6b5fa-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/how-5g-home-internet-works?INTNAV=tNav%3AHowItWorks",
+    "action": "https://www.t-mobile.com/home-internet/how-5g-home-internet-works?INTNAV=tNav%3AHowItWorks",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-3ed58ee8c6",
+        "id": "universalEligibilityChecker-3ed58ee8c6-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-3ed58ee8c6-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-3ed58ee8c6",
+        "id": "universalEligibilityChecker-3ed58ee8c6-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-3ed58ee8c6-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/how-5g-home-internet-works?INTNAV=tNav%3AHowItWorks",
+    "action": "https://www.t-mobile.com/home-internet/how-5g-home-internet-works?INTNAV=tNav%3AHowItWorks",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-88d2a331b4",
+        "id": "universalEligibilityChecker-88d2a331b4-default-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-88d2a331b4-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "eca-universalEligibilityChecker-88d2a331b4",
+        "id": "universalEligibilityChecker-88d2a331b4-sticky-field-eligibility-form-address-address",
+        "placeholder": "Enter your address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address_street2",
+        "id": "universalEligibilityChecker-88d2a331b4-field-eligibility-form-address-address-street2",
+        "placeholder": "unit #",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/home-internet/how-5g-home-internet-works?INTNAV=tNav%3AHowItWorks",
+    "action": "https://www.t-mobile.com/home-internet/how-5g-home-internet-works?INTNAV=tNav%3AHowItWorks",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/?INTNAV=tNav%3AsubMenu%3AHome#content-main",
+    "action": "https://www.t-mobile.com/?INTNAV=tNav%3AsubMenu%3AHome#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-mobile",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/?INTNAV=tNav%3AsubMenu%3AHome#content-main",
+    "action": "https://www.t-mobile.com/?INTNAV=tNav%3AsubMenu%3AHome#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "unav-search-input-desktop",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/?INTNAV=tNav%3AsubMenu%3AHome#content-main",
+    "action": "https://www.t-mobile.com/?INTNAV=tNav%3AsubMenu%3AHome#content-main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-547e54be4e-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phones",
+    "action": "https://www.t-mobile.com/cell-phones",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phones",
+    "action": "https://www.t-mobile.com/cell-phones#",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.t-mobile.com/cell-phones",
+    "action": "https://www.t-mobile.com/cell-phones",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "chatInput",
+        "id": "field-aiChat-82a059d0e5-chatInput",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
