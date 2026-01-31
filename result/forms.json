@@ -164856,5 +164856,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://staging-login.vistarmedia.com",
+    "action": "https://www.vistarmedia.com/hs-search-results",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "term",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
