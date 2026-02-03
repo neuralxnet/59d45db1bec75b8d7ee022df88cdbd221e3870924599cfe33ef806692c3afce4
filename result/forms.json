@@ -168746,5 +168746,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://app.thousandeyes.com",
+    "action": "https://app.thousandeyes.com/v2/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "region",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hashPart",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
