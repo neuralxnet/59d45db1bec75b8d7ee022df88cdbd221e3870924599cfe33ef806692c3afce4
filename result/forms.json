@@ -169077,5 +169077,1622 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://chainabuse-staging.com/report",
+    "action": "https://chainabuse-staging.com/report",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "report-sharing",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "report-sharing",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chainabuse-staging.com/api/auth/login?returnTo=%2F%3FpostAuth%3D1",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "js-available",
+        "id": "js-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-available",
+        "id": "webauthn-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is-brave",
+        "id": "is-brave",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-platform-available",
+        "id": "webauthn-platform-available",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chainabuse-staging.com/api/auth/login?returnTo=%2F%3FpostAuth%3D1",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBlTVBKaW1NYm5xRFhXQlFWT09wQXdLTm5sUkFsRnE0Z6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIER4LV8xazJZdnhubGk2dXpfbkdyMmd0aUJHbVE4TzA4o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chainabuse-staging.com/api/auth/login?returnTo=%2F%3FpostAuth%3D1",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBlTVBKaW1NYm5xRFhXQlFWT09wQXdLTm5sUkFsRnE0Z6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIER4LV8xazJZdnhubGk2dXpfbkdyMmd0aUJHbVE4TzA4o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chainabuse-staging.com/api/auth/login?returnTo=%2Fpartner-contact%3FpostAuth%3D1",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "js-available",
+        "id": "js-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-available",
+        "id": "webauthn-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is-brave",
+        "id": "is-brave",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-platform-available",
+        "id": "webauthn-platform-available",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chainabuse-staging.com/api/auth/login?returnTo=%2Fpartner-contact%3FpostAuth%3D1",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBEXzVtVlV6dXRYZGJlRnNCaWZzVjZUMW40UzR3REJlLaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGRJWTNINDczblZEQmswX1BneFB1SVFUanE5cGpacXNmo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chainabuse-staging.com/api/auth/login?returnTo=%2Fpartner-contact%3FpostAuth%3D1",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBEXzVtVlV6dXRYZGJlRnNCaWZzVjZUMW40UzR3REJlLaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGRJWTNINDczblZEQmswX1BneFB1SVFUanE5cGpacXNmo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chainabuse-staging.com/api/auth/login?returnTo=%2Freport%3FpostAuth%3D1",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "js-available",
+        "id": "js-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-available",
+        "id": "webauthn-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is-brave",
+        "id": "is-brave",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-platform-available",
+        "id": "webauthn-platform-available",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chainabuse-staging.com/api/auth/login?returnTo=%2Freport%3FpostAuth%3D1",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBnMUZ1Zm00RnE2eUdTWGlCbUttTjZRQ0dkTW91ZjFNeqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDN4Z3R4NmdXWVpBcmFkZWZkUk4xejY4akNjbkJMYmtxo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chainabuse-staging.com/api/auth/login?returnTo=%2Freport%3FpostAuth%3D1",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBnMUZ1Zm00RnE2eUdTWGlCbUttTjZRQ0dkTW91ZjFNeqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDN4Z3R4NmdXWVpBcmFkZWZkUk4xejY4akNjbkJMYmtxo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chainabuse-staging.com/api/auth/login?returnTo=%2Fleaderboard%3FpostAuth%3D1",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "js-available",
+        "id": "js-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-available",
+        "id": "webauthn-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is-brave",
+        "id": "is-brave",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-platform-available",
+        "id": "webauthn-platform-available",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chainabuse-staging.com/api/auth/login?returnTo=%2Fleaderboard%3FpostAuth%3D1",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SAzbGdRcVBtXzlWMlhrM1VhT2dGNHFRRE51VkVXMVEzcaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEJtN2hBZk51ZjAtYW05ZGsxNVRHV0ZwRjZsOVlBM204o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chainabuse-staging.com/api/auth/login?returnTo=%2Fleaderboard%3FpostAuth%3D1",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SAzbGdRcVBtXzlWMlhrM1VhT2dGNHFRRE51VkVXMVEzcaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEJtN2hBZk51ZjAtYW05ZGsxNVRHV0ZwRjZsOVlBM204o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chainabuse-staging.com/api/auth/login?returnTo=%2Freports%3FpostAuth%3D1",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "js-available",
+        "id": "js-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-available",
+        "id": "webauthn-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is-brave",
+        "id": "is-brave",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-platform-available",
+        "id": "webauthn-platform-available",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chainabuse-staging.com/api/auth/login?returnTo=%2Freports%3FpostAuth%3D1",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBucUZfQXQzOXZRODdMbDdaeU9PaXM1STBZMGNISUlhWqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEQzY2FXU3dGdDVGRnFjSGtsWVdnRTJrSVppUXliWFBqo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chainabuse-staging.com/api/auth/login?returnTo=%2Freports%3FpostAuth%3D1",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBucUZfQXQzOXZRODdMbDdaeU9PaXM1STBZMGNISUlhWqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEQzY2FXU3dGdDVGRnFjSGtsWVdnRTJrSVppUXliWFBqo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chainabuse-staging.com/api/auth/login?returnTo=%2Fsuccess-stories%3FpostAuth%3D1",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "js-available",
+        "id": "js-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-available",
+        "id": "webauthn-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is-brave",
+        "id": "is-brave",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-platform-available",
+        "id": "webauthn-platform-available",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chainabuse-staging.com/api/auth/login?returnTo=%2Fsuccess-stories%3FpostAuth%3D1",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBJekd1RGJLQ0hSQWRSajI5dTlDYVN4TERlUnlkekV2MqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFI2cVpneWtNTTdwb1BJdW1NdFVZT0FLVXluWEFGQ3JLo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chainabuse-staging.com/api/auth/login?returnTo=%2Fsuccess-stories%3FpostAuth%3D1",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBJekd1RGJLQ0hSQWRSajI5dTlDYVN4TERlUnlkekV2MqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFI2cVpneWtNTTdwb1BJdW1NdFVZT0FLVXluWEFGQ3JLo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBlTVBKaW1NYm5xRFhXQlFWT09wQXdLTm5sUkFsRnE0Z6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIER4LV8xazJZdnhubGk2dXpfbkdyMmd0aUJHbVE4TzA4o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "privacy-policy",
+        "id": "privacy-policy",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBlTVBKaW1NYm5xRFhXQlFWT09wQXdLTm5sUkFsRnE0Z6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIER4LV8xazJZdnhubGk2dXpfbkdyMmd0aUJHbVE4TzA4o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBlTVBKaW1NYm5xRFhXQlFWT09wQXdLTm5sUkFsRnE0Z6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIER4LV8xazJZdnhubGk2dXpfbkdyMmd0aUJHbVE4TzA4o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBlTVBKaW1NYm5xRFhXQlFWT09wQXdLTm5sUkFsRnE0Z6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIER4LV8xazJZdnhubGk2dXpfbkdyMmd0aUJHbVE4TzA4o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBlTVBKaW1NYm5xRFhXQlFWT09wQXdLTm5sUkFsRnE0Z6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIER4LV8xazJZdnhubGk2dXpfbkdyMmd0aUJHbVE4TzA4o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBEXzVtVlV6dXRYZGJlRnNCaWZzVjZUMW40UzR3REJlLaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGRJWTNINDczblZEQmswX1BneFB1SVFUanE5cGpacXNmo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "privacy-policy",
+        "id": "privacy-policy",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBEXzVtVlV6dXRYZGJlRnNCaWZzVjZUMW40UzR3REJlLaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGRJWTNINDczblZEQmswX1BneFB1SVFUanE5cGpacXNmo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBEXzVtVlV6dXRYZGJlRnNCaWZzVjZUMW40UzR3REJlLaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGRJWTNINDczblZEQmswX1BneFB1SVFUanE5cGpacXNmo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBEXzVtVlV6dXRYZGJlRnNCaWZzVjZUMW40UzR3REJlLaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGRJWTNINDczblZEQmswX1BneFB1SVFUanE5cGpacXNmo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBEXzVtVlV6dXRYZGJlRnNCaWZzVjZUMW40UzR3REJlLaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGRJWTNINDczblZEQmswX1BneFB1SVFUanE5cGpacXNmo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBnMUZ1Zm00RnE2eUdTWGlCbUttTjZRQ0dkTW91ZjFNeqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDN4Z3R4NmdXWVpBcmFkZWZkUk4xejY4akNjbkJMYmtxo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "privacy-policy",
+        "id": "privacy-policy",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBnMUZ1Zm00RnE2eUdTWGlCbUttTjZRQ0dkTW91ZjFNeqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDN4Z3R4NmdXWVpBcmFkZWZkUk4xejY4akNjbkJMYmtxo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBnMUZ1Zm00RnE2eUdTWGlCbUttTjZRQ0dkTW91ZjFNeqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDN4Z3R4NmdXWVpBcmFkZWZkUk4xejY4akNjbkJMYmtxo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBnMUZ1Zm00RnE2eUdTWGlCbUttTjZRQ0dkTW91ZjFNeqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDN4Z3R4NmdXWVpBcmFkZWZkUk4xejY4akNjbkJMYmtxo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBnMUZ1Zm00RnE2eUdTWGlCbUttTjZRQ0dkTW91ZjFNeqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDN4Z3R4NmdXWVpBcmFkZWZkUk4xejY4akNjbkJMYmtxo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SAzbGdRcVBtXzlWMlhrM1VhT2dGNHFRRE51VkVXMVEzcaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEJtN2hBZk51ZjAtYW05ZGsxNVRHV0ZwRjZsOVlBM204o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "privacy-policy",
+        "id": "privacy-policy",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SAzbGdRcVBtXzlWMlhrM1VhT2dGNHFRRE51VkVXMVEzcaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEJtN2hBZk51ZjAtYW05ZGsxNVRHV0ZwRjZsOVlBM204o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SAzbGdRcVBtXzlWMlhrM1VhT2dGNHFRRE51VkVXMVEzcaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEJtN2hBZk51ZjAtYW05ZGsxNVRHV0ZwRjZsOVlBM204o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SAzbGdRcVBtXzlWMlhrM1VhT2dGNHFRRE51VkVXMVEzcaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEJtN2hBZk51ZjAtYW05ZGsxNVRHV0ZwRjZsOVlBM204o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SAzbGdRcVBtXzlWMlhrM1VhT2dGNHFRRE51VkVXMVEzcaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEJtN2hBZk51ZjAtYW05ZGsxNVRHV0ZwRjZsOVlBM204o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBucUZfQXQzOXZRODdMbDdaeU9PaXM1STBZMGNISUlhWqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEQzY2FXU3dGdDVGRnFjSGtsWVdnRTJrSVppUXliWFBqo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "privacy-policy",
+        "id": "privacy-policy",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBucUZfQXQzOXZRODdMbDdaeU9PaXM1STBZMGNISUlhWqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEQzY2FXU3dGdDVGRnFjSGtsWVdnRTJrSVppUXliWFBqo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBucUZfQXQzOXZRODdMbDdaeU9PaXM1STBZMGNISUlhWqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEQzY2FXU3dGdDVGRnFjSGtsWVdnRTJrSVppUXliWFBqo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBucUZfQXQzOXZRODdMbDdaeU9PaXM1STBZMGNISUlhWqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEQzY2FXU3dGdDVGRnFjSGtsWVdnRTJrSVppUXliWFBqo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBucUZfQXQzOXZRODdMbDdaeU9PaXM1STBZMGNISUlhWqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEQzY2FXU3dGdDVGRnFjSGtsWVdnRTJrSVppUXliWFBqo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBJekd1RGJLQ0hSQWRSajI5dTlDYVN4TERlUnlkekV2MqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFI2cVpneWtNTTdwb1BJdW1NdFVZT0FLVXluWEFGQ3JLo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "privacy-policy",
+        "id": "privacy-policy",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBJekd1RGJLQ0hSQWRSajI5dTlDYVN4TERlUnlkekV2MqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFI2cVpneWtNTTdwb1BJdW1NdFVZT0FLVXluWEFGQ3JLo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBJekd1RGJLQ0hSQWRSajI5dTlDYVN4TERlUnlkekV2MqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFI2cVpneWtNTTdwb1BJdW1NdFVZT0FLVXluWEFGQ3JLo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBJekd1RGJLQ0hSQWRSajI5dTlDYVN4TERlUnlkekV2MqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFI2cVpneWtNTTdwb1BJdW1NdFVZT0FLVXluWEFGQ3JLo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/signup/identifier?state=hKFo2SBJekd1RGJLQ0hSQWRSajI5dTlDYVN4TERlUnlkekV2MqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFI2cVpneWtNTTdwb1BJdW1NdFVZT0FLVXluWEFGQ3JLo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBlTVBKaW1NYm5xRFhXQlFWT09wQXdLTm5sUkFsRnE0Z6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIER4LV8xazJZdnhubGk2dXpfbkdyMmd0aUJHbVE4TzA4o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "js-available",
+        "id": "js-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-available",
+        "id": "webauthn-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is-brave",
+        "id": "is-brave",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-platform-available",
+        "id": "webauthn-platform-available",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBlTVBKaW1NYm5xRFhXQlFWT09wQXdLTm5sUkFsRnE0Z6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIER4LV8xazJZdnhubGk2dXpfbkdyMmd0aUJHbVE4TzA4o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBlTVBKaW1NYm5xRFhXQlFWT09wQXdLTm5sUkFsRnE0Z6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIER4LV8xazJZdnhubGk2dXpfbkdyMmd0aUJHbVE4TzA4o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBlTVBKaW1NYm5xRFhXQlFWT09wQXdLTm5sUkFsRnE0Z6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIER4LV8xazJZdnhubGk2dXpfbkdyMmd0aUJHbVE4TzA4o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBlTVBKaW1NYm5xRFhXQlFWT09wQXdLTm5sUkFsRnE0Z6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIER4LV8xazJZdnhubGk2dXpfbkdyMmd0aUJHbVE4TzA4o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBEXzVtVlV6dXRYZGJlRnNCaWZzVjZUMW40UzR3REJlLaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGRJWTNINDczblZEQmswX1BneFB1SVFUanE5cGpacXNmo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "js-available",
+        "id": "js-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-available",
+        "id": "webauthn-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is-brave",
+        "id": "is-brave",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-platform-available",
+        "id": "webauthn-platform-available",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBEXzVtVlV6dXRYZGJlRnNCaWZzVjZUMW40UzR3REJlLaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGRJWTNINDczblZEQmswX1BneFB1SVFUanE5cGpacXNmo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBEXzVtVlV6dXRYZGJlRnNCaWZzVjZUMW40UzR3REJlLaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGRJWTNINDczblZEQmswX1BneFB1SVFUanE5cGpacXNmo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBEXzVtVlV6dXRYZGJlRnNCaWZzVjZUMW40UzR3REJlLaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGRJWTNINDczblZEQmswX1BneFB1SVFUanE5cGpacXNmo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBEXzVtVlV6dXRYZGJlRnNCaWZzVjZUMW40UzR3REJlLaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGRJWTNINDczblZEQmswX1BneFB1SVFUanE5cGpacXNmo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBnMUZ1Zm00RnE2eUdTWGlCbUttTjZRQ0dkTW91ZjFNeqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDN4Z3R4NmdXWVpBcmFkZWZkUk4xejY4akNjbkJMYmtxo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "js-available",
+        "id": "js-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-available",
+        "id": "webauthn-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is-brave",
+        "id": "is-brave",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-platform-available",
+        "id": "webauthn-platform-available",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBnMUZ1Zm00RnE2eUdTWGlCbUttTjZRQ0dkTW91ZjFNeqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDN4Z3R4NmdXWVpBcmFkZWZkUk4xejY4akNjbkJMYmtxo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBnMUZ1Zm00RnE2eUdTWGlCbUttTjZRQ0dkTW91ZjFNeqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDN4Z3R4NmdXWVpBcmFkZWZkUk4xejY4akNjbkJMYmtxo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBnMUZ1Zm00RnE2eUdTWGlCbUttTjZRQ0dkTW91ZjFNeqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDN4Z3R4NmdXWVpBcmFkZWZkUk4xejY4akNjbkJMYmtxo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBnMUZ1Zm00RnE2eUdTWGlCbUttTjZRQ0dkTW91ZjFNeqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDN4Z3R4NmdXWVpBcmFkZWZkUk4xejY4akNjbkJMYmtxo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SAzbGdRcVBtXzlWMlhrM1VhT2dGNHFRRE51VkVXMVEzcaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEJtN2hBZk51ZjAtYW05ZGsxNVRHV0ZwRjZsOVlBM204o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "js-available",
+        "id": "js-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-available",
+        "id": "webauthn-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is-brave",
+        "id": "is-brave",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-platform-available",
+        "id": "webauthn-platform-available",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SAzbGdRcVBtXzlWMlhrM1VhT2dGNHFRRE51VkVXMVEzcaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEJtN2hBZk51ZjAtYW05ZGsxNVRHV0ZwRjZsOVlBM204o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SAzbGdRcVBtXzlWMlhrM1VhT2dGNHFRRE51VkVXMVEzcaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEJtN2hBZk51ZjAtYW05ZGsxNVRHV0ZwRjZsOVlBM204o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SAzbGdRcVBtXzlWMlhrM1VhT2dGNHFRRE51VkVXMVEzcaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEJtN2hBZk51ZjAtYW05ZGsxNVRHV0ZwRjZsOVlBM204o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SAzbGdRcVBtXzlWMlhrM1VhT2dGNHFRRE51VkVXMVEzcaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEJtN2hBZk51ZjAtYW05ZGsxNVRHV0ZwRjZsOVlBM204o2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBucUZfQXQzOXZRODdMbDdaeU9PaXM1STBZMGNISUlhWqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEQzY2FXU3dGdDVGRnFjSGtsWVdnRTJrSVppUXliWFBqo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "js-available",
+        "id": "js-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-available",
+        "id": "webauthn-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is-brave",
+        "id": "is-brave",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-platform-available",
+        "id": "webauthn-platform-available",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBucUZfQXQzOXZRODdMbDdaeU9PaXM1STBZMGNISUlhWqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEQzY2FXU3dGdDVGRnFjSGtsWVdnRTJrSVppUXliWFBqo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBucUZfQXQzOXZRODdMbDdaeU9PaXM1STBZMGNISUlhWqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEQzY2FXU3dGdDVGRnFjSGtsWVdnRTJrSVppUXliWFBqo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBucUZfQXQzOXZRODdMbDdaeU9PaXM1STBZMGNISUlhWqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEQzY2FXU3dGdDVGRnFjSGtsWVdnRTJrSVppUXliWFBqo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBucUZfQXQzOXZRODdMbDdaeU9PaXM1STBZMGNISUlhWqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEQzY2FXU3dGdDVGRnFjSGtsWVdnRTJrSVppUXliWFBqo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBJekd1RGJLQ0hSQWRSajI5dTlDYVN4TERlUnlkekV2MqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFI2cVpneWtNTTdwb1BJdW1NdFVZT0FLVXluWEFGQ3JLo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "js-available",
+        "id": "js-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-available",
+        "id": "webauthn-available",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is-brave",
+        "id": "is-brave",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-platform-available",
+        "id": "webauthn-platform-available",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBJekd1RGJLQ0hSQWRSajI5dTlDYVN4TERlUnlkekV2MqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFI2cVpneWtNTTdwb1BJdW1NdFVZT0FLVXluWEFGQ3JLo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBJekd1RGJLQ0hSQWRSajI5dTlDYVN4TERlUnlkekV2MqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFI2cVpneWtNTTdwb1BJdW1NdFVZT0FLVXluWEFGQ3JLo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBJekd1RGJLQ0hSQWRSajI5dTlDYVN4TERlUnlkekV2MqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFI2cVpneWtNTTdwb1BJdW1NdFVZT0FLVXluWEFGQ3JLo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "action": "https://auth.chainabuse-staging.com/u/login/identifier?state=hKFo2SBJekd1RGJLQ0hSQWRSajI5dTlDYVN4TERlUnlkekV2MqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFI2cVpneWtNTTdwb1BJdW1NdFVZT0FLVXluWEFGQ3JLo2NpZNkgeU1XVTFxeVFTc2xJREVJbWJubmt1ajU0R3Ntd1BaV3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
