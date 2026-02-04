@@ -170694,5 +170694,1251 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com",
+    "action": "https://opendata-demo.test-socrata.com/browse",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "sortBy",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com",
+    "action": "https://opendata-demo.test-socrata.com/browse",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "sortBy",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/#site-chrome-footer",
+    "action": "https://opendata-demo.test-socrata.com/#site-chrome-footer",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-1193",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/",
+    "action": "https://opendata-demo.test-socrata.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-28155",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/en/",
+    "action": "https://opendata-demo.test-socrata.com/en/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-30311",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/es/",
+    "action": "https://opendata-demo.test-socrata.com/es/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-31855",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nyan/",
+    "action": "https://opendata-demo.test-socrata.com/nyan/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-24625",
+        "placeholder": "[missing \"nyan.shared.site_chrome.header.search\" translation]",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/ca/",
+    "action": "https://opendata-demo.test-socrata.com/ca/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-12172",
+        "placeholder": "Cerca",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/it/",
+    "action": "https://opendata-demo.test-socrata.com/it/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-31152",
+        "placeholder": "Ricerca",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nl/",
+    "action": "https://opendata-demo.test-socrata.com/nl/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-9236",
+        "placeholder": "Zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/en/#content",
+    "action": "https://opendata-demo.test-socrata.com/en/#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-20492",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/en/#site-chrome-footer",
+    "action": "https://opendata-demo.test-socrata.com/en/?sortBy=relevance&page=1&pageSize=20#site-chrome-footer",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-20492",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/es/#content",
+    "action": "https://opendata-demo.test-socrata.com/es/#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-28969",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/es/#site-chrome-footer",
+    "action": "https://opendata-demo.test-socrata.com/es/#site-chrome-footer",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-3284",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/es/login",
+    "action": "https://opendata-demo.test-socrata.com/es/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-24794",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/es/login",
+    "action": "https://opendata-demo.test-socrata.com/es/user_sessions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "user_session[login]",
+        "id": "form-user_session[login]",
+        "placeholder": "Correo electrónico",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user_session[password]",
+        "id": "form-user_session[password]",
+        "placeholder": "Contraseña",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nyan/#content",
+    "action": "https://opendata-demo.test-socrata.com/nyan/#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-8153",
+        "placeholder": "[missing \"nyan.shared.site_chrome.header.search\" translation]",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nyan/#site-chrome-footer",
+    "action": "https://opendata-demo.test-socrata.com/nyan/#site-chrome-footer",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-8153",
+        "placeholder": "[missing \"nyan.shared.site_chrome.header.search\" translation]",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nyan/login",
+    "action": "https://opendata-demo.test-socrata.com/nyan/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-30050",
+        "placeholder": "[missing \"nyan.shared.site_chrome.header.search\" translation]",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nyan/login",
+    "action": "https://opendata-demo.test-socrata.com/nyan/user_sessions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "user_session[login]",
+        "id": "form-user_session[login]",
+        "placeholder": "[missing \"nyan.screens.sign_in.form.email_placeholder\" translation]",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user_session[password]",
+        "id": "form-user_session[password]",
+        "placeholder": "[missing \"nyan.screens.sign_in.form.password_placeholder\" translation]",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/ca/#content",
+    "action": "https://opendata-demo.test-socrata.com/ca/#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-27518",
+        "placeholder": "Cerca",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/ca/#site-chrome-footer",
+    "action": "https://opendata-demo.test-socrata.com/ca/?sortBy=relevance&page=1&pageSize=20#site-chrome-footer",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-27518",
+        "placeholder": "Cerca",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/ca/login",
+    "action": "https://opendata-demo.test-socrata.com/ca/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-32220",
+        "placeholder": "Cerca",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/ca/login",
+    "action": "https://opendata-demo.test-socrata.com/ca/user_sessions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "user_session[login]",
+        "id": "form-user_session[login]",
+        "placeholder": "Correu electrònic",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user_session[password]",
+        "id": "form-user_session[password]",
+        "placeholder": "Contrasenya",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/it/#content",
+    "action": "https://opendata-demo.test-socrata.com/it/#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-10862",
+        "placeholder": "Ricerca",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/it/#site-chrome-footer",
+    "action": "https://opendata-demo.test-socrata.com/it/#site-chrome-footer",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-10862",
+        "placeholder": "Ricerca",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/it/login",
+    "action": "https://opendata-demo.test-socrata.com/it/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-11504",
+        "placeholder": "Ricerca",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/it/login",
+    "action": "https://opendata-demo.test-socrata.com/it/user_sessions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "user_session[login]",
+        "id": "form-user_session[login]",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user_session[password]",
+        "id": "form-user_session[password]",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nl/#content",
+    "action": "https://opendata-demo.test-socrata.com/nl/#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-32188",
+        "placeholder": "Zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nl/#site-chrome-footer",
+    "action": "https://opendata-demo.test-socrata.com/nl/#site-chrome-footer",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-32188",
+        "placeholder": "Zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nl/login",
+    "action": "https://opendata-demo.test-socrata.com/nl/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-8361",
+        "placeholder": "Zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nl/login",
+    "action": "https://opendata-demo.test-socrata.com/nl/user_sessions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "user_session[login]",
+        "id": "form-user_session[login]",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user_session[password]",
+        "id": "form-user_session[password]",
+        "placeholder": "Wachtwoord",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/en/?sortBy=relevance&page=1&pageSize=20#content",
+    "action": "https://opendata-demo.test-socrata.com/en/?sortBy=relevance&page=1&pageSize=20#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-27666",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/en/?sortBy=relevance&page=1&pageSize=20#site-chrome-footer",
+    "action": "https://opendata-demo.test-socrata.com/en/?sortBy=relevance&page=1&pageSize=20#site-chrome-footer",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-27666",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/es/login#content",
+    "action": "https://opendata-demo.test-socrata.com/es/login#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-3583",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/es/login#content",
+    "action": "https://opendata-demo.test-socrata.com/es/user_sessions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "user_session[login]",
+        "id": "form-user_session[login]",
+        "placeholder": "Correo electrónico",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user_session[password]",
+        "id": "form-user_session[password]",
+        "placeholder": "Contraseña",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/es/login#site-chrome-footer",
+    "action": "https://opendata-demo.test-socrata.com/es/login#site-chrome-footer",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-3583",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/es/login#site-chrome-footer",
+    "action": "https://opendata-demo.test-socrata.com/es/user_sessions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "user_session[login]",
+        "id": "form-user_session[login]",
+        "placeholder": "Correo electrónico",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user_session[password]",
+        "id": "form-user_session[password]",
+        "placeholder": "Contraseña",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/en/login",
+    "action": "https://opendata-demo.test-socrata.com/en/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-19433",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/en/login",
+    "action": "https://opendata-demo.test-socrata.com/user_sessions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "user_session[login]",
+        "id": "form-user_session[login]",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user_session[password]",
+        "id": "form-user_session[password]",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nyan/login#content",
+    "action": "https://opendata-demo.test-socrata.com/nyan/login#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-4906",
+        "placeholder": "[missing \"nyan.shared.site_chrome.header.search\" translation]",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nyan/login#content",
+    "action": "https://opendata-demo.test-socrata.com/nyan/user_sessions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "user_session[login]",
+        "id": "form-user_session[login]",
+        "placeholder": "[missing \"nyan.screens.sign_in.form.email_placeholder\" translation]",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user_session[password]",
+        "id": "form-user_session[password]",
+        "placeholder": "[missing \"nyan.screens.sign_in.form.password_placeholder\" translation]",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nyan/login#site-chrome-footer",
+    "action": "https://opendata-demo.test-socrata.com/nyan/login#site-chrome-footer",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-4906",
+        "placeholder": "[missing \"nyan.shared.site_chrome.header.search\" translation]",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nyan/login#site-chrome-footer",
+    "action": "https://opendata-demo.test-socrata.com/nyan/user_sessions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "user_session[login]",
+        "id": "form-user_session[login]",
+        "placeholder": "[missing \"nyan.screens.sign_in.form.email_placeholder\" translation]",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user_session[password]",
+        "id": "form-user_session[password]",
+        "placeholder": "[missing \"nyan.screens.sign_in.form.password_placeholder\" translation]",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/ca/?sortBy=relevance&page=1&pageSize=20#content",
+    "action": "https://opendata-demo.test-socrata.com/ca/?sortBy=relevance&page=1&pageSize=20#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-2558",
+        "placeholder": "Cerca",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/ca/?sortBy=relevance&page=1&pageSize=20#site-chrome-footer",
+    "action": "https://opendata-demo.test-socrata.com/ca/?sortBy=relevance&page=1&pageSize=20#site-chrome-footer",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-2558",
+        "placeholder": "Cerca",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/ca/login#content",
+    "action": "https://opendata-demo.test-socrata.com/ca/login#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-6910",
+        "placeholder": "Cerca",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/ca/login#content",
+    "action": "https://opendata-demo.test-socrata.com/ca/user_sessions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "user_session[login]",
+        "id": "form-user_session[login]",
+        "placeholder": "Correu electrònic",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user_session[password]",
+        "id": "form-user_session[password]",
+        "placeholder": "Contrasenya",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/ca/login#site-chrome-footer",
+    "action": "https://opendata-demo.test-socrata.com/ca/login#site-chrome-footer",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-6910",
+        "placeholder": "Cerca",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/ca/login#site-chrome-footer",
+    "action": "https://opendata-demo.test-socrata.com/ca/user_sessions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "user_session[login]",
+        "id": "form-user_session[login]",
+        "placeholder": "Correu electrònic",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user_session[password]",
+        "id": "form-user_session[password]",
+        "placeholder": "Contrasenya",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/it/login#content",
+    "action": "https://opendata-demo.test-socrata.com/it/login#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-3080",
+        "placeholder": "Ricerca",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/it/login#content",
+    "action": "https://opendata-demo.test-socrata.com/it/user_sessions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "user_session[login]",
+        "id": "form-user_session[login]",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user_session[password]",
+        "id": "form-user_session[password]",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/it/login#site-chrome-footer",
+    "action": "https://opendata-demo.test-socrata.com/it/login#site-chrome-footer",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-3080",
+        "placeholder": "Ricerca",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/it/login#site-chrome-footer",
+    "action": "https://opendata-demo.test-socrata.com/it/user_sessions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "user_session[login]",
+        "id": "form-user_session[login]",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user_session[password]",
+        "id": "form-user_session[password]",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nl/login#content",
+    "action": "https://opendata-demo.test-socrata.com/nl/login#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-19925",
+        "placeholder": "Zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nl/login#content",
+    "action": "https://opendata-demo.test-socrata.com/nl/user_sessions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "user_session[login]",
+        "id": "form-user_session[login]",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user_session[password]",
+        "id": "form-user_session[password]",
+        "placeholder": "Wachtwoord",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nl/login#site-chrome-footer",
+    "action": "https://opendata-demo.test-socrata.com/nl/login#site-chrome-footer",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-19925",
+        "placeholder": "Zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nl/login#site-chrome-footer",
+    "action": "https://opendata-demo.test-socrata.com/nl/user_sessions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "user_session[login]",
+        "id": "form-user_session[login]",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user_session[password]",
+        "id": "form-user_session[password]",
+        "placeholder": "Wachtwoord",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/en/?sortBy=relevance&page=1&pageSize=20",
+    "action": "https://opendata-demo.test-socrata.com/en/?sortBy=relevance&page=1&pageSize=20",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-12418",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/es/?sortBy=relevance&page=1&pageSize=20",
+    "action": "https://opendata-demo.test-socrata.com/es/?sortBy=relevance&page=1&pageSize=20",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-7244",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nyan/?sortBy=relevance&page=1&pageSize=20",
+    "action": "https://opendata-demo.test-socrata.com/nyan/?sortBy=relevance&page=1&pageSize=20",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-4150",
+        "placeholder": "[missing \"nyan.shared.site_chrome.header.search\" translation]",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/ca/?sortBy=relevance&page=1&pageSize=20",
+    "action": "https://opendata-demo.test-socrata.com/ca/?sortBy=relevance&page=1&pageSize=20",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-14236",
+        "placeholder": "Cerca",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/it/?sortBy=relevance&page=1&pageSize=20",
+    "action": "https://opendata-demo.test-socrata.com/it/?sortBy=relevance&page=1&pageSize=20",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-27987",
+        "placeholder": "Ricerca",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://opendata-demo.test-socrata.com/nl/?sortBy=relevance&page=1&pageSize=20",
+    "action": "https://opendata-demo.test-socrata.com/nl/?sortBy=relevance&page=1&pageSize=20",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-20672",
+        "placeholder": "Zoeken",
+        "required": false
+      }
+    ]
   }
 ]
