@@ -172143,5 +172143,691 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://underarmour.co.kr",
+    "action": "https://www.underarmour.co.kr/ko-kr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "UA 검색",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://underarmour.co.kr",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "hpEmailSignUp",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://underarmour.co.kr",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "hpEmailSignUp",
+        "id": "hpEmailSignUp",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr",
+    "action": "https://www.underarmour.co.kr/ko-kr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "UA 검색",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "hpEmailSignUp",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "hpEmailSignUp",
+        "id": "hpEmailSignUp",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://underarmour.co.kr",
+    "action": "https://www.underarmour.co.kr/ko-kr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "UA 검색",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://underarmour.co.kr",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "hpEmailSignUp",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://underarmour.co.kr",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "hpEmailSignUp",
+        "id": "hpEmailSignUp",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/#maincontent",
+    "action": "https://www.underarmour.co.kr/ko-kr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "UA 검색",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/#maincontent",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "hpEmailSignUp",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/#maincontent",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "hpEmailSignUp",
+        "id": "hpEmailSignUp",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/#footercontent",
+    "action": "https://www.underarmour.co.kr/ko-kr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "UA 검색",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/#footercontent",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "hpEmailSignUp",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/#footercontent",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "hpEmailSignUp",
+        "id": "hpEmailSignUp",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/c/review-event/",
+    "action": "https://www.underarmour.co.kr/ko-kr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "UA 검색",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/c/review-event/",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "hpEmailSignUp",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/c/review-event/",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "hpEmailSignUp",
+        "id": "hpEmailSignUp",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/search/?cgid=review-event%27",
+    "action": "https://www.underarmour.co.kr/ko-kr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "UA 검색",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/search/?cgid=review-event%27",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "hpEmailSignUp",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/search/?cgid=review-event%27",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "hpEmailSignUp",
+        "id": "hpEmailSignUp",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/change-location/",
+    "action": "https://www.underarmour.co.kr/ko-kr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "UA 검색",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/change-location/",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "hpEmailSignUp",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/change-location/",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "hpEmailSignUp",
+        "id": "hpEmailSignUp",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/",
+    "action": "https://www.underarmour.co.kr/ko-kr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "UA 검색",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "hpEmailSignUp",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "hpEmailSignUp",
+        "id": "hpEmailSignUp",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/c/review-event/#maincontent",
+    "action": "https://www.underarmour.co.kr/ko-kr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "UA 검색",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/c/review-event/#maincontent",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "hpEmailSignUp",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/c/review-event/#maincontent",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "hpEmailSignUp",
+        "id": "hpEmailSignUp",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/c/review-event/#footercontent",
+    "action": "https://www.underarmour.co.kr/ko-kr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "UA 검색",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/c/review-event/#footercontent",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "hpEmailSignUp",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/c/review-event/#footercontent",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "hpEmailSignUp",
+        "id": "hpEmailSignUp",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/search/?cgid=review-event%27#maincontent",
+    "action": "https://www.underarmour.co.kr/ko-kr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "UA 검색",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/search/?cgid=review-event%27#maincontent",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "hpEmailSignUp",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/search/?cgid=review-event%27#maincontent",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "hpEmailSignUp",
+        "id": "hpEmailSignUp",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/change-location/#maincontent",
+    "action": "https://www.underarmour.co.kr/ko-kr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "UA 검색",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/change-location/#maincontent",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "hpEmailSignUp",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/change-location/#maincontent",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "hpEmailSignUp",
+        "id": "hpEmailSignUp",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/change-location/#footercontent",
+    "action": "https://www.underarmour.co.kr/ko-kr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "UA 검색",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/change-location/#footercontent",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "hpEmailSignUp",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.co.kr/ko-kr/change-location/#footercontent",
+    "action": "https://www.underarmour.co.kr/on/demandware.store/Sites-KR-Site/ko_KR/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "hpEmailSignUp",
+        "id": "hpEmailSignUp",
+        "placeholder": "",
+        "required": true
+      }
+    ]
   }
 ]
