@@ -172094,5 +172094,54 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.underarmour.com.sg",
+    "action": "https://www.underarmour.com.sg/en-sg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search UA",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.com.sg",
+    "action": "https://www.underarmour.com.sg/on/demandware.store/Sites-SEA-Site/en_SG/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "hpEmailSignUp",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.underarmour.com.sg",
+    "action": "https://www.underarmour.com.sg/on/demandware.store/Sites-SEA-Site/en_SG/Newsletter-Subscribe",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "hpEmailSignUp",
+        "id": "hpEmailSignUp",
+        "placeholder": "",
+        "required": true
+      }
+    ]
   }
 ]
