@@ -171940,5 +171940,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://opendata.test-socrata.com",
+    "action": "https://opendata.test-socrata.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search",
+        "id": "autocomplete-search-input-6359",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
   }
 ]
