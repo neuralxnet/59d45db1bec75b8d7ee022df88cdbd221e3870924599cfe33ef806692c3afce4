@@ -172835,5 +172835,33 @@
     "action": "https://login.microsoftonline.com/7255cebc-84d0-47c0-9740-b001ceaaf7e5/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=C37E421AEE69BAB21B9C112E0B7F6360EAEC4A00D522A925%2D3ED025ED7F5184C0FA91E5E4061B65E9F42C2B47379A97BB69CA49D14DD32479&redirect%5Furi=https%3A%2F%2Funderarmour%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=ef24f4a1%2D60a8%2Db000%2D4ad3%2De8da8d925e08&sso_reload=true",
     "method": "post",
     "fields": []
+  },
+  {
+    "url": "https://transfer.underarmour.com",
+    "action": "https://transfer.underarmour.com/Web/Account/Login.htm?csrftoken=vVbFCHDbnhakVnKukTRGfVkq8/O/DnTubceUzN23Xd8%3D.19969689-54DE-F224-435D-BBC53EC249A1",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "loginSubmit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
