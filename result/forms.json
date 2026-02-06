@@ -172863,5 +172863,159 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://snctest-s.underarmour.com",
+    "action": "https://aiy795sxm.accounts.ondemand.com/saml2/idp/sso/aiy795sxm.accounts.ondemand.com?SAMLRequest=hZFPS8NAFMS%2FSth7kk1skrokgdIiBFSqFQ%2Fels0LXdg%2Fcd%2Butt%2FeJAWpB%2FU6zLyZH69GrtXINsEfzTO8B0AfdbuGHEQ15Cs%2B5HFJaRVnA2TxmsIqzrJ1KQYK1bq4IdErOJTWNCRPKIk6xACdQc%2BNnySalzHNY1q%2B0IIVJcuKNxLtpgZpuF9SR%2B9HZGnK5bm6LfCkEy6EDcZjYk0Pmps%2BEVan88g8lf2YItr%2F3CS6s07AgtSQgSuEedqeI8oP%2BFZOWhlkC35DgjPMcpTIDNeAzAt22DzcswmLjc56K6wibT272ULprvJ%2Fx6dacDMuaQ%2Fbpzq9unE5OLLHKdTt9lZJcZ7Ha%2B5%2Fv5kl2aLIPh4WKwsGRxBykNCTaKOU%2Fdw64H5C9S4ASdtL6c8vt18%3D&RelayState=ouccxfsuafsowqqxorferoyqeuorrywcfqexyvt&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=EhqvQowXNthc9Gsc0E%2ByE7SdmyQX42t4A5D0XNaLEvTB%2BX8Um9lV5kKhghZ4hqYUgEEhePCYYTB1sjf9vDCjQ1miXt2DtG%2FjoKh1RWasoQim74AOVWYV%2BFifib4%2F568fPMUxrcAjTNznhGFEL49GsFdhWSZd3rEwUjWgSE%2BFVc63Zw6o%2FugTaUGik7zgmWtKeRkRHg0jmP7KmKS5LkIingzDBE5NP2Hf2hHYVjINQyTJZDMuf613EuLq1P6nXLYDpXuIvPJgSi1T2BmBBhq9We%2FbksqHSkNo9QtefN6DGTZYao4%2FHlgGwIAMF0A0QX8nM0NiVwnpm3VoTe6%2FxQPYXA%3D%3D",
+    "method": "ref: <Node>",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "xsrfProtection",
+        "id": "hidden-xsrfProtection-field",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "idpSSOEndpoint",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SAMLRequest",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RelayState",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Signature",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SigAlg",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "targetUrl",
+        "id": "targetUrl",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "sourceUrl",
+        "id": "sourceUrl",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "org",
+        "id": "org",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "spId",
+        "id": "spId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "spName",
+        "id": "spName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "mobileSSOToken",
+        "id": "mobileSSOToken",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tfaToken",
+        "id": "tfaToken",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "css",
+        "id": "css",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "passwordlessAuthnSelected",
+        "id": "passwordlessAuthnSelected",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "j_username",
+        "id": "j_username",
+        "placeholder": "Teammate ID / Personal Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "j_password",
+        "id": "j_password",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "rememberme",
+        "id": "rememberme",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
