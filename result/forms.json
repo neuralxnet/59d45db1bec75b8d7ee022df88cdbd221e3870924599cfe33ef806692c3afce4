@@ -173269,5 +173269,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.verisign.com",
+    "action": "https://www.verisign.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "vquery",
+        "id": "",
+        "placeholder": "Site Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.verisign.com",
+    "action": "https://www.verisign.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "vquery",
+        "id": "search-menu-input",
+        "placeholder": "Site Search",
+        "required": false
+      }
+    ]
   }
 ]
