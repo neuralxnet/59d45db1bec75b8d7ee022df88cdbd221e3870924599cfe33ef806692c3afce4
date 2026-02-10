@@ -173297,5 +173297,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://blog.verisign.com",
+    "action": "https://blog.verisign.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "",
+        "placeholder": "Enter keyword...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.verisign.com",
+    "action": "https://blog.verisign.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search-input",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
   }
 ]
