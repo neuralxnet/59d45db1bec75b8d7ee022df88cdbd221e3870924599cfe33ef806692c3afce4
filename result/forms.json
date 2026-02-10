@@ -173325,5 +173325,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://help.supplier.viator.com",
+    "action": "https://help.supplier.viator.com/de",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "input",
+        "placeholder": "Hilfe suchen...",
+        "required": false
+      }
+    ]
   }
 ]
