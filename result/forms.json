@@ -173696,5 +173696,25 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.vwfs.cz",
+    "action": "https://www.vwfs.cz/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vwfs.cz",
+    "action": "https://www.vwfs.cz/",
+    "method": "get",
+    "fields": []
   }
 ]
