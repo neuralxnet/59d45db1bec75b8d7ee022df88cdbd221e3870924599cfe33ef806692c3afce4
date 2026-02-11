@@ -173716,5 +173716,19 @@
     "action": "https://www.vwfs.cz/",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://www.vwfs.ie",
+    "action": "https://www.vwfs.ie/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
