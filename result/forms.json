@@ -173367,5 +173367,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.vwfs.pl",
+    "action": "https://www.vwfs.pl/klienci-indywidualni/szukaj.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
