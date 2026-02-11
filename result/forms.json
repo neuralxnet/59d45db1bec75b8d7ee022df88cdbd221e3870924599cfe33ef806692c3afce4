@@ -173730,5 +173730,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.vwfs.es",
+    "action": "https://www.vwfs.es/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
