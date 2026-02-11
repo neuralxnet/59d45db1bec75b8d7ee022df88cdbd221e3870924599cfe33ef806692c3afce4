@@ -173339,5 +173339,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://partnerhelp.viator.com",
+    "action": "https://partnerhelp.viator.com/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "input",
+        "placeholder": "Search for help...",
+        "required": false
+      }
+    ]
   }
 ]
