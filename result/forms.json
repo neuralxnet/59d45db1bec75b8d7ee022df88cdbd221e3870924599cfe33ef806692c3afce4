@@ -173353,5 +173353,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.vwfs.de",
+    "action": "https://www.vwfs.de/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
