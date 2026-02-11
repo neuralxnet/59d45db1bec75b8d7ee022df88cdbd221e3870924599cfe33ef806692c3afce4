@@ -173744,5 +173744,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.vwfs.co.za",
+    "action": "https://www.vwfs.co.za/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
