@@ -173772,5 +173772,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.vwfs.it",
+    "action": "https://www.vwfs.it/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
