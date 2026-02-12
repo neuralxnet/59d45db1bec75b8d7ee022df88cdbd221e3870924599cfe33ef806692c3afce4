@@ -174029,5 +174029,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.vwfs.com.tw",
+    "action": "https://www.vwfs.com.tw/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
