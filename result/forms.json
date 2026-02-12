@@ -173834,5 +173834,103 @@
     "action": "https://www.vwfs.pt/",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://www.vwfs.sk",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "CRAFT_CSRF_TOKEN",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "submitAction",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "handle",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "siteId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "fields[meno][firstName]",
+        "id": "fui-konzultacia-ixdgun-fields-meno-firstName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "fields[meno][lastName]",
+        "id": "fui-konzultacia-ixdgun-fields-meno-lastName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "fields[eMail]",
+        "id": "fui-konzultacia-ixdgun-fields-eMail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "fields[vasaSprava]",
+        "id": "fui-konzultacia-ixdgun-fields-vasaSprava",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "fields[matePravoOdmietnutDalsiMarketing]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "fields[matePravoOdmietnutDalsiMarketing]",
+        "id": "fui-konzultacia-ixdgun-fields-matePravoOdmietnutDalsiMarketing",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fields[aleboNamUdelitSkupinovySuhlas]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "fields[aleboNamUdelitSkupinovySuhlas]",
+        "id": "fui-konzultacia-ixdgun-fields-aleboNamUdelitSkupinovySuhlas",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
