@@ -174001,5 +174001,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.vwfs.dk",
+    "action": "https://www.vwsf.dk/searchresult.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "headersearch",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
