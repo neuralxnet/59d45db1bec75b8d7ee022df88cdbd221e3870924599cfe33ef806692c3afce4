@@ -174911,5 +174911,1629 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://archiveintel.com/resources/",
+    "action": "https://archiveintel.com/resources/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "input_4",
+        "id": "input_3_4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_3_1_3",
+        "placeholder": "Your first name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_1.6",
+        "id": "input_3_1_6",
+        "placeholder": "Your last name",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "input_3",
+        "id": "input_3_3",
+        "placeholder": "Your email address",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_currency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state_3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_3",
+        "id": "gform_target_page_number_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_3",
+        "id": "gform_source_page_number_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ak_hp_textarea",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://archiveintel.com/resources/",
+    "action": "https://archiveintel.com/resources/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://archiveintel.com/about-us/",
+    "action": "https://archiveintel.com/about-us/#gf_1",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "input_4",
+        "id": "input_1_4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_1_1_3",
+        "placeholder": "Your first name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_1.6",
+        "id": "input_1_1_6",
+        "placeholder": "Your last name",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "input_3",
+        "id": "input_1_3",
+        "placeholder": "Your email address",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_ajax",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_1",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_currency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state_1",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_1",
+        "id": "gform_target_page_number_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_1",
+        "id": "gform_source_page_number_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ak_hp_textarea",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://archiveintel.com/contact-us/",
+    "action": "https://archiveintel.com/contact-us/#gf_2",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "input_9",
+        "id": "input_2_9",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_3.3",
+        "id": "input_2_3_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_3.6",
+        "id": "input_2_3_6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "input_5",
+        "id": "input_2_5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "input_6",
+        "id": "input_2_6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "input_7",
+        "id": "input_2_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_ajax",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_2",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_currency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state_2",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_2",
+        "id": "gform_target_page_number_2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_2",
+        "id": "gform_source_page_number_2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ak_hp_textarea",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://archiveintel.com/resources/#content",
+    "action": "https://archiveintel.com/resources/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "input_4",
+        "id": "input_3_4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_3_1_3",
+        "placeholder": "Your first name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_1.6",
+        "id": "input_3_1_6",
+        "placeholder": "Your last name",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "input_3",
+        "id": "input_3_3",
+        "placeholder": "Your email address",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_currency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state_3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_3",
+        "id": "gform_target_page_number_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_3",
+        "id": "gform_source_page_number_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ak_hp_textarea",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://archiveintel.com/resources/#content",
+    "action": "https://archiveintel.com/resources/#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://archiveintel.com/about-us/#content",
+    "action": "https://archiveintel.com/about-us/#gf_1",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "input_4",
+        "id": "input_1_4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_1_1_3",
+        "placeholder": "Your first name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_1.6",
+        "id": "input_1_1_6",
+        "placeholder": "Your last name",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "input_3",
+        "id": "input_1_3",
+        "placeholder": "Your email address",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_ajax",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_1",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_currency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state_1",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_1",
+        "id": "gform_target_page_number_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_1",
+        "id": "gform_source_page_number_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ak_hp_textarea",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://archiveintel.com/contact-us/#content",
+    "action": "https://archiveintel.com/contact-us/#gf_2",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "input_9",
+        "id": "input_2_9",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_3.3",
+        "id": "input_2_3_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_3.6",
+        "id": "input_2_3_6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "input_5",
+        "id": "input_2_5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "input_6",
+        "id": "input_2_6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "input_7",
+        "id": "input_2_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_ajax",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_2",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_currency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state_2",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_2",
+        "id": "gform_target_page_number_2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_2",
+        "id": "gform_source_page_number_2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ak_hp_textarea",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://archiveintel.com/about-us/?hsLang=en",
+    "action": "https://archiveintel.com/about-us/?hsLang=en#gf_1",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "input_4",
+        "id": "input_1_4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_1_1_3",
+        "placeholder": "Your first name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_1.6",
+        "id": "input_1_1_6",
+        "placeholder": "Your last name",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "input_3",
+        "id": "input_1_3",
+        "placeholder": "Your email address",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_ajax",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_1",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_currency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state_1",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_1",
+        "id": "gform_target_page_number_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_1",
+        "id": "gform_source_page_number_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ak_hp_textarea",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://archiveintel.com/resources/?hsLang=en",
+    "action": "https://archiveintel.com/resources/?hsLang=en",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "input_4",
+        "id": "input_3_4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_3_1_3",
+        "placeholder": "Your first name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_1.6",
+        "id": "input_3_1_6",
+        "placeholder": "Your last name",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "input_3",
+        "id": "input_3_3",
+        "placeholder": "Your email address",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_currency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state_3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_3",
+        "id": "gform_target_page_number_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_3",
+        "id": "gform_source_page_number_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ak_hp_textarea",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://archiveintel.com/resources/?hsLang=en",
+    "action": "https://archiveintel.com/resources/?hsLang=en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://archiveintel.com/about-us/?hsLang=en#content",
+    "action": "https://archiveintel.com/about-us/?hsLang=en#gf_1",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "input_4",
+        "id": "input_1_4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_1_1_3",
+        "placeholder": "Your first name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_1.6",
+        "id": "input_1_1_6",
+        "placeholder": "Your last name",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "input_3",
+        "id": "input_1_3",
+        "placeholder": "Your email address",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_ajax",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_1",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_currency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state_1",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_1",
+        "id": "gform_target_page_number_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_1",
+        "id": "gform_source_page_number_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ak_hp_textarea",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://archiveintel.com/resources/?hsLang=en#content",
+    "action": "https://archiveintel.com/resources/?hsLang=en",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "input_4",
+        "id": "input_3_4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_3_1_3",
+        "placeholder": "Your first name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_1.6",
+        "id": "input_3_1_6",
+        "placeholder": "Your last name",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "input_3",
+        "id": "input_3_3",
+        "placeholder": "Your email address",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_currency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state_3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_3",
+        "id": "gform_target_page_number_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_3",
+        "id": "gform_source_page_number_3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ak_hp_textarea",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://archiveintel.com/resources/?hsLang=en#content",
+    "action": "https://archiveintel.com/resources/?hsLang=en#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
