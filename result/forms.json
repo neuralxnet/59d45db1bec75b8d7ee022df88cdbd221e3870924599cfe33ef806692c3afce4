@@ -174848,5 +174848,47 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://staging-app.bany.dev",
+    "action": "https://staging-app.bany.dev/api/v1/catalog?operation_name=loginUser",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "request_data[email]",
+        "id": "request_data_email",
+        "placeholder": "Email address",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "request_data[password]",
+        "id": "request_data_password",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "request_data[remember_me]",
+        "id": "request_data_remember_me",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "request_data[otp]",
+        "id": "request_data_otp",
+        "placeholder": "6-digit code",
+        "required": false
+      }
+    ]
   }
 ]
