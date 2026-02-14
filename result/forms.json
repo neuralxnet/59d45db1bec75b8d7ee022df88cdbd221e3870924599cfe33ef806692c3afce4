@@ -178536,5 +178536,446 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://ind-core2.365sip.com",
+    "action": "https://ind-core2.365sip.com/portal/login/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[Login][vendor]",
+        "id": "SsoVendor",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[Login][id_token]",
+        "id": "SsoIdToken",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[Login][username]",
+        "id": "LoginUsername",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "data[Login][password]",
+        "id": "LoginPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.ind-core2.365sip.com",
+    "action": "https://www.ind-core2.365sip.com/portal/login/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[Login][vendor]",
+        "id": "SsoVendor",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[Login][id_token]",
+        "id": "SsoIdToken",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[Login][username]",
+        "id": "LoginUsername",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "data[Login][password]",
+        "id": "LoginPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://ind-core2.365sip.com",
+    "action": "https://ind-core2.365sip.com/portal/login/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[Login][vendor]",
+        "id": "SsoVendor",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[Login][id_token]",
+        "id": "SsoIdToken",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[Login][username]",
+        "id": "LoginUsername",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "data[Login][password]",
+        "id": "LoginPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ind-core2.365sip.com/portal/resets/forgotlogin",
+    "action": "https://ind-core2.365sip.com/portal/resets/forgotlogin",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[reset][email]",
+        "id": "resetEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[reset][extension]",
+        "id": "resetExtension",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ind-core2.365sip.com/portal/resets/forgotpassword",
+    "action": "https://ind-core2.365sip.com/portal/resets/forgotpassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[reset][username]",
+        "id": "resetUsername",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ind-core2.365sip.com/portal/resets/newuser",
+    "action": "https://ind-core2.365sip.com/portal/resets/newuser",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[reset][email]",
+        "id": "resetEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[reset][extension]",
+        "id": "resetExtension",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.ind-core2.365sip.com/portal/resets/forgotlogin",
+    "action": "https://www.ind-core2.365sip.com/portal/resets/forgotlogin",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[reset][email]",
+        "id": "resetEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[reset][extension]",
+        "id": "resetExtension",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.ind-core2.365sip.com/portal/resets/forgotpassword",
+    "action": "https://www.ind-core2.365sip.com/portal/resets/forgotpassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[reset][username]",
+        "id": "resetUsername",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.ind-core2.365sip.com/portal/resets/newuser",
+    "action": "https://www.ind-core2.365sip.com/portal/resets/newuser",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[reset][email]",
+        "id": "resetEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[reset][extension]",
+        "id": "resetExtension",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ind-core2.365sip.com/portal/login",
+    "action": "https://ind-core2.365sip.com/portal/login/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[Login][vendor]",
+        "id": "SsoVendor",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[Login][id_token]",
+        "id": "SsoIdToken",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[Login][username]",
+        "id": "LoginUsername",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "data[Login][password]",
+        "id": "LoginPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.ind-core2.365sip.com/portal/login",
+    "action": "https://www.ind-core2.365sip.com/portal/login/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[Login][vendor]",
+        "id": "SsoVendor",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[Login][id_token]",
+        "id": "SsoIdToken",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[Login][username]",
+        "id": "LoginUsername",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "data[Login][password]",
+        "id": "LoginPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
