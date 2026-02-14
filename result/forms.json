@@ -177662,5 +177662,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://app.confidotech.com",
+    "action": "https://app.confidotech.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-input",
+        "placeholder": "example@email.com",
+        "required": true
+      }
+    ]
   }
 ]
