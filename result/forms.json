@@ -176535,5 +176535,1132 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us#page-container",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/15278056263451-Nexus",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/sections/6820490939547-New-to-Clay",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/7507365740315-Getting-Started",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/6852585559835-The-Clay-Method",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/6820587714459-A-Day-in-the-Life",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/6925631368475-Navigation",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/sections/6820669403547-Best-Practices",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/15278056263451-Nexus#page-container",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/sections/6691650097051-Using-Clay",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/15278056263451-Nexus#h_01HGH1FCJP8P4M316GA5H9VFX5",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/15278056263451-Nexus#h_01J602FJYCSXTBEG435CDB6T9F",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/15278056263451-Nexus#h_01J602FNFT27XGC1KWNKAEMKKN",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/15278056263451-Nexus#h_01J602FV8MAJHY42RZW2M2X9VE",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/15278056263451-Nexus#h_01J602FZ1M5T280VSEEB1SMDDX",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/15278056263451-Nexus#h_01HER88DMHZE7AM8Z7740Q44RP",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/sections/6820490939547-New-to-Clay#page-container",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/requests/new",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/requests/new",
+    "action": "https://library.clay.earth/hc/en-us/requests",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "request[ticket_form_id]",
+        "id": "request_ticket_form_id",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "request[anonymous_requester_email]",
+        "id": "request_anonymous_requester_email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "request[description]",
+        "id": "request_description",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "request[description_mimetype]",
+        "id": "request_description_mimetype",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "request[subject]",
+        "id": "request_subject",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "",
+        "id": "request-attachments",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/7507365740315-Getting-Started#page-container",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/7507365740315-Getting-Started#h_01HCX23B97PX9DVDK5J1D4V2KC",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/7507365740315-Getting-Started#h_01HCX23B97JSFYEPKCHPE1GPXM",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/7507365740315-Getting-Started#h_01HCX23B97NXFZPZ60ZNJ888TB",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/6820188680091",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/6819150711323",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/6852585559835-The-Clay-Method#page-container",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/6852585559835-The-Clay-Method#h_01HDKW5X27HW8N551HEKD4WSSM",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/6852585559835-The-Clay-Method#h_01HDKW5X280HQZAVT8ARNSJYRT",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/6852585559835-The-Clay-Method#h_01HDKW5X28SVEAM5A1CAMBR8QF",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/6852585559835-The-Clay-Method#h_01HDKW5X28C1BD7C02XAXNSY0Q",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/6852585559835-The-Clay-Method#h_01HDKW5X28MZP65P49Z2SW8MGN",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/6820587714459-A-Day-in-the-Life#page-container",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/6820587714459-A-Day-in-the-Life#h_01HDP7JB7FV4AV01B8KB9WN18Y",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/6820587714459-A-Day-in-the-Life#h_01HDP7JB7FA4FM3N9EJNRVBEYH",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/6820587714459-A-Day-in-the-Life#h_01HDP7JB7FVBVGMW0WHTCWYAG6",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/6691827190939",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/6817306147355",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://library.clay.earth/hc/en-us/articles/6925631368475-Navigation#page-container",
+    "action": "https://library.clay.earth/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "How can we help?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
