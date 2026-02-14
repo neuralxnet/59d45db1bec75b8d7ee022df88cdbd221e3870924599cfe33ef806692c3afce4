@@ -179985,5 +179985,481 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://nanonets.com",
+    "action": "https://nanonets.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Work-Email",
+        "id": "Work-Email-3",
+        "placeholder": "Your work email*",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "field",
+        "id": "field",
+        "placeholder": "+1",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "Your-Name",
+        "id": "Your-Name-3",
+        "placeholder": "Contact number",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "How-Can-We-Help-You",
+        "id": "How-Can-We-Help-You-3",
+        "placeholder": "How can we help you?*",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "autopilot",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nanonets.com",
+    "action": "https://nanonets.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Work-Email",
+        "id": "Work-Email-3",
+        "placeholder": "Your work email*",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "field",
+        "id": "field",
+        "placeholder": "+1",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "Your-Name",
+        "id": "Your-Name-3",
+        "placeholder": "Contact number",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "How-Can-We-Help-You",
+        "id": "How-Can-We-Help-You-3",
+        "placeholder": "How can we help you?*",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "autopilot",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://nanonets.com",
+    "action": "https://nanonets.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Work-Email",
+        "id": "Work-Email-3",
+        "placeholder": "Your work email*",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "field",
+        "id": "field",
+        "placeholder": "+1",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "Your-Name",
+        "id": "Your-Name-3",
+        "placeholder": "Contact number",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "How-Can-We-Help-You",
+        "id": "How-Can-We-Help-You-3",
+        "placeholder": "How can we help you?*",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "autopilot",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nanonets.com/",
+    "action": "https://nanonets.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Work-Email",
+        "id": "Work-Email-3",
+        "placeholder": "Your work email*",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "field",
+        "id": "field",
+        "placeholder": "+1",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "Your-Name",
+        "id": "Your-Name-3",
+        "placeholder": "Contact number",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "How-Can-We-Help-You",
+        "id": "How-Can-We-Help-You-3",
+        "placeholder": "How can we help you?*",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "autopilot",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nanonets.com/bank-statement-converter",
+    "action": "https://nanonets.com/bank-statement-converter",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Work-Email",
+        "id": "Work-Email-3",
+        "placeholder": "Your work email*",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "field",
+        "id": "field",
+        "placeholder": "+1",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "Your-Name",
+        "id": "Your-Name-3",
+        "placeholder": "Contact number",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "How-Can-We-Help-You",
+        "id": "How-Can-We-Help-You-3",
+        "placeholder": "How can we help you?*",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "autopilot",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nanonets.com/document-ocr",
+    "action": "https://nanonets.com/document-ocr",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Asset-management",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Construction",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Customer-service",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Customer-service",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Customer-service",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Customer-service",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Asset-management",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Construction",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Customer-service",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Customer-service",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Customer-service",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Customer-service",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Asset-management",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Construction",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Customer-service",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Customer-service",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Customer-service",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Customer-service",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Asset-management",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Construction",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Customer-service",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Customer-service",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Customer-service",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "document-radio",
+        "id": "Customer-service",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "field",
+        "id": "search",
+        "placeholder": "Search by use case or document type",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nanonets.com/document-ocr",
+    "action": "https://nanonets.com/document-ocr",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Work-Email",
+        "id": "Work-Email-3",
+        "placeholder": "Your work email*",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "field",
+        "id": "field",
+        "placeholder": "+1",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "Your-Name",
+        "id": "Your-Name-3",
+        "placeholder": "Contact number",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "How-Can-We-Help-You",
+        "id": "How-Can-We-Help-You-3",
+        "placeholder": "How can we help you?*",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "autopilot",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nanonets.com/workflows",
+    "action": "https://nanonets.com/workflows",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Work-Email",
+        "id": "Work-Email-3",
+        "placeholder": "Your work email*",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "field",
+        "id": "field",
+        "placeholder": "+1",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "Your-Name",
+        "id": "Your-Name-3",
+        "placeholder": "Contact number",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "How-Can-We-Help-You",
+        "id": "How-Can-We-Help-You-3",
+        "placeholder": "How can we help you?*",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "autopilot",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
