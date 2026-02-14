@@ -178438,5 +178438,54 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://ind-core1.365sip.com",
+    "action": "https://ind-core1.365sip.com/portal/login/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[Login][vendor]",
+        "id": "SsoVendor",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[Login][id_token]",
+        "id": "SsoIdToken",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "data[Login][username]",
+        "id": "LoginUsername",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "data[Login][password]",
+        "id": "LoginPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
