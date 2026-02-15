@@ -184052,5 +184052,23 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://sylaps.com",
+    "action": "https://sylaps.com/",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "http://sylaps.com",
+    "action": "https://sylaps.com/",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://sylaps.com/",
+    "action": "https://sylaps.com/",
+    "method": "get",
+    "fields": []
   }
 ]
