@@ -183968,5 +183968,89 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://app.supportbee.com",
+    "action": "https://app.supportbee.com/companies",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "company[signup_source]",
+        "id": "company_signup_source",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "company[name]",
+        "id": "company_name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "company[subdomain]",
+        "id": "company_subdomain",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "company[admins_attributes][0][name]",
+        "id": "company_admins_attributes_0_name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "company[admins_attributes][0][email]",
+        "id": "company_admins_attributes_0_email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "company[admins_attributes][0][password]",
+        "id": "company_admins_attributes_0_password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "company[terms_of_service_and_privacy_policy_accepted]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "company[terms_of_service_and_privacy_policy_accepted]",
+        "id": "company_terms_of_service_and_privacy_policy_accepted",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
