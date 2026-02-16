@@ -190648,5 +190648,215 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://login.tines.com/",
+    "action": "https://login.tines.com/saml_idp/google_oauth2",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://login.tines.com/",
+    "action": "https://login.tines.com/saml_idp/microsoft_graph",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://login.tines.com/",
+    "action": "https://login.tines.com/saml_idp/send_email",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email address",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "SAMLRequest",
+        "id": "SAMLRequest",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://login.tines.com/saml_idp/signup",
+    "action": "https://login.tines.com/saml_idp/new_signup/submit",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "preferred_tenant_region",
+        "id": "preferred_tenant_region",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SAMLRequest",
+        "id": "SAMLRequest",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "intended_path",
+        "id": "intended_path",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "privacy_policy_accepted",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "privacy_policy_accepted",
+        "id": "privacy_policy_accepted",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "marketing_consent",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "marketing_consent",
+        "id": "marketing_consent",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://login.tines.com/saml_idp/signup",
+    "action": "https://login.tines.com/saml_idp/new_signup/submit",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "provider",
+        "id": "provider",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "preferred_tenant_region",
+        "id": "preferred_tenant_region",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "intended_path",
+        "id": "intended_path",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://login.tines.com/saml_idp/signup",
+    "action": "https://login.tines.com/saml_idp/new_signup/submit",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "provider",
+        "id": "provider",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "preferred_tenant_region",
+        "id": "preferred_tenant_region",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "intended_path",
+        "id": "intended_path",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://login.tines.com/saml_idp/signup",
+    "action": "https://login.tines.com/self_hosted_tenant_signup",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "intended_path",
+        "id": "intended_path",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
