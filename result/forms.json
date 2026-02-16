@@ -188345,5 +188345,1468 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://moviecontentfilter.com",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://moviecontentfilter.com",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/help",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/browse",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/sign-up",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/sign-up",
+    "action": "https://www.moviecontentfilter.com/sign-up",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "e.g. jane@example.com",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password-1",
+        "id": "password-1",
+        "placeholder": "8 characters or more",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password-2",
+        "id": "password-2",
+        "placeholder": "8 characters or more",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "display-name",
+        "id": "display-name",
+        "placeholder": "e.g. Jane Doe",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/specification",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/privacy",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/contact",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/resend-confirmation",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/resend-confirmation",
+    "action": "https://www.moviecontentfilter.com/resend-confirmation",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "e.g. jane@example.com",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/forgot-password",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/forgot-password",
+    "action": "https://www.moviecontentfilter.com/forgot-password",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "e.g. jane@example.com",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/browse/movies",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/browse/series",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/add",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/specification?v=1.0.0",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/specification?v=1.1.0",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/add?primary-type=movie",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/hNxCHg",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/HtL8pK",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/Hjpc3r",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/H8PVyR",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/HcNN2",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/add?primary-type=series",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/mxbP6K",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/H78Q55",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/hCr3y6",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/Jd3vB",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/yhN4B",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/hNxCHg/download",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/hNxCHg/topics/h7Y-n",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/HtL8pK/download",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/HtL8pK/topics/h7Y-n",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/Hjpc3r/download",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/Hjpc3r/topics/h7Y-n",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/Hjpc3r/topics/RWs5j3",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/H8PVyR/download",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/H8PVyR/topics/h7Y-n",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/HcNN2/download",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/HcNN2/topics/RZZwhC",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/add?primary-type=series&secondary-type=episode&parent-work-id=mxbP6K",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/FzxZs",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/add?primary-type=series&secondary-type=episode&parent-work-id=H78Q55",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/H2LtJX",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/_hnmmw",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/R4h2K3",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/add?primary-type=series&secondary-type=episode&parent-work-id=hCr3y6",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/h9zmS-",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/works/hJcwb4",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.moviecontentfilter.com/add?primary-type=series&secondary-type=episode&parent-work-id=Jd3vB",
+    "action": "https://www.moviecontentfilter.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
   }
 ]
