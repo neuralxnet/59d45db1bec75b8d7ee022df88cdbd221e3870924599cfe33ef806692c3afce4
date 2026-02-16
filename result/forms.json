@@ -184070,5 +184070,40 @@
     "action": "https://sylaps.com/",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://staging.tuple.app",
+    "action": "https://staging.tuple.app/users/sign_in",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "user[email]",
+        "id": "user_email",
+        "placeholder": "you@example.com",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "user[password]",
+        "id": "user_password",
+        "placeholder": "Your password",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
