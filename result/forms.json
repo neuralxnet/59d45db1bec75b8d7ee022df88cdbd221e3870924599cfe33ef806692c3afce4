@@ -196098,5 +196098,96 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://iccweb.bankunited.com",
+    "action": "https://iccweb.bankunited.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__LASTFOCUS",
+        "id": "__LASTFOCUS",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEENCRYPTED",
+        "id": "__VIEWSTATEENCRYPTED",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "txtCustomerId",
+        "id": "txtCustomerId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "txtUserId",
+        "id": "txtUserId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "txtPassword",
+        "id": "txtPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "btnEnter",
+        "id": "btnEnter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "btnClear",
+        "id": "btnClear",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
