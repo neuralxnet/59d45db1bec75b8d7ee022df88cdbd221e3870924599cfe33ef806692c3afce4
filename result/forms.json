@@ -190858,5 +190858,222 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.twilio.com/login",
+    "action": "https://www.twilio.com/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email_input",
+        "id": "email",
+        "placeholder": "example@twilio.com",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.twilio.com/en-us/partner-solutions.1",
+    "action": "https://www.twilio.com/en-us/search-results.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "search-input",
+        "placeholder": "Search for pages that actually exist...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.twilio.com/try-twilio",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ulp-first-name",
+        "id": "first-name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "ulp-last-name",
+        "id": "last-name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "passwordPolicy.isFlexible",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "strengthPolicy",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "complexityOptions.minLength",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "captcha",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ulp-terms-of-service",
+        "id": "terms-of-service",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ulp-talon",
+        "id": "talon",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.twilio.com/try-twilio",
+    "action": "https://login.twilio.com/u/signup?state=hKFo2SBkQTFwajhfZXdTN3pfMlFmQWxZbmhLZk9ocVZnb0tKWaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGxMNEdBc1Y4cUpzNnRwY0Z2N3l2eldYYWkwXzF0RGd1o2NpZNkgTW05M1lTTDVSclpmNzdobUlKZFI3QktZYjZPOXV1cks",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.twilio.com/en-us/errors/404",
+    "action": "https://www.twilio.com/en-us/search-results.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "search-input",
+        "placeholder": "Search for pages that actually exist...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.twilio.com/fr-fr/errors/404",
+    "action": "https://www.twilio.com/en-us/search-results.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "search-input",
+        "placeholder": "Recherchez des pages qui existent vraiment…",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.twilio.com/de-de/errors/404",
+    "action": "https://www.twilio.com/en-us/search-results.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "search-input",
+        "placeholder": "Suchen Sie nach Seiten, die existieren ...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.twilio.com/ja-jp/errors/404",
+    "action": "https://www.twilio.com/en-us/search-results.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "search-input",
+        "placeholder": "実在するページを探しています…",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.twilio.com/pt-br/errors/404",
+    "action": "https://www.twilio.com/en-us/search-results.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "search-input",
+        "placeholder": "Pesquisar páginas que realmente existem...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.twilio.com/es-mx/errors/404",
+    "action": "https://www.twilio.com/en-us/search-results.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "search-input",
+        "placeholder": "Busca páginas que realmente existen…",
+        "required": false
+      }
+    ]
   }
 ]
