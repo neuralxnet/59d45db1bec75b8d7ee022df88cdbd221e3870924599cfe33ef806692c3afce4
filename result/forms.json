@@ -196189,5 +196189,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://login.coherehealth.com",
+    "action": "https://login.coherehealth.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "idp-discovery-username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "remember",
+        "id": "input33",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "idp-discovery-submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
