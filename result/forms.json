@@ -196364,5 +196364,54 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.joico.lat",
+    "action": "https://www.joico.lat/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "",
+        "placeholder": "Buscar...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.joico.lat",
+    "action": "https://www.joico.lat/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "",
+        "placeholder": "Buscar...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.joico.lat",
+    "action": "https://www.joico.lat/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "",
+        "placeholder": "Buscar...",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
