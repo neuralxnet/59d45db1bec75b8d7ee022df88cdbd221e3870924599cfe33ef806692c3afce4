@@ -196315,5 +196315,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.joico.com.br",
+    "action": "https://www.joico.com.br/busca",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "busca",
+        "id": "txtBuscaPrincipal",
+        "placeholder": "Digite aqui o que deseja buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.joico.com.br",
+    "action": "https://www.joico.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "objNews.Nome",
+        "id": "Nome",
+        "placeholder": "Nome",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "objNews.Email",
+        "id": "Email",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
   }
 ]
