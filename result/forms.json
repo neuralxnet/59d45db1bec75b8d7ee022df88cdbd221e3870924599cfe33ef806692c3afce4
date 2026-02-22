@@ -198237,5 +198237,47 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://enerbank.com",
+    "action": "https://www.regions.com/SearchResults",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchTerm",
+        "id": "search-input",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.enerbank.com",
+    "action": "https://www.regions.com/SearchResults",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchTerm",
+        "id": "search-input",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://enerbank.com",
+    "action": "https://www.regions.com/SearchResults",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchTerm",
+        "id": "search-input",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
   }
 ]
