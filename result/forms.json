@@ -198559,5 +198559,837 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://konghq.com",
+    "action": "https://konghq.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.konghq.com",
+    "action": "https://konghq.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://konghq.com",
+    "action": "https://konghq.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/",
+    "action": "https://konghq.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/contact-sales",
+    "action": "https://konghq.com/contact-sales",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://konghq.com/ai-connectivity",
+    "action": "https://konghq.com/ai-connectivity",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/ai-connectivity",
+    "action": "https://konghq.com/ai-connectivity",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://konghq.com/ai-connectivity",
+    "action": "https://konghq.com/ai-connectivity",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/products/kong-konnect",
+    "action": "https://konghq.com/products/kong-konnect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/products/kong-gateway",
+    "action": "https://konghq.com/products/kong-gateway",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/products/kong-insomnia",
+    "action": "https://konghq.com/products/kong-insomnia",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/products/kong-insomnia/api-design",
+    "action": "https://konghq.com/products/kong-insomnia/api-design",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/products/kong-insomnia/api-mocking",
+    "action": "https://konghq.com/products/kong-insomnia/api-mocking",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/products/kong-insomnia/api-testing-and-debugging",
+    "action": "https://konghq.com/products/kong-insomnia/api-testing-and-debugging",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/products/kong-insomnia/mcp-client",
+    "action": "https://konghq.com/products/kong-insomnia/mcp-client",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/products/kong-konnect/features/context-mesh",
+    "action": "https://konghq.com/products/kong-konnect/features/context-mesh",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/products/kong-ai-gateway",
+    "action": "https://konghq.com/products/kong-ai-gateway",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/legal/terms-of-use",
+    "action": "https://konghq.com/legal/terms-of-use",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/legal/privacy-policy",
+    "action": "https://konghq.com/legal/privacy-policy",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/compliance",
+    "action": "https://konghq.com/compliance",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/contact-sales#slide-rabobank",
+    "action": "https://konghq.com/contact-sales#slide-rabobank",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://konghq.com/contact-sales#slide-fab",
+    "action": "https://konghq.com/contact-sales#slide-fab",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://konghq.com/contact-sales#slide-cf",
+    "action": "https://konghq.com/contact-sales#slide-cf",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://konghq.com/contact-sales#slide-brittany-ferries",
+    "action": "https://konghq.com/contact-sales#slide-brittany-ferries",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "FirstName_1133",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "LastName_1133",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "Email_1133",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "Phone",
+        "id": "Phone_1133",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Title",
+        "id": "Title_1133",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Company",
+        "id": "Company_1133",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Country",
+        "id": "Country_1133",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select...",
+          "United States",
+          "Canada",
+          "Afghanistan",
+          "Akrotiri and Dhekelia",
+          "Albania",
+          "Algeria",
+          "Andorra",
+          "Angola",
+          "Argentina",
+          "Armenia",
+          "Australia",
+          "Austria",
+          "Azerbaijan",
+          "Bahrain",
+          "Bangladesh",
+          "Belarus",
+          "Belgium",
+          "Belize",
+          "Benin",
+          "Bhutan",
+          "Bolivia",
+          "Bosnia and Herzegovina",
+          "Botswana",
+          "Brazil",
+          "Brunei",
+          "Bulgaria",
+          "Burkina Faso",
+          "Burundi",
+          "Cambodia",
+          "Cameroon",
+          "Cape Verde",
+          "Central African Republic",
+          "Chad",
+          "Chile",
+          "China",
+          "Colombia",
+          "Comoros",
+          "Costa Rica",
+          "Croatia",
+          "Cuba",
+          "Cyprus",
+          "Czech Republic",
+          "Czechia",
+          "Democratic Republic of the Congo",
+          "Denmark",
+          "Djibouti",
+          "Dominican Republic",
+          "Ecuador",
+          "Egypt",
+          "El Salvador",
+          "Equatorial Guinea",
+          "Eritrea",
+          "Estonia",
+          "Eswatini",
+          "Ethiopia",
+          "Finland",
+          "France",
+          "French Guiana",
+          "Gabon",
+          "Georgia",
+          "Germany",
+          "Ghana",
+          "Greece",
+          "Guadeloupe",
+          "Guatemala",
+          "Guinea",
+          "Guinea-Bissau",
+          "Guyana",
+          "Haiti",
+          "Honduras",
+          "Hungary",
+          "Iceland",
+          "India",
+          "Indonesia",
+          "Iran",
+          "Iraq",
+          "Ireland",
+          "Israel",
+          "Italy",
+          "Ivory Coast",
+          "Japan",
+          "Jordan",
+          "Kazakhstan",
+          "Kenya",
+          "Kosovo",
+          "Kuwait",
+          "Kyrgyzstan",
+          "Laos",
+          "Latvia",
+          "Lebanon",
+          "Lesotho",
+          "Liberia",
+          "Libya",
+          "Liechtenstein",
+          "Lithuania",
+          "Luxembourg",
+          "Madagascar",
+          "Malawi",
+          "Malaysia",
+          "Maldives",
+          "Mali",
+          "Malta",
+          "Martinique",
+          "Mauritania",
+          "Mauritius",
+          "Mexico",
+          "Moldova",
+          "Monaco",
+          "Mongolia",
+          "Montenegro",
+          "Morocco",
+          "Mozambique",
+          "Myanmar",
+          "Namibia",
+          "Nepal",
+          "Netherlands",
+          "New Zealand",
+          "Nicaragua",
+          "Niger",
+          "Nigeria",
+          "North Korea",
+          "North Macedonia",
+          "Norway",
+          "Oman",
+          "Pakistan",
+          "Palestine",
+          "Panama",
+          "Paraguay",
+          "Peru",
+          "Philippines",
+          "Poland",
+          "Portugal",
+          "Puerto Rico",
+          "Qatar",
+          "Republic of the Congo",
+          "Romania",
+          "Russia",
+          "Rwanda",
+          "Saint-Barthélemy",
+          "Saint-Martin",
+          "San Marino",
+          "Sao Tome and Principe",
+          "Saudi Arabia",
+          "Senegal",
+          "Serbia",
+          "Seychelles",
+          "Sierra Leone",
+          "Singapore",
+          "Slovakia",
+          "Slovenia",
+          "Somalia",
+          "South Africa",
+          "South America",
+          "South Korea",
+          "South Sudan",
+          "Spain",
+          "Sri Lanka",
+          "Sudan",
+          "Suriname",
+          "Sweden",
+          "Switzerland",
+          "Syria",
+          "Taiwan",
+          "Tajikistan",
+          "Tanzania",
+          "Thailand",
+          "The Gambia",
+          "Timor-Leste",
+          "Togo",
+          "Tunisia",
+          "Turkey",
+          "Turkmenistan",
+          "Uganda",
+          "Ukraine",
+          "United Arab Emirates",
+          "United Kingdom",
+          "Uruguay",
+          "Uzbekistan",
+          "Vatican City",
+          "Venezuela",
+          "Vietnam",
+          "Yemen",
+          "Zambia",
+          "Zimbabwe"
+        ]
+      },
+      {
+        "type": "textarea",
+        "name": "How_can_we_help_you__c",
+        "id": "How_can_we_help_you__c_1133",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utm_source",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utm_medium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utm_campaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utm_term",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utm_content",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gCLID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmconversionurl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Session_Referrer_Latest__c",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "mostRecentFormName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Session_Landing_Page_Latest__c",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "honeypot",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Form_Transaction_ID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "VWO_UUID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "InferredCountry",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "formid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "munchkinId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/contact-sales#slide-brittany-ferries",
+    "action": "https://konghq.com/contact-sales#slide-brittany-ferries",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://konghq.com/products/kong-konnect/features/gateway-manager",
+    "action": "https://konghq.com/products/kong-konnect/features/gateway-manager",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/products/kong-konnect/features/dedicated-cloud-gateways",
+    "action": "https://konghq.com/products/kong-konnect/features/dedicated-cloud-gateways",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/products/kong-konnect/features/mesh-manager",
+    "action": "https://konghq.com/products/kong-konnect/features/mesh-manager",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/products/kong-konnect/features/developer-portal",
+    "action": "https://konghq.com/products/kong-konnect/features/developer-portal",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/products/kong-konnect/features/advanced-analytics",
+    "action": "https://konghq.com/products/kong-konnect/features/advanced-analytics",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/products/kong-konnect/features/api-service-catalog",
+    "action": "https://konghq.com/products/kong-konnect/features/api-service-catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/products/kong-konnect/features/api-observability",
+    "action": "https://konghq.com/products/kong-konnect/features/api-observability",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/products",
+    "action": "https://konghq.com/products",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/events/user-calls/controlling-your-kong-gateway-with-deck-and-ci-cd",
+    "action": "https://konghq.com/events/user-calls/controlling-your-kong-gateway-with-deck-and-ci-cd",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/wp-content/uploads/2023/04/kong-enterprise-service-description.pdf",
+    "action": "https://konghq.com/wp-content/uploads/2023/04/kong-enterprise-service-description.pdf",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/wp-content/uploads/2023/04/kong-mesh-service-description.pdf",
+    "action": "https://konghq.com/wp-content/uploads/2023/04/kong-mesh-service-description.pdf",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/wp-content/uploads/2023/04/insomnia-service-description.pdf",
+    "action": "https://konghq.com/wp-content/uploads/2023/04/insomnia-service-description.pdf",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://konghq.com/events",
+    "action": "https://konghq.com/events",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
   }
 ]
