@@ -198531,5 +198531,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com",
+    "action": "https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/clusters",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "store_developer_location",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "developer-email",
+        "placeholder": "Enter your email address",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
