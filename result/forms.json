@@ -199391,5 +199391,61 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "http://backtoschool25.ru",
+    "action": "https://brandlink.ru/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formservices[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tildaspec-formname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "input_1495810359387",
+        "placeholder": "Ваше имя",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "Phone",
+        "id": "input_1495810410810",
+        "placeholder": "+1(999)999-9999",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "input_1691395139381",
+        "placeholder": "Ваш e-mail",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Input",
+        "id": "input_1684768070570",
+        "placeholder": "Компания",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Checkbox",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
