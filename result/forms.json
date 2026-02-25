@@ -199515,5 +199515,54 @@
     "action": "https://login.microsoftonline.com/0bb5c534-5234-4f04-aae4-828e00611352/oauth2/authorize?client_id=00000007-0000-0000-c000-000000000000&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DMAAAABW-6z4BaRHxjHkAIkgG4dtKNkuY2KsQ0qiy-nasCbwOIQ9H3rsLyKlyr-tHxCiwhAEAAAABAAAACS5yZWRpcmVjdDZodHRwczovL29wZXJhdGlvbnMtdGhvcm50b250b21hc2V0dGkuY3JtLmR5bmFtaWNzLmNvbS8%26ReplyUrl%3DMAAAABW%252b6z4BaRHxjHkAIkgG4du1zZ2QdFoRLiX8ak%252f8JiAo9eV%252fuJuCk25FPgQDQ%252bKf9Wh0dHBzOi8vYm4xLS1uYW1jcm1saXZlc2c2MjUuY3JtLmR5bmFtaWNzLmNvbS8%253d%26RedirectTo%3DMAAAABW%252b6z4BaRHxjHkAIkgG4duiUs8tgWM%252b5EmMCx7LCvpf8cc%252b%252fgN8F%252fETm8pORJoE5mh0dHBzOi8vb3BlcmF0aW9ucy10aG9ybnRvbnRvbWFzZXR0aS5jcm0uZHluYW1pY3MuY29tLw%253d%253d%26RedirectToForMcas%3Dhttps%253a%252f%252foperations-thorntontomasetti.crm.dynamics.com%252f&response_mode=form_post&nonce=639075835243460834.ZjRiNzYwZjAtOGJjYy00MDIyLWI2OTQtMmZkZDViODVhNzgzODBkZTQ3NTMtNDZhNS00MjBiLWI5MWYtMGNkOTY4NjJhNzll&redirect_uri=https%3A%2F%2Fbn1--namcrmlivesg625.crm.dynamics.com%2F&max_age=86400&claims=%7B%22id_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=ID_NET472&x-client-ver=8.14.0.0&sso_reload=true",
     "method": "post",
     "fields": []
+  },
+  {
+    "url": "https://ember.thorntontomasetti.com",
+    "action": "https://ember.thorntontomasetti.com/users/auth/saml",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ember.thorntontomasetti.com",
+    "action": "https://ember.thorntontomasetti.com/users/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "user[upn]",
+        "id": "user_upn",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user[password]",
+        "id": "user_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
