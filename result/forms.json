@@ -199613,5 +199613,91 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://core.thorntontomasetti.com",
+    "action": "https://www.thorntontomasetti.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search Here",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://core.thorntontomasetti.com",
+    "action": "https://www.thorntontomasetti.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "",
+        "placeholder": "Search Here",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://core.thorntontomasetti.com",
+    "action": "https://www.thorntontomasetti.com/core-studio",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select an option",
+          "#paragraph-789",
+          "#paragraph-1498",
+          "#paragraph-1500",
+          "#paragraph-1502",
+          "#paragraph-1503",
+          "#paragraph-6535"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://core.thorntontomasetti.com",
+    "action": "https://thorntontomasetti.us14.list-manage.com/subscribe/post?u=78b4eebd0f447ce98a1cf5ffe&id=c71ccbad7c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "EMAIL",
+        "id": "",
+        "placeholder": "Email Address",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "b_78b4eebd0f447ce98a1cf5ffe_c71ccbad7c",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://core.thorntontomasetti.com",
+    "action": "https://www.thorntontomasetti.com/core-studio",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Enter a keyword to search",
+        "required": false
+      }
+    ]
   }
 ]
