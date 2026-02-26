@@ -199699,5 +199699,61 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://vdp.kahootz.com",
+    "action": "https://help.kahootz.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search Help",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://vdp.kahootz.com",
+    "action": "https://vdp.kahootz.com/system/login?login=Y",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "CSRFtoken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "nextURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "userEmail",
+        "id": "userEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "rememberme",
+        "id": "rememberme",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
