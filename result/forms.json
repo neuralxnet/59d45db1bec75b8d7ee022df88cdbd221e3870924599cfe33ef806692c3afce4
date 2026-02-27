@@ -199761,5 +199761,111 @@
     "action": "https://login.microsoftonline.us/0090f64e-3277-4bb7-b4cc-0f4882b14f42/saml2?SAMLRequest=lZJRa4MwFIX%2FiuRdjTFVG6rg2ocVOlaq28NeRtTYBjRxubHs50%2FbjXUvhcF9Cffw3XvOzQp43w0sH%2B1JHcTHKMA6n32ngF0aKRqNYpqDBKZ4L4DZmhX5044RD7PBaKtr3SEnBxDGSq3WWsHYC1MIc5a1eDnsUnSydgDm%2B%2BdBefakjbJ6qp6DsFZ6IzBKQ3%2BGEuwXez9fF8jZTItIxWfkL6DTR6m8XtZGg24nSieVmAA%2BxkvcRlS4IYljl1ZV7Fa0rl3c0iQhVUBbSvzZEEHOdpOi9wVpeBVz3LSENzxJkoBwGokWh4vlUkT1JAMYxVaB5cqmiGASuZi4JCpJwMKIBfgNOftv%2Fw9SNVId74dVXUXAHsty7%2B6fixI5r8LAxeEkQNlq3pBdBpubI9zH8p%2FkUfa%2FnFf%2Bzbjs%2Bvr7EbIv&RelayState=JOoCAOZmaGllMzQwM2NmYy1hZTJhLTRmZmMtYTQwNy1mMTg5NmJjYzk0NzAw&sso_reload=true",
     "method": "post",
     "fields": []
+  },
+  {
+    "url": "https://www.inzpire.com",
+    "action": "https://www.inzpire.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "search",
+        "placeholder": "Search...",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.inzpire.com",
+    "action": "https://www.inzpire.com/!/forms/contact",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "name",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "job_role",
+        "id": "job_role",
+        "placeholder": " ",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "company",
+        "placeholder": " ",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "phone",
+        "placeholder": " ",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "enquiry_type",
+        "id": "enquiry_type",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Please select...",
+          "enquiries",
+          "careers",
+          "press",
+          "vulnerability-disclosure",
+          "other"
+        ]
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "cf-turnstile-response",
+        "id": "cf-chl-widget-5xvbi_response",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "fax",
+        "id": "fax",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "terms",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
   }
 ]
