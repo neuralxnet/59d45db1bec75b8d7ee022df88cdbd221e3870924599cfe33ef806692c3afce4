@@ -199867,5 +199867,106 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://snowdev.thorntontomasetti.com",
+    "action": "https://snowdev.thorntontomasetti.com/login.do",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "sysparm_ck",
+        "id": "sysparm_ck",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "user_name",
+        "id": "user_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user_password",
+        "id": "user_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "language_select",
+        "id": "language_select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "en"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "ni.nolog.user_password",
+        "id": "ni.nolog.user_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ni.noecho.user_name",
+        "id": "ni.noecho.user_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ni.noecho.user_password",
+        "id": "ni.noecho.user_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "screensize",
+        "id": "screensize",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "sys_action",
+        "id": "sys_action",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "sysparm_login_url",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://snowdev.thorntontomasetti.com",
+    "action": "https://snowdev.thorntontomasetti.com/slushbucket.do",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "sysparm_referring_url",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "sysparm_view",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
