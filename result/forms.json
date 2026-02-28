@@ -200178,5 +200178,250 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://license.pspc.harris.com/LicenseServer/management.asmx?op=CreateInstallationCodes",
+    "action": "https://license.pspc.harris.com/LicenseServer/management.asmx/CreateInstallationCodes",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "ApplicationName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Count",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://license.pspc.harris.com/LicenseServer/management.asmx?op=CreateNewApplication",
+    "action": "https://license.pspc.harris.com/LicenseServer/management.asmx/CreateNewApplication",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "ApplicationName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Description",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "warningcount",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "blockcount",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "demoexpiration",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://license.pspc.harris.com/LicenseServer/management.asmx?op=CreateNewApplication2",
+    "action": "https://license.pspc.harris.com/LicenseServer/management.asmx/CreateNewApplication2",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "ApplicationName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Description",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "warningcount",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "blockcount",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "demoexpiration",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "subscriptionexpirationdays",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "defaultcomaparealgorithm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://license.pspc.harris.com/LicenseServer/management.asmx?op=DevUtilities",
+    "action": "https://license.pspc.harris.com/LicenseServer/management.asmx/DevUtilities",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "op",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://license.pspc.harris.com/LicenseServer/management.asmx?op=Diagnostics",
+    "action": "https://license.pspc.harris.com/LicenseServer/management.asmx/Diagnostics",
+    "method": "post",
+    "fields": [
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://license.pspc.harris.com/LicenseServer/management.asmx?op=GetActivePlugins",
+    "action": "https://license.pspc.harris.com/LicenseServer/management.asmx/GetActivePlugins",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "appname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://license.pspc.harris.com/LicenseServer/management.asmx?op=GetApplicationInfo",
+    "action": "https://license.pspc.harris.com/LicenseServer/management.asmx/GetApplicationInfo",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "ApplicationName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://license.pspc.harris.com/LicenseServer/management.asmx?op=GetApplicationList",
+    "action": "https://license.pspc.harris.com/LicenseServer/management.asmx/GetApplicationList",
+    "method": "post",
+    "fields": [
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
