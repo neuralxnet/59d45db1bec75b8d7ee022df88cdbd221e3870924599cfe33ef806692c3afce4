@@ -200498,5 +200498,19 @@
     "action": "https://login.microsoftonline.com/0bb5c534-5234-4f04-aae4-828e00611352/oauth2/authorize?client_id=00000015-0000-0000-c000-000000000000&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DAQAAANCMnd8BFdERjHoAwE_Cl-sBAAAAYFoPL08Vj0yKOtQuLdaTegAAAAACAAAAAAAQZgAAAAEAACAAAAAj6IQRhaX_6QO8nBV9j3b-DzmbrmZA9st19A-OyiCf9AAAAAAOgAAAAAIAACAAAACj-uj1AoMsq_GNiTqWDZLhnfM5oRv7mx1wdOt53dTu5lAAAAA77WVQNhlubQnb-bVYRPhoo_SNY7xLE32ExOKuD_eWR_aORJJOtN7DXUIoQhuOjjlRnRlNkznMs2cTQTOlpOCDlYzKNOLFgE0vjeCHZTSitEAAAAAod_jCEodQtLdczokhannOvxu5qcWqJydsuBU-JpBCEUjNI3WYVVlO2QcPt_jMuDHdS1iPGFA_bCJg2MFgqFpr%26RedirectTo%3Dhttps%253A%252F%252Fthorntontomasetti.operations.dynamics.com%252F&response_mode=form_post&nonce=639079006907702795.OTZkOGYwMWMtOGE1MS00ZGZjLTllZTEtNGUzZThlNTUwOTIyYTQ4NDIzMTctZGYwYi00ZmI0LWI0ODUtNzcxMjcyNmY5OWZi&redirect_uri=https%3A%2F%2Fthorntontomasetti.operations.dynamics.com%2F&max_age=86400&x-client-SKU=ID_NET472&x-client-ver=8.3.0.0&sso_reload=true",
     "method": "post",
     "fields": []
+  },
+  {
+    "url": "https://portal.l3harris.com",
+    "action": "https://portal.l3harris.com/my.policy",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "choice",
+        "id": "my_result",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
