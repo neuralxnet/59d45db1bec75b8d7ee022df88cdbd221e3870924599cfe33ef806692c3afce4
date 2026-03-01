@@ -200587,5 +200587,89 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://supplychain.l3harris.com",
+    "action": "https://supplychain.l3harris.com/Account/Login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__LASTFOCUS",
+        "id": "__LASTFOCUS",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ctl00$MainContent$txtUsername",
+        "id": "ctl00_MainContent_txtUsername",
+        "placeholder": "username",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "ctl00$MainContent$txtPassword",
+        "id": "ctl00_MainContent_txtPassword",
+        "placeholder": "password",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$MainContent$PasswordLoginButton",
+        "id": "ctl00_MainContent_PasswordLoginButton",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$MainContent$ctl00",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ctl00$MainContent$RememberAuthTypeCheckbox",
+        "id": "ctl00_MainContent_RememberAuthTypeCheckbox",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
