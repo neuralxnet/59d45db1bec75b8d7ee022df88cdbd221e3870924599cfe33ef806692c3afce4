@@ -200671,5 +200671,26 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://support.l3t.com",
+    "action": "https://support.l3t.com/check_access_key",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "access_key_pretty",
+        "id": "access_key_pretty",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "access_key_submit",
+        "id": "access_key_submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
