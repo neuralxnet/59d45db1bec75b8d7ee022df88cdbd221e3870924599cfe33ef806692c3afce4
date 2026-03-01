@@ -200538,5 +200538,54 @@
     "action": "https://login.microsoftonline.com/0bb5c534-5234-4f04-aae4-828e00611352/saml2?SAMLRequest=pVJLj9sgEP4rFnfbQGzHRXGkNFHVSNuttcn20BvB4wTJBpfB2fbf1yFZ7UPqXiohDvDNfI%2BZBcq%2B44NYjf5kHuDXCOij331nUFx%2FKjI6I6xEjcLIHlB4JXarb3eCJ1QMznqrbEeiFSI4r61ZW4NjD24H7qwVPD7cVeTk%2FYAiTdF24wWDCowHl%2FiTdcbb6fQSwXudKNunRp4HeYSksSTaTHq0kZeilzadPWqT9Fo5i7ad6jttIJTSwyFX%2BSyLcz5dWUuzWErI4pKXQGnB2CznaTBGoi%2FWKQi%2BK9LKDoFE201FdvdrJrNGzptW0la2Km9YWfCyLBg0xbyYUzYBsZaI%2BgwvpYgjbA16aXxFOOVFTGcxZXtWitknwVhCOf9JovqW2GdtGm2OH8d7uIJQfN3v67j%2BvtuHBmfdgLuf0P%2BT7A9wGFKdiMhyEUIRwYV7vQAfC5TPUyfLZyXev9eC102IjX26qFikr7luzIO4%2BNluattp9SdadZ19WjuQfvLo3QhhXL30%2F5bDEhZedBO3ASpGgwMo3WpoSLq80b5d9eVf&RelayState=https%3A%2F%2Fsolutionscenter.thorntontomasetti.com%2Fnavpage.do&sso_reload=true",
     "method": "post",
     "fields": []
+  },
+  {
+    "url": "https://staging-ember.thorntontomasetti.com",
+    "action": "https://staging-ember.thorntontomasetti.com/users/auth/saml",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://staging-ember.thorntontomasetti.com",
+    "action": "https://staging-ember.thorntontomasetti.com/users/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "user[upn]",
+        "id": "user_upn",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user[password]",
+        "id": "user_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
