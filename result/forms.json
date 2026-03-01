@@ -200512,5 +200512,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://portal.partner.l3harris.com",
+    "action": "https://portal.partner.l3harris.com/my.policy",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "choice",
+        "id": "my_result",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
