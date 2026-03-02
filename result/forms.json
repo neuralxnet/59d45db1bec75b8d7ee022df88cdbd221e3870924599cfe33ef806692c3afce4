@@ -200727,5 +200727,117 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://tcpremier.l3harris.com",
+    "action": "https://tcpremier.l3harris.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "timeout",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tcpremier.l3harris.com",
+    "action": "https://tcpremier.l3harris.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "timeout",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tcpremier.l3harris.com",
+    "action": "https://tcpremier.l3harris.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "timeout",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tcpremier.l3harris.com",
+    "action": "https://tcpremier.l3harris.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "timeout",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tcpremier.l3harris.com",
+    "action": "https://tcpremier.l3harris.com/index.php",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "modlgn-username-16",
+        "placeholder": "Email Address",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "modlgn-passwd-16",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "emailkey",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "option",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "task",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "return",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "f977c641148850acefd9200496c40a39",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
