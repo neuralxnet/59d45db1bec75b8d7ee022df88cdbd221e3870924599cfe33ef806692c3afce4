@@ -205149,5 +205149,82 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://vpn-uk-1.thorntontomasetti.com",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "prot",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "server",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "inputStr",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "csrf-token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "user",
+        "id": "user",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "passwd",
+        "id": "passwd",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "new-passwd",
+        "id": "new_passwd",
+        "placeholder": "New Password",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "confirm-new-passwd",
+        "id": "confirm_new_passwd",
+        "placeholder": "confirm New Password",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ok",
+        "id": "submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
