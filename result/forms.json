@@ -205002,5 +205002,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://track-iver.net/Login",
+    "action": "https://track-iver.net/Login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "Input.LocalTimeOffsetMinutes",
+        "id": "Input_LocalTimeOffsetMinutes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Input.LoginName",
+        "id": "Input_LoginName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Input.Password",
+        "id": "Input_Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
