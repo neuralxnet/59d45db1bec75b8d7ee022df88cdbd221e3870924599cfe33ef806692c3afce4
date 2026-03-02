@@ -205037,5 +205037,54 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://training.l3harris.com",
+    "action": "https://training.l3harris.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "RegistrationGuid",
+        "id": "RegistrationGuid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "RememberMe",
+        "id": "RememberMe",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "RememberMe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
