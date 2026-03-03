@@ -205317,5 +205317,131 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://www.pspcpartnerportal.com",
+    "action": "https://www.pspcpartnerportal.com/Login.aspx",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ctl00_ScriptManager1_TSM",
+        "id": "ctl00_ScriptManager1_TSM",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__SCROLLPOSITIONX",
+        "id": "__SCROLLPOSITIONX",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__SCROLLPOSITIONY",
+        "id": "__SCROLLPOSITIONY",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00_ctl07_ClientState",
+        "id": "ctl00_ctl07_ClientState",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentPlaceHolderBody$hfUserName",
+        "id": "ctl00_ContentPlaceHolderBody_hfUserName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentPlaceHolderBody$hfTokenVerificationInProgress",
+        "id": "ctl00_ContentPlaceHolderBody_hfTokenVerificationInProgress",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentPlaceHolderBody$hfVendorId",
+        "id": "ctl00_ContentPlaceHolderBody_hfVendorId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ctl00$ContentPlaceHolderBody$cmlLogin$UserName",
+        "id": "UserName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "ctl00$ContentPlaceHolderBody$cmlLogin$Password",
+        "id": "ctl00_ContentPlaceHolderBody_cmlLogin_Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00_ContentPlaceHolderBody_cmlLogin_LoginButton2_ClientState",
+        "id": "ctl00_ContentPlaceHolderBody_cmlLogin_LoginButton2_ClientState",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentPlaceHolderBody$hfSelectedVendorMultiUserLogin",
+        "id": "ctl00_ContentPlaceHolderBody_hfSelectedVendorMultiUserLogin",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00_ContentPlaceHolderBody_ddlSelectVendorUser_ClientState",
+        "id": "ctl00_ContentPlaceHolderBody_ddlSelectVendorUser_ClientState",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "rwCookieMessage_ClientState",
+        "id": "rwCookieMessage_ClientState",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
