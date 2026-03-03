@@ -205303,5 +205303,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.prolinx.co.uk",
+    "action": "https://www.prolinx.co.uk/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search",
+        "required": true
+      }
+    ]
   }
 ]
