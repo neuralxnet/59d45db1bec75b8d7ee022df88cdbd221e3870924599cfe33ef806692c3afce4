@@ -205849,5 +205849,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.eatnatural.com",
+    "action": "https://www.eatnatural.com/uk/en/search/content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "keys",
+        "id": "edit-keys",
+        "placeholder": "Search...",
+        "required": false
+      }
+    ]
   }
 ]
