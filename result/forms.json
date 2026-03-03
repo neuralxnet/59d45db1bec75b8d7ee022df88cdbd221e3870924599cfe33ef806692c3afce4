@@ -205471,5 +205471,383 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://kinderkarnawal.pl",
+    "action": "https://kinderkarnawal.pl/pl/pl/xp/kinderkarnawal/kontakt",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "contact[name]",
+        "id": "contact_name",
+        "placeholder": "Imię",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "contact_email",
+        "placeholder": "Adres e-mail",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "contact[subject]",
+        "id": "contact_subject",
+        "placeholder": "Temat wiadomości",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "contact[content]",
+        "id": "contact_content",
+        "placeholder": "Wiadomość",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "contact[rule1]",
+        "id": "contact_rule1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "contact[g-recaptcha-response]",
+        "id": "contact_g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[_idempotency_key]",
+        "id": "contact__idempotency_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[_token]",
+        "id": "contact__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kinderkarnawal.pl/pl/pl/xp/kinderkarnawal/#zasady",
+    "action": "https://kinderkarnawal.pl/pl/pl/xp/kinderkarnawal/kontakt",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "contact[name]",
+        "id": "contact_name",
+        "placeholder": "Imię",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "contact_email",
+        "placeholder": "Adres e-mail",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "contact[subject]",
+        "id": "contact_subject",
+        "placeholder": "Temat wiadomości",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "contact[content]",
+        "id": "contact_content",
+        "placeholder": "Wiadomość",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "contact[rule1]",
+        "id": "contact_rule1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "contact[g-recaptcha-response]",
+        "id": "contact_g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[_idempotency_key]",
+        "id": "contact__idempotency_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[_token]",
+        "id": "contact__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kinderkarnawal.pl/pl/pl/xp/kinderkarnawal/#produkty",
+    "action": "https://kinderkarnawal.pl/pl/pl/xp/kinderkarnawal/kontakt",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "contact[name]",
+        "id": "contact_name",
+        "placeholder": "Imię",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "contact_email",
+        "placeholder": "Adres e-mail",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "contact[subject]",
+        "id": "contact_subject",
+        "placeholder": "Temat wiadomości",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "contact[content]",
+        "id": "contact_content",
+        "placeholder": "Wiadomość",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "contact[rule1]",
+        "id": "contact_rule1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "contact[g-recaptcha-response]",
+        "id": "contact_g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[_idempotency_key]",
+        "id": "contact__idempotency_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[_token]",
+        "id": "contact__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kinderkarnawal.pl/pl/pl/xp/kinderkarnawal/#kreator-piniaty",
+    "action": "https://kinderkarnawal.pl/pl/pl/xp/kinderkarnawal/kontakt",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "contact[name]",
+        "id": "contact_name",
+        "placeholder": "Imię",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "contact_email",
+        "placeholder": "Adres e-mail",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "contact[subject]",
+        "id": "contact_subject",
+        "placeholder": "Temat wiadomości",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "contact[content]",
+        "id": "contact_content",
+        "placeholder": "Wiadomość",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "contact[rule1]",
+        "id": "contact_rule1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "contact[g-recaptcha-response]",
+        "id": "contact_g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[_idempotency_key]",
+        "id": "contact__idempotency_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[_token]",
+        "id": "contact__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kinderkarnawal.pl/pl/pl/xp/kinderkarnawal/#kontakt",
+    "action": "https://kinderkarnawal.pl/pl/pl/xp/kinderkarnawal/kontakt",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "contact[name]",
+        "id": "contact_name",
+        "placeholder": "Imię",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "contact_email",
+        "placeholder": "Adres e-mail",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "contact[subject]",
+        "id": "contact_subject",
+        "placeholder": "Temat wiadomości",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "contact[content]",
+        "id": "contact_content",
+        "placeholder": "Wiadomość",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "contact[rule1]",
+        "id": "contact_rule1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "contact[g-recaptcha-response]",
+        "id": "contact_g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[_idempotency_key]",
+        "id": "contact__idempotency_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[_token]",
+        "id": "contact__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kinderkarnawal.pl/pl/pl/xp/kinderkarnawal/#wez-udzial",
+    "action": "https://kinderkarnawal.pl/pl/pl/xp/kinderkarnawal/kontakt",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "contact[name]",
+        "id": "contact_name",
+        "placeholder": "Imię",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "contact_email",
+        "placeholder": "Adres e-mail",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "contact[subject]",
+        "id": "contact_subject",
+        "placeholder": "Temat wiadomości",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "contact[content]",
+        "id": "contact_content",
+        "placeholder": "Wiadomość",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "contact[rule1]",
+        "id": "contact_rule1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "contact[g-recaptcha-response]",
+        "id": "contact_g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[_idempotency_key]",
+        "id": "contact__idempotency_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[_token]",
+        "id": "contact__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
