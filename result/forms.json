@@ -205863,5 +205863,61 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://goldenexperience.ferrero-campaigns.com",
+    "action": "https://goldenexperience.ferrero-campaigns.com/bg/bg/xp/goldenexperience/login/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "Имейл",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Парола",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://goldenexperience.ferrero-campaigns.com",
+    "action": "https://goldenexperience.ferrero-campaigns.com/bg/bg/xp/goldenexperience/reset-password/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "id": "",
+        "placeholder": "Телефон",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Имейл",
+        "required": false
+      }
+    ]
   }
 ]
