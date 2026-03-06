@@ -206031,5 +206031,313 @@
         ]
       }
     ]
+  },
+  {
+    "url": "https://nutella.ru/get-inspired/recipes",
+    "action": "https://nutella.ru/get-inspired/recipes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "filter-cat-difficulty",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "difficulty",
+        "id": "reset_difficulty",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "difficulty",
+        "id": "difficulty_20",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "difficulty",
+        "id": "difficulty_22",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "difficulty",
+        "id": "difficulty_21",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "filter-cat-preparation_time",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "preparation_time",
+        "id": "reset_preparation_time",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "preparation_time",
+        "id": "preparation_time_14",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "preparation_time",
+        "id": "preparation_time_15",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "preparation_time",
+        "id": "preparation_time_16",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nutella.ru/get-inspired/recipes",
+    "action": "https://www.nutella.ru/get-inspired/recipes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "filter-cat-difficulty",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "difficulty",
+        "id": "reset_difficulty",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "difficulty",
+        "id": "difficulty_20",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "difficulty",
+        "id": "difficulty_22",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "difficulty",
+        "id": "difficulty_21",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "filter-cat-preparation_time",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "preparation_time",
+        "id": "reset_preparation_time",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "preparation_time",
+        "id": "preparation_time_14",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "preparation_time",
+        "id": "preparation_time_15",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "preparation_time",
+        "id": "preparation_time_16",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nutella.ru/get-inspired/recipes#main-content",
+    "action": "https://nutella.ru/get-inspired/recipes#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "filter-cat-difficulty",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "difficulty",
+        "id": "reset_difficulty",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "difficulty",
+        "id": "difficulty_20",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "difficulty",
+        "id": "difficulty_22",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "difficulty",
+        "id": "difficulty_21",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "filter-cat-preparation_time",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "preparation_time",
+        "id": "reset_preparation_time",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "preparation_time",
+        "id": "preparation_time_14",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "preparation_time",
+        "id": "preparation_time_15",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "preparation_time",
+        "id": "preparation_time_16",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nutella.ru/get-inspired/recipes#main-content",
+    "action": "https://www.nutella.ru/get-inspired/recipes#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "filter-cat-difficulty",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "difficulty",
+        "id": "reset_difficulty",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "difficulty",
+        "id": "difficulty_20",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "difficulty",
+        "id": "difficulty_22",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "difficulty",
+        "id": "difficulty_21",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "filter-cat-preparation_time",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "preparation_time",
+        "id": "reset_preparation_time",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "preparation_time",
+        "id": "preparation_time_14",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "preparation_time",
+        "id": "preparation_time_15",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "preparation_time",
+        "id": "preparation_time_16",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
