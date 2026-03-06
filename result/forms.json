@@ -206339,5 +206339,570 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://nutellapancake2026.nutella.com",
+    "action": "https://nutellapancake2026.nutella.com/pl/pl/xp/nutelladodajeusmiechu2026/api/application",
+    "method": "post",
+    "fields": [
+      {
+        "type": "file",
+        "name": "personal_data[files][paragon]",
+        "id": "personal_data_files_paragon",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "personal_data[billDate]",
+        "id": "personal_data_billDate",
+        "placeholder": "Data zakupu",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "personal_data[billNr]",
+        "id": "personal_data_billNr",
+        "placeholder": "Numer dowodu zakupu",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "personal_data[product]",
+        "id": "personal_data_product",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Nazwa zakupionego produktu",
+          "NUTELLA 230 G",
+          "NUTELLA 350 G",
+          "NUTELLA 600 G",
+          "NUTELLA 750 G",
+          "NUTELLA 825 G"
+        ]
+      },
+      {
+        "type": "email",
+        "name": "personal_data[email]",
+        "id": "personal_data_email",
+        "placeholder": "Twój adres e-mail",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "personal_data[emailRepeat]",
+        "id": "personal_data_emailRepeat",
+        "placeholder": "Potwierdź adres e-mail",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[selectAll]",
+        "id": "personal_data_selectAll",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule1]",
+        "id": "personal_data_rule1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule2]",
+        "id": "personal_data_rule2",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule3]",
+        "id": "personal_data_rule3",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule4]",
+        "id": "personal_data_rule4",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "personal_data[g-recaptcha-response]",
+        "id": "personal_data_g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "personal_data[_idempotency_key]",
+        "id": "personal_data__idempotency_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "personal_data[_token]",
+        "id": "personal_data__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nutellapancake2026.nutella.com/pl/pl/xp/nutelladodajeusmiechu2026/#",
+    "action": "https://nutellapancake2026.nutella.com/pl/pl/xp/nutelladodajeusmiechu2026/api/application",
+    "method": "post",
+    "fields": [
+      {
+        "type": "file",
+        "name": "personal_data[files][paragon]",
+        "id": "personal_data_files_paragon",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "personal_data[billDate]",
+        "id": "personal_data_billDate",
+        "placeholder": "Data zakupu",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "personal_data[billNr]",
+        "id": "personal_data_billNr",
+        "placeholder": "Numer dowodu zakupu",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "personal_data[product]",
+        "id": "personal_data_product",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Nazwa zakupionego produktu",
+          "NUTELLA 230 G",
+          "NUTELLA 350 G",
+          "NUTELLA 600 G",
+          "NUTELLA 750 G",
+          "NUTELLA 825 G"
+        ]
+      },
+      {
+        "type": "email",
+        "name": "personal_data[email]",
+        "id": "personal_data_email",
+        "placeholder": "Twój adres e-mail",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "personal_data[emailRepeat]",
+        "id": "personal_data_emailRepeat",
+        "placeholder": "Potwierdź adres e-mail",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[selectAll]",
+        "id": "personal_data_selectAll",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule1]",
+        "id": "personal_data_rule1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule2]",
+        "id": "personal_data_rule2",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule3]",
+        "id": "personal_data_rule3",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule4]",
+        "id": "personal_data_rule4",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "personal_data[g-recaptcha-response]",
+        "id": "personal_data_g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "personal_data[_idempotency_key]",
+        "id": "personal_data__idempotency_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "personal_data[_token]",
+        "id": "personal_data__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nutellapancake2026.nutella.com/pl/pl/xp/nutelladodajeusmiechu2026/#wez-udzial",
+    "action": "https://nutellapancake2026.nutella.com/pl/pl/xp/nutelladodajeusmiechu2026/api/application",
+    "method": "post",
+    "fields": [
+      {
+        "type": "file",
+        "name": "personal_data[files][paragon]",
+        "id": "personal_data_files_paragon",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "personal_data[billDate]",
+        "id": "personal_data_billDate",
+        "placeholder": "Data zakupu",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "personal_data[billNr]",
+        "id": "personal_data_billNr",
+        "placeholder": "Numer dowodu zakupu",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "personal_data[product]",
+        "id": "personal_data_product",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Nazwa zakupionego produktu",
+          "NUTELLA 230 G",
+          "NUTELLA 350 G",
+          "NUTELLA 600 G",
+          "NUTELLA 750 G",
+          "NUTELLA 825 G"
+        ]
+      },
+      {
+        "type": "email",
+        "name": "personal_data[email]",
+        "id": "personal_data_email",
+        "placeholder": "Twój adres e-mail",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "personal_data[emailRepeat]",
+        "id": "personal_data_emailRepeat",
+        "placeholder": "Potwierdź adres e-mail",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[selectAll]",
+        "id": "personal_data_selectAll",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule1]",
+        "id": "personal_data_rule1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule2]",
+        "id": "personal_data_rule2",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule3]",
+        "id": "personal_data_rule3",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule4]",
+        "id": "personal_data_rule4",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "personal_data[g-recaptcha-response]",
+        "id": "personal_data_g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "personal_data[_idempotency_key]",
+        "id": "personal_data__idempotency_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "personal_data[_token]",
+        "id": "personal_data__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nutellapancake2026.nutella.com/pl/pl/xp/nutelladodajeusmiechu2026/#nagrody",
+    "action": "https://nutellapancake2026.nutella.com/pl/pl/xp/nutelladodajeusmiechu2026/api/application",
+    "method": "post",
+    "fields": [
+      {
+        "type": "file",
+        "name": "personal_data[files][paragon]",
+        "id": "personal_data_files_paragon",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "personal_data[billDate]",
+        "id": "personal_data_billDate",
+        "placeholder": "Data zakupu",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "personal_data[billNr]",
+        "id": "personal_data_billNr",
+        "placeholder": "Numer dowodu zakupu",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "personal_data[product]",
+        "id": "personal_data_product",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Nazwa zakupionego produktu",
+          "NUTELLA 230 G",
+          "NUTELLA 350 G",
+          "NUTELLA 600 G",
+          "NUTELLA 750 G",
+          "NUTELLA 825 G"
+        ]
+      },
+      {
+        "type": "email",
+        "name": "personal_data[email]",
+        "id": "personal_data_email",
+        "placeholder": "Twój adres e-mail",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "personal_data[emailRepeat]",
+        "id": "personal_data_emailRepeat",
+        "placeholder": "Potwierdź adres e-mail",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[selectAll]",
+        "id": "personal_data_selectAll",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule1]",
+        "id": "personal_data_rule1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule2]",
+        "id": "personal_data_rule2",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule3]",
+        "id": "personal_data_rule3",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule4]",
+        "id": "personal_data_rule4",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "personal_data[g-recaptcha-response]",
+        "id": "personal_data_g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "personal_data[_idempotency_key]",
+        "id": "personal_data__idempotency_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "personal_data[_token]",
+        "id": "personal_data__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nutellapancake2026.nutella.com/pl/pl/xp/nutelladodajeusmiechu2026/",
+    "action": "https://nutellapancake2026.nutella.com/pl/pl/xp/nutelladodajeusmiechu2026/api/application",
+    "method": "post",
+    "fields": [
+      {
+        "type": "file",
+        "name": "personal_data[files][paragon]",
+        "id": "personal_data_files_paragon",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "personal_data[billDate]",
+        "id": "personal_data_billDate",
+        "placeholder": "Data zakupu",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "personal_data[billNr]",
+        "id": "personal_data_billNr",
+        "placeholder": "Numer dowodu zakupu",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "personal_data[product]",
+        "id": "personal_data_product",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Nazwa zakupionego produktu",
+          "NUTELLA 230 G",
+          "NUTELLA 350 G",
+          "NUTELLA 600 G",
+          "NUTELLA 750 G",
+          "NUTELLA 825 G"
+        ]
+      },
+      {
+        "type": "email",
+        "name": "personal_data[email]",
+        "id": "personal_data_email",
+        "placeholder": "Twój adres e-mail",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "personal_data[emailRepeat]",
+        "id": "personal_data_emailRepeat",
+        "placeholder": "Potwierdź adres e-mail",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[selectAll]",
+        "id": "personal_data_selectAll",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule1]",
+        "id": "personal_data_rule1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule2]",
+        "id": "personal_data_rule2",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule3]",
+        "id": "personal_data_rule3",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "personal_data[rule4]",
+        "id": "personal_data_rule4",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "personal_data[g-recaptcha-response]",
+        "id": "personal_data_g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "personal_data[_idempotency_key]",
+        "id": "personal_data__idempotency_key",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "personal_data[_token]",
+        "id": "personal_data__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
