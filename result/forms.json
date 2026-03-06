@@ -205919,5 +205919,117 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.nutella.com/us/en/get-inspired/recipes",
+    "action": "https://www.nutella.com/us/en/get-inspired/recipes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "difficulty",
+        "id": "filter_difficulty_select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Difficulty",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "preparation_time",
+        "id": "filter_preparation_time_select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Preparation time",
+          "111",
+          "110",
+          "114",
+          "113",
+          "115",
+          "112"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "recipe_type",
+        "id": "filter_recipe_type_select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Category",
+          "125",
+          "127",
+          "116",
+          "124",
+          "440",
+          "120",
+          "128",
+          "123",
+          "438",
+          "126"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.nutella.com/us/en/get-inspired/recipes#main-content",
+    "action": "https://www.nutella.com/us/en/get-inspired/recipes#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "difficulty",
+        "id": "filter_difficulty_select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Difficulty",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "preparation_time",
+        "id": "filter_preparation_time_select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Preparation time",
+          "111",
+          "110",
+          "114",
+          "113",
+          "115",
+          "112"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "recipe_type",
+        "id": "filter_recipe_type_select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Category",
+          "125",
+          "127",
+          "116",
+          "124",
+          "440",
+          "120",
+          "128",
+          "123",
+          "438",
+          "126"
+        ]
+      }
+    ]
   }
 ]
