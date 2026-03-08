@@ -206904,5 +206904,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://raffaello.bg",
+    "action": "https://raffaello.bg/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "имейл",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "парола",
+        "required": false
+      }
+    ]
   }
 ]
