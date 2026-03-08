@@ -206967,5 +206967,131 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://tictacznajdzswojsmak.com",
+    "action": "https://www.tictac.com/pl/pl/xp/znajdzswojsmak2025/kontakt",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "contact[name]",
+        "id": "contact_name",
+        "placeholder": "Imię i nazwisko",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "contact_email",
+        "placeholder": "E-mail",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "contact[content]",
+        "id": "contact_content",
+        "placeholder": "Treść wiadomości:",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "contact[rule1]",
+        "id": "contact_rule1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "contact[_token]",
+        "id": "contact__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tictacznajdzswojsmak.com",
+    "action": "https://www.tictac.com/pl/pl/xp/znajdzswojsmak2025/kontakt",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "contact[name]",
+        "id": "contact_name",
+        "placeholder": "Imię i nazwisko",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "contact_email",
+        "placeholder": "E-mail",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "contact[content]",
+        "id": "contact_content",
+        "placeholder": "Treść wiadomości:",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "contact[rule1]",
+        "id": "contact_rule1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "contact[_token]",
+        "id": "contact__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://tictacznajdzswojsmak.com",
+    "action": "https://www.tictac.com/pl/pl/xp/znajdzswojsmak2025/kontakt",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "contact[name]",
+        "id": "contact_name",
+        "placeholder": "Imię i nazwisko",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "contact_email",
+        "placeholder": "E-mail",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "contact[content]",
+        "id": "contact_content",
+        "placeholder": "Treść wiadomości:",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "contact[rule1]",
+        "id": "contact_rule1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "contact[_token]",
+        "id": "contact__token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
