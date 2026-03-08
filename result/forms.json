@@ -206932,5 +206932,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://srv-plesk16.ps.kz",
+    "action": "https://srv-plesk16.ps.kz/login_up.php",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "login_name",
+        "id": "login_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "passwd",
+        "id": "passwd",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "locale_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
