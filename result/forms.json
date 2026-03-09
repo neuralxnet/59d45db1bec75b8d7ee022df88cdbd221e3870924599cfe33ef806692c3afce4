@@ -207226,5 +207226,89 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.blask.ferrerorocher.pl",
+    "action": "https://www.blask.ferrerorocher.pl/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "frmki:message",
+        "placeholder": "Napisz, jeśli masz pytania...",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "frmki:fullname",
+        "placeholder": "Imię i nazwisko",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmki:email",
+        "placeholder": "Adres e-mail",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "grecaptcha-action",
+        "id": "frmki:grecaptcha-action",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "grecaptcha-token",
+        "id": "frmki:grecaptcha-token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.blask.ferrerorocher.pl/#!lr=kontakt",
+    "action": "https://www.blask.ferrerorocher.pl/#!lr=kontakt",
+    "method": "get",
+    "fields": [
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "frmki:message",
+        "placeholder": "Napisz, jeśli masz pytania...",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "frmki:fullname",
+        "placeholder": "Imię i nazwisko",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmki:email",
+        "placeholder": "Adres e-mail",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "grecaptcha-action",
+        "id": "frmki:grecaptcha-action",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "grecaptcha-token",
+        "id": "frmki:grecaptcha-token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
