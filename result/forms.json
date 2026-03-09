@@ -207310,5 +207310,102 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.ferrero-kuesschen.de",
+    "action": "https://www.ferrero-kuesschen.de/newsletter/pruefen",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "salutation",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "keine Angabe",
+          "Frau",
+          "Herr",
+          "Neutral"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "forename",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "dob",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "cep_allowAll",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "cep_emailMarketingConsent",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "cep_postalDeliveryConsent",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "cep_personalAdConsent",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "cep_dataMatchingConsent",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "general",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
