@@ -207093,5 +207093,138 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www-nutella-frozen-at-2026.ferreropromo.com",
+    "action": "https://www-nutella-frozen-at-2026.ferreropromo.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "field_vorname[0][value]",
+        "id": "edit-field-vorname-0-value",
+        "placeholder": "vorname",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "form_build_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "field_nachname[0][value]",
+        "id": "edit-field-nachname-0-value",
+        "placeholder": "nachname",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "field_strasse_hausnummer[0][value]",
+        "id": "edit-field-strasse-hausnummer-0-value",
+        "placeholder": "strasse/hausnummer",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "field_plz_ort[0][value]",
+        "id": "edit-field-plz-ort-0-value",
+        "placeholder": "plz/ort",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email[0][value]",
+        "id": "edit-email-0-value",
+        "placeholder": "E-Mail",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "field_telefonnummer[0][value]",
+        "id": "edit-field-telefonnummer-0-value",
+        "placeholder": "Telefonnummer",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "field_optin_1[value]",
+        "id": "edit-field-optin-1-value",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "field_optin_2[value]",
+        "id": "edit-field-optin-2-value",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "field_optin_3[value]",
+        "id": "edit-field-optin-3-value",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "field_optin_4[value]",
+        "id": "edit-field-optin-4-value",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "field_optin_5[value]",
+        "id": "edit-field-optin-5-value",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_sid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_response",
+        "id": "recaptcha-v3-token",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_recaptcha_v3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "op",
+        "id": "edit-submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
