@@ -207553,5 +207553,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://auth.signin-connexion.canada.ca",
+    "action": "https://auth.signin-connexion.canada.ca/idaas/mtfim/sps/idaas/login?runtime=true",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "user-name-input",
+        "placeholder": "User name",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password-input",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "operation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "error_redirect_support",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
