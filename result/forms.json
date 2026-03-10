@@ -207407,5 +207407,95 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.ferrero-pralinen-gewinnspiel.de",
+    "action": "https://www.ferrero.com/de/de/standorte",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "global-presence",
+        "id": "ferrero-world-countries",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "",
+          "Argentina ",
+          "Australia",
+          "Austria ",
+          "Belgium",
+          "Brazil",
+          "Bulgaria",
+          "Cameroon",
+          "Canada ",
+          "Chile",
+          "China",
+          "China, Hong Kong SAR",
+          "Colombia",
+          "Croatia",
+          "Czechia",
+          "Denmark",
+          "Ecuador",
+          "Estonia",
+          "Finland",
+          "France",
+          "Georgia",
+          "Germany",
+          "Greece",
+          "Hungary",
+          "India",
+          "Ireland",
+          "Israel",
+          "Italy",
+          "Japan",
+          "Kazakhstan",
+          "Korea, Republic of",
+          "Kuwait",
+          "Latvia",
+          "Lithuania",
+          "Luxembourg",
+          "Mexico",
+          "Monaco",
+          "Morocco",
+          "Netherlands",
+          "New Zealand",
+          "Norway",
+          "Poland",
+          "Portugal",
+          "Puerto Rico ",
+          "Romania",
+          "Russian Federation",
+          "Saudi Arabia",
+          "Serbia",
+          "Singapore",
+          "Slovakia",
+          "South Africa ",
+          "Spain",
+          "Sri Lanka",
+          "Sweden",
+          "Switzerland",
+          "Türkiye",
+          "Ukraine",
+          "United Arab Emirates",
+          "United Kingdom",
+          "United States of America"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.ferrero-pralinen-gewinnspiel.de",
+    "action": "https://www.ferrero.com/de/de/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "searchQuery",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
