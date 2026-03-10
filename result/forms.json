@@ -207539,5 +207539,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://articles.alpha.canada.ca",
+    "action": "https://articles.alpha.canada.ca/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "wb-srch-q",
+        "placeholder": "Search GC Articles ",
+        "required": false
+      }
+    ]
   }
 ]
