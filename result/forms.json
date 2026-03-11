@@ -207588,5 +207588,103 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.pysznastronazimy.pl",
+    "action": "https://www.pysznastronazimy.pl/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "file",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "answer",
+        "placeholder": "Maksymalnie 500 znaków",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "phone",
+        "placeholder": "+48 000-000-000",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "email",
+        "placeholder": "adres@email.com",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "nr-paragonu",
+        "placeholder": "wpisz numer paragonu lub faktury imiennej",
+        "required": false
+      },
+      {
+        "type": "date",
+        "name": "",
+        "id": "receipt-date",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "consent1",
+        "id": "consent1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "consent2",
+        "id": "consent2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "consent3",
+        "id": "consent3",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pysznastronazimy.pl",
+    "action": "https://www.pysznastronazimy.pl/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Temat wiadomości",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Adres e-mail",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "",
+        "placeholder": "Treść wiadomości",
+        "required": false
+      }
+    ]
   }
 ]
