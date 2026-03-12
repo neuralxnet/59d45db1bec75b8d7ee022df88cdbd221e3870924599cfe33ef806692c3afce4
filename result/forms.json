@@ -208609,5 +208609,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.eatnatural-promo.de",
+    "action": "https://www.eatnatural.com/de/de/search/content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "keys",
+        "id": "edit-keys",
+        "placeholder": "Suche...",
+        "required": false
+      }
+    ]
   }
 ]
