@@ -209007,5 +209007,267 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://chatspot.ai",
+    "action": "https://www.hubspot.com/products/artificial-intelligence/breeze-ai-assistant?hs_from=chatspot",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search HubSpot",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chatspot.ai",
+    "action": "https://www.hubspot.com/products/artificial-intelligence/breeze-ai-assistant?hs_from=chatspot",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search HubSpot",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chatspot.ai",
+    "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/53/e09dfcf0-e395-4d2d-88c3-e58f3f244dce",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "firstname-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastname",
+        "id": "lastname-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "id": "phone-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "website",
+        "id": "website-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "employees__c",
+        "id": "employees__c-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          " ",
+          "1",
+          "2 to 5",
+          "6 to 10",
+          "11 to 25",
+          "26 to 50",
+          "51 to 100",
+          "101 to 200",
+          "201 to 500",
+          "501 or more"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "content_language",
+        "id": "content_language-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gaclientid",
+        "id": "gaclientid-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gauserid",
+        "id": "gauserid-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gatrackid",
+        "id": "gatrackid-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hs_context",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://chatspot.ai",
+    "action": "https://www.hubspot.com/products/artificial-intelligence/breeze-ai-assistant?hs_from=chatspot",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search HubSpot",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://chatspot.ai",
+    "action": "https://www.hubspot.com/products/artificial-intelligence/breeze-ai-assistant?hs_from=chatspot",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search HubSpot",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://chatspot.ai",
+    "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/53/e09dfcf0-e395-4d2d-88c3-e58f3f244dce",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "firstname-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastname",
+        "id": "lastname-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "id": "phone-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "website",
+        "id": "website-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "employees__c",
+        "id": "employees__c-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          " ",
+          "1",
+          "2 to 5",
+          "6 to 10",
+          "11 to 25",
+          "26 to 50",
+          "51 to 100",
+          "101 to 200",
+          "201 to 500",
+          "501 or more"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "content_language",
+        "id": "content_language-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gaclientid",
+        "id": "gaclientid-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gauserid",
+        "id": "gauserid-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gatrackid",
+        "id": "gatrackid-e09dfcf0-e395-4d2d-88c3-e58f3f244dce_3700",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hs_context",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
