@@ -208951,5 +208951,61 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://dust.tt",
+    "action": "https://dust.tt/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "What's your work email?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.dust.tt",
+    "action": "https://dust.tt/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "What's your work email?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://dust.tt",
+    "action": "https://dust.tt/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "What's your work email?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dust.tt/home",
+    "action": "https://dust.tt/home",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "What's your work email?",
+        "required": false
+      }
+    ]
   }
 ]
