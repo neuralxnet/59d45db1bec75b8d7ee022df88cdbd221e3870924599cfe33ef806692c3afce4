@@ -210508,5 +210508,726 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/legal/terms",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/legal/state-terms",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/legal/privacy",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/help/house-rules",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/categories/13873482336909-Legal",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/sections/13873512862349-Terms-of-Use",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/legal/terms#",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/articles/13873581701773-Terms-of-Use",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/articles/40914371384077-Terms-of-Use-US",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/sections/13873512930061-State-Terms",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/legal/state-terms#",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/articles/40930629093005-Market-Entity-Access-Jurisdiction-Specific-Terms-US",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/articles/13873581518093-Jurisdiction-Specific-Terms-CA",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/sections/13873512864909-Privacy-Policy",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/legal/privacy#",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/articles/40928619545485-Privacy-Policy-US",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/articles/13873610388621-Privacy-Policy",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/categories/13873482319117-How-to-Bet",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/sections/13873512891533-theScore-Bet-Rules",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/help/house-rules#",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/articles/41417473226765-House-Rules-Missouri",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/articles/41417301585549-House-Rules-West-Virginia",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/categories/13873482325645-Accounts",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/categories/13873482334733-Responsible-Gaming-Help-and-Resources",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/categories/13873511631501-FAQ",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/categories/13873511652109-Contact-Us",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/articles/41200421968269-Registration-of-an-Employee-of-a-Sports-Governing-Body-or-Member-Team",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/hc/en-us/sections/13873512862349-Terms-of-Use#",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://thescore.bet/rg",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sportsbook.thescore.bet/help/rg",
+    "action": "https://sportsbook.thescore.bet/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "category",
+        "id": "category",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
   }
 ]
