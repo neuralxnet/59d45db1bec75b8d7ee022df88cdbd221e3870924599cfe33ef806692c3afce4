@@ -211369,5 +211369,313 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://bumba.global",
+    "action": "https://bumba.global/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "«R2p9av5nb»-form-item",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.bumba.global",
+    "action": "https://bumba.global/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "«R2p9av5nb»-form-item",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://bumba.global",
+    "action": "https://bumba.global/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "«R2p9av5nb»-form-item",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bumba.global/",
+    "action": "https://bumba.global/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "«R2p9av5nb»-form-item",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bumba.global/investor",
+    "action": "https://bumba.global/en/investor",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "«R2p9av5nb»-form-item",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bumba.global/institutional",
+    "action": "https://bumba.global/en/institutional",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "«R2p9av5nb»-form-item",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bumba.global/learn",
+    "action": "https://bumba.global/en/learn",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "«R2p9av5nb»-form-item",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bumba.global/market",
+    "action": "https://bumba.global/en/market",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "«R2p9av5nb»-form-item",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bumba.global/promotions",
+    "action": "https://bumba.global/en/promotions",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "«R2p9av5nb»-form-item",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bumba.global/exchange",
+    "action": "https://bumba.global/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "«R2p9av5nb»-form-item",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bumba.global/about",
+    "action": "https://bumba.global/en/about",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "«R2p9av5nb»-form-item",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bumba.global/login",
+    "action": "https://bumba.global/en/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "«Rbdnnav5nb»-form-item",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "«Rjdnnav5nb»-form-item",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bumba.global/signup",
+    "action": "https://bumba.global/en/signup",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "«Rbtnnav5nb»-form-item",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "«Rjtnnav5nb»-form-item",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "confirmPassword",
+        "id": "«Rrtnnav5nb»-form-item",
+        "placeholder": "Confirm Password",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bumba.global/en/signup",
+    "action": "https://bumba.global/en/signup",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "«Rbtnnav5nb»-form-item",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "«Rjtnnav5nb»-form-item",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "confirmPassword",
+        "id": "«Rrtnnav5nb»-form-item",
+        "placeholder": "Confirm Password",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bumba.global/forgot-password",
+    "action": "https://bumba.global/en/forgot-password",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "«R2tnnav5nb»-form-item",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bumba.global/en/login",
+    "action": "https://bumba.global/en/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "«Rbdnnav5nb»-form-item",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "«Rjdnnav5nb»-form-item",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bumba.global/terms-of-use",
+    "action": "https://bumba.global/en/terms-of-use",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "«R2p9av5nb»-form-item",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bumba.global/privacy-policy",
+    "action": "https://bumba.global/en/privacy-policy",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "«R2p9av5nb»-form-item",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
   }
 ]
