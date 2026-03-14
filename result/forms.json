@@ -211229,5 +211229,145 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://thescoreesports.com",
+    "action": "https://www.thescoreesports.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "message",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thescoreesports.com",
+    "action": "https://www.thescoreesports.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "message",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://thescoreesports.com",
+    "action": "https://www.thescoreesports.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "message",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.thescoreesports.com/",
+    "action": "https://www.thescoreesports.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "message",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
