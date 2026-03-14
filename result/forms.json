@@ -210179,5 +210179,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.diabrowser.com/skills",
+    "action": "https://www.diabrowser.com/skills",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
   }
 ]
