@@ -209353,5 +209353,831 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/19335160678679-Arc-Max-Boost-Your-Browsing-with-AI",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/20272860828823-Arc-Sync",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/19335160678679-Arc-Max-Boost-Your-Browsing-with-AI#main-content",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search the Arc Help Center...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/19335160678679-Arc-Max-Boost-Your-Browsing-with-AI#whatisarcmax",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/19335160678679-Arc-Max-Boost-Your-Browsing-with-AI#arcmaxfeatures",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/19335160678679-Arc-Max-Boost-Your-Browsing-with-AI#5secondpreviews",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/19335160678679-Arc-Max-Boost-Your-Browsing-with-AI#tidytabtitles",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/19335160678679-Arc-Max-Boost-Your-Browsing-with-AI#tidydownloads",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/19335160678679-Arc-Max-Boost-Your-Browsing-with-AI#chatgptinthecommandbar",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/19335160678679-Arc-Max-Boost-Your-Browsing-with-AI#instants",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/20272860828823-Arc-Sync#main-content",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/20272860828823-Arc-Sync#macos",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/20272860828823-Arc-Sync#windows",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/20272860828823-Arc-Sync#arcsearchforiosandroid",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/20272860828823-Arc-Sync#whatdoesntsync",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/20272860828823-Arc-Sync#anoteonicloudbasedsync",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/20272860828823-Arc-Sync#troubleshooting",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/20272860828823-Arc-Sync#technicaldetails",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/sections/19211879642391-Devices",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/20498293324823-Arc-for-macOS-2024-Release-Notes",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us#main-content",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us#main-content",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search the Arc Help Center...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/categories/19211797395223-Getting-Started",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/categories/16435255982103-Features",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/categories/18272429678231-Troubleshooting",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/requests/new",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/sections/19211879642391-Devices#main-content",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://resources.arc.net/hc/en-us/articles/25947478613783-Is-Arc-Search-available-on-Android",
+    "action": "https://resources.arc.net/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search all articles...",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
