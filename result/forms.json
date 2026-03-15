@@ -214069,5 +214069,971 @@
         ]
       }
     ]
+  },
+  {
+    "url": "https://datavenues.com/valoraciones-inmobiliarias/",
+    "action": "https://datavenues.com/blog/valoraciones-inmobiliarias/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_7_1_3",
+        "placeholder": "Nombre y apellidos",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "input_3",
+        "id": "input_7_3",
+        "placeholder": "Correo",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "input_4.1",
+        "id": "input_7_4_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "input_4.2",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "input_4.3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_6",
+        "id": "input_7_6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_7",
+        "id": "input_7_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_8",
+        "id": "input_7_8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_7",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_currency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state_7",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_7",
+        "id": "gform_target_page_number_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_7",
+        "id": "gform_source_page_number_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ak_hp_textarea",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://datavenues.com/blog/",
+    "action": "https://datavenues.com/blog/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_7_1_3",
+        "placeholder": "Nombre y apellidos",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "input_3",
+        "id": "input_7_3",
+        "placeholder": "Correo",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "input_4.1",
+        "id": "input_7_4_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "input_4.2",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "input_4.3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_6",
+        "id": "input_7_6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_7",
+        "id": "input_7_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_8",
+        "id": "input_7_8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_7",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_currency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state_7",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_7",
+        "id": "gform_target_page_number_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_7",
+        "id": "gform_source_page_number_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ak_hp_textarea",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://datavenues.com/blog/valoraciones-inmobiliarias/#content",
+    "action": "https://datavenues.com/blog/valoraciones-inmobiliarias/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_7_1_3",
+        "placeholder": "Nombre y apellidos",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "input_3",
+        "id": "input_7_3",
+        "placeholder": "Correo",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "input_4.1",
+        "id": "input_7_4_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "input_4.2",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "input_4.3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_6",
+        "id": "input_7_6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_7",
+        "id": "input_7_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_8",
+        "id": "input_7_8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_7",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_currency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state_7",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_7",
+        "id": "gform_target_page_number_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_7",
+        "id": "gform_source_page_number_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ak_hp_textarea",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://datavenues.com/blog/valoraciones-inmobiliarias/#",
+    "action": "https://datavenues.com/blog/valoraciones-inmobiliarias/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_7_1_3",
+        "placeholder": "Nombre y apellidos",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "input_3",
+        "id": "input_7_3",
+        "placeholder": "Correo",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "input_4.1",
+        "id": "input_7_4_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "input_4.2",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "input_4.3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_6",
+        "id": "input_7_6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_7",
+        "id": "input_7_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_8",
+        "id": "input_7_8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_7",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_currency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state_7",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_7",
+        "id": "gform_target_page_number_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_7",
+        "id": "gform_source_page_number_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ak_hp_textarea",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://datavenues.com/blog/#content",
+    "action": "https://datavenues.com/blog/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_7_1_3",
+        "placeholder": "Nombre y apellidos",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "input_3",
+        "id": "input_7_3",
+        "placeholder": "Correo",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "input_4.1",
+        "id": "input_7_4_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "input_4.2",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "input_4.3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_6",
+        "id": "input_7_6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_7",
+        "id": "input_7_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_8",
+        "id": "input_7_8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_7",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_currency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state_7",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_7",
+        "id": "gform_target_page_number_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_7",
+        "id": "gform_source_page_number_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ak_hp_textarea",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://datavenues.com/blog/#",
+    "action": "https://datavenues.com/blog/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "input_1.3",
+        "id": "input_7_1_3",
+        "placeholder": "Nombre y apellidos",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "input_3",
+        "id": "input_7_3",
+        "placeholder": "Correo",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "input_4.1",
+        "id": "input_7_4_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "input_4.2",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "input_4.3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_6",
+        "id": "input_7_6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_7",
+        "id": "input_7_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_8",
+        "id": "input_7_8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_7",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_currency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state_7",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_7",
+        "id": "gform_target_page_number_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_7",
+        "id": "gform_source_page_number_7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ak_hp_textarea",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ak_js",
+        "id": "ak_js_1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
