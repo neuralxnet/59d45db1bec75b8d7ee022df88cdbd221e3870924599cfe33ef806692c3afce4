@@ -212405,5 +212405,677 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://2ememain.be",
+    "action": "https://www.2ememain.be/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Code postal",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2ememain.be",
+    "action": "https://www.2ememain.be/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Code postal",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://2ememain.be",
+    "action": "https://www.2ememain.be/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Code postal",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2ememain.be/",
+    "action": "https://www.2ememain.be/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Code postal",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2ememain.be/#main-container",
+    "action": "https://www.2ememain.be/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Code postal",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2ememain.be/#footer-container",
+    "action": "https://www.2ememain.be/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Code postal",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://aide.2ememain.be/",
+    "action": "https://aide.2ememain.be/s/?language=fr",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Entrez votre question ou sujet ici",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://aide.2ememain.be/s/topic/0TO5I000000TYqZWAW/conditions",
+    "action": "https://aide.2ememain.be/s/topic/0TO5I000000TYqZWAW/voorwaarden?language=fr",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Entrez votre question ou sujet ici",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2ememain.be/i/securite/",
+    "action": "https://www.2ememain.be/i/centre-de-securite/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Rédiger une question ou un message...",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "iChatInputPasswordField",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "iChatInputLargeField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://aide.2ememain.be/s/?language=fr#",
+    "action": "https://aide.2ememain.be/s/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Entrez votre question ou sujet ici",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://aide.2ememain.be/s/?nocache=https%3A%2F%2Faide.2ememain.be%2Fs%2F%3Flanguage%3Dfr",
+    "action": "https://aide.2ememain.be/s/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Entrez votre question ou sujet ici",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://aide.2ememain.be/s/topic/0TO5I000000TYqZWAW/voorwaarden?language=fr#",
+    "action": "https://aide.2ememain.be/s/topic/0TO5I000000TYqZWAW/voorwaarden?language=fr#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Entrez votre question ou sujet ici",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://aide.2ememain.be/s/topic/0TO5I000000TYqZWAW/voorwaarden?nocache=https%3A%2F%2Faide.2ememain.be%2Fs%2Ftopic%2F0TO5I000000TYqZWAW%2Fvoorwaarden%3Flanguage%3Dfr",
+    "action": "https://aide.2ememain.be/s/topic/0TO5I000000TYqZWAW/voorwaarden?language=fr",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Entrez votre question ou sujet ici",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://aide.2ememain.be/HelpContentList?tab=X2ememain_be&cate=Conditions_generales",
+    "action": "https://aide.2ememain.be/s/article/i-conditions-generales?language=fr",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "150:0",
+        "placeholder": "Entrez votre question ou sujet ici",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2ememain.be/i/securite",
+    "action": "https://www.2ememain.be/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Code postal",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2ememain.be/link/open/i/fraude-whatsapp/",
+    "action": "https://www.2ememain.be/i/fraude-whatsapp/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Rédiger une question ou un message...",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "iChatInputPasswordField",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "iChatInputLargeField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2ememain.be/link/open/i/payer-envoyer/",
+    "action": "https://www.2ememain.be/i/payer-envoyer/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Rédiger une question ou un message...",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "iChatInputPasswordField",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "iChatInputLargeField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2ememain.be/link/homepagina",
+    "action": "https://www.2ememain.be/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Code postal",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2ememain.be/identity/v2/reset-password",
+    "action": "https://www.2ememain.be/identity/v2/reset-password",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "TextField-adresseEMail",
+        "id": "TextField-adresseEMail",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://aide.2ememain.be/s/#",
+    "action": "https://aide.2ememain.be/s/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Entrez votre question ou sujet ici",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://aide.2ememain.be/s/?nocache=https%3A%2F%2Faide.2ememain.be%2Fs%2F%3Flanguage%3Dfr%23",
+    "action": "https://aide.2ememain.be/s/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Entrez votre question ou sujet ici",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://aide.2ememain.be/s/topic/0TO5I000000TYqZWAW/voorwaarden?nocache=https%3A%2F%2Faide.2ememain.be%2Fs%2Ftopic%2F0TO5I000000TYqZWAW%2Fvoorwaarden%3Flanguage%3Dfr%23",
+    "action": "https://aide.2ememain.be/s/topic/0TO5I000000TYqZWAW/voorwaarden?language=fr",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Entrez votre question ou sujet ici",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://aide.2ememain.be/s/article/i-conditions-generales?language=fr#",
+    "action": "https://aide.2ememain.be/s/article/i-conditions-generales?language=fr#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "150:0",
+        "placeholder": "Entrez votre question ou sujet ici",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://aide.2ememain.be/s/article/i-conditions-generales?nocache=https%3A%2F%2Faide.2ememain.be%2Fs%2Farticle%2Fi-conditions-generales%3Flanguage%3Dfr",
+    "action": "https://aide.2ememain.be/s/article/i-conditions-generales?language=fr",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "150:0",
+        "placeholder": "Entrez votre question ou sujet ici",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://aide.2ememain.be/s/article/demande-de-paiement-avec-bancontact-via-2ememain",
+    "action": "https://aide.2ememain.be/s/article/demande-de-paiement-avec-bancontact-via-2ememain",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "150:0",
+        "placeholder": "Entrez votre question ou sujet ici",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2ememain.be/i/fraude-whatsapp/",
+    "action": "https://www.2ememain.be/i/fraude-whatsapp/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Rédiger une question ou un message...",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "iChatInputPasswordField",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "iChatInputLargeField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://aide.2ememain.be/s/article/quest-ce-que-le-phishing",
+    "action": "https://aide.2ememain.be/s/article/quest-ce-que-le-phishing",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "150:0",
+        "placeholder": "Entrez votre question ou sujet ici",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://aide.2ememain.be/s/article/exemples-de-phishing",
+    "action": "https://aide.2ememain.be/s/article/exemples-de-phishing",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "150:0",
+        "placeholder": "Entrez votre question ou sujet ici",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2ememain.be/link/open/i/demande-de-paiement/",
+    "action": "https://www.2ememain.be/i/demande-de-paiement/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Rédiger une question ou un message...",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "iChatInputPasswordField",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "iChatInputLargeField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2ememain.be/link/open/i/envoyer/",
+    "action": "https://www.2ememain.be/i/envoyer/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Rédiger une question ou un message...",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "iChatInputPasswordField",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "iChatInputLargeField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
