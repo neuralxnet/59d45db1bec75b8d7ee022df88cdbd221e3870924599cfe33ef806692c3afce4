@@ -228529,5 +228529,586 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://pro.motos.net/",
+    "action": "https://pro.motos.net/login.aspx",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "Email del usuario",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "Contraseña",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "_ctl0:ContentPlaceHolder1:ctrl_login:btnVO",
+        "id": "_ctl0_ContentPlaceHolder1_ctrl_login_btnVO",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:ContentPlaceHolder1:ctrl_login:fp1",
+        "id": "_ctl0_ContentPlaceHolder1_ctrl_login_fp1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:ContentPlaceHolder1:ctrl_login:fp2",
+        "id": "_ctl0_ContentPlaceHolder1_ctrl_login_fp2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:ContentPlaceHolder1:ctrl_login:numFails",
+        "id": "_ctl0_ContentPlaceHolder1_ctrl_login_numFails",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "onebyone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:ContentPlaceHolder1:domain",
+        "id": "_ctl0_ContentPlaceHolder1_domain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:hidvideos",
+        "id": "_ctl0_hidvideos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:hidactiva",
+        "id": "_ctl0_hidactiva",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://pro.motos.net/login.aspx#",
+    "action": "https://pro.motos.net/login.aspx",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "Email del usuario",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "Contraseña",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "_ctl0:ContentPlaceHolder1:ctrl_login:btnVO",
+        "id": "_ctl0_ContentPlaceHolder1_ctrl_login_btnVO",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:ContentPlaceHolder1:ctrl_login:fp1",
+        "id": "_ctl0_ContentPlaceHolder1_ctrl_login_fp1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:ContentPlaceHolder1:ctrl_login:fp2",
+        "id": "_ctl0_ContentPlaceHolder1_ctrl_login_fp2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:ContentPlaceHolder1:ctrl_login:numFails",
+        "id": "_ctl0_ContentPlaceHolder1_ctrl_login_numFails",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "onebyone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:ContentPlaceHolder1:domain",
+        "id": "_ctl0_ContentPlaceHolder1_domain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:hidvideos",
+        "id": "_ctl0_hidvideos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:hidactiva",
+        "id": "_ctl0_hidactiva",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://pro.motos.net/condiciones.aspx",
+    "action": "https://pro.motos.net/condiciones.aspx",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:hidvideos",
+        "id": "_ctl0_hidvideos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:hidactiva",
+        "id": "_ctl0_hidactiva",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://pro.motos.net/condiciones.aspx#privacidad",
+    "action": "https://pro.motos.net/condiciones.aspx",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:hidvideos",
+        "id": "_ctl0_hidvideos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:hidactiva",
+        "id": "_ctl0_hidactiva",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://pro.motos.net/mapaweb.aspx",
+    "action": "https://pro.motos.net/mapaweb.aspx",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "onebyone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:hidvideos",
+        "id": "_ctl0_hidvideos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:hidactiva",
+        "id": "_ctl0_hidactiva",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://pro.motos.net/login.aspx",
+    "action": "https://pro.motos.net/login.aspx",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "Email del usuario",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "Contraseña",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "_ctl0:ContentPlaceHolder1:ctrl_login:btnVO",
+        "id": "_ctl0_ContentPlaceHolder1_ctrl_login_btnVO",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:ContentPlaceHolder1:ctrl_login:fp1",
+        "id": "_ctl0_ContentPlaceHolder1_ctrl_login_fp1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:ContentPlaceHolder1:ctrl_login:fp2",
+        "id": "_ctl0_ContentPlaceHolder1_ctrl_login_fp2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:ContentPlaceHolder1:ctrl_login:numFails",
+        "id": "_ctl0_ContentPlaceHolder1_ctrl_login_numFails",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "onebyone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:ContentPlaceHolder1:domain",
+        "id": "_ctl0_ContentPlaceHolder1_domain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:hidvideos",
+        "id": "_ctl0_hidvideos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:hidactiva",
+        "id": "_ctl0_hidactiva",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://pro.motos.net/default.aspx",
+    "action": "https://pro.motos.net/login.aspx",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "Email del usuario",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "Contraseña",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "_ctl0:ContentPlaceHolder1:ctrl_login:btnVO",
+        "id": "_ctl0_ContentPlaceHolder1_ctrl_login_btnVO",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:ContentPlaceHolder1:ctrl_login:fp1",
+        "id": "_ctl0_ContentPlaceHolder1_ctrl_login_fp1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:ContentPlaceHolder1:ctrl_login:fp2",
+        "id": "_ctl0_ContentPlaceHolder1_ctrl_login_fp2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:ContentPlaceHolder1:ctrl_login:numFails",
+        "id": "_ctl0_ContentPlaceHolder1_ctrl_login_numFails",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "onebyone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:ContentPlaceHolder1:domain",
+        "id": "_ctl0_ContentPlaceHolder1_domain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:hidvideos",
+        "id": "_ctl0_hidvideos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_ctl0:hidactiva",
+        "id": "_ctl0_hidactiva",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
