@@ -211677,5 +211677,61 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://login.starbucks.co.jp",
+    "action": "https://login.starbucks.co.jp/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "",
+        "placeholder": "メールアドレス",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "パスワード",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "remember-me",
+        "id": "remember-me",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ms2_devicefingerprint",
+        "id": "ms2_devicefingerprint",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ms2_platform",
+        "id": "ms2_platform",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
