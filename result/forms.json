@@ -227598,5 +227598,47 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://kijijiautos.ca",
+    "action": "https://www.kijiji.ca/b-cars-trucks/canada/c174l0",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "global-header-search-bar-input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kijijiautos.ca",
+    "action": "https://www.kijiji.ca/b-cars-trucks/canada/c174l0",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "global-header-search-bar-input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://kijijiautos.ca",
+    "action": "https://www.kijiji.ca/b-cars-trucks/canada/c174l0",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "global-header-search-bar-input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
