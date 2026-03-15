@@ -215035,5 +215035,7283 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://habitaclia.com",
+    "action": "https://www.habitaclia.com/hab_inmuebles/buscador.asp",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "tip_op",
+        "id": "tip_op",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "obra_nueva",
+          "comprar",
+          "alquiler",
+          "traspaso"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "tip_inm",
+        "id": "tip_inm",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "vivienda",
+          "oficina",
+          "local_comercial",
+          "industrial",
+          "terrenos_y_solares",
+          "aparcamiento",
+          "inversiones",
+          "inmuebles_singulares",
+          "negocio"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "cod_prov",
+        "id": "cod_prov",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "la_coruna",
+          "alava",
+          "albacete",
+          "alicante",
+          "almeria",
+          "andorra",
+          "asturias",
+          "avila",
+          "badajoz",
+          "balears",
+          "barcelona",
+          "bcn",
+          "burgos",
+          "caceres",
+          "cadiz",
+          "islas_canarias",
+          "cantabria",
+          "castellon",
+          "ceuta_y_melilla",
+          "ciudad_real",
+          "cordoba",
+          "cuenca",
+          "girona",
+          "granada",
+          "guadalajara",
+          "guipuzcoa",
+          "huelva",
+          "huesca",
+          "jaen",
+          "la_rioja",
+          "leon",
+          "lleida",
+          "lugo",
+          "madrid",
+          "malaga",
+          "murcia",
+          "navarra",
+          "ourense",
+          "pais_vasco_frances",
+          "palencia",
+          "pontevedra",
+          "salamanca",
+          "segovia",
+          "sevilla",
+          "soria",
+          "tarragona",
+          "teruel",
+          "toledo",
+          "valencia",
+          "valladolid",
+          "vizcaya",
+          "zamora",
+          "zaragoza",
+          "otras"
+        ]
+      },
+      {
+        "type": "button",
+        "name": "Buscar",
+        "id": "Buscar",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://habitaclia.com",
+    "action": "https://www.habitaclia.com/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "cod_anuncio",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "buscador_rapido_inmuebles",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.habitaclia.com",
+    "action": "https://www.habitaclia.com/hab_inmuebles/buscador.asp",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "tip_op",
+        "id": "tip_op",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "obra_nueva",
+          "comprar",
+          "alquiler",
+          "traspaso"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "tip_inm",
+        "id": "tip_inm",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "vivienda",
+          "oficina",
+          "local_comercial",
+          "industrial",
+          "terrenos_y_solares",
+          "aparcamiento",
+          "inversiones",
+          "inmuebles_singulares",
+          "negocio"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "cod_prov",
+        "id": "cod_prov",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "la_coruna",
+          "alava",
+          "albacete",
+          "alicante",
+          "almeria",
+          "andorra",
+          "asturias",
+          "avila",
+          "badajoz",
+          "balears",
+          "barcelona",
+          "bcn",
+          "burgos",
+          "caceres",
+          "cadiz",
+          "islas_canarias",
+          "cantabria",
+          "castellon",
+          "ceuta_y_melilla",
+          "ciudad_real",
+          "cordoba",
+          "cuenca",
+          "girona",
+          "granada",
+          "guadalajara",
+          "guipuzcoa",
+          "huelva",
+          "huesca",
+          "jaen",
+          "la_rioja",
+          "leon",
+          "lleida",
+          "lugo",
+          "madrid",
+          "malaga",
+          "murcia",
+          "navarra",
+          "ourense",
+          "pais_vasco_frances",
+          "palencia",
+          "pontevedra",
+          "salamanca",
+          "segovia",
+          "sevilla",
+          "soria",
+          "tarragona",
+          "teruel",
+          "toledo",
+          "valencia",
+          "valladolid",
+          "vizcaya",
+          "zamora",
+          "zaragoza",
+          "otras"
+        ]
+      },
+      {
+        "type": "button",
+        "name": "Buscar",
+        "id": "Buscar",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.habitaclia.com",
+    "action": "https://www.habitaclia.com/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "cod_anuncio",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "buscador_rapido_inmuebles",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://habitaclia.com",
+    "action": "https://www.habitaclia.com/hab_inmuebles/buscador.asp",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "tip_op",
+        "id": "tip_op",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "obra_nueva",
+          "comprar",
+          "alquiler",
+          "traspaso"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "tip_inm",
+        "id": "tip_inm",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "vivienda",
+          "oficina",
+          "local_comercial",
+          "industrial",
+          "terrenos_y_solares",
+          "aparcamiento",
+          "inversiones",
+          "inmuebles_singulares",
+          "negocio"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "cod_prov",
+        "id": "cod_prov",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "la_coruna",
+          "alava",
+          "albacete",
+          "alicante",
+          "almeria",
+          "andorra",
+          "asturias",
+          "avila",
+          "badajoz",
+          "balears",
+          "barcelona",
+          "bcn",
+          "burgos",
+          "caceres",
+          "cadiz",
+          "islas_canarias",
+          "cantabria",
+          "castellon",
+          "ceuta_y_melilla",
+          "ciudad_real",
+          "cordoba",
+          "cuenca",
+          "girona",
+          "granada",
+          "guadalajara",
+          "guipuzcoa",
+          "huelva",
+          "huesca",
+          "jaen",
+          "la_rioja",
+          "leon",
+          "lleida",
+          "lugo",
+          "madrid",
+          "malaga",
+          "murcia",
+          "navarra",
+          "ourense",
+          "pais_vasco_frances",
+          "palencia",
+          "pontevedra",
+          "salamanca",
+          "segovia",
+          "sevilla",
+          "soria",
+          "tarragona",
+          "teruel",
+          "toledo",
+          "valencia",
+          "valladolid",
+          "vizcaya",
+          "zamora",
+          "zaragoza",
+          "otras"
+        ]
+      },
+      {
+        "type": "button",
+        "name": "Buscar",
+        "id": "Buscar",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://habitaclia.com",
+    "action": "https://www.habitaclia.com/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "cod_anuncio",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "buscador_rapido_inmuebles",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.habitaclia.com/",
+    "action": "https://www.habitaclia.com/hab_inmuebles/buscador.asp",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "tip_op",
+        "id": "tip_op",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "obra_nueva",
+          "comprar",
+          "alquiler",
+          "traspaso"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "tip_inm",
+        "id": "tip_inm",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "vivienda",
+          "oficina",
+          "local_comercial",
+          "industrial",
+          "terrenos_y_solares",
+          "aparcamiento",
+          "inversiones",
+          "inmuebles_singulares",
+          "negocio"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "cod_prov",
+        "id": "cod_prov",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "la_coruna",
+          "alava",
+          "albacete",
+          "alicante",
+          "almeria",
+          "andorra",
+          "asturias",
+          "avila",
+          "badajoz",
+          "balears",
+          "barcelona",
+          "bcn",
+          "burgos",
+          "caceres",
+          "cadiz",
+          "islas_canarias",
+          "cantabria",
+          "castellon",
+          "ceuta_y_melilla",
+          "ciudad_real",
+          "cordoba",
+          "cuenca",
+          "girona",
+          "granada",
+          "guadalajara",
+          "guipuzcoa",
+          "huelva",
+          "huesca",
+          "jaen",
+          "la_rioja",
+          "leon",
+          "lleida",
+          "lugo",
+          "madrid",
+          "malaga",
+          "murcia",
+          "navarra",
+          "ourense",
+          "pais_vasco_frances",
+          "palencia",
+          "pontevedra",
+          "salamanca",
+          "segovia",
+          "sevilla",
+          "soria",
+          "tarragona",
+          "teruel",
+          "toledo",
+          "valencia",
+          "valladolid",
+          "vizcaya",
+          "zamora",
+          "zaragoza",
+          "otras"
+        ]
+      },
+      {
+        "type": "button",
+        "name": "Buscar",
+        "id": "Buscar",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.habitaclia.com/",
+    "action": "https://www.habitaclia.com/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "cod_anuncio",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "buscador_rapido_inmuebles",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.habitaclia.com/alquiler.htm",
+    "action": "https://www.habitaclia.com/hab_inmuebles/buscador.asp",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "tip_op",
+        "id": "tip_op",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "obra_nueva",
+          "comprar",
+          "alquiler",
+          "traspaso"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "tip_inm",
+        "id": "tip_inm",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "vivienda",
+          "oficina",
+          "local_comercial",
+          "industrial",
+          "terrenos_y_solares",
+          "aparcamiento",
+          "inversiones",
+          "inmuebles_singulares",
+          "negocio"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "cod_prov",
+        "id": "cod_prov",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "la_coruna",
+          "alava",
+          "albacete",
+          "alicante",
+          "almeria",
+          "andorra",
+          "asturias",
+          "avila",
+          "badajoz",
+          "balears",
+          "barcelona",
+          "bcn",
+          "burgos",
+          "caceres",
+          "cadiz",
+          "islas_canarias",
+          "cantabria",
+          "castellon",
+          "ceuta_y_melilla",
+          "ciudad_real",
+          "cordoba",
+          "cuenca",
+          "girona",
+          "granada",
+          "guadalajara",
+          "guipuzcoa",
+          "huelva",
+          "huesca",
+          "jaen",
+          "la_rioja",
+          "leon",
+          "lleida",
+          "lugo",
+          "madrid",
+          "malaga",
+          "murcia",
+          "navarra",
+          "ourense",
+          "pais_vasco_frances",
+          "palencia",
+          "pontevedra",
+          "salamanca",
+          "segovia",
+          "sevilla",
+          "soria",
+          "tarragona",
+          "teruel",
+          "toledo",
+          "valencia",
+          "valladolid",
+          "vizcaya",
+          "zamora",
+          "zaragoza",
+          "otras"
+        ]
+      },
+      {
+        "type": "button",
+        "name": "Buscar",
+        "id": "Buscar",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.habitaclia.com/alquiler.htm",
+    "action": "https://www.habitaclia.com/alquiler.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "cod_anuncio",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "buscador_rapido_inmuebles",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.habitaclia.com/obra_nueva.htm",
+    "action": "https://www.habitaclia.com/hab_inmuebles/buscador.asp",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "tip_op",
+        "id": "tip_op",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "obra_nueva",
+          "comprar",
+          "alquiler",
+          "traspaso"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "tip_inm",
+        "id": "tip_inm",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "viviendas",
+          "oficinas",
+          "naves_industriales"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "cod_prov",
+        "id": "cod_prov",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "la_coruna",
+          "alava",
+          "albacete",
+          "alicante",
+          "almeria",
+          "andorra",
+          "asturias",
+          "avila",
+          "badajoz",
+          "balears",
+          "barcelona",
+          "bcn",
+          "burgos",
+          "caceres",
+          "cadiz",
+          "islas_canarias",
+          "cantabria",
+          "castellon",
+          "ceuta_y_melilla",
+          "ciudad_real",
+          "cordoba",
+          "cuenca",
+          "girona",
+          "granada",
+          "guadalajara",
+          "guipuzcoa",
+          "huelva",
+          "huesca",
+          "jaen",
+          "la_rioja",
+          "leon",
+          "lleida",
+          "lugo",
+          "madrid",
+          "malaga",
+          "murcia",
+          "navarra",
+          "ourense",
+          "pais_vasco_frances",
+          "palencia",
+          "pontevedra",
+          "salamanca",
+          "segovia",
+          "sevilla",
+          "soria",
+          "tarragona",
+          "teruel",
+          "toledo",
+          "valencia",
+          "valladolid",
+          "vizcaya",
+          "zamora",
+          "zaragoza",
+          "otras"
+        ]
+      },
+      {
+        "type": "button",
+        "name": "Buscar",
+        "id": "Buscar",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.habitaclia.com/obra_nueva.htm",
+    "action": "https://www.habitaclia.com/obra_nueva.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "cod_anuncio",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "buscador_rapido_inmuebles",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://www.habitaclia.com/pisos-barcelona.htm",
+    "action": "https://www.habitaclia.com/pisos-barcelona.htm#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email_FormAlerta",
+        "id": "js-email-alerta",
+        "placeholder": "Escribe tu email",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "p_FormAlerta",
+        "id": "id_p_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "st_FormAlerta",
+        "id": "id_st_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pmax_FormAlerta",
+        "id": "id_pmax_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hab_FormAlerta",
+        "id": "id_hab_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "m2_FormAlerta",
+        "id": "id_m2_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tip_op_origen_FormAlerta",
+        "id": "id_tip_op_origen_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tip_op_FormAlerta",
+        "id": "id_tip_op_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "numInm_Formalerta",
+        "id": "id_numInm_Formalerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "soloON",
+        "id": "id_soloON",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "z",
+        "id": "id_z",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "alerta_origen",
+        "id": "id_alerta_origen_6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "avisoLegal",
+        "id": "js-legal-check",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://www.habitaclia.com/pisos-barcelona.htm",
+    "action": "https://www.habitaclia.com/dotnet/listados/listainmuebles",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodPais",
+        "id": "js-cod-pais",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodProv",
+        "id": "js-cod-prov",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodCom",
+        "id": "js-cod-com",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodArea",
+        "id": "js-cod-area",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodPob",
+        "id": "js-cod-pob",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodDist",
+        "id": "js-cod-dist",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.CodDistritos",
+        "id": "js-cod-distritos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.CodZonas",
+        "id": "js-cod-zonas",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomComBuscador",
+        "id": "js-nom-com-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomDistBuscador",
+        "id": "js-nom-dist-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomPobBuscador",
+        "id": "js-nom-pob-busacador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomProvBuscador",
+        "id": "js-nom-prov-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomZonaBuscador",
+        "id": "js-nom-zona-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipInm",
+        "id": "js-tip-inm",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipsInm2",
+        "id": "js-tips-inm2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipInmAgrupado",
+        "id": "js-tip-inm-agrupado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipOp",
+        "id": "js-tip-op",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.FiltrosAvanzados",
+        "id": "js-filtros-avanzados",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Order",
+        "id": "js-order",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ParametroP",
+        "id": "js-parametro-p",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "IsPostFromFiltrosAvanzados",
+        "id": "js-is-post-from-filtros-avanzados",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.SelectedPoblacion",
+        "id": "select-poblaciones",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "nivel_superior",
+          "badalona-1550006-11-1",
+          "barcelona-1930008-6-1",
+          "hospitalet_de_llobregat-10170005-4-1",
+          "sant_adria_de_besos-19440003-10-1",
+          "santa_coloma_de_gramenet-24570005-13-1"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "todaslaszonas",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-100",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-103",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-102",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-101",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-104",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-200",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-203",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-201",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-208",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-207",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-202",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-206",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-300",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-301",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-304",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-306",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-305",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-311",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-310",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-307",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-308",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-309",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-400",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-401",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-403",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-402",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-500",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-506",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-504",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-505",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-502",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-501",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-503",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-600",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-605",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-602",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-601",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-604",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-700",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-701",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-702",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-705",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-703",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-710",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-711",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-704",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-706",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-708",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-707",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-709",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-800",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-814",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-805",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-811",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-804",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-802",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-808",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-806",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-810",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-809",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-813",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-812",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-807",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-801",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-900",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-907",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-902",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-905",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-904",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-906",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-903",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-901",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-1000",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1007",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1006",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1001",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1002",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1003",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1010",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1004",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1005",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1008",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1009",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.PvpMin",
+        "id": "Filtros_PvpMin",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "60000",
+          "90000",
+          "120000",
+          "150000",
+          "180000",
+          "210000",
+          "240000",
+          "300000",
+          "360000",
+          "420000",
+          "500000",
+          "600000",
+          "700000",
+          "800000",
+          "900000",
+          "1000000",
+          "1500000",
+          "2000000",
+          "3000000"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.PvpMax",
+        "id": "Filtros_PvpMax",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "60000",
+          "90000",
+          "120000",
+          "150000",
+          "180000",
+          "210000",
+          "240000",
+          "300000",
+          "360000",
+          "420000",
+          "500000",
+          "600000",
+          "700000",
+          "800000",
+          "900000",
+          "1000000",
+          "1500000",
+          "2000000",
+          "3000000"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.SupMin",
+        "id": "Filtros_SupMin",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "50",
+          "60",
+          "70",
+          "80",
+          "90",
+          "100",
+          "125",
+          "150",
+          "175",
+          "200",
+          "250",
+          "300",
+          "400",
+          "450",
+          "500"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.HabMin",
+        "id": "js-num-habs",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.BanosMin",
+        "id": "js-num-banos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Piso",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Dúplex",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Casa",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Ático",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "obranueva",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "rebajados",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "parking",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "piscina",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "terraza",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "jardin",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "ascensor",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "chimenea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "cercatransporte",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "btn_filtrar",
+        "id": "js-filter-submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://www.habitaclia.com/casas-barcelona.htm",
+    "action": "https://www.habitaclia.com/casas-barcelona.htm#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email_FormAlerta",
+        "id": "js-email-alerta",
+        "placeholder": "Escribe tu email",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "p_FormAlerta",
+        "id": "id_p_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "st_FormAlerta",
+        "id": "id_st_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pmax_FormAlerta",
+        "id": "id_pmax_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hab_FormAlerta",
+        "id": "id_hab_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "m2_FormAlerta",
+        "id": "id_m2_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tip_op_origen_FormAlerta",
+        "id": "id_tip_op_origen_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tip_op_FormAlerta",
+        "id": "id_tip_op_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "numInm_Formalerta",
+        "id": "id_numInm_Formalerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "soloON",
+        "id": "id_soloON",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "z",
+        "id": "id_z",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "alerta_origen",
+        "id": "id_alerta_origen_6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "avisoLegal",
+        "id": "js-legal-check",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://www.habitaclia.com/casas-barcelona.htm",
+    "action": "https://www.habitaclia.com/dotnet/listados/listainmuebles",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodPais",
+        "id": "js-cod-pais",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodProv",
+        "id": "js-cod-prov",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodCom",
+        "id": "js-cod-com",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodArea",
+        "id": "js-cod-area",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodPob",
+        "id": "js-cod-pob",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodDist",
+        "id": "js-cod-dist",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.CodDistritos",
+        "id": "js-cod-distritos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.CodZonas",
+        "id": "js-cod-zonas",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomComBuscador",
+        "id": "js-nom-com-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomDistBuscador",
+        "id": "js-nom-dist-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomPobBuscador",
+        "id": "js-nom-pob-busacador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomProvBuscador",
+        "id": "js-nom-prov-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomZonaBuscador",
+        "id": "js-nom-zona-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipInm",
+        "id": "js-tip-inm",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipsInm2",
+        "id": "js-tips-inm2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipInmAgrupado",
+        "id": "js-tip-inm-agrupado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipOp",
+        "id": "js-tip-op",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.FiltrosAvanzados",
+        "id": "js-filtros-avanzados",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Order",
+        "id": "js-order",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ParametroP",
+        "id": "js-parametro-p",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "IsPostFromFiltrosAvanzados",
+        "id": "js-is-post-from-filtros-avanzados",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.SelectedPoblacion",
+        "id": "select-poblaciones",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "nivel_superior",
+          "badalona-1550006-11-1",
+          "barcelona-1930008-6-1",
+          "hospitalet_de_llobregat-10170005-4-1",
+          "sant_adria_de_besos-19440003-10-1",
+          "santa_coloma_de_gramenet-24570005-13-1"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "todaslaszonas",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-100",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-103",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-102",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-101",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-104",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-200",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-203",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-201",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-208",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-207",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-202",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-206",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-300",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-301",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-304",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-306",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-305",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-311",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-310",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-307",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-308",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-309",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-400",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-401",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-403",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-402",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-500",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-506",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-504",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-505",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-502",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-501",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-503",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-600",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-605",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-602",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-601",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-604",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-700",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-701",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-702",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-705",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-703",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-710",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-711",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-704",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-706",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-708",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-707",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-709",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-800",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-814",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-805",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-811",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-804",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-802",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-808",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-806",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-810",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-809",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-813",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-812",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-807",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-801",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-900",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-907",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-902",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-905",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-904",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-906",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-903",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-901",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-1000",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1007",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1006",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1001",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1002",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1003",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1010",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1004",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1005",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1008",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1009",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.PvpMin",
+        "id": "Filtros_PvpMin",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "60000",
+          "90000",
+          "120000",
+          "150000",
+          "180000",
+          "210000",
+          "240000",
+          "300000",
+          "360000",
+          "420000",
+          "500000",
+          "600000",
+          "700000",
+          "800000",
+          "900000",
+          "1000000",
+          "1500000",
+          "2000000",
+          "3000000"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.PvpMax",
+        "id": "Filtros_PvpMax",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "60000",
+          "90000",
+          "120000",
+          "150000",
+          "180000",
+          "210000",
+          "240000",
+          "300000",
+          "360000",
+          "420000",
+          "500000",
+          "600000",
+          "700000",
+          "800000",
+          "900000",
+          "1000000",
+          "1500000",
+          "2000000",
+          "3000000"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.SupMin",
+        "id": "Filtros_SupMin",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "50",
+          "60",
+          "70",
+          "80",
+          "90",
+          "100",
+          "125",
+          "150",
+          "175",
+          "200",
+          "250",
+          "300",
+          "400",
+          "450",
+          "500"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.HabMin",
+        "id": "js-num-habs",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.BanosMin",
+        "id": "js-num-banos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Piso",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Dúplex",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Casa",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Ático",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "obranueva",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "rebajados",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "parking",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "piscina",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "terraza",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "jardin",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "ascensor",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "chimenea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "cercatransporte",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "btn_filtrar",
+        "id": "js-filter-submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://www.habitaclia.com/viviendas-barcelona.htm",
+    "action": "https://www.habitaclia.com/viviendas-barcelona.htm#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email_FormAlerta",
+        "id": "js-email-alerta",
+        "placeholder": "Escribe tu email",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "p_FormAlerta",
+        "id": "id_p_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "st_FormAlerta",
+        "id": "id_st_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pmax_FormAlerta",
+        "id": "id_pmax_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hab_FormAlerta",
+        "id": "id_hab_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "m2_FormAlerta",
+        "id": "id_m2_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tip_op_origen_FormAlerta",
+        "id": "id_tip_op_origen_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tip_op_FormAlerta",
+        "id": "id_tip_op_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "numInm_Formalerta",
+        "id": "id_numInm_Formalerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "soloON",
+        "id": "id_soloON",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "z",
+        "id": "id_z",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "alerta_origen",
+        "id": "id_alerta_origen_6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "avisoLegal",
+        "id": "js-legal-check",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://www.habitaclia.com/viviendas-barcelona.htm",
+    "action": "https://www.habitaclia.com/dotnet/listados/listainmuebles",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodPais",
+        "id": "js-cod-pais",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodProv",
+        "id": "js-cod-prov",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodCom",
+        "id": "js-cod-com",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodArea",
+        "id": "js-cod-area",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodPob",
+        "id": "js-cod-pob",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodDist",
+        "id": "js-cod-dist",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.CodDistritos",
+        "id": "js-cod-distritos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.CodZonas",
+        "id": "js-cod-zonas",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomComBuscador",
+        "id": "js-nom-com-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomDistBuscador",
+        "id": "js-nom-dist-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomPobBuscador",
+        "id": "js-nom-pob-busacador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomProvBuscador",
+        "id": "js-nom-prov-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomZonaBuscador",
+        "id": "js-nom-zona-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipInm",
+        "id": "js-tip-inm",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipsInm2",
+        "id": "js-tips-inm2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipInmAgrupado",
+        "id": "js-tip-inm-agrupado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipOp",
+        "id": "js-tip-op",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.FiltrosAvanzados",
+        "id": "js-filtros-avanzados",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Order",
+        "id": "js-order",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ParametroP",
+        "id": "js-parametro-p",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "IsPostFromFiltrosAvanzados",
+        "id": "js-is-post-from-filtros-avanzados",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.SelectedPoblacion",
+        "id": "select-poblaciones",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "nivel_superior",
+          "badalona-1550006-11-1",
+          "barcelona-1930008-6-1",
+          "hospitalet_de_llobregat-10170005-4-1",
+          "sant_adria_de_besos-19440003-10-1",
+          "santa_coloma_de_gramenet-24570005-13-1"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "todaslaszonas",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-100",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-103",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-102",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-101",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-104",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-200",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-203",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-201",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-208",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-207",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-202",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-206",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-300",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-301",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-304",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-306",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-305",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-311",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-310",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-307",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-308",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-309",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-400",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-401",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-403",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-402",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-500",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-506",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-504",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-505",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-502",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-501",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-503",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-600",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-605",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-602",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-601",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-604",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-700",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-701",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-702",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-705",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-703",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-710",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-711",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-704",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-706",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-708",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-707",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-709",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-800",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-814",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-805",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-811",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-804",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-802",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-808",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-806",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-810",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-809",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-813",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-812",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-807",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-801",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-900",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-907",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-902",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-905",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-904",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-906",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-903",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-901",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-1000",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1007",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1006",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1001",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1002",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1003",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1010",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1004",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1005",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1008",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1009",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.PvpMin",
+        "id": "Filtros_PvpMin",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "60000",
+          "90000",
+          "120000",
+          "150000",
+          "180000",
+          "210000",
+          "240000",
+          "300000",
+          "360000",
+          "420000",
+          "500000",
+          "600000",
+          "700000",
+          "800000",
+          "900000",
+          "1000000",
+          "1500000",
+          "2000000",
+          "3000000"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.PvpMax",
+        "id": "Filtros_PvpMax",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "60000",
+          "90000",
+          "120000",
+          "150000",
+          "180000",
+          "210000",
+          "240000",
+          "300000",
+          "360000",
+          "420000",
+          "500000",
+          "600000",
+          "700000",
+          "800000",
+          "900000",
+          "1000000",
+          "1500000",
+          "2000000",
+          "3000000"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.SupMin",
+        "id": "Filtros_SupMin",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "50",
+          "60",
+          "70",
+          "80",
+          "90",
+          "100",
+          "125",
+          "150",
+          "175",
+          "200",
+          "250",
+          "300",
+          "400",
+          "450",
+          "500"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.HabMin",
+        "id": "js-num-habs",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.BanosMin",
+        "id": "js-num-banos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Piso",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Dúplex",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Casa",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Ático",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "obranueva",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "rebajados",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "parking",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "piscina",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "terraza",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "jardin",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "ascensor",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "chimenea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "cercatransporte",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "btn_filtrar",
+        "id": "js-filter-submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.habitaclia.com/pisos-barcelona.htm",
+    "action": "https://www.habitaclia.com/pisos-barcelona.htm#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email_FormAlerta",
+        "id": "js-email-alerta",
+        "placeholder": "Escribe tu email",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "p_FormAlerta",
+        "id": "id_p_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "st_FormAlerta",
+        "id": "id_st_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pmax_FormAlerta",
+        "id": "id_pmax_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hab_FormAlerta",
+        "id": "id_hab_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "m2_FormAlerta",
+        "id": "id_m2_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tip_op_origen_FormAlerta",
+        "id": "id_tip_op_origen_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tip_op_FormAlerta",
+        "id": "id_tip_op_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "numInm_Formalerta",
+        "id": "id_numInm_Formalerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "soloON",
+        "id": "id_soloON",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "z",
+        "id": "id_z",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "alerta_origen",
+        "id": "id_alerta_origen_6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "avisoLegal",
+        "id": "js-legal-check",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.habitaclia.com/pisos-barcelona.htm",
+    "action": "https://www.habitaclia.com/dotnet/listados/listainmuebles",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodPais",
+        "id": "js-cod-pais",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodProv",
+        "id": "js-cod-prov",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodCom",
+        "id": "js-cod-com",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodArea",
+        "id": "js-cod-area",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodPob",
+        "id": "js-cod-pob",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodDist",
+        "id": "js-cod-dist",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.CodDistritos",
+        "id": "js-cod-distritos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.CodZonas",
+        "id": "js-cod-zonas",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomComBuscador",
+        "id": "js-nom-com-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomDistBuscador",
+        "id": "js-nom-dist-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomPobBuscador",
+        "id": "js-nom-pob-busacador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomProvBuscador",
+        "id": "js-nom-prov-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomZonaBuscador",
+        "id": "js-nom-zona-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipInm",
+        "id": "js-tip-inm",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipsInm2",
+        "id": "js-tips-inm2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipInmAgrupado",
+        "id": "js-tip-inm-agrupado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipOp",
+        "id": "js-tip-op",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.FiltrosAvanzados",
+        "id": "js-filtros-avanzados",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Order",
+        "id": "js-order",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ParametroP",
+        "id": "js-parametro-p",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "IsPostFromFiltrosAvanzados",
+        "id": "js-is-post-from-filtros-avanzados",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.SelectedPoblacion",
+        "id": "select-poblaciones",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "nivel_superior",
+          "badalona-1550006-11-1",
+          "barcelona-1930008-6-1",
+          "hospitalet_de_llobregat-10170005-4-1",
+          "sant_adria_de_besos-19440003-10-1",
+          "santa_coloma_de_gramenet-24570005-13-1"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "todaslaszonas",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-100",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-103",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-102",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-101",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-104",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-200",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-203",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-201",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-208",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-207",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-202",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-206",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-300",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-301",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-304",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-306",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-305",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-311",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-310",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-307",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-308",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-309",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-400",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-401",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-403",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-402",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-500",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-506",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-504",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-505",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-502",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-501",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-503",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-600",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-605",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-602",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-601",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-604",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-700",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-701",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-702",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-705",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-703",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-710",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-711",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-704",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-706",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-708",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-707",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-709",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-800",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-814",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-805",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-811",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-804",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-802",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-808",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-806",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-810",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-809",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-813",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-812",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-807",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-801",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-900",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-907",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-902",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-905",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-904",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-906",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-903",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-901",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-1000",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1007",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1006",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1001",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1002",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1003",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1010",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1004",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1005",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1008",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1009",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.PvpMin",
+        "id": "Filtros_PvpMin",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "60000",
+          "90000",
+          "120000",
+          "150000",
+          "180000",
+          "210000",
+          "240000",
+          "300000",
+          "360000",
+          "420000",
+          "500000",
+          "600000",
+          "700000",
+          "800000",
+          "900000",
+          "1000000",
+          "1500000",
+          "2000000",
+          "3000000"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.PvpMax",
+        "id": "Filtros_PvpMax",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "60000",
+          "90000",
+          "120000",
+          "150000",
+          "180000",
+          "210000",
+          "240000",
+          "300000",
+          "360000",
+          "420000",
+          "500000",
+          "600000",
+          "700000",
+          "800000",
+          "900000",
+          "1000000",
+          "1500000",
+          "2000000",
+          "3000000"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.SupMin",
+        "id": "Filtros_SupMin",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "50",
+          "60",
+          "70",
+          "80",
+          "90",
+          "100",
+          "125",
+          "150",
+          "175",
+          "200",
+          "250",
+          "300",
+          "400",
+          "450",
+          "500"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.HabMin",
+        "id": "js-num-habs",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.BanosMin",
+        "id": "js-num-banos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Piso",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Dúplex",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Casa",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Ático",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "obranueva",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "rebajados",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "parking",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "piscina",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "terraza",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "jardin",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "ascensor",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "chimenea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "cercatransporte",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "btn_filtrar",
+        "id": "js-filter-submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.habitaclia.com/viviendas-barcelona.htm",
+    "action": "https://www.habitaclia.com/viviendas-barcelona.htm#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email_FormAlerta",
+        "id": "js-email-alerta",
+        "placeholder": "Escribe tu email",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "p_FormAlerta",
+        "id": "id_p_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "st_FormAlerta",
+        "id": "id_st_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pmax_FormAlerta",
+        "id": "id_pmax_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hab_FormAlerta",
+        "id": "id_hab_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "m2_FormAlerta",
+        "id": "id_m2_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tip_op_origen_FormAlerta",
+        "id": "id_tip_op_origen_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tip_op_FormAlerta",
+        "id": "id_tip_op_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "numInm_Formalerta",
+        "id": "id_numInm_Formalerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "soloON",
+        "id": "id_soloON",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "z",
+        "id": "id_z",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "alerta_origen",
+        "id": "id_alerta_origen_6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "avisoLegal",
+        "id": "js-legal-check",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.habitaclia.com/viviendas-barcelona.htm",
+    "action": "https://www.habitaclia.com/dotnet/listados/listainmuebles",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodPais",
+        "id": "js-cod-pais",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodProv",
+        "id": "js-cod-prov",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodCom",
+        "id": "js-cod-com",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodArea",
+        "id": "js-cod-area",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodPob",
+        "id": "js-cod-pob",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodDist",
+        "id": "js-cod-dist",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.CodDistritos",
+        "id": "js-cod-distritos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.CodZonas",
+        "id": "js-cod-zonas",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomComBuscador",
+        "id": "js-nom-com-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomDistBuscador",
+        "id": "js-nom-dist-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomPobBuscador",
+        "id": "js-nom-pob-busacador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomProvBuscador",
+        "id": "js-nom-prov-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomZonaBuscador",
+        "id": "js-nom-zona-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipInm",
+        "id": "js-tip-inm",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipsInm2",
+        "id": "js-tips-inm2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipInmAgrupado",
+        "id": "js-tip-inm-agrupado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipOp",
+        "id": "js-tip-op",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.FiltrosAvanzados",
+        "id": "js-filtros-avanzados",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Order",
+        "id": "js-order",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ParametroP",
+        "id": "js-parametro-p",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "IsPostFromFiltrosAvanzados",
+        "id": "js-is-post-from-filtros-avanzados",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.SelectedPoblacion",
+        "id": "select-poblaciones",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "nivel_superior",
+          "badalona-1550006-11-1",
+          "barcelona-1930008-6-1",
+          "hospitalet_de_llobregat-10170005-4-1",
+          "sant_adria_de_besos-19440003-10-1",
+          "santa_coloma_de_gramenet-24570005-13-1"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "todaslaszonas",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-100",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-103",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-102",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-101",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-104",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-200",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-203",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-201",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-208",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-207",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-202",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-206",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-300",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-301",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-304",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-306",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-305",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-311",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-310",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-307",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-308",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-309",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-400",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-401",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-403",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-402",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-500",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-506",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-504",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-505",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-502",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-501",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-503",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-600",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-605",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-602",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-601",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-604",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-700",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-701",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-702",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-705",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-703",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-710",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-711",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-704",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-706",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-708",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-707",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-709",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-800",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-814",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-805",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-811",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-804",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-802",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-808",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-806",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-810",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-809",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-813",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-812",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-807",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-801",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-900",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-907",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-902",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-905",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-904",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-906",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-903",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-901",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-1000",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1007",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1006",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1001",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1002",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1003",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1010",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1004",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1005",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1008",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1009",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.PvpMin",
+        "id": "Filtros_PvpMin",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "60000",
+          "90000",
+          "120000",
+          "150000",
+          "180000",
+          "210000",
+          "240000",
+          "300000",
+          "360000",
+          "420000",
+          "500000",
+          "600000",
+          "700000",
+          "800000",
+          "900000",
+          "1000000",
+          "1500000",
+          "2000000",
+          "3000000"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.PvpMax",
+        "id": "Filtros_PvpMax",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "60000",
+          "90000",
+          "120000",
+          "150000",
+          "180000",
+          "210000",
+          "240000",
+          "300000",
+          "360000",
+          "420000",
+          "500000",
+          "600000",
+          "700000",
+          "800000",
+          "900000",
+          "1000000",
+          "1500000",
+          "2000000",
+          "3000000"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.SupMin",
+        "id": "Filtros_SupMin",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "50",
+          "60",
+          "70",
+          "80",
+          "90",
+          "100",
+          "125",
+          "150",
+          "175",
+          "200",
+          "250",
+          "300",
+          "400",
+          "450",
+          "500"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.HabMin",
+        "id": "js-num-habs",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.BanosMin",
+        "id": "js-num-banos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Piso",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Dúplex",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Casa",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Ático",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "obranueva",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "rebajados",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "parking",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "piscina",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "terraza",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "jardin",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "ascensor",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "chimenea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "cercatransporte",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "btn_filtrar",
+        "id": "js-filter-submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.habitaclia.com/casas-barcelona.htm",
+    "action": "https://www.habitaclia.com/casas-barcelona.htm#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email_FormAlerta",
+        "id": "js-email-alerta",
+        "placeholder": "Escribe tu email",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "p_FormAlerta",
+        "id": "id_p_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "st_FormAlerta",
+        "id": "id_st_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pmax_FormAlerta",
+        "id": "id_pmax_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hab_FormAlerta",
+        "id": "id_hab_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "m2_FormAlerta",
+        "id": "id_m2_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tip_op_origen_FormAlerta",
+        "id": "id_tip_op_origen_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tip_op_FormAlerta",
+        "id": "id_tip_op_FormAlerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "numInm_Formalerta",
+        "id": "id_numInm_Formalerta",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "soloON",
+        "id": "id_soloON",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "z",
+        "id": "id_z",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "alerta_origen",
+        "id": "id_alerta_origen_6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "avisoLegal",
+        "id": "js-legal-check",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.habitaclia.com/casas-barcelona.htm",
+    "action": "https://www.habitaclia.com/dotnet/listados/listainmuebles",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodPais",
+        "id": "js-cod-pais",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodProv",
+        "id": "js-cod-prov",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodCom",
+        "id": "js-cod-com",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodArea",
+        "id": "js-cod-area",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodPob",
+        "id": "js-cod-pob",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.CodDist",
+        "id": "js-cod-dist",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.CodDistritos",
+        "id": "js-cod-distritos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.CodZonas",
+        "id": "js-cod-zonas",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomComBuscador",
+        "id": "js-nom-com-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomDistBuscador",
+        "id": "js-nom-dist-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomPobBuscador",
+        "id": "js-nom-pob-busacador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomProvBuscador",
+        "id": "js-nom-prov-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Geo.NomZonaBuscador",
+        "id": "js-nom-zona-buscador",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipInm",
+        "id": "js-tip-inm",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipsInm2",
+        "id": "js-tips-inm2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipInmAgrupado",
+        "id": "js-tip-inm-agrupado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.TipOp",
+        "id": "js-tip-op",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.FiltrosAvanzados",
+        "id": "js-filtros-avanzados",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.Order",
+        "id": "js-order",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ParametroP",
+        "id": "js-parametro-p",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "IsPostFromFiltrosAvanzados",
+        "id": "js-is-post-from-filtros-avanzados",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.SelectedPoblacion",
+        "id": "select-poblaciones",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "nivel_superior",
+          "badalona-1550006-11-1",
+          "barcelona-1930008-6-1",
+          "hospitalet_de_llobregat-10170005-4-1",
+          "sant_adria_de_besos-19440003-10-1",
+          "santa_coloma_de_gramenet-24570005-13-1"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "todaslaszonas",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-100",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-103",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-102",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-101",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-104",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-200",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-203",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-201",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-208",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-207",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-202",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-206",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-300",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-301",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-304",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-306",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-305",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-311",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-310",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-307",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-308",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-309",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-400",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-401",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-403",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-402",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-500",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-506",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-504",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-505",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-502",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-501",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-503",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-600",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-605",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-602",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-603",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-601",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-604",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-700",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-701",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-702",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-705",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-703",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-710",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-711",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-704",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-706",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-708",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-707",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-709",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-800",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-814",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-805",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-811",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-804",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-802",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-808",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-806",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-810",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-809",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-813",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-812",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-807",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-801",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-900",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-907",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-902",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-905",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-904",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-906",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-903",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-901",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "dist-1000",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1007",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1006",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1001",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1002",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1003",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1010",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1004",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1005",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1008",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "zona-1009",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.PvpMin",
+        "id": "Filtros_PvpMin",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "60000",
+          "90000",
+          "120000",
+          "150000",
+          "180000",
+          "210000",
+          "240000",
+          "300000",
+          "360000",
+          "420000",
+          "500000",
+          "600000",
+          "700000",
+          "800000",
+          "900000",
+          "1000000",
+          "1500000",
+          "2000000",
+          "3000000"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.PvpMax",
+        "id": "Filtros_PvpMax",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "60000",
+          "90000",
+          "120000",
+          "150000",
+          "180000",
+          "210000",
+          "240000",
+          "300000",
+          "360000",
+          "420000",
+          "500000",
+          "600000",
+          "700000",
+          "800000",
+          "900000",
+          "1000000",
+          "1500000",
+          "2000000",
+          "3000000"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Filtros.SupMin",
+        "id": "Filtros_SupMin",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "50",
+          "60",
+          "70",
+          "80",
+          "90",
+          "100",
+          "125",
+          "150",
+          "175",
+          "200",
+          "250",
+          "300",
+          "400",
+          "450",
+          "500"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.HabMin",
+        "id": "js-num-habs",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Filtros.BanosMin",
+        "id": "js-num-banos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Piso",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Dúplex",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Casa",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "Ático",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "obranueva",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "rebajados",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "parking",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "piscina",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "terraza",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "jardin",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "ascensor",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "chimenea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "cercatransporte",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Filtros.FiltroPeriodo",
+        "id": "filtro2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "btn_filtrar",
+        "id": "js-filter-submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
