@@ -213077,5 +213077,997 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://adevinta.com",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.adevinta.com",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://adevinta.com",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/#main-content",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/corporate-governance/",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/brands/",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/our-impact/",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/our-impact/governance/",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/press-room/",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/careers/",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/careers/",
+    "action": "https://adevinta.com/careers/jobs/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "job-title-keyword",
+        "id": "hero-job-title-keyword",
+        "placeholder": "Search for job title or keyword",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "job-page",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "job-page-size",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "job-country",
+        "id": "hero-job-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tCountry\t\t\t\t\t",
+          "canada",
+          "espagne",
+          "france",
+          "germany",
+          "italy",
+          "netherlands",
+          "pays-bas",
+          "spain"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/careers/",
+    "action": "https://adevinta.com/careers/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "job-title-keyword",
+        "id": "block-job-title-keyword",
+        "placeholder": "Search for job title or keyword",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "job-page",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "job-page-size",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "job-country",
+        "id": "block-job-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tCountry\t\t\t\t\t",
+          "canada",
+          "espagne",
+          "france",
+          "germany",
+          "italy",
+          "netherlands",
+          "pays-bas",
+          "spain"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-city",
+        "id": "block-job-city",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tCity\t\t\t\t\t"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-brand",
+        "id": "block-job-brand",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tBrand\t\t\t\t\t",
+          "Adevinta Spain",
+          "Kleinanzeigen",
+          "mobile.de"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-function",
+        "id": "block-job-function",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tFunction\t\t\t\t\t",
+          "administration-support",
+          "finance-strategy-legal",
+          "general-management-job-group",
+          "marketing-communication",
+          "operations",
+          "other",
+          "people",
+          "product-tech",
+          "sales-advertising"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-time-type",
+        "id": "block-job-time-type",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tFulltime/Parttime\t\t\t\t\t",
+          "full-time",
+          "part-time",
+          "temps-plein"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/careers/jobs/",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/careers/jobs/",
+    "action": "https://adevinta.com/careers/jobs/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "job-title-keyword",
+        "id": "block-job-title-keyword",
+        "placeholder": "Search for job title or keyword",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "job-page",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "job-page-size",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "job-country",
+        "id": "block-job-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tCountry\t\t\t\t\t",
+          "canada",
+          "espagne",
+          "france",
+          "germany",
+          "italy",
+          "netherlands",
+          "pays-bas",
+          "spain"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-city",
+        "id": "block-job-city",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tCity\t\t\t\t\t"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-brand",
+        "id": "block-job-brand",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tBrand\t\t\t\t\t",
+          "Adevinta Spain",
+          "Kleinanzeigen",
+          "mobile.de"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-function",
+        "id": "block-job-function",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tFunction\t\t\t\t\t",
+          "administration-support",
+          "finance-strategy-legal",
+          "general-management-job-group",
+          "marketing-communication",
+          "operations",
+          "other",
+          "people",
+          "product-tech",
+          "sales-advertising"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-time-type",
+        "id": "block-job-time-type",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tFulltime/Parttime\t\t\t\t\t",
+          "full-time",
+          "part-time",
+          "temps-plein"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/careers/locations/",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/careers/locations/",
+    "action": "https://adevinta.com/careers/locations/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "job-title-keyword",
+        "id": "block-job-title-keyword",
+        "placeholder": "Search for job title or keyword",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "job-page",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "job-page-size",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "job-country",
+        "id": "block-job-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tCountry\t\t\t\t\t",
+          "canada",
+          "espagne",
+          "france",
+          "germany",
+          "italy",
+          "netherlands",
+          "pays-bas",
+          "spain"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-city",
+        "id": "block-job-city",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tCity\t\t\t\t\t"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-brand",
+        "id": "block-job-brand",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tBrand\t\t\t\t\t",
+          "Adevinta Spain",
+          "Kleinanzeigen",
+          "mobile.de"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-function",
+        "id": "block-job-function",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tFunction\t\t\t\t\t",
+          "administration-support",
+          "finance-strategy-legal",
+          "general-management-job-group",
+          "marketing-communication",
+          "operations",
+          "other",
+          "people",
+          "product-tech",
+          "sales-advertising"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-time-type",
+        "id": "block-job-time-type",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tFulltime/Parttime\t\t\t\t\t",
+          "full-time",
+          "part-time",
+          "temps-plein"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/corporate-governance/#main-content",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/brands/#main-content",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/our-impact/#main-content",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/our-impact/governance/#main-content",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/press-room/#main-content",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/careers/#main-content",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/careers/#main-content",
+    "action": "https://adevinta.com/careers/jobs/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "job-title-keyword",
+        "id": "hero-job-title-keyword",
+        "placeholder": "Search for job title or keyword",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "job-page",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "job-page-size",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "job-country",
+        "id": "hero-job-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tCountry\t\t\t\t\t",
+          "canada",
+          "espagne",
+          "france",
+          "germany",
+          "italy",
+          "netherlands",
+          "pays-bas",
+          "spain"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/careers/#main-content",
+    "action": "https://adevinta.com/careers/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "job-title-keyword",
+        "id": "block-job-title-keyword",
+        "placeholder": "Search for job title or keyword",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "job-page",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "job-page-size",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "job-country",
+        "id": "block-job-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tCountry\t\t\t\t\t",
+          "canada",
+          "espagne",
+          "france",
+          "germany",
+          "italy",
+          "netherlands",
+          "pays-bas",
+          "spain"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-city",
+        "id": "block-job-city",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tCity\t\t\t\t\t"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-brand",
+        "id": "block-job-brand",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tBrand\t\t\t\t\t",
+          "Adevinta Spain",
+          "Kleinanzeigen",
+          "mobile.de"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-function",
+        "id": "block-job-function",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tFunction\t\t\t\t\t",
+          "administration-support",
+          "finance-strategy-legal",
+          "general-management-job-group",
+          "marketing-communication",
+          "operations",
+          "other",
+          "people",
+          "product-tech",
+          "sales-advertising"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-time-type",
+        "id": "block-job-time-type",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tFulltime/Parttime\t\t\t\t\t",
+          "full-time",
+          "part-time",
+          "temps-plein"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/careers/jobs/#main-content",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/careers/jobs/#main-content",
+    "action": "https://adevinta.com/careers/jobs/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "job-title-keyword",
+        "id": "block-job-title-keyword",
+        "placeholder": "Search for job title or keyword",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "job-page",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "job-page-size",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "job-country",
+        "id": "block-job-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tCountry\t\t\t\t\t",
+          "canada",
+          "espagne",
+          "france",
+          "germany",
+          "italy",
+          "netherlands",
+          "pays-bas",
+          "spain"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-city",
+        "id": "block-job-city",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tCity\t\t\t\t\t"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-brand",
+        "id": "block-job-brand",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tBrand\t\t\t\t\t",
+          "Adevinta Spain",
+          "Kleinanzeigen",
+          "mobile.de"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-function",
+        "id": "block-job-function",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tFunction\t\t\t\t\t",
+          "administration-support",
+          "finance-strategy-legal",
+          "general-management-job-group",
+          "marketing-communication",
+          "operations",
+          "other",
+          "people",
+          "product-tech",
+          "sales-advertising"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-time-type",
+        "id": "block-job-time-type",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tFulltime/Parttime\t\t\t\t\t",
+          "full-time",
+          "part-time",
+          "temps-plein"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/careers/locations/#main-content",
+    "action": "https://adevinta.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://adevinta.com/careers/locations/#main-content",
+    "action": "https://adevinta.com/careers/locations/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "job-title-keyword",
+        "id": "block-job-title-keyword",
+        "placeholder": "Search for job title or keyword",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "job-page",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "job-page-size",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "job-country",
+        "id": "block-job-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tCountry\t\t\t\t\t",
+          "canada",
+          "espagne",
+          "france",
+          "germany",
+          "italy",
+          "netherlands",
+          "pays-bas",
+          "spain"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-city",
+        "id": "block-job-city",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tCity\t\t\t\t\t"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-brand",
+        "id": "block-job-brand",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tBrand\t\t\t\t\t",
+          "Adevinta Spain",
+          "Kleinanzeigen",
+          "mobile.de"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-function",
+        "id": "block-job-function",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tFunction\t\t\t\t\t",
+          "administration-support",
+          "finance-strategy-legal",
+          "general-management-job-group",
+          "marketing-communication",
+          "operations",
+          "other",
+          "people",
+          "product-tech",
+          "sales-advertising"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "job-time-type",
+        "id": "block-job-time-type",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "\n\t\t\t\t\t\tFulltime/Parttime\t\t\t\t\t",
+          "full-time",
+          "part-time",
+          "temps-plein"
+        ]
+      }
+    ]
   }
 ]
