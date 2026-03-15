@@ -211733,5 +211733,677 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://2dehands.be",
+    "action": "https://www.2dehands.be/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Postcode",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2dehands.be",
+    "action": "https://www.2dehands.be/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Postcode",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://2dehands.be",
+    "action": "https://www.2dehands.be/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Postcode",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2dehands.be/",
+    "action": "https://www.2dehands.be/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Postcode",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2dehands.be/#main-container",
+    "action": "https://www.2dehands.be/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Postcode",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2dehands.be/#footer-container",
+    "action": "https://www.2dehands.be/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Postcode",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.2dehands.be/",
+    "action": "https://help.2dehands.be/s/?language=nl_NL",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.2dehands.be/s/topic/0TO5I000000TYqZWAW/voorwaarden",
+    "action": "https://help.2dehands.be/s/topic/0TO5I000000TYqZWAW/voorwaarden?language=nl_NL",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2dehands.be/i/veilig-handelen/",
+    "action": "https://www.2dehands.be/i/veiligheidscentrum/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Schrijf een vraag of bericht...",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "iChatInputPasswordField",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "iChatInputLargeField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.2dehands.be/s/?language=nl_NL#",
+    "action": "https://help.2dehands.be/s/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.2dehands.be/s/?nocache=https%3A%2F%2Fhelp.2dehands.be%2Fs%2F%3Flanguage%3Dnl_NL",
+    "action": "https://help.2dehands.be/s/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.2dehands.be/s/topic/0TO5I000000TYqZWAW/voorwaarden?language=nl_NL#",
+    "action": "https://help.2dehands.be/s/topic/0TO5I000000TYqZWAW/voorwaarden?language=nl_NL#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.2dehands.be/s/topic/0TO5I000000TYqZWAW/voorwaarden?nocache=https%3A%2F%2Fhelp.2dehands.be%2Fs%2Ftopic%2F0TO5I000000TYqZWAW%2Fvoorwaarden%3Flanguage%3Dnl_NL",
+    "action": "https://help.2dehands.be/s/topic/0TO5I000000TYqZWAW/voorwaarden?language=nl_NL",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2dehands.be/link/homepagina",
+    "action": "https://www.2dehands.be/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Postcode",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2dehands.be/i/veiligheidscentrum/",
+    "action": "https://www.2dehands.be/i/veiligheidscentrum/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Schrijf een vraag of bericht...",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "iChatInputPasswordField",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "iChatInputLargeField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2dehands.be/link/open/i/whatsapp-fraude/",
+    "action": "https://www.2dehands.be/i/whatsapp-fraude/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Schrijf een vraag of bericht...",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "iChatInputPasswordField",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "iChatInputLargeField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2dehands.be/link/open/i/betalen-verzenden/",
+    "action": "https://www.2dehands.be/i/betalen-verzenden/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Schrijf een vraag of bericht...",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "iChatInputPasswordField",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "iChatInputLargeField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2dehands.be/identity/v2/reset-password",
+    "action": "https://www.2dehands.be/identity/v2/reset-password",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "TextField-eMailadres",
+        "id": "TextField-eMailadres",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://help.2dehands.be/s/#",
+    "action": "https://help.2dehands.be/s/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.2dehands.be/s/?nocache=https%3A%2F%2Fhelp.2dehands.be%2Fs%2F%3Flanguage%3Dnl_NL%23",
+    "action": "https://help.2dehands.be/s/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.2dehands.be/s/topic/0TO5I000000TYqZWAW/voorwaarden?nocache=https%3A%2F%2Fhelp.2dehands.be%2Fs%2Ftopic%2F0TO5I000000TYqZWAW%2Fvoorwaarden%3Flanguage%3Dnl_NL%23",
+    "action": "https://help.2dehands.be/s/topic/0TO5I000000TYqZWAW/voorwaarden?language=nl_NL",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.2dehands.be/s/article/betaalverzoek-met-bancontact-via-2dehands",
+    "action": "https://help.2dehands.be/s/article/betaalverzoek-met-bancontact-via-2dehands?language=nl_NL",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "150:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2dehands.be/i/whatsapp-fraude/",
+    "action": "https://www.2dehands.be/i/whatsapp-fraude/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Schrijf een vraag of bericht...",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "iChatInputPasswordField",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "iChatInputLargeField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.2dehands.be/s/article/wat-is-phishing",
+    "action": "https://help.2dehands.be/s/article/wat-is-phishing?language=nl_NL",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "150:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.2dehands.be/s/article/hoe-werkt-verzenden-met-bpost-via-2dehands",
+    "action": "https://help.2dehands.be/s/article/hoe-werkt-verzenden-met-bpost-via-2dehands?language=nl_NL",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "150:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2dehands.be/i/veilig-handelen",
+    "action": "https://www.2dehands.be/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Postcode",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2dehands.be/link/open/i/betaalverzoeken/",
+    "action": "https://www.2dehands.be/i/betaalverzoeken/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Schrijf een vraag of bericht...",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "iChatInputPasswordField",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "iChatInputLargeField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.2dehands.be/link/open/i/verzenden/",
+    "action": "https://www.2dehands.be/i/verzenden/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Schrijf een vraag of bericht...",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "iChatInputPasswordField",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "iChatInputLargeField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.2dehands.be/s/",
+    "action": "https://help.2dehands.be/s/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
   }
 ]
