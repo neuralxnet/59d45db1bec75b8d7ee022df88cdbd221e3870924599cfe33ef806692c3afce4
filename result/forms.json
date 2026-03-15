@@ -227640,5 +227640,894 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://marktplaats.nl",
+    "action": "https://www.marktplaats.nl/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Postcode",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl",
+    "action": "https://www.marktplaats.nl/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Postcode",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://marktplaats.nl",
+    "action": "https://www.marktplaats.nl/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Postcode",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/",
+    "action": "https://www.marktplaats.nl/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Postcode",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/#main-container",
+    "action": "https://www.marktplaats.nl/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Postcode",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/#footer-container",
+    "action": "https://www.marktplaats.nl/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Postcode",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.marktplaats.nl/s/",
+    "action": "https://help.marktplaats.nl/s/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/m/veiligheidscentrum/",
+    "action": "https://www.marktplaats.nl/m/veiligheidscentrum/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Schrijf een vraag of bericht...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.marktplaats.nl/s/#",
+    "action": "https://help.marktplaats.nl/s/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.marktplaats.nl/s/?nocache=https%3A%2F%2Fhelp.marktplaats.nl%2Fs%2F",
+    "action": "https://help.marktplaats.nl/s/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/i/help/",
+    "action": "https://help.marktplaats.nl/s/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/i/help/veilig-en-succesvol",
+    "action": "https://www.marktplaats.nl/m/veiligheidscentrum/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Schrijf een vraag of bericht...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.marktplaats.nl/s/article/ik-ben-nieuw-op-marktplaats",
+    "action": "https://help.marktplaats.nl/s/article/ik-ben-nieuw-op-marktplaats",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "150:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/i/help/over-marktplaats/perskamer-.dot.html",
+    "action": "https://www.marktplaatsperskamer.nl/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/i/help/over-marktplaats/blogs/autoblog.dot.html",
+    "action": "https://www.marktplaatszakelijk.nl/automotive/zoeken/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "search-input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/i/help/over-marktplaats/blogs/autoblog.dot.html",
+    "action": "https://www.marktplaatszakelijk.nl/automotive/zoeken/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "search-input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/i/help/over-marktplaats/blogs/autoblog.dot.html",
+    "action": "https://www.marktplaatszakelijk.nl/automotive/#gf_20",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "input_2",
+        "id": "input_20_2",
+        "placeholder": "vb: Autobedrijf de Groot",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_1",
+        "id": "input_20_1",
+        "placeholder": "vb: Rene van Mullum",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_5",
+        "id": "input_20_5",
+        "placeholder": "vb: 0612345678",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "input_8",
+        "id": "input_20_8",
+        "placeholder": "vb. email@email.nl",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "input_10",
+        "id": "input_20_10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_20",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_20",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_20",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_20",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_currency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state_20",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_20",
+        "id": "gform_target_page_number_20",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_20",
+        "id": "gform_source_page_number_20",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/i/help/over-marktplaats/blogs/autoblog.dot.html",
+    "action": "https://www.marktplaatszakelijk.nl/automotive/#gf_20",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "input_2",
+        "id": "input_20_2",
+        "placeholder": "vb: Autobedrijf de Groot",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_1",
+        "id": "input_20_1",
+        "placeholder": "vb: Rene van Mullum",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "input_5",
+        "id": "input_20_5",
+        "placeholder": "vb: 0612345678",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "input_8",
+        "id": "input_20_8",
+        "placeholder": "vb. email@email.nl",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "input_10",
+        "id": "input_20_10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "gform_submit_button_20",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submission_method",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_theme",
+        "id": "gform_theme_20",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_style_settings",
+        "id": "gform_style_settings_20",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "is_submit_20",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_currency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_unique_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state_20",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_target_page_number_20",
+        "id": "gform_target_page_number_20",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_source_page_number_20",
+        "id": "gform_source_page_number_20",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gform_field_values",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/link/homepagina",
+    "action": "https://www.marktplaats.nl/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Postcode",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/m/kopersbescherming/",
+    "action": "https://www.marktplaats.nl/m/kopersbescherming/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Schrijf een vraag of bericht...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/m/betaalfraude/",
+    "action": "https://www.marktplaats.nl/m/betaalfraude/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Schrijf een vraag of bericht...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/m/betalen-verzenden/",
+    "action": "https://www.marktplaats.nl/m/betalen-verzenden/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Schrijf een vraag of bericht...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/identity/v2/reset-password",
+    "action": "https://www.marktplaats.nl/identity/v2/reset-password",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "TextField-eMailadres",
+        "id": "TextField-eMailadres",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://help.marktplaats.nl/s/?nocache=https%3A%2F%2Fhelp.marktplaats.nl%2Fs%2F%23",
+    "action": "https://help.marktplaats.nl/s/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.marktplaats.nl/s/article/ik-ben-nieuw-op-marktplaats#",
+    "action": "https://help.marktplaats.nl/s/article/ik-ben-nieuw-op-marktplaats#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "150:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.marktplaats.nl/s/article/ik-ben-nieuw-op-marktplaats?nocache=https%3A%2F%2Fhelp.marktplaats.nl%2Fs%2Farticle%2Fik-ben-nieuw-op-marktplaats",
+    "action": "https://help.marktplaats.nl/s/article/ik-ben-nieuw-op-marktplaats",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "150:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/i/help/veilig-en-succesvol/index.dot.html",
+    "action": "https://www.marktplaats.nl/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Postcode",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.marktplaats.nl/",
+    "action": "https://help.marktplaats.nl/s/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/consent",
+    "action": "https://www.marktplaats.nl/lrp/api/lrp-url-redirect",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "TextField-",
+        "placeholder": "Postcode",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "distance",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://www.marktplaats.nl/i/help/",
+    "action": "https://help.marktplaats.nl/s/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "148:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://www.marktplaats.nl/i/help/veilig-en-succesvol/",
+    "action": "https://www.marktplaats.nl/m/veiligheidscentrum/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Schrijf een vraag of bericht...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/link/open/m/veiligheidscentrum/",
+    "action": "https://www.marktplaats.nl/m/veiligheidscentrum/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Schrijf een vraag of bericht...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.marktplaats.nl/m/whatsapp-fraude/",
+    "action": "https://www.marktplaats.nl/m/betaalfraude/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "iChatInputField",
+        "placeholder": "Schrijf een vraag of bericht...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.marktplaats.nl/s/article/hoe-beoordeel-ik-de-verkoper-of-koper",
+    "action": "https://help.marktplaats.nl/s/article/hoe-beoordeel-ik-de-verkoper-of-koper",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "150:0",
+        "placeholder": "Typ hier je vraag of onderwerp",
+        "required": false
+      }
+    ]
   }
 ]
