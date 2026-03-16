@@ -229467,5 +229467,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.fotocasa.es",
+    "action": "https://www.fotocasa.es/es/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Buscar vivienda en municipio, barrio...",
+        "required": false
+      }
+    ]
   }
 ]
