@@ -229481,5 +229481,198 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.infojobs.net",
+    "action": "https://www.infojobs.net/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "password",
+        "id": "e-password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "permanentLogin",
+        "id": "e-permanentLogin",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fenl",
+        "id": "fenl",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "j_clientId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tipoLogin",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "accio",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ret",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.infojobs.net",
+    "action": "https://www.infojobs.net/jobsearch/search-results/list.xhtml",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "palabra",
+        "id": "palabra",
+        "placeholder": "Puesto, empresa o palabra clave",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "normalizedJobTitleId",
+        "id": "normalizedJobTitleId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "of_provincia",
+        "id": "of_provincia",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "foreign",
+          "33",
+          "9",
+          "49",
+          "43",
+          "28",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "29",
+          "20",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "46",
+          "42",
+          "43",
+          "44",
+          "45",
+          "47",
+          "48",
+          "49",
+          "50",
+          "51",
+          "52",
+          "53"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "canal",
+        "id": "canal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "origen_busqueda",
+        "id": "origen_busqueda",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "origen_accion",
+        "id": "origen_accion",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "vieneUrlExecutive",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
