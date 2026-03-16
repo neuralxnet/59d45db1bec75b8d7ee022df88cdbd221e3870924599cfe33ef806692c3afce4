@@ -229674,5 +229674,96 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.kleinanzeigen.de",
+    "action": "https://www.kleinanzeigen.de/s-suchanfrage.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "categoryId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "locationId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "keywords",
+        "id": "",
+        "placeholder": "Was suchst du?",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "locationStr",
+        "id": "",
+        "placeholder": "PLZ oder Ort",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "radius",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "adType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "posterType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "maxPrice",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "minPrice",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "buyNowEnabled",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "shippingCarrier",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "shipping",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
