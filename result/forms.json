@@ -229765,5 +229765,265 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://draken.aero/contact/",
+    "action": "https://draken.aero/contact/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_csrfToken",
+        "id": "csrftoken",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_name",
+        "id": "form-name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FullName",
+        "id": "FullName",
+        "placeholder": "Full name",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "EmailAddress",
+        "id": "EmailAddress",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "Telephone",
+        "id": "Telephone",
+        "placeholder": "Telephone No.",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Company",
+        "id": "Company",
+        "placeholder": "Company name",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Select",
+        "id": "Select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select One (Optional)",
+          "General",
+          "Customer",
+          "Media",
+          "Careers",
+          "Supplier",
+          "GDPR",
+          "DrakenUSGeneral",
+          "DrakenUSBD"
+        ]
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "Message",
+        "placeholder": "Message....",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "receive_news",
+        "id": "receive_news",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Privacy",
+        "id": "Privacy",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Privacy",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "from_url",
+        "id": "from_url",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "return_url",
+        "id": "return_url",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "companyId",
+        "id": "companyId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ufprt",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.draken.aero/contact/",
+    "action": "https://www.draken.aero/contact/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_csrfToken",
+        "id": "csrftoken",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_name",
+        "id": "form-name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FullName",
+        "id": "FullName",
+        "placeholder": "Full name",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "EmailAddress",
+        "id": "EmailAddress",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "Telephone",
+        "id": "Telephone",
+        "placeholder": "Telephone No.",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Company",
+        "id": "Company",
+        "placeholder": "Company name",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Select",
+        "id": "Select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Select One (Optional)",
+          "General",
+          "Customer",
+          "Media",
+          "Careers",
+          "Supplier",
+          "GDPR",
+          "DrakenUSGeneral",
+          "DrakenUSBD"
+        ]
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "Message",
+        "placeholder": "Message....",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "receive_news",
+        "id": "receive_news",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Privacy",
+        "id": "Privacy",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Privacy",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "from_url",
+        "id": "from_url",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "return_url",
+        "id": "return_url",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "companyId",
+        "id": "companyId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ufprt",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
