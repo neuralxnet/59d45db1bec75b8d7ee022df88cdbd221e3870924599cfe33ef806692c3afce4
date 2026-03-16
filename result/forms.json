@@ -229110,5 +229110,208 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://nostromo.epreselec.com",
+    "action": "https://nostromo.epreselec.com/default.aspx",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEFIELDCOUNT",
+        "id": "__VIEWSTATEFIELDCOUNT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE1",
+        "id": "__VIEWSTATE1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE2",
+        "id": "__VIEWSTATE2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE3",
+        "id": "__VIEWSTATE3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE4",
+        "id": "__VIEWSTATE4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE5",
+        "id": "__VIEWSTATE5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE6",
+        "id": "__VIEWSTATE6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE7",
+        "id": "__VIEWSTATE7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE8",
+        "id": "__VIEWSTATE8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE9",
+        "id": "__VIEWSTATE9",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE10",
+        "id": "__VIEWSTATE10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE11",
+        "id": "__VIEWSTATE11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE12",
+        "id": "__VIEWSTATE12",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE13",
+        "id": "__VIEWSTATE13",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE14",
+        "id": "__VIEWSTATE14",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE15",
+        "id": "__VIEWSTATE15",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE16",
+        "id": "__VIEWSTATE16",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE17",
+        "id": "__VIEWSTATE17",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__PREVIOUSPAGE",
+        "id": "__PREVIOUSPAGE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "ApplicationId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$_repostcheckcode",
+        "id": "ctl00__repostcheckcode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "js-analyticsCookie",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ctl00$CPH_Body$ucLogin$tbLogin",
+        "id": "ctl00_CPH_Body_ucLogin_tbLogin",
+        "placeholder": "Introduce tu email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "ctl00$CPH_Body$ucLogin$tbPass",
+        "id": "ctl00_CPH_Body_ucLogin_tbPass",
+        "placeholder": "Introduce tu contraseña",
+        "required": false
+      }
+    ]
   }
 ]
