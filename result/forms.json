@@ -229313,5 +229313,159 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.automobile.it",
+    "action": "https://www.automobile.it/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "USATO",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "NUOVO",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "KM_0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "NOLEGGIO",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "TUTTE LE MARCHE"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "TUTTI I MODELLI"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "PREZZO FINO A",
+          "500",
+          "1000",
+          "2000",
+          "3000",
+          "4000",
+          "5000",
+          "6000",
+          "7000",
+          "8000",
+          "9000",
+          "10000",
+          "12500",
+          "15000",
+          "17500",
+          "20000",
+          "25000",
+          "30000",
+          "40000",
+          "50000",
+          "60000",
+          "70000",
+          "80000",
+          "90000",
+          "100000",
+          "250000",
+          "500000"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "CHILOMETRI MAX",
+          "5000",
+          "10000",
+          "20000",
+          "30000",
+          "40000",
+          "50000",
+          "60000",
+          "70000",
+          "80000",
+          "90000",
+          "100000",
+          "125000",
+          "150000",
+          "200000",
+          "300000",
+          "400000",
+          "500000"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "CITTÀ/CAP",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "RAGGIO",
+          "10",
+          "20",
+          "30",
+          "40",
+          "50",
+          "75",
+          "100",
+          "150",
+          "200",
+          "250",
+          "300",
+          "500"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "fb_pixel_state_of_vehicle",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
