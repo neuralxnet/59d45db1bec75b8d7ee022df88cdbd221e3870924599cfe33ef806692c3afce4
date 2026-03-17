@@ -230025,5 +230025,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://help.recreation.gov/helpcenter",
+    "action": "https://help.recreation.gov/helpcenter",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "t",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "navbar-search-input",
+        "placeholder": "Enter search here using phrases vs single words for best results, e.g. \"campsite availability\"",
+        "required": false
+      }
+    ]
   }
 ]
