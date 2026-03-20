@@ -231888,5 +231888,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://app.recordedfuture.com",
+    "action": "https://id.recordedfuture.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "securitytoken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "request_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
