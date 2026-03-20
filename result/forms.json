@@ -230348,5 +230348,411 @@
         ]
       }
     ]
+  },
+  {
+    "url": "https://tria.ge",
+    "action": "https://tria.ge/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "username",
+        "id": "username-input",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password-input",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tria.ge",
+    "action": "https://tria.ge/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "username",
+        "id": "username-input",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password-input",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://tria.ge",
+    "action": "https://tria.ge/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "username",
+        "id": "username-input",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password-input",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tria.ge/",
+    "action": "https://tria.ge/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "username",
+        "id": "username-input",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password-input",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tria.ge/login",
+    "action": "https://tria.ge/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "username",
+        "id": "username-input",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password-input",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tria.ge/docs/",
+    "action": "https://tria.ge/docs/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "search",
+        "placeholder": "Search the documentation",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tria.ge/auth?provider=github&return_to=",
+    "action": "https://github.com/session",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "add_account",
+        "id": "add_account",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "login",
+        "id": "login_field",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-conditional",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "javascript-support",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-support",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "webauthn-iuvpaa-support",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "return_to",
+        "id": "return_to",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "allow_signup",
+        "id": "allow_signup",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "client_id",
+        "id": "client_id",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "integration",
+        "id": "integration",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "required_field_a38a",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "timestamp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "timestamp_secret",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tria.ge/recover",
+    "action": "https://tria.ge/recover",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tria.ge/s",
+    "action": "https://tria.ge/s",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tria.ge/docs/faq/",
+    "action": "https://tria.ge/docs/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "search",
+        "placeholder": "Search the documentation",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tria.ge/docs/analysis/",
+    "action": "https://tria.ge/docs/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "search",
+        "placeholder": "Search the documentation",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tria.ge/docs/data-model/",
+    "action": "https://tria.ge/docs/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "search",
+        "placeholder": "Search the documentation",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tria.ge/docs/scoring/",
+    "action": "https://tria.ge/docs/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "search",
+        "placeholder": "Search the documentation",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tria.ge/docs/yara/",
+    "action": "https://tria.ge/docs/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "search",
+        "placeholder": "Search the documentation",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tria.ge/docs/live-monitor/",
+    "action": "https://tria.ge/docs/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "search",
+        "placeholder": "Search the documentation",
+        "required": false
+      }
+    ]
   }
 ]
