@@ -230754,5 +230754,1139 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://hatching.io",
+    "action": "https://hatching.io/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://hatching.io",
+    "action": "https://hatching.io/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/",
+    "action": "https://hatching.io/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/about/",
+    "action": "https://hatching.io/about/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/triage/",
+    "action": "https://hatching.io/triage/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/blog/",
+    "action": "https://hatching.io/blog/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/triage",
+    "action": "https://hatching.io/triage/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/#",
+    "action": "https://hatching.io/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/#about",
+    "action": "https://hatching.io/#about",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/#solutions",
+    "action": "https://hatching.io/#solutions",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/about/#",
+    "action": "https://hatching.io/about/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/about/#about",
+    "action": "https://hatching.io/about/#about",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/about/#why",
+    "action": "https://hatching.io/about/#why",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/triage/#pricing",
+    "action": "https://hatching.io/triage/#pricing",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/triage/#",
+    "action": "https://hatching.io/triage/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/triage/#why-triage",
+    "action": "https://hatching.io/triage/#why-triage",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/triage/#users",
+    "action": "https://hatching.io/triage/#users",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/jobs/",
+    "action": "https://hatching.io/jobs/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/blog/#",
+    "action": "https://hatching.io/blog/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/blog/#posts-filter",
+    "action": "https://hatching.io/blog/#posts-filter",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/blog/#categories",
+    "action": "https://hatching.io/blog/#categories",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/blog/tt-2026-03-12/",
+    "action": "https://hatching.io/blog/tt-2026-03-12/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/jobs/#",
+    "action": "https://hatching.io/jobs/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/jobs/#about",
+    "action": "https://hatching.io/jobs/#about",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/blog/tt-2026-03-12/#",
+    "action": "https://hatching.io/blog/tt-2026-03-12/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/blog/#category=triage",
+    "action": "https://hatching.io/blog/#category=triage",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://hatching.io/blog/#category=updates",
+    "action": "https://hatching.io/blog/#category=updates",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "form-name",
+        "placeholder": "Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "form-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "form-phone",
+        "placeholder": "Phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "form-company",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "form-message",
+        "placeholder": "Write a message",
+        "required": false
+      }
+    ]
   }
 ]
