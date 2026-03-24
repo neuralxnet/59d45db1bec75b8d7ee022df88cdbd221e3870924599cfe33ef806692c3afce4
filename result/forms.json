@@ -231916,5 +231916,1325 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.foundedbyher.org/register",
+    "action": "https://www.foundedbyher.org/register",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "opt1",
+        "id": "opt1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "opt2",
+        "id": "opt2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "opt3",
+        "id": "opt3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "business-name",
+        "id": "business-name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "business-email",
+        "id": "business-email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "business-phone-number",
+        "id": "business-phone-number",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "business-website",
+        "id": "business-website",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "shoppable-nationwide",
+        "id": "shoppable-nationwide",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "business-description",
+        "id": "business-description",
+        "placeholder": "At Mrs. Turbo’s Cookies, we are a retro-themed ‘50s style bakery that delivers cookies and treats that are all natural with no additives or preservatives. These thick, chewy, and positively addicting delights are not your average cookie.",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "business-main-photo",
+        "id": "business-main-photo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "business-photo",
+        "id": "business-photo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "business-address",
+        "id": "business-address",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "business-address-extra",
+        "id": "business-address-extra",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "business-city",
+        "id": "business-city",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "business-state",
+        "id": "business-state",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Please Select",
+          "AL",
+          "AK",
+          "AZ",
+          "AR",
+          "CA",
+          "CO",
+          "CT",
+          "DE",
+          "DC",
+          "FL",
+          "GA",
+          "HI",
+          "ID",
+          "IL",
+          "IN",
+          "IA",
+          "KS",
+          "KY",
+          "LA",
+          "ME",
+          "MD",
+          "MA",
+          "MI",
+          "MN",
+          "MS",
+          "MO",
+          "MT",
+          "NE",
+          "NV",
+          "NH",
+          "NJ",
+          "NM",
+          "NY",
+          "NC",
+          "ND",
+          "OH",
+          "OK",
+          "OR",
+          "PA",
+          "PR",
+          "RI",
+          "SC",
+          "SD",
+          "TN",
+          "TX",
+          "UT",
+          "VT",
+          "VA",
+          "WA",
+          "WV",
+          "WI",
+          "WY"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "business-postal-code",
+        "id": "business-postal-code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "founder-name",
+        "id": "founder-name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "founder-ethnicity",
+        "id": "founder-ethnicity",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "founder-story",
+        "id": "founder-story",
+        "placeholder": "In 2012, I found my passion for baking again when my husband commented that there weren’t any good cookies in Columbus, Ohio. Well, not one to let a challenge pass me by, I took it to heart and started baking again. It became my outlet for relief for my special corporate job.",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "founder-photo",
+        "id": "founder-photo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Arts/Entertainment/Recreation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Beauty/Self Care",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Construction",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Consumer Goods/Retail/E-Commerce",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Consumer Packaged Goods",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Energy/Natural Resources",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Food & Beverage Services/Restaurant",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Healthcare/Wellness",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Manufacturing",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Other",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Personal Services",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Professional/Business Services",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Real Estate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Social Enterprise/Education",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Software",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Technology/Telecommunications",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Transportation/Logistics",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "facebook",
+        "id": "facebook",
+        "placeholder": "https://www.facebook.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "instagram",
+        "id": "instagram",
+        "placeholder": "https://www.instagram.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "twitter",
+        "id": "twitter",
+        "placeholder": "https://www.twitter.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "linkedin",
+        "id": "linkedin",
+        "placeholder": "https://www.linkedin.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "pinterest",
+        "id": "pinterest",
+        "placeholder": "https://www.pinterest.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "yelp",
+        "id": "yelp",
+        "placeholder": "https://www.yelp.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "etsy",
+        "id": "etsy",
+        "placeholder": "https://shopname.etsy.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "whatspapp",
+        "id": "whatsapp",
+        "placeholder": "https://wa.me/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "youtube",
+        "id": "youtube",
+        "placeholder": "https://www.youtube.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "amazon",
+        "id": "amazon",
+        "placeholder": "https://www.amazon.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "medium",
+        "id": "medium",
+        "placeholder": "https://www.medium.com/...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.foundedbyher.org/login",
+    "action": "https://www.foundedbyher.org/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.foundedbyher.org/register#main-content",
+    "action": "https://www.foundedbyher.org/register#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "opt1",
+        "id": "opt1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "opt2",
+        "id": "opt2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "opt3",
+        "id": "opt3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "business-name",
+        "id": "business-name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "business-email",
+        "id": "business-email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "business-phone-number",
+        "id": "business-phone-number",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "business-website",
+        "id": "business-website",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "shoppable-nationwide",
+        "id": "shoppable-nationwide",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "business-description",
+        "id": "business-description",
+        "placeholder": "At Mrs. Turbo’s Cookies, we are a retro-themed ‘50s style bakery that delivers cookies and treats that are all natural with no additives or preservatives. These thick, chewy, and positively addicting delights are not your average cookie.",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "business-main-photo",
+        "id": "business-main-photo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "business-photo",
+        "id": "business-photo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "business-address",
+        "id": "business-address",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "business-address-extra",
+        "id": "business-address-extra",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "business-city",
+        "id": "business-city",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "business-state",
+        "id": "business-state",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Please Select",
+          "AL",
+          "AK",
+          "AZ",
+          "AR",
+          "CA",
+          "CO",
+          "CT",
+          "DE",
+          "DC",
+          "FL",
+          "GA",
+          "HI",
+          "ID",
+          "IL",
+          "IN",
+          "IA",
+          "KS",
+          "KY",
+          "LA",
+          "ME",
+          "MD",
+          "MA",
+          "MI",
+          "MN",
+          "MS",
+          "MO",
+          "MT",
+          "NE",
+          "NV",
+          "NH",
+          "NJ",
+          "NM",
+          "NY",
+          "NC",
+          "ND",
+          "OH",
+          "OK",
+          "OR",
+          "PA",
+          "PR",
+          "RI",
+          "SC",
+          "SD",
+          "TN",
+          "TX",
+          "UT",
+          "VT",
+          "VA",
+          "WA",
+          "WV",
+          "WI",
+          "WY"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "business-postal-code",
+        "id": "business-postal-code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "founder-name",
+        "id": "founder-name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "founder-ethnicity",
+        "id": "founder-ethnicity",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "founder-story",
+        "id": "founder-story",
+        "placeholder": "In 2012, I found my passion for baking again when my husband commented that there weren’t any good cookies in Columbus, Ohio. Well, not one to let a challenge pass me by, I took it to heart and started baking again. It became my outlet for relief for my special corporate job.",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "founder-photo",
+        "id": "founder-photo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Arts/Entertainment/Recreation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Beauty/Self Care",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Construction",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Consumer Goods/Retail/E-Commerce",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Consumer Packaged Goods",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Energy/Natural Resources",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Food & Beverage Services/Restaurant",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Healthcare/Wellness",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Manufacturing",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Other",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Personal Services",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Professional/Business Services",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Real Estate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Social Enterprise/Education",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Software",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Technology/Telecommunications",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Transportation/Logistics",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "facebook",
+        "id": "facebook",
+        "placeholder": "https://www.facebook.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "instagram",
+        "id": "instagram",
+        "placeholder": "https://www.instagram.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "twitter",
+        "id": "twitter",
+        "placeholder": "https://www.twitter.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "linkedin",
+        "id": "linkedin",
+        "placeholder": "https://www.linkedin.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "pinterest",
+        "id": "pinterest",
+        "placeholder": "https://www.pinterest.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "yelp",
+        "id": "yelp",
+        "placeholder": "https://www.yelp.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "etsy",
+        "id": "etsy",
+        "placeholder": "https://shopname.etsy.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "whatspapp",
+        "id": "whatsapp",
+        "placeholder": "https://wa.me/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "youtube",
+        "id": "youtube",
+        "placeholder": "https://www.youtube.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "amazon",
+        "id": "amazon",
+        "placeholder": "https://www.amazon.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "medium",
+        "id": "medium",
+        "placeholder": "https://www.medium.com/...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.foundedbyher.org/register#",
+    "action": "https://www.foundedbyher.org/register#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "opt1",
+        "id": "opt1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "opt2",
+        "id": "opt2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "opt3",
+        "id": "opt3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "business-name",
+        "id": "business-name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "business-email",
+        "id": "business-email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "business-phone-number",
+        "id": "business-phone-number",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "business-website",
+        "id": "business-website",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "shoppable-nationwide",
+        "id": "shoppable-nationwide",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "business-description",
+        "id": "business-description",
+        "placeholder": "At Mrs. Turbo’s Cookies, we are a retro-themed ‘50s style bakery that delivers cookies and treats that are all natural with no additives or preservatives. These thick, chewy, and positively addicting delights are not your average cookie.",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "business-main-photo",
+        "id": "business-main-photo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "business-photo",
+        "id": "business-photo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "business-address",
+        "id": "business-address",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "business-address-extra",
+        "id": "business-address-extra",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "business-city",
+        "id": "business-city",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "business-state",
+        "id": "business-state",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Please Select",
+          "AL",
+          "AK",
+          "AZ",
+          "AR",
+          "CA",
+          "CO",
+          "CT",
+          "DE",
+          "DC",
+          "FL",
+          "GA",
+          "HI",
+          "ID",
+          "IL",
+          "IN",
+          "IA",
+          "KS",
+          "KY",
+          "LA",
+          "ME",
+          "MD",
+          "MA",
+          "MI",
+          "MN",
+          "MS",
+          "MO",
+          "MT",
+          "NE",
+          "NV",
+          "NH",
+          "NJ",
+          "NM",
+          "NY",
+          "NC",
+          "ND",
+          "OH",
+          "OK",
+          "OR",
+          "PA",
+          "PR",
+          "RI",
+          "SC",
+          "SD",
+          "TN",
+          "TX",
+          "UT",
+          "VT",
+          "VA",
+          "WA",
+          "WV",
+          "WI",
+          "WY"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "business-postal-code",
+        "id": "business-postal-code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "founder-name",
+        "id": "founder-name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "founder-ethnicity",
+        "id": "founder-ethnicity",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "founder-story",
+        "id": "founder-story",
+        "placeholder": "In 2012, I found my passion for baking again when my husband commented that there weren’t any good cookies in Columbus, Ohio. Well, not one to let a challenge pass me by, I took it to heart and started baking again. It became my outlet for relief for my special corporate job.",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "founder-photo",
+        "id": "founder-photo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Arts/Entertainment/Recreation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Beauty/Self Care",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Construction",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Consumer Goods/Retail/E-Commerce",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Consumer Packaged Goods",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Energy/Natural Resources",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Food & Beverage Services/Restaurant",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Healthcare/Wellness",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Manufacturing",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Other",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Personal Services",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Professional/Business Services",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Real Estate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Social Enterprise/Education",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Software",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Technology/Telecommunications",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "industries",
+        "id": "Transportation/Logistics",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "facebook",
+        "id": "facebook",
+        "placeholder": "https://www.facebook.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "instagram",
+        "id": "instagram",
+        "placeholder": "https://www.instagram.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "twitter",
+        "id": "twitter",
+        "placeholder": "https://www.twitter.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "linkedin",
+        "id": "linkedin",
+        "placeholder": "https://www.linkedin.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "pinterest",
+        "id": "pinterest",
+        "placeholder": "https://www.pinterest.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "yelp",
+        "id": "yelp",
+        "placeholder": "https://www.yelp.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "etsy",
+        "id": "etsy",
+        "placeholder": "https://shopname.etsy.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "whatspapp",
+        "id": "whatsapp",
+        "placeholder": "https://wa.me/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "youtube",
+        "id": "youtube",
+        "placeholder": "https://www.youtube.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "amazon",
+        "id": "amazon",
+        "placeholder": "https://www.amazon.com/...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "medium",
+        "id": "medium",
+        "placeholder": "https://www.medium.com/...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.foundedbyher.org/login#main-content",
+    "action": "https://www.foundedbyher.org/login#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.foundedbyher.org/login#",
+    "action": "https://www.foundedbyher.org/login#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
