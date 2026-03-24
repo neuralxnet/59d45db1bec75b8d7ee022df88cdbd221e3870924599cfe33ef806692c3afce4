@@ -233236,5 +233236,397 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://fritolay.com",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://fritolay.com",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/brands/funyuns",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/brands/baken-ets",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/brands/chesters-snacks",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/brands/funyuns#main-content",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/brands/funyuns#",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/products/funyuns-onion-flavored-rings",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/products/funyuns-flamin-hot-flavored-onion-flavored-rings",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/products/funyuns-spicy-queso-flavored-onion-flavored-rings",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/#newsletter_signup",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/brands/baken-ets#main-content",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/brands/baken-ets#",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/products/baken-ets-hot-n-spicy-flavored-fried-pork-skins",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/products/baken-ets-traditional-fried-pork-skins",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/products/baken-ets-flamin-hot-fried-pork-skins",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/products/baken-ets-sweet-southern-heat-bbq-flavored-fried-pork-skins",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/brands/chesters-snacks#main-content",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/brands/chesters-snacks#",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/products/chesters-flamin-hot-fries-flavored-corn-snacks",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/products/chesters-butter-flavored-puffcorn-snacks",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/products/chesters-cheese-flavored-puffcorn-snacks",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/products/chesters-flamin-hot-flavored-puffcorn-snacks",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/products/funyuns-onion-flavored-rings#main-content",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/products/funyuns-flamin-hot-flavored-onion-flavored-rings#main-content",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fritolay.com/products/funyuns-spicy-queso-flavored-onion-flavored-rings#main-content",
+    "action": "https://www.fritolay.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
   }
 ]
