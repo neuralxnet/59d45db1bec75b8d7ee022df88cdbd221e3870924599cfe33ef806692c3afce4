@@ -233628,5 +233628,19 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://www.sembcorp.com",
+    "action": "https://www.sembcorp.com/search-results/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "term",
+        "id": "search-header",
+        "placeholder": "Please enter search keywords",
+        "required": false
+      }
+    ]
   }
 ]
