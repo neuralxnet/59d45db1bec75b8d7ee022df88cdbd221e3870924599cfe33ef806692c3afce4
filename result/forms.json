@@ -233726,5 +233726,47 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://support.drumgrange.com",
+    "action": "https://support.drumgrange.co.uk/User/Login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "Username",
+        "placeholder": "Username or Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "rememberMe",
+        "id": "rememberMe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
