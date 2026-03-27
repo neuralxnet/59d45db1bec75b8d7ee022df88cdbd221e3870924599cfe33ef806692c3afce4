@@ -234958,5 +234958,446 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://delta.app",
+    "action": "https://delta.app/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "marketing-2",
+        "id": "marketing-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "personalization-2",
+        "id": "personalization-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "analytics-2",
+        "id": "analytics-2",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://delta.app",
+    "action": "https://delta.app/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "newsletter-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.delta.app",
+    "action": "https://delta.app/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "marketing-2",
+        "id": "marketing-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "personalization-2",
+        "id": "personalization-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "analytics-2",
+        "id": "analytics-2",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.delta.app",
+    "action": "https://delta.app/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "newsletter-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://delta.app",
+    "action": "https://delta.app/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "marketing-2",
+        "id": "marketing-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "personalization-2",
+        "id": "personalization-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "analytics-2",
+        "id": "analytics-2",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://delta.app",
+    "action": "https://delta.app/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "newsletter-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://delta.app/en#",
+    "action": "https://delta.app/en#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "marketing-2",
+        "id": "marketing-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "personalization-2",
+        "id": "personalization-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "analytics-2",
+        "id": "analytics-2",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://delta.app/en#",
+    "action": "https://delta.app/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "newsletter-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://delta.app/",
+    "action": "https://delta.app/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "marketing-2",
+        "id": "marketing-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "personalization-2",
+        "id": "personalization-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "analytics-2",
+        "id": "analytics-2",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://delta.app/",
+    "action": "https://delta.app/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "newsletter-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://delta.app/en/crypto-tracker",
+    "action": "https://delta.app/en/crypto-tracker",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "marketing-2",
+        "id": "marketing-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "personalization-2",
+        "id": "personalization-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "analytics-2",
+        "id": "analytics-2",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://delta.app/en/crypto-tracker",
+    "action": "https://delta.app/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "newsletter-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://delta.app/en/commodity-tracker",
+    "action": "https://delta.app/en/commodity-tracker",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "marketing-2",
+        "id": "marketing-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "personalization-2",
+        "id": "personalization-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "analytics-2",
+        "id": "analytics-2",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://delta.app/en/commodity-tracker",
+    "action": "https://delta.app/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "newsletter-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://delta.app/en/crypto-tracker#",
+    "action": "https://delta.app/en/crypto-tracker#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "marketing-2",
+        "id": "marketing-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "personalization-2",
+        "id": "personalization-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "analytics-2",
+        "id": "analytics-2",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://delta.app/en/crypto-tracker#",
+    "action": "https://delta.app/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "newsletter-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://delta.app/en/commodity-tracker#",
+    "action": "https://delta.app/en/commodity-tracker#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "marketing-2",
+        "id": "marketing-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "personalization-2",
+        "id": "personalization-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "analytics-2",
+        "id": "analytics-2",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://delta.app/en/commodity-tracker#",
+    "action": "https://delta.app/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "newsletter-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
