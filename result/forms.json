@@ -235483,5 +235483,89 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://etorox.com",
+    "action": "https://www.etoro.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search for Instrument / Data",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://etorox.com",
+    "action": "https://www.etoro.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.etorox.com",
+    "action": "https://www.etoro.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search for Instrument / Data",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.etorox.com",
+    "action": "https://www.etoro.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://etorox.com",
+    "action": "https://www.etoro.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search for Instrument / Data",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://etorox.com",
+    "action": "https://www.etoro.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": true
+      }
+    ]
   }
 ]
