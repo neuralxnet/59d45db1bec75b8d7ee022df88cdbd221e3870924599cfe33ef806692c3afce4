@@ -235567,5 +235567,82 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://studio.clearstreet.io/",
+    "action": "https://auth.clearstreet.io/login?state=hKFo2SAyVVI5TGY1RVgzdVRKUDAwQmp0VnpaMzFqY1E0YzdPcqFupWxvZ2luo3RpZNkgUVJCQ000ZExndzBkS182bmowa2Q0eXN2R3VLVGtrc1qjY2lk2SB6QklXN3Z4Y2hwTkxwRVpJMDA0RnlOV3E3YmkzUnhKMw&client=zBIW7vxchpNLpEZI004FyNWq7bi3RxJ3&protocol=oauth2&scope=openid%20profile%20offline_access%20name%20given_name%20family_name%20nickname%20email%20email_verified%20picture%20created_at%20identities%20phone%20address&response_type=code%20id_token&redirect_uri=https%3A%2F%2Fprod-studio-fe-session-service.clearstreet.io%2Fcallback&response_mode=form_post&nonce=tkwYg2fmsIAZZz8nNIamI6lIXVa-ZXrn03eYNGHLuEU&code_challenge_method=S256&code_challenge=NU4pbsV02CBqh2gVo20Hjo-dTtjDe1kjoYFY-voMWSA",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "email",
+        "placeholder": "Email address",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://studio.clearstreet.io/",
+    "action": "https://auth.clearstreet.io/login?state=hKFo2SAyVVI5TGY1RVgzdVRKUDAwQmp0VnpaMzFqY1E0YzdPcqFupWxvZ2luo3RpZNkgUVJCQ000ZExndzBkS182bmowa2Q0eXN2R3VLVGtrc1qjY2lk2SB6QklXN3Z4Y2hwTkxwRVpJMDA0RnlOV3E3YmkzUnhKMw&client=zBIW7vxchpNLpEZI004FyNWq7bi3RxJ3&protocol=oauth2&scope=openid%20profile%20offline_access%20name%20given_name%20family_name%20nickname%20email%20email_verified%20picture%20created_at%20identities%20phone%20address&response_type=code%20id_token&redirect_uri=https%3A%2F%2Fprod-studio-fe-session-service.clearstreet.io%2Fcallback&response_mode=form_post&nonce=tkwYg2fmsIAZZz8nNIamI6lIXVa-ZXrn03eYNGHLuEU&code_challenge_method=S256&code_challenge=NU4pbsV02CBqh2gVo20Hjo-dTtjDe1kjoYFY-voMWSA",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "input-reset-email",
+        "placeholder": "Email address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://studio.clearstreet.io/",
+    "action": "https://auth.clearstreet.io/login?state=hKFo2SAyVVI5TGY1RVgzdVRKUDAwQmp0VnpaMzFqY1E0YzdPcqFupWxvZ2luo3RpZNkgUVJCQ000ZExndzBkS182bmowa2Q0eXN2R3VLVGtrc1qjY2lk2SB6QklXN3Z4Y2hwTkxwRVpJMDA0RnlOV3E3YmkzUnhKMw&client=zBIW7vxchpNLpEZI004FyNWq7bi3RxJ3&protocol=oauth2&scope=openid%20profile%20offline_access%20name%20given_name%20family_name%20nickname%20email%20email_verified%20picture%20created_at%20identities%20phone%20address&response_type=code%20id_token&redirect_uri=https%3A%2F%2Fprod-studio-fe-session-service.clearstreet.io%2Fcallback&response_mode=form_post&nonce=tkwYg2fmsIAZZz8nNIamI6lIXVa-ZXrn03eYNGHLuEU&code_challenge_method=S256&code_challenge=NU4pbsV02CBqh2gVo20Hjo-dTtjDe1kjoYFY-voMWSA",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "input-signup-email",
+        "placeholder": "Email address*",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "input-signup-password",
+        "placeholder": "Password*",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "input-signup-password2",
+        "placeholder": "Password again*",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "input-signup-given_name",
+        "placeholder": "First name*",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "input-signup-family_name",
+        "placeholder": "Last name*",
+        "required": false
+      }
+    ]
   }
 ]
