@@ -235455,5 +235455,33 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://templates.etoro.com",
+    "action": "https://www.etoro.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search for Instrument / Data",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://templates.etoro.com",
+    "action": "https://www.etoro.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": true
+      }
+    ]
   }
 ]
