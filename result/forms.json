@@ -235644,5 +235644,89 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://lifewtr.com",
+    "action": "https://www.lifewtr.com/en-us/under-construction",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ctl05_TSM",
+        "id": "ctl05_TSM",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl06_TSSM",
+        "id": "ctl06_TSSM",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl05",
+        "id": "ctl05",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://lifewtr.com",
+    "action": "https://www.lifewtr.com/en-us/under-construction",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ctl05_TSM",
+        "id": "ctl05_TSM",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl06_TSSM",
+        "id": "ctl06_TSSM",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl05",
+        "id": "ctl05",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
