@@ -240699,5 +240699,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://pepsicoschoolsource.com",
+    "action": "https://www.pepsicoschoolsource.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "keywords",
+        "id": "edit-keywords",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
   }
 ]
