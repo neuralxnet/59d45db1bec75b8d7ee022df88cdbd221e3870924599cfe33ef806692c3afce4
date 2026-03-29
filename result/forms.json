@@ -235770,5 +235770,110 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://pepsicobeveragefacts.com",
+    "action": "https://www.pepsicoproductfacts.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://pepsicobeveragefacts.com",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicobeveragefacts.com",
+    "action": "https://www.pepsicoproductfacts.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicobeveragefacts.com",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://pepsicobeveragefacts.com",
+    "action": "https://www.pepsicoproductfacts.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://pepsicobeveragefacts.com",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
   }
 ]
