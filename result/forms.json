@@ -235728,5 +235728,47 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://offtheeatenpathsnacks.com",
+    "action": "https://www.snacks.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.offtheeatenpathsnacks.com",
+    "action": "https://www.snacks.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://offtheeatenpathsnacks.com",
+    "action": "https://www.snacks.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
   }
 ]
