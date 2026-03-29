@@ -238592,5 +238592,2112 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://pepsicoproductfacts.com",
+    "action": "https://www.pepsicoproductfacts.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://pepsicoproductfacts.com",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com",
+    "action": "https://www.pepsicoproductfacts.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://pepsicoproductfacts.com",
+    "action": "https://www.pepsicoproductfacts.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://pepsicoproductfacts.com",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find",
+    "action": "https://www.pepsicoproductfacts.com/Home/CompareProdsExcelDownload",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "filterSetData",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "excelLabel",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isCompareAll",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find",
+    "action": "https://www.pepsicoproductfacts.com/home/find",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find#/filterset/glutenFree=yes",
+    "action": "https://www.pepsicoproductfacts.com/Home/CompareProdsExcelDownload",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "filterSetData",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "excelLabel",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isCompareAll",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find#/filterset/glutenFree=yes",
+    "action": "https://www.pepsicoproductfacts.com/home/find#/filterset/glutenFree=yes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find#/filterset/glutenFree=yes",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find#/filterset/nonGMO=yes",
+    "action": "https://www.pepsicoproductfacts.com/Home/CompareProdsExcelDownload",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "filterSetData",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "excelLabel",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isCompareAll",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find#/filterset/nonGMO=yes",
+    "action": "https://www.pepsicoproductfacts.com/home/find#/filterset/nonGMO=yes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find#/filterset/nonGMO=yes",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find#/filterset/fiberGood=yes",
+    "action": "https://www.pepsicoproductfacts.com/Home/CompareProdsExcelDownload",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "filterSetData",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "excelLabel",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isCompareAll",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find#/filterset/fiberGood=yes",
+    "action": "https://www.pepsicoproductfacts.com/home/find#/filterset/fiberGood=yes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find#/filterset/fiberGood=yes",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find#/filterset/organic=yes",
+    "action": "https://www.pepsicoproductfacts.com/Home/CompareProdsExcelDownload",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "filterSetData",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "excelLabel",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isCompareAll",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find#/filterset/organic=yes",
+    "action": "https://www.pepsicoproductfacts.com/home/find#/filterset/organic=yes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find#/filterset/organic=yes",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find#/filterset/heartHealthy=yes",
+    "action": "https://www.pepsicoproductfacts.com/Home/CompareProdsExcelDownload",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "filterSetData",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "excelLabel",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isCompareAll",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find#/filterset/heartHealthy=yes",
+    "action": "https://www.pepsicoproductfacts.com/home/find#/filterset/heartHealthy=yes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find#/filterset/heartHealthy=yes",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/fiber",
+    "action": "https://www.pepsicoproductfacts.com/home/fiber",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/fiber",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/wholegrains",
+    "action": "https://www.pepsicoproductfacts.com/home/wholegrains",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/wholegrains",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/vitamins",
+    "action": "https://www.pepsicoproductfacts.com/home/vitamins",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/vitamins",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/sitetips",
+    "action": "https://www.pepsicoproductfacts.com/home/sitetips",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/sitetips",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find#",
+    "action": "https://www.pepsicoproductfacts.com/Home/CompareProdsExcelDownload",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "filterSetData",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "excelLabel",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isCompareAll",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find#",
+    "action": "https://www.pepsicoproductfacts.com/home/find#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/find#",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/Home/sodium",
+    "action": "https://www.pepsicoproductfacts.com/Home/sodium",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/Home/sodium",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/Contact",
+    "action": "https://www.pepsicoproductfacts.com/home/Contact",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/Contact",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/Sitemap",
+    "action": "https://www.pepsicoproductfacts.com/home/Sitemap",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/Sitemap",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/",
+    "action": "https://www.pepsicoproductfacts.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/disclaimer?offsite_link=//www.ncbi.nlm.nih.gov/pmc/articles/PMC6124841/",
+    "action": "https://www.pepsicoproductfacts.com/home/disclaimer?offsite_link=//www.ncbi.nlm.nih.gov/pmc/articles/PMC6124841/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/disclaimer?offsite_link=//www.ncbi.nlm.nih.gov/pmc/articles/PMC6124841/",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/fiber#tab1",
+    "action": "https://www.pepsicoproductfacts.com/home/fiber#tab1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/fiber#tab1",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/fiber#tab2",
+    "action": "https://www.pepsicoproductfacts.com/home/fiber#tab2",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/fiber#tab2",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/fiber#",
+    "action": "https://www.pepsicoproductfacts.com/home/fiber#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/fiber#",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/compare",
+    "action": "https://www.pepsicoproductfacts.com/Home/CompareProdsExcelDownload",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "filterSetData",
+        "id": "filterSetData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "excelLabel",
+        "id": "excelLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isCompareAll",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "constructHeader",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/compare",
+    "action": "https://www.pepsicoproductfacts.com/home/compare",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/compare",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/disclaimer?offsite_link=//health.gov/our-work/nutrition-physical-activity/dietary-guidelines/current-dietary-guidelines",
+    "action": "https://www.pepsicoproductfacts.com/home/disclaimer?offsite_link=//health.gov/our-work/nutrition-physical-activity/dietary-guidelines/current-dietary-guidelines",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/disclaimer?offsite_link=//health.gov/our-work/nutrition-physical-activity/dietary-guidelines/current-dietary-guidelines",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/wholegrains#tab1",
+    "action": "https://www.pepsicoproductfacts.com/home/wholegrains#tab1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/wholegrains#tab1",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/wholegrains#",
+    "action": "https://www.pepsicoproductfacts.com/home/wholegrains#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/wholegrains#",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary",
+    "action": "https://www.pepsicoproductfacts.com/home/ingredientglossary",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/vitamins#tab1",
+    "action": "https://www.pepsicoproductfacts.com/home/vitamins#tab1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/vitamins#tab1",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/Home/sodium#tab1",
+    "action": "https://www.pepsicoproductfacts.com/Home/sodium#tab1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/Home/sodium#tab1",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/Home/sodium#tab2",
+    "action": "https://www.pepsicoproductfacts.com/Home/sodium#tab2",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/Home/sodium#tab2",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/Home/sodium#",
+    "action": "https://www.pepsicoproductfacts.com/Home/sodium#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/Home/sodium#",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/Contact#",
+    "action": "https://www.pepsicoproductfacts.com/home/Contact#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/Contact#",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/colors",
+    "action": "https://www.pepsicoproductfacts.com/home/colors",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/colors",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/caffeine",
+    "action": "https://www.pepsicoproductfacts.com/home/caffeine",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/caffeine",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/electrolytes",
+    "action": "https://www.pepsicoproductfacts.com/home/electrolytes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/electrolytes",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/phosphorus",
+    "action": "https://www.pepsicoproductfacts.com/home/phosphorus",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/phosphorus",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/disclaimer?offsite_link=//www.ncbi.nlm.nih.gov/pmc/articles/PMC6124841/#",
+    "action": "https://www.pepsicoproductfacts.com/home/disclaimer?offsite_link=//www.ncbi.nlm.nih.gov/pmc/articles/PMC6124841/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/disclaimer?offsite_link=//www.ncbi.nlm.nih.gov/pmc/articles/PMC6124841/#",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/compare#",
+    "action": "https://www.pepsicoproductfacts.com/Home/CompareProdsExcelDownload",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "filterSetData",
+        "id": "filterSetData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "excelLabel",
+        "id": "excelLabel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isCompareAll",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "constructHeader",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/compare#",
+    "action": "https://www.pepsicoproductfacts.com/home/compare#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/compare#",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/disclaimer?offsite_link=//health.gov/our-work/nutrition-physical-activity/dietary-guidelines/current-dietary-guidelines#",
+    "action": "https://www.pepsicoproductfacts.com/home/disclaimer?offsite_link=//health.gov/our-work/nutrition-physical-activity/dietary-guidelines/current-dietary-guidelines#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/disclaimer?offsite_link=//health.gov/our-work/nutrition-physical-activity/dietary-guidelines/current-dietary-guidelines#",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#A",
+    "action": "https://www.pepsicoproductfacts.com/home/ingredientglossary#A",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#A",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#B",
+    "action": "https://www.pepsicoproductfacts.com/home/ingredientglossary#B",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#B",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#C",
+    "action": "https://www.pepsicoproductfacts.com/home/ingredientglossary#C",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#C",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#D",
+    "action": "https://www.pepsicoproductfacts.com/home/ingredientglossary#D",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#D",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#E",
+    "action": "https://www.pepsicoproductfacts.com/home/ingredientglossary#E",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#E",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#F",
+    "action": "https://www.pepsicoproductfacts.com/home/ingredientglossary#F",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#F",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#G",
+    "action": "https://www.pepsicoproductfacts.com/home/ingredientglossary#G",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#G",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#H",
+    "action": "https://www.pepsicoproductfacts.com/home/ingredientglossary#H",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#H",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#J",
+    "action": "https://www.pepsicoproductfacts.com/home/ingredientglossary#J",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#J",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#K",
+    "action": "https://www.pepsicoproductfacts.com/home/ingredientglossary#K",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/ingredientglossary#K",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/vitamins#tab2",
+    "action": "https://www.pepsicoproductfacts.com/home/vitamins#tab2",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "productName1",
+        "id": "productName1",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicoproductfacts.com/home/vitamins#tab2",
+    "action": "https://www.pepsicoproductfacts.com/home/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "ppf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "productName",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
   }
 ]
