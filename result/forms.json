@@ -235875,5 +235875,2722 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://pepsicopartners.com",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/_s/country",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "toggleCountry",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://pepsicopartners.com",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/_s/language",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "toggleCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://pepsicopartners.com",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://pepsicopartners.com",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://pepsicopartners.com",
+    "action": "https://www.pepsicopartners.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "beverageType",
+        "id": "beverageType",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select One",
+          "bottle&Can",
+          "bagInBox"
+        ]
+      },
+      {
+        "type": "number",
+        "name": "units",
+        "id": "units",
+        "placeholder": "0",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "cost",
+        "id": "cost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "price",
+        "id": "price",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "foodCost",
+        "id": "foodCost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "comboSelling",
+        "id": "comboSelling",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "roiTabType",
+        "id": "roiTabType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "roiComboTabType",
+        "id": "roiComboTabType",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://pepsicopartners.com",
+    "action": "https://www.pepsicopartners.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/_s/country",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "toggleCountry",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/_s/language",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "toggleCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com",
+    "action": "https://www.pepsicopartners.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "beverageType",
+        "id": "beverageType",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select One",
+          "bottle&Can",
+          "bagInBox"
+        ]
+      },
+      {
+        "type": "number",
+        "name": "units",
+        "id": "units",
+        "placeholder": "0",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "cost",
+        "id": "cost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "price",
+        "id": "price",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "foodCost",
+        "id": "foodCost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "comboSelling",
+        "id": "comboSelling",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "roiTabType",
+        "id": "roiTabType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "roiComboTabType",
+        "id": "roiComboTabType",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com",
+    "action": "https://www.pepsicopartners.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://pepsicopartners.com",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/_s/country",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "toggleCountry",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://pepsicopartners.com",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/_s/language",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "toggleCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://pepsicopartners.com",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://pepsicopartners.com",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://pepsicopartners.com",
+    "action": "https://www.pepsicopartners.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "beverageType",
+        "id": "beverageType",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select One",
+          "bottle&Can",
+          "bagInBox"
+        ]
+      },
+      {
+        "type": "number",
+        "name": "units",
+        "id": "units",
+        "placeholder": "0",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "cost",
+        "id": "cost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "price",
+        "id": "price",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "foodCost",
+        "id": "foodCost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "comboSelling",
+        "id": "comboSelling",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "roiTabType",
+        "id": "roiTabType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "roiComboTabType",
+        "id": "roiComboTabType",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://pepsicopartners.com",
+    "action": "https://www.pepsicopartners.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/#skip-to-content",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/_s/country",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "toggleCountry",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/#skip-to-content",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/_s/language",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "toggleCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/#skip-to-content",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/#skip-to-content",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/#skip-to-content",
+    "action": "https://www.pepsicopartners.com/#skip-to-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "beverageType",
+        "id": "beverageType",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select One",
+          "bottle&Can",
+          "bagInBox"
+        ]
+      },
+      {
+        "type": "number",
+        "name": "units",
+        "id": "units",
+        "placeholder": "0",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "cost",
+        "id": "cost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "price",
+        "id": "price",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "foodCost",
+        "id": "foodCost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "comboSelling",
+        "id": "comboSelling",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "roiTabType",
+        "id": "roiTabType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "roiComboTabType",
+        "id": "roiComboTabType",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/#skip-to-content",
+    "action": "https://www.pepsicopartners.com/#skip-to-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/#skiptonavigation",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/_s/country",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "toggleCountry",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/#skiptonavigation",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/_s/language",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "toggleCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/#skiptonavigation",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/#skiptonavigation",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/#skiptonavigation",
+    "action": "https://www.pepsicopartners.com/#skiptonavigation",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "beverageType",
+        "id": "beverageType",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select One",
+          "bottle&Can",
+          "bagInBox"
+        ]
+      },
+      {
+        "type": "number",
+        "name": "units",
+        "id": "units",
+        "placeholder": "0",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "cost",
+        "id": "cost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "price",
+        "id": "price",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "foodCost",
+        "id": "foodCost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "comboSelling",
+        "id": "comboSelling",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "roiTabType",
+        "id": "roiTabType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "roiComboTabType",
+        "id": "roiComboTabType",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/#skiptonavigation",
+    "action": "https://www.pepsicopartners.com/#skiptonavigation",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/_s/country",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "toggleCountry",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/_s/language",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "toggleCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "beverageType",
+        "id": "beverageType",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select One",
+          "bottle&Can",
+          "bagInBox"
+        ]
+      },
+      {
+        "type": "number",
+        "name": "units",
+        "id": "units",
+        "placeholder": "0",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "cost",
+        "id": "cost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "price",
+        "id": "price",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "foodCost",
+        "id": "foodCost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "comboSelling",
+        "id": "comboSelling",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "roiTabType",
+        "id": "roiTabType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "roiComboTabType",
+        "id": "roiComboTabType",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/partner/register",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "businessType",
+        "id": "businessType",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Full Service Restaurant",
+          "Quick Service Restaurant",
+          "Lodging & Travel",
+          "College & University",
+          "Hospital / Healthcare",
+          "Business & Industry",
+          "K-12 Schools",
+          "Bar & Tavern",
+          "Recreation / Entertainment",
+          "Convenience & Gas"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "leadGenerationForm_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "businessName",
+        "id": "leadGenerationForm_businessName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "businessAddress",
+        "id": "leadGenerationForm_businessAdd",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "country",
+        "id": "leadGenerationForm_country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Please select a country",
+          "United States",
+          "Canada"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "city",
+        "id": "leadGenerationForm_city",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "state",
+        "id": "leadGenerationForm_state",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "zip",
+        "id": "leadGenerationForm_zip",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "leadGenerationForm_phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "leadGenerationForm_email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "listOfLobs",
+        "id": "listOfLobs0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "listOfLobs",
+        "id": "listOfLobs1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "listOfLobs",
+        "id": "listOfLobs2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "listOfLobs",
+        "id": "listOfLobs3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "listOfLobs",
+        "id": "listOfLobs4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "userComments",
+        "id": "leadGenerationForm_req",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "pepsiCoEmployee",
+        "id": "js-lead-gen-emp-refer-checkbox",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "employeeGPID",
+        "id": "leadGenerationForm_emp_gpid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "employeeName",
+        "id": "leadGenerationForm_emp_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "employeePhone",
+        "id": "leadGenerationForm_emp_phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "employeeEmail",
+        "id": "leadGenerationForm_emp_email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "beverageType",
+        "id": "beverageType",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select One",
+          "bottle&Can",
+          "bagInBox"
+        ]
+      },
+      {
+        "type": "number",
+        "name": "units",
+        "id": "units",
+        "placeholder": "0",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "cost",
+        "id": "cost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "price",
+        "id": "price",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "foodCost",
+        "id": "foodCost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "comboSelling",
+        "id": "comboSelling",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "roiTabType",
+        "id": "roiTabType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "roiComboTabType",
+        "id": "roiComboTabType",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/#skip-to-content",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/_s/country",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "toggleCountry",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/#skip-to-content",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/_s/language",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "toggleCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/#skip-to-content",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/#skip-to-content",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/#skip-to-content",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/#skip-to-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "beverageType",
+        "id": "beverageType",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select One",
+          "bottle&Can",
+          "bagInBox"
+        ]
+      },
+      {
+        "type": "number",
+        "name": "units",
+        "id": "units",
+        "placeholder": "0",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "cost",
+        "id": "cost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "price",
+        "id": "price",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "foodCost",
+        "id": "foodCost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "comboSelling",
+        "id": "comboSelling",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "roiTabType",
+        "id": "roiTabType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "roiComboTabType",
+        "id": "roiComboTabType",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/#skip-to-content",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/#skip-to-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/#skiptonavigation",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/_s/country",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "toggleCountry",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/#skiptonavigation",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/_s/language",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "toggleCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/#skiptonavigation",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/#skiptonavigation",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/#skiptonavigation",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/#skiptonavigation",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "beverageType",
+        "id": "beverageType",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select One",
+          "bottle&Can",
+          "bagInBox"
+        ]
+      },
+      {
+        "type": "number",
+        "name": "units",
+        "id": "units",
+        "placeholder": "0",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "cost",
+        "id": "cost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "price",
+        "id": "price",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "foodCost",
+        "id": "foodCost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "comboSelling",
+        "id": "comboSelling",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "roiTabType",
+        "id": "roiTabType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "roiComboTabType",
+        "id": "roiComboTabType",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/#skiptonavigation",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/#skiptonavigation",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration#skip-to-content",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration#skip-to-content",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration#skip-to-content",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/partner/register",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "businessType",
+        "id": "businessType",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Full Service Restaurant",
+          "Quick Service Restaurant",
+          "Lodging & Travel",
+          "College & University",
+          "Hospital / Healthcare",
+          "Business & Industry",
+          "K-12 Schools",
+          "Bar & Tavern",
+          "Recreation / Entertainment",
+          "Convenience & Gas"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "leadGenerationForm_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "businessName",
+        "id": "leadGenerationForm_businessName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "businessAddress",
+        "id": "leadGenerationForm_businessAdd",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "country",
+        "id": "leadGenerationForm_country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Please select a country",
+          "United States",
+          "Canada"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "city",
+        "id": "leadGenerationForm_city",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "state",
+        "id": "leadGenerationForm_state",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "zip",
+        "id": "leadGenerationForm_zip",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "leadGenerationForm_phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "leadGenerationForm_email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "listOfLobs",
+        "id": "listOfLobs0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "listOfLobs",
+        "id": "listOfLobs1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "listOfLobs",
+        "id": "listOfLobs2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "listOfLobs",
+        "id": "listOfLobs3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "listOfLobs",
+        "id": "listOfLobs4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "userComments",
+        "id": "leadGenerationForm_req",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "pepsiCoEmployee",
+        "id": "js-lead-gen-emp-refer-checkbox",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "employeeGPID",
+        "id": "leadGenerationForm_emp_gpid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "employeeName",
+        "id": "leadGenerationForm_emp_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "employeePhone",
+        "id": "leadGenerationForm_emp_phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "employeeEmail",
+        "id": "leadGenerationForm_emp_email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration#skip-to-content",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration#skip-to-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "beverageType",
+        "id": "beverageType",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select One",
+          "bottle&Can",
+          "bagInBox"
+        ]
+      },
+      {
+        "type": "number",
+        "name": "units",
+        "id": "units",
+        "placeholder": "0",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "cost",
+        "id": "cost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "price",
+        "id": "price",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "foodCost",
+        "id": "foodCost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "comboSelling",
+        "id": "comboSelling",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "roiTabType",
+        "id": "roiTabType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "roiComboTabType",
+        "id": "roiComboTabType",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration#skip-to-content",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration#skip-to-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration#skiptonavigation",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration#skiptonavigation",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/search/viewAll",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "q",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "text",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_prod",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_article",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "productType",
+        "id": "search_cat_recipe",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration#skiptonavigation",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/partner/register",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "businessType",
+        "id": "businessType",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Full Service Restaurant",
+          "Quick Service Restaurant",
+          "Lodging & Travel",
+          "College & University",
+          "Hospital / Healthcare",
+          "Business & Industry",
+          "K-12 Schools",
+          "Bar & Tavern",
+          "Recreation / Entertainment",
+          "Convenience & Gas"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "leadGenerationForm_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "businessName",
+        "id": "leadGenerationForm_businessName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "businessAddress",
+        "id": "leadGenerationForm_businessAdd",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "country",
+        "id": "leadGenerationForm_country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Please select a country",
+          "United States",
+          "Canada"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "city",
+        "id": "leadGenerationForm_city",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "state",
+        "id": "leadGenerationForm_state",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "zip",
+        "id": "leadGenerationForm_zip",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "leadGenerationForm_phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "leadGenerationForm_email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "listOfLobs",
+        "id": "listOfLobs0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "listOfLobs",
+        "id": "listOfLobs1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "listOfLobs",
+        "id": "listOfLobs2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "listOfLobs",
+        "id": "listOfLobs3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "listOfLobs",
+        "id": "listOfLobs4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "userComments",
+        "id": "leadGenerationForm_req",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "pepsiCoEmployee",
+        "id": "js-lead-gen-emp-refer-checkbox",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "employeeGPID",
+        "id": "leadGenerationForm_emp_gpid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "employeeName",
+        "id": "leadGenerationForm_emp_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "employeePhone",
+        "id": "leadGenerationForm_emp_phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "employeeEmail",
+        "id": "leadGenerationForm_emp_email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration#skiptonavigation",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration#skiptonavigation",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "beverageType",
+        "id": "beverageType",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select One",
+          "bottle&Can",
+          "bagInBox"
+        ]
+      },
+      {
+        "type": "number",
+        "name": "units",
+        "id": "units",
+        "placeholder": "0",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "cost",
+        "id": "cost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "price",
+        "id": "price",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "foodCost",
+        "id": "foodCost",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "comboSelling",
+        "id": "comboSelling",
+        "placeholder": "0.00",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "roiTabType",
+        "id": "roiTabType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "roiComboTabType",
+        "id": "roiComboTabType",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration#skiptonavigation",
+    "action": "https://www.pepsicopartners.com/pepsico/en/USD/partner/leadgeneration#skiptonavigation",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
