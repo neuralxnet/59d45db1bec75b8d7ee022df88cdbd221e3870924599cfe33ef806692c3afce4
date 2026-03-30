@@ -242394,5 +242394,495 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.rockstarenergy.com",
+    "action": "https://www.rockstarenergy.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "search-drawer-input",
+        "placeholder": "Search for...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://rockstarenergy.com",
+    "action": "https://www.rockstarenergy.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "search-drawer-input",
+        "placeholder": "Search for...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://rockstarenergy.com/",
+    "action": "https://www.rockstarenergy.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "search-drawer-input",
+        "placeholder": "Search for...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rockstarenergy.com/#main",
+    "action": "https://www.rockstarenergy.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "search-drawer-input",
+        "placeholder": "Search for...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rockstarenergy.com/",
+    "action": "https://www.rockstarenergy.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "search-drawer-input",
+        "placeholder": "Search for...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rockstarenergy.com/collections/all",
+    "action": "https://www.rockstarenergy.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "search-drawer-input",
+        "placeholder": "Search for...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rockstarenergy.com/collections/all",
+    "action": "https://www.rockstarenergy.com/collections/all",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "page",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "sort_by",
+        "id": "checkbox-facets-facets-drawer-form-1-template--19768317378756__main--sort_by-manual",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "sort_by",
+        "id": "checkbox-facets-facets-drawer-form-2-template--19768317378756__main--sort_by-best-selling",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "sort_by",
+        "id": "checkbox-facets-facets-drawer-form-3-template--19768317378756__main--sort_by-title-ascending",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "sort_by",
+        "id": "checkbox-facets-facets-drawer-form-4-template--19768317378756__main--sort_by-title-descending",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "sort_by",
+        "id": "checkbox-facets-facets-drawer-form-5-template--19768317378756__main--sort_by-price-ascending",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "sort_by",
+        "id": "checkbox-facets-facets-drawer-form-6-template--19768317378756__main--sort_by-price-descending",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "sort_by",
+        "id": "checkbox-facets-facets-drawer-form-7-template--19768317378756__main--sort_by-created-ascending",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "sort_by",
+        "id": "checkbox-facets-facets-drawer-form-8-template--19768317378756__main--sort_by-created-descending",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.product_type",
+        "id": "checkbox-facets-facets-drawer-form-1-template--19768317378756__main--filter.p.product_type-boom",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.product_type",
+        "id": "checkbox-facets-facets-drawer-form-2-template--19768317378756__main--filter.p.product_type-original",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.product_type",
+        "id": "checkbox-facets-facets-drawer-form-3-template--19768317378756__main--filter.p.product_type-punched",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.product_type",
+        "id": "checkbox-facets-facets-drawer-form-4-template--19768317378756__main--filter.p.product_type-pure-zero",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.product_type",
+        "id": "checkbox-facets-facets-drawer-form-5-template--19768317378756__main--filter.p.product_type-recovery",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.product_type",
+        "id": "checkbox-facets-facets-drawer-form-6-template--19768317378756__main--filter.p.product_type-throwback",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.nutrition",
+        "id": "checkbox-facets-facets-drawer-form-1-template--19768317378756__main--filter.p.m.custom.nutrition-0-sugar",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.can_size",
+        "id": "checkbox-facets-facets-drawer-form-1-template--19768317378756__main--filter.p.m.custom.can_size-16oz",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.can_size",
+        "id": "checkbox-facets-facets-drawer-form-2-template--19768317378756__main--filter.p.m.custom.can_size-24oz",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rockstarenergy.com/search",
+    "action": "https://www.rockstarenergy.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "search-drawer-input",
+        "placeholder": "Search for...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rockstarenergy.com/search",
+    "action": "https://www.rockstarenergy.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search for...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rockstarenergy.com/collections/all#main",
+    "action": "https://www.rockstarenergy.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "search-drawer-input",
+        "placeholder": "Search for...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rockstarenergy.com/collections/all#main",
+    "action": "https://www.rockstarenergy.com/collections/all",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "page",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "sort_by",
+        "id": "checkbox-facets-facets-drawer-form-1-template--19768317378756__main--sort_by-manual",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "sort_by",
+        "id": "checkbox-facets-facets-drawer-form-2-template--19768317378756__main--sort_by-best-selling",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "sort_by",
+        "id": "checkbox-facets-facets-drawer-form-3-template--19768317378756__main--sort_by-title-ascending",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "sort_by",
+        "id": "checkbox-facets-facets-drawer-form-4-template--19768317378756__main--sort_by-title-descending",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "sort_by",
+        "id": "checkbox-facets-facets-drawer-form-5-template--19768317378756__main--sort_by-price-ascending",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "sort_by",
+        "id": "checkbox-facets-facets-drawer-form-6-template--19768317378756__main--sort_by-price-descending",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "sort_by",
+        "id": "checkbox-facets-facets-drawer-form-7-template--19768317378756__main--sort_by-created-ascending",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "sort_by",
+        "id": "checkbox-facets-facets-drawer-form-8-template--19768317378756__main--sort_by-created-descending",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.product_type",
+        "id": "checkbox-facets-facets-drawer-form-1-template--19768317378756__main--filter.p.product_type-boom",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.product_type",
+        "id": "checkbox-facets-facets-drawer-form-2-template--19768317378756__main--filter.p.product_type-original",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.product_type",
+        "id": "checkbox-facets-facets-drawer-form-3-template--19768317378756__main--filter.p.product_type-punched",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.product_type",
+        "id": "checkbox-facets-facets-drawer-form-4-template--19768317378756__main--filter.p.product_type-pure-zero",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.product_type",
+        "id": "checkbox-facets-facets-drawer-form-5-template--19768317378756__main--filter.p.product_type-recovery",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.product_type",
+        "id": "checkbox-facets-facets-drawer-form-6-template--19768317378756__main--filter.p.product_type-throwback",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.nutrition",
+        "id": "checkbox-facets-facets-drawer-form-1-template--19768317378756__main--filter.p.m.custom.nutrition-0-sugar",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.can_size",
+        "id": "checkbox-facets-facets-drawer-form-1-template--19768317378756__main--filter.p.m.custom.can_size-16oz",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.can_size",
+        "id": "checkbox-facets-facets-drawer-form-2-template--19768317378756__main--filter.p.m.custom.can_size-24oz",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rockstarenergy.com/products/blackberry",
+    "action": "https://www.rockstarenergy.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "search-drawer-input",
+        "placeholder": "Search for...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rockstarenergy.com/products/blackberry",
+    "action": "https://www.rockstarenergy.com/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.rockstarenergy.com/products/blackberry",
+    "action": "https://www.rockstarenergy.com/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
