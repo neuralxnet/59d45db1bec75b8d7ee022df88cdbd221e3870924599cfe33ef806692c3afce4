@@ -242884,5 +242884,41 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://operaneon.com",
+    "action": "https://www.operaneon.com/",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.operaneon.com",
+    "action": "https://www.operaneon.com/",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "http://operaneon.com",
+    "action": "https://www.operaneon.com/",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.operaneon.com/",
+    "action": "https://www.operaneon.com/",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.operaneon.com/#",
+    "action": "https://www.operaneon.com/#",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.operaneon.com/#subscribe",
+    "action": "https://www.operaneon.com/#subscribe",
+    "method": "get",
+    "fields": []
   }
 ]
