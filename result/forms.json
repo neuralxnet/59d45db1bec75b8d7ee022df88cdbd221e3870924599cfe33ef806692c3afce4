@@ -242380,5 +242380,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.ricearoni.com/recipes",
+    "action": "https://www.ricearoni.com/recipes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "Search Recipes...",
+        "required": false
+      }
+    ]
   }
 ]
