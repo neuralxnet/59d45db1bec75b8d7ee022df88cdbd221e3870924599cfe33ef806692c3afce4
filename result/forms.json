@@ -242920,5 +242920,390 @@
     "action": "https://www.operaneon.com/#subscribe",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://snacks.com",
+    "action": "https://www.snacks.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com",
+    "action": "https://www.snacks.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://snacks.com",
+    "action": "https://www.snacks.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/",
+    "action": "https://www.snacks.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/all-snacks/savory-snacks/chips",
+    "action": "https://www.snacks.com/all-snacks/savory-snacks/chips",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/all-snacks/savory-snacks/puffs",
+    "action": "https://www.snacks.com/all-snacks/savory-snacks/puffs",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/all-snacks/savory-snacks/popcorn",
+    "action": "https://www.snacks.com/all-snacks/savory-snacks/popcorn",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/all-snacks/savory-snacks/pretzels-and-snack-mix",
+    "action": "https://www.snacks.com/all-snacks/savory-snacks/pretzels-and-snack-mix",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/all-snacks/savory-snacks/crackers",
+    "action": "https://www.snacks.com/all-snacks/savory-snacks/crackers",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/all-snacks/savory-snacks/pork-skins",
+    "action": "https://www.snacks.com/all-snacks/savory-snacks/pork-skins",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/all-snacks/savory-snacks/pasta-rice-and-grains",
+    "action": "https://www.snacks.com/all-snacks/savory-snacks/pasta-rice-and-grains",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/all-snacks/savory-snacks/salsa-and-dips",
+    "action": "https://www.snacks.com/all-snacks/savory-snacks/salsa-and-dips",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/all-snacks/sweet-snacks/cookies",
+    "action": "https://www.snacks.com/all-snacks/sweet-snacks/cookies",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/all-snacks",
+    "action": "https://www.snacks.com/all-snacks",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/all-snacks/savory-snacks",
+    "action": "https://www.snacks.com/all-snacks/savory-snacks",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/varietypack/customize",
+    "action": "https://www.snacks.com/varietypack/customize",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/flaminhotshop",
+    "action": "https://www.snacks.com/flaminhotshop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/all-snacks?brand=doritos",
+    "action": "https://www.snacks.com/all-snacks?brand=doritos",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/all-snacks?brand=lay%27s",
+    "action": "https://www.snacks.com/all-snacks?brand=lay%27s",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/faq",
+    "action": "https://www.snacks.com/faq",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/orderlookup",
+    "action": "https://www.snacks.com/orderlookup",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/returns-policy",
+    "action": "https://www.snacks.com/returns-policy",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/contactus",
+    "action": "https://www.snacks.com/contactus",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "subject",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "phoneNumber",
+        "id": "phoneNumber",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "orderNo",
+        "id": "orderNo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "description",
+        "id": "description",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "attachments",
+        "id": "attachments",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.snacks.com/contactus",
+    "action": "https://www.snacks.com/contactus",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
   }
 ]
