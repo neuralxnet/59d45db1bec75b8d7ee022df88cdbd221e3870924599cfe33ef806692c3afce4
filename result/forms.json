@@ -243305,5 +243305,355 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.osl.com/hk-en/custody/",
+    "action": "https://www.osl.com/hk-en/custody",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "contactPersonName",
+        "placeholder": "Full Name",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "",
+        "id": "phoneCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "contactNumber",
+        "placeholder": "Contact Number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "email",
+        "placeholder": "Email Address",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "",
+        "id": "otherContactType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "otherContactInfo",
+        "placeholder": "WhatsApp ID",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "message",
+        "placeholder": "Message",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "agree",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.osl.com/hk-en/omnibus/",
+    "action": "https://www.osl.com/hk-en/omnibus",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "contactPersonName",
+        "placeholder": "Full Name",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "",
+        "id": "phoneCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "contactNumber",
+        "placeholder": "Contact Number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "email",
+        "placeholder": "Email Address",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "",
+        "id": "otherContactType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "otherContactInfo",
+        "placeholder": "WhatsApp ID",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "message",
+        "placeholder": "Message",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "agree",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.osl.com/hk-en/custody#omnibusInfoBlock",
+    "action": "https://www.osl.com/hk-en/custody#omnibusInfoBlock",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "contactPersonName",
+        "placeholder": "Full Name",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "",
+        "id": "phoneCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "contactNumber",
+        "placeholder": "Contact Number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "email",
+        "placeholder": "Email Address",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "",
+        "id": "otherContactType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "otherContactInfo",
+        "placeholder": "WhatsApp ID",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "message",
+        "placeholder": "Message",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "agree",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.osl.com/hk-en/omnibus#omnibusInfoBlock",
+    "action": "https://www.osl.com/hk-en/omnibus#omnibusInfoBlock",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "contactPersonName",
+        "placeholder": "Full Name",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "",
+        "id": "phoneCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "contactNumber",
+        "placeholder": "Contact Number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "email",
+        "placeholder": "Email Address",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "",
+        "id": "otherContactType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "otherContactInfo",
+        "placeholder": "WhatsApp ID",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "message",
+        "placeholder": "Message",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "agree",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://promo.osl.com/trade-and-earn-june2025/",
+    "action": "https://api.leadpages.io/integration/v1/forms/BWN2DNGu7Zgf5bMZkYXTTf/submissions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "832deb2a9928648f1c59e6cbd02643e4",
+        "id": "832deb2a9928648f1c59e6cbd02643e4-BWN2DNGu7Zgf5bMZkYXTTf",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "confirm-existence",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://promo.osl.com/12088_july_2025",
+    "action": "https://api.leadpages.io/integration/v1/forms/VTfks8BsiHrtjPMCc7hDRk/submissions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "832deb2a9928648f1c59e6cbd02643e4",
+        "id": "832deb2a9928648f1c59e6cbd02643e4-VTfks8BsiHrtjPMCc7hDRk",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "confirm-existence",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
