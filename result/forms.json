@@ -247083,5 +247083,11 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://adb.nba.com",
+    "action": "https://login.microsoftonline.com/e898ff4a-4b69-45ee-a3ae-1cd6f239feb2/wsfed?wtrealm=https%3A%2F%2Fadb.nba.com&wa=wsignin1.0&wreply=https%3A%2F%2Fadb.nba.com%2Fsignin-wsfed&wctx=CfDJ8GV8KuEoIeFKnpZoM99AE6Xu08D_xdhBeaiJveNHtx9JSCkr4-UBSyK6lFEQpRXzwt_VOg1IJ3I2JaD9XXYxAB6911QPQ77ZKKVYZlAGvaEIwihylo6j5Dh6wgLqCL6hrMFqWc6oYYgB4vtPHTqXl5Xe5moBdcEoE7wDx0B2p7i9vQ3pCxLImCOD_qDzs8WblTwcEvC5bYMynVt2cdkcoMo&sso_reload=true",
+    "method": "post",
+    "fields": []
   }
 ]
