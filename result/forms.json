@@ -247055,5 +247055,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.awseducate.com",
+    "action": "https://aws.amazon.com/education/awseducate/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "I'm looking for...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.awseducate.com",
+    "action": "https://aws.amazon.com/education/awseducate/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "I'm looking for...",
+        "required": false
+      }
+    ]
   }
 ]
