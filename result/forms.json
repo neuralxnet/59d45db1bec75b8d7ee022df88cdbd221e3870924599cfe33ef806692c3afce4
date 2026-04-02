@@ -247089,5 +247089,11 @@
     "action": "https://login.microsoftonline.com/e898ff4a-4b69-45ee-a3ae-1cd6f239feb2/wsfed?wtrealm=https%3A%2F%2Fadb.nba.com&wa=wsignin1.0&wreply=https%3A%2F%2Fadb.nba.com%2Fsignin-wsfed&wctx=CfDJ8GV8KuEoIeFKnpZoM99AE6Xu08D_xdhBeaiJveNHtx9JSCkr4-UBSyK6lFEQpRXzwt_VOg1IJ3I2JaD9XXYxAB6911QPQ77ZKKVYZlAGvaEIwihylo6j5Dh6wgLqCL6hrMFqWc6oYYgB4vtPHTqXl5Xe5moBdcEoE7wDx0B2p7i9vQ3pCxLImCOD_qDzs8WblTwcEvC5bYMynVt2cdkcoMo&sso_reload=true",
     "method": "post",
     "fields": []
+  },
+  {
+    "url": "https://br.nba.com",
+    "action": "https://login.microsoftonline.com/e898ff4a-4b69-45ee-a3ae-1cd6f239feb2/oauth2/v2.0/authorize?client_id=4965f80a-93e2-414b-adbd-b6050812fcb5&redirect_uri=https%3A%2F%2Fbr.nba.com%2Fsignin-oidc&response_type=id_token&scope=openid%20profile&response_mode=form_post&nonce=639106943703682951.ZmZlZmRmMTktY2NlNy00ZDlmLThlOWYtYzc0ZTUyYzlmMDkwOTc4YjNmMjktY2I0NS00YTEwLWFlZGMtMjNkYTY2MTA5MDFl&client_info=1&x-client-brkrver=IDWeb.2.17.0.0&state=CfDJ8BVjsyJ434BDosnbmZPeSs_XEatiscTg_W2r4PNWylAAcpXcritw6LZ9iOHLTzJnwwLjQoaPQH1SAm_26Yt8TtRedzPFRfeePQkDfTxReYmwvRXqDuuXOMaTqedWE95r9nEZJZHWX8QO_Hg-qDaz-hhr5Hz1PCzJToPtF0_76V7xTRK5jS-lZWVPhf8RvMwlzFNt4Ss8BjSdG32J48yTNMUlaBCN-cMY8jfGgFz8lyrYIVD40l3fGJexWLR2IOPYIzi8gCycjqFT9513OelIgu7pkWg-9SqBVi4fALVG9cY5&x-client-SKU=ID_NET6_0&x-client-ver=7.3.1.0&sso_reload=true",
+    "method": "post",
+    "fields": []
   }
 ]
