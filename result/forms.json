@@ -247101,5 +247101,11 @@
     "action": "https://login.microsoftonline.com/e898ff4a-4b69-45ee-a3ae-1cd6f239feb2/oauth2/v2.0/authorize?client_id=3b49d415-4c09-447f-8d0f-82a96a035e4e&redirect_uri=https%3A%2F%2Fcl.nba.com%2Fsignin-oidc&response_type=id_token&scope=openid%20profile&response_mode=form_post&nonce=639107240977141688.YWVjMThiN2YtY2RkMS00YWRiLThjN2EtYmIyNWIzYjdhYzVmNjU4Y2Y5NWEtYjA5ZC00OWE5LTk0NTUtODM2MWIwNmYyYTZj&client_info=1&x-client-brkrver=IDWeb.1.18.0.0&state=CfDJ8KaDT8dMSZpAu7nTtvEjxbdrCaN7gAp1WNAsVtKEkmfzntCC4E7Fv5XfZcJAqfyRgSX0ldeavEGxAerHmwdVPbT8uoa5KBFhUeOlSyfXQzdEM_p5wQrtgZYftNX2pdHchbtw1Jg2UIdHrPCPtbGIpPEc3gbT-vo-Wy3nCnNY8XC0l13rSiz2OB9DzDyIhO2AqTUhZswLOAjWt7hiTXX7yBRFqsHstF_DEx5vJkh2d2N53EuQUfsyzbf2o_OeSt0Smll9Sng8GgGsPEDdiP8XAr6hwpRUzHrFGTwOD7mvL8TK&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.12.2.0&sso_reload=true",
     "method": "post",
     "fields": []
+  },
+  {
+    "url": "https://elm.nba.com",
+    "action": "https://login.microsoftonline.com/e898ff4a-4b69-45ee-a3ae-1cd6f239feb2/wsfed?wtrealm=https%3A%2F%2Felm.nba.com&wa=wsignin1.0&wreply=https%3A%2F%2Felm.nba.com%2Fsignin-wsfed-aad&wctx=CfDJ8GBGKKqkI9FHkR2KerjcwbgWKcJG6qHf6ImNnzEHPdsO-anfI3ylcPQb3WjTfkYdLEFoLQ4vNvhwoXJviNmpON4VaqtIWxY21IOPx5_XoJeIrQoR73o1kSHEVpfHWuUBRo7RqUiaF5zsYC8pyFF4sdnCE6d62I6vDzoDsYp06TeUDhiKRNHf64mRDUGB_Psng7AMHNOYVcskRTLzLEsXIkg&sso_reload=true",
+    "method": "post",
+    "fields": []
   }
 ]
