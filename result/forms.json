@@ -247246,5 +247246,54 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://manage-teams-qa.nba.com",
+    "action": "https://manage-teams-qa.nba.com/wp-login.php",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "log",
+        "id": "user_login",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "pwd",
+        "id": "user_pass",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "rememberme",
+        "id": "rememberme",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "wp-submit",
+        "id": "wp-submit",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_to",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "testcookie",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
