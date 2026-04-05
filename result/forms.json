@@ -247148,5 +247148,54 @@
     "action": "https://login.microsoftonline.com/e898ff4a-4b69-45ee-a3ae-1cd6f239feb2/oauth2/v2.0/authorize?client_id=a60b3088-b465-4ba1-bfe9-b570203551f0&response_type=id_token&scope=openid%20profile%20email&state=OpenIdConnect.AuthenticationProperties%3DXrZWGwTTK6Z29W1h2Y0SRozL6VxDsOCBAEp7l_wo8DHCOwaDbyxs6EFNz8dGk1d0ivSi7cTK1WbxLaeX2nFAU8TzWbBipc2uFGU0XfZ4Z4HPuxINQvA6J4L50fRAgebD&response_mode=form_post&nonce=639109176454557483.MjNkZDc4OGMtOTQ1YS00ZWJkLTkyZjgtYTBhNDUwMjRmOGIxNGM5NjQxODMtODhlNy00MGI0LWEyOWEtMWU0OTg3YjU5MjQ3&x-client-SKU=ID_NET472&x-client-ver=8.16.0.0&sso_reload=true",
     "method": "post",
     "fields": []
+  },
+  {
+    "url": "https://manage-dev.nba.com",
+    "action": "https://manage-dev.nba.com/wp-login.php",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "log",
+        "id": "user_login",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "pwd",
+        "id": "user_pass",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "rememberme",
+        "id": "rememberme",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "wp-submit",
+        "id": "wp-submit",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_to",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "testcookie",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
