@@ -247491,5 +247491,11 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://mcd-uat.nba.com",
+    "action": "https://login.microsoftonline.com/e898ff4a-4b69-45ee-a3ae-1cd6f239feb2/oauth2/v2.0/authorize?client_id=73abb3be-22e4-4925-a384-fa5c1c028f49&redirect_uri=https%3A%2F%2Fmcd-uat.nba.com%2Fsignin-oidc&response_type=code&scope=openid%20profile%20offline_access&code_challenge=yKgrigfg8bO0qHsiFAstveoFGohXPd5mdQL1rMm6LBM&code_challenge_method=S256&response_mode=form_post&nonce=639110585899054648.ODQ0ZjJmOGQtMTBjMC00ZWJjLWE4MWYtOTA4NTU5NTRiZWQyMTVlNzk1NzAtNzc1OS00NTQ1LThjZWQtMzI2NjMyMzBjMmFh&client_info=1&x-client-brkrver=IDWeb.2.0.3.0&state=CfDJ8DjJKYW6kMhFpN4zH1Ny_6eHqPWZjdbUKNidAjXqIoh1-nzTynVQgmNge6ZHclRK8ntoAvRLwcHhqDm1BcQDBNbCB9wbxTNj_eaw1JxOfctPsj-vtYpLjwsrb7Ly3DRrPUOhByVhnm76miuCDTcKftFX2ZxxalOF_ZHvUH8ZrKsKzxPcWwkc7xDqzAIDZ3HdqlQmfF6KlbLrfFADHU1eU_LsOp25_Rq1TS8kCDvxAy8qweGKL094-Vj_Q7Sspx1R3DjWPMJlvqC7QNunJ50mMEIAEOYtmm3GOxmoY13p45IUNGi_uK6ZLUufEfObSfeRWZ3wCpvib2wLgh3_16fln76bH_dfuAXksQH3sDH5hck9F6yvoBRsD9BeOqB3tWqIZA&x-client-SKU=ID_NET6_0&x-client-ver=6.23.1.0&sso_reload=true",
+    "method": "post",
+    "fields": []
   }
 ]
