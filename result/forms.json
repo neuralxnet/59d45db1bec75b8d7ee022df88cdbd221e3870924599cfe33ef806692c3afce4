@@ -247573,5 +247573,11 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://vth.nba.com",
+    "action": "https://login.microsoftonline.com/e898ff4a-4b69-45ee-a3ae-1cd6f239feb2/wsfed?wtrealm=https%3A%2F%2Fvth.nba.com&wctx=WsFedOwinState%3Dzu2V9f9NaPXLWaiDKyu0BSBCJjnpfC28ftRcLMamvqF9huOeXy79shUoUCwo3O8jLHr-pBEAups8iONDOWSurnriyMsN-jOmKRy5YzCOq24&wa=wsignin1.0&wreply=https%3A%2F%2Fvth.nba.com%2F&sso_reload=true",
+    "method": "post",
+    "fields": []
   }
 ]
