@@ -247503,5 +247503,40 @@
     "action": "https://login.microsoftonline.com/e898ff4a-4b69-45ee-a3ae-1cd6f239feb2/oauth2/v2.0/authorize?client_id=ca971783-fada-43ea-b392-f53b816dd408&redirect_uri=https%3A%2F%2Fmcd.nba.com%2Fsignin-oidc&response_type=code&scope=openid%20profile%20offline_access&code_challenge=Jt2t1gFCj-hb1MCVrxNUlBL8g1asL6T47Bk0kUeyGDA&code_challenge_method=S256&response_mode=form_post&nonce=639110635944192648.MTFjMzk3ZGEtYWJmNi00MDBhLWI4NWYtNzAxMzg3NDQzYTZmMTYxYzhhMWMtOGZkZC00ZTk1LWI1YmYtNzUxNjk4NTQxZWE2&client_info=1&x-client-brkrver=IDWeb.2.0.3.0&state=CfDJ8NNjkhOve0ZPslohmb-l2bbm1l1mklYCL6nA59ekxAgmefL0Ef_BgCmtPoyTAdxdxjSSx9HCZjzL6hOUWLdoJSi5GLQUtFjZgxUM5FxiwbCReIG8QZ7zSkEU_TmCJPQN1B9De8RZwdEnz8ae2Qc0SsL5sweeBR9hnWsAr9LsZBosgENs-Ac4sVvJ2pktzTPZ7M7DIDH7B_tQZ2qEGRNaETUz2Jbd0DDtVyB55VIH-cUJ5MSHGhzZ4lb12mXUUMSMhhG2vQDSSoINYOr1Z5xejIletW6wog00CGJhdu7PtrlG7nR3Gcbcey943xSQBcSaWLvmIn5OSdBq6XQRbu-GikZu6axT93RybTHSdEMcX2YA&x-client-SKU=ID_NET6_0&x-client-ver=6.23.1.0&sso_reload=true",
     "method": "post",
     "fields": []
+  },
+  {
+    "url": "https://teamdirectory.nba.com",
+    "action": "https://teamportal.nba.com/Discovery/SignIn",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "App",
+        "id": "App",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "user@domain.com",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
