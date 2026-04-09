@@ -247538,5 +247538,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://teamportal.nba.com",
+    "action": "https://teamportal.nba.com/Discovery/SignIn",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "App",
+        "id": "App",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "user@domain.com",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
