@@ -247607,5 +247607,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://h22260.www2.hpe.com",
+    "action": "https://www.hpe.com/us/en/search-results.html?page=1&q=&autocomplete=0",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "hpehf-search-input",
+        "placeholder": "Search hpe.com",
+        "required": false
+      }
+    ]
   }
 ]
