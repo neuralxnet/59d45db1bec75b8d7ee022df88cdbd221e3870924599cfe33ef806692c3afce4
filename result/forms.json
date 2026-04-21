@@ -247866,5 +247866,40 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://cmsnationaltrainingprogram.cms.gov",
+    "action": "https://www.cms.gov/search/cms",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "keys",
+        "id": "header-search-input",
+        "placeholder": "Search CMS.gov",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "edit-submit--eXcKvB6gWdo",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://cmsnationaltrainingprogram.cms.gov",
+    "action": "https://public.govdelivery.com/accounts/USCMS/subscribers/qualify",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "you@example.com",
+        "required": true
+      }
+    ]
   }
 ]
