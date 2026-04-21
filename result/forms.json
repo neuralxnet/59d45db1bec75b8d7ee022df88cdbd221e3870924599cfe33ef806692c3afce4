@@ -247726,5 +247726,96 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://portal.cms.gov",
+    "action": "https://portal.cms.gov/portal/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "type",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "user-d",
+        "id": "cms-login-userId",
+        "placeholder": "User ID",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "pass-d",
+        "id": "cms-login-password",
+        "placeholder": "Password",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "tosREGISTER",
+        "id": "checkd",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://portal.cms.gov",
+    "action": "https://portal.cms.gov/portal/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "isTcChecked",
+        "id": "piv-checkd",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://portal.cms.gov",
+    "action": "https://portal.cms.gov/portal/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "UserID",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://portal.cms.gov",
+    "action": "https://portal.cms.gov/portal/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "userMessage",
+        "placeholder": "Type a message here...",
+        "required": false
+      }
+    ]
   }
 ]
