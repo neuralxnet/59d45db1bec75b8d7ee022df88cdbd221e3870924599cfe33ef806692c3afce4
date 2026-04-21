@@ -247901,5 +247901,19 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://www.babcockinternational.com",
+    "action": "https://www.babcockinternational.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search-modal-input",
+        "placeholder": "Search …",
+        "required": false
+      }
+    ]
   }
 ]
