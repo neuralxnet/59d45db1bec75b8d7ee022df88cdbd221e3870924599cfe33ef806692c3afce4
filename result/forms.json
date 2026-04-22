@@ -247915,5 +247915,82 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://partner.buy.hpe.com",
+    "action": "https://buy.hpe.com/us/en/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "text",
+        "id": "hpehf-search-input",
+        "placeholder": "Search hpe.com",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://partner.buy.hpe.com",
+    "action": "https://merchantadmin.buy.hpe.com/us/en/j_spring_security_check",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "j_username",
+        "id": "j_username",
+        "placeholder": "Email address",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "emailCartRedirection",
+        "id": "emailCartRedirection",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "j_password",
+        "id": "j_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "remember-me",
+        "id": "remember-me",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "oktaUrlB2C",
+        "id": "oktaUrlB2C",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "oktaWidgetUrlB2C",
+        "id": "oktaWidgetUrlB2C",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "oktaFromURIB2C",
+        "id": "oktaFromURIB2C",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
