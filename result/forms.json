@@ -248228,5 +248228,123 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://s360-prod-ext.it.hpe.com",
+    "action": "https://www.hpe.com/us/en/search-results.html?page=1&q=&autocomplete=0",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "hpehf-search-input",
+        "placeholder": "Search hpe.com",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://s360-prod-ext.it.hpe.com",
+    "action": "https://s360-prod-ext.it.hpe.com/etoolss360/login.do",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "country",
+        "id": "langCtry",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "country",
+        "id": "langId",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          ""
+        ]
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "langId-selectized",
+        "placeholder": "Select your language",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "emailAddress",
+        "id": "emailId",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "saveLangUsername",
+        "id": "saveLangUsername",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://s360-prod-ext.it.hpe.com/etoolss360/#",
+    "action": "https://www.hpe.com/us/en/search-results.html?page=1&q=&autocomplete=0",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "hpehf-search-input",
+        "placeholder": "Search hpe.com",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://s360-prod-ext.it.hpe.com/etoolss360/#",
+    "action": "https://s360-prod-ext.it.hpe.com/etoolss360/login.do",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "country",
+        "id": "langCtry",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "country",
+        "id": "langId",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          ""
+        ]
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "langId-selectized",
+        "placeholder": "Select your language",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "emailAddress",
+        "id": "emailId",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "saveLangUsername",
+        "id": "saveLangUsername",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
