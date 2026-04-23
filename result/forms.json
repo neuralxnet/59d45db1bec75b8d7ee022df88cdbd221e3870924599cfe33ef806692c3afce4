@@ -248464,5 +248464,148 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://developers.oppomobile.com",
+    "action": "https://developers.oppomobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "devBelongingCountryId",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": []
+      },
+      {
+        "type": "select-one",
+        "name": "devBelongingProvinceId",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": []
+      },
+      {
+        "type": "select-one",
+        "name": "devBelongingCityId",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": []
+      },
+      {
+        "type": "text",
+        "name": "devBelongingAddress",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://developers.oppomobile.com",
+    "action": "https://developers.oppomobile.com/user/signin",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "userName",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "verifyCode",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://developers.oppomobile.com",
+    "action": "https://developers.oppomobile.com/user/signup",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "userName",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "repasswd",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "verifyCode",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://developers.oppomobile.com",
+    "action": "https://developers.oppomobile.com/user/password/forget",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "verifyCode",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://developers.oppomobile.com",
+    "action": "https://developers.oppomobile.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
