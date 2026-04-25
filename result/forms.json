@@ -250300,5 +250300,89 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://fundacaoitausocial.org.br",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://fundacaoitausocial.org.br",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.fundacaoitausocial.org.br",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.fundacaoitausocial.org.br",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://fundacaoitausocial.org.br",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://fundacaoitausocial.org.br",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
   }
 ]
