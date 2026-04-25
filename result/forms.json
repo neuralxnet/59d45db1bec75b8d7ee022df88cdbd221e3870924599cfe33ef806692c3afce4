@@ -249831,5 +249831,474 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://credipronto.com.br",
+    "action": "https://cta-redirect.rdstation.com/v2/conversions",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "token_rdstation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "conversion_identifier",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "internal_source",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "c_utmz",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "traffic_source",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "client_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_doe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "privacy_data[browser]",
+        "id": "privacy_data_browser",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "thankyou_message",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "rd-text_field-md36iy49",
+        "placeholder": "Nome *",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "rd-email_field-md36iy4a",
+        "placeholder": "Email *",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "emP7yF13ld",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "sh0uldN07ch4ng3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://credipronto.com.br/#content",
+    "action": "https://cta-redirect.rdstation.com/v2/conversions",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "token_rdstation",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "conversion_identifier",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "internal_source",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "c_utmz",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "traffic_source",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "client_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_doe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "privacy_data[browser]",
+        "id": "privacy_data_browser",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "thankyou_message",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "rd-text_field-md36iy49",
+        "placeholder": "Nome *",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "rd-email_field-md36iy4a",
+        "placeholder": "Email *",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "emP7yF13ld",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "sh0uldN07ch4ng3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.credipronto.com.br/blog/",
+    "action": "https://www.credipronto.com.br/blog/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "phrase",
+        "id": "",
+        "placeholder": "Pesquisar...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phrase",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.credipronto.com.br/blog/",
+    "action": "https://www.credipronto.com.br/blog/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "filters_changed",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "filters_initial",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "qtranslate_lang",
+        "id": "qtranslate_lang",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "asl_gen[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "asl_gen[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "asl_gen[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "asl_gen[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "customset[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.credipronto.com.br/blog/#content",
+    "action": "https://www.credipronto.com.br/blog/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "phrase",
+        "id": "",
+        "placeholder": "Pesquisar...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phrase",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.credipronto.com.br/blog/#content",
+    "action": "https://www.credipronto.com.br/blog/#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "filters_changed",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "filters_initial",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "qtranslate_lang",
+        "id": "qtranslate_lang",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "asl_gen[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "asl_gen[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "asl_gen[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "asl_gen[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "customset[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.credipronto.com.br/blog/#",
+    "action": "https://www.credipronto.com.br/blog/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "phrase",
+        "id": "",
+        "placeholder": "Pesquisar...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phrase",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.credipronto.com.br/blog/#",
+    "action": "https://www.credipronto.com.br/blog/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "filters_changed",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "filters_initial",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "qtranslate_lang",
+        "id": "qtranslate_lang",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "asl_gen[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "asl_gen[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "asl_gen[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "asl_gen[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "customset[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
