@@ -250555,5 +250555,141 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://solicitatuoca.oca.com.uy",
+    "action": "https://oca.uy/tarjeta-de-credito/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "",
+        "placeholder": "Nombre",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "document",
+        "id": "",
+        "placeholder": "Cédula",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "",
+        "placeholder": "Celular",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "topic",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Elige tema de su consulta ",
+          "Mi Cuenta",
+          "Seguros",
+          "Envío de estado de cuenta",
+          "Tarjeta OCA",
+          "Visa de OCA",
+          "Préstamos",
+          "Débitos",
+          "Consultas generales",
+          "Metraje",
+          "Comercios",
+          "Felicitaciones y agradecimientos"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "contact_by",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Contactarme por ",
+          "e-Mail",
+          "Teléfono"
+        ]
+      },
+      {
+        "type": "textarea",
+        "name": "comments",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://solicitatuoca.oca.com.uy",
+    "action": "https://oca.uy/tarjeta-de-credito/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "",
+        "placeholder": "Nombre",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "document",
+        "id": "",
+        "placeholder": "Cédula",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "",
+        "placeholder": "Celular",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "topic",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "contact_by",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Contactarme por ",
+          "e-Mail",
+          "Teléfono"
+        ]
+      },
+      {
+        "type": "textarea",
+        "name": "comments",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
