@@ -250384,5 +250384,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://garantiasempresas.itau.co",
+    "action": "https://garantiasempresas.itau.co/accounts/login/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "csrfmiddlewaretoken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "login",
+        "id": "id_login",
+        "placeholder": "Username",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "remember",
+        "id": "id_remember",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
