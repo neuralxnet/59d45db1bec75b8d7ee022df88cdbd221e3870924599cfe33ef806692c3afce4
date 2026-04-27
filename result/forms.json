@@ -251648,5 +251648,89 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.ion.itau/blog/",
+    "action": "https://www.ion.itau/blog/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "formularioBuscarNoticias",
+        "placeholder": "Busque por um assunto, exemplo: Ações.",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ion.itau/blog/",
+    "action": "https://www.ion.itau/blog/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "formularioBuscarNoticias",
+        "placeholder": "Busque por um assunto, exemplo: Ações.",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.ion.itau/blog/#menu",
+    "action": "https://www.ion.itau/blog/#menu",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "formularioBuscarNoticias",
+        "placeholder": "Busque por um assunto, exemplo: Ações.",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.ion.itau/blog/#main",
+    "action": "https://www.ion.itau/blog/#main",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "formularioBuscarNoticias",
+        "placeholder": "Busque por um assunto, exemplo: Ações.",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.ion.itau/blog/#footer",
+    "action": "https://www.ion.itau/blog/#footer",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "formularioBuscarNoticias",
+        "placeholder": "Busque por um assunto, exemplo: Ações.",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.ion.itau/news/",
+    "action": "https://www.ion.itau/blog/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "formularioBuscarNoticias",
+        "placeholder": "Busque por um assunto, exemplo: Ações.",
+        "required": false
+      }
+    ]
   }
 ]
