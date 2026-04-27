@@ -250943,5 +250943,710 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://intrag.com.br",
+    "action": "https://intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "select-busca",
+        "id": "ids-native-select-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Selecione",
+          "fundos",
+          "cadastro",
+          "documentos"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "buscaModal",
+        "id": "ids-input-0",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://intrag.com.br",
+    "action": "https://intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "ids-input-1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.intrag.com.br",
+    "action": "https://www.intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "select-busca",
+        "id": "ids-native-select-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Selecione",
+          "fundos",
+          "cadastro",
+          "documentos"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "buscaModal",
+        "id": "ids-input-0",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.intrag.com.br",
+    "action": "https://www.intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "ids-input-1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://intrag.com.br",
+    "action": "https://intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ids-native-select-1",
+        "placeholder": "",
+        "required": true,
+        "options": []
+      }
+    ]
+  },
+  {
+    "url": "http://intrag.com.br",
+    "action": "https://intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ids-native-select-2",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "url": "http://intrag.com.br",
+    "action": "https://intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "select-busca",
+        "id": "ids-native-select-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Selecione",
+          "fundos",
+          "cadastro",
+          "documentos"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "buscaModal",
+        "id": "ids-input-0",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://intrag.com.br",
+    "action": "https://intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "ids-input-1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://intrag.com.br/pt-br",
+    "action": "https://intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ids-native-select-1",
+        "placeholder": "",
+        "required": true,
+        "options": []
+      }
+    ]
+  },
+  {
+    "url": "https://intrag.com.br/pt-br",
+    "action": "https://intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ids-native-select-2",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://intrag.com.br/pt-br",
+    "action": "https://intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "select-busca",
+        "id": "ids-native-select-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Selecione",
+          "fundos",
+          "cadastro",
+          "documentos"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "buscaModal",
+        "id": "ids-input-0",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://intrag.com.br/pt-br",
+    "action": "https://intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "ids-input-1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.intrag.com.br/pt-br",
+    "action": "https://www.intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ids-native-select-1",
+        "placeholder": "",
+        "required": true,
+        "options": []
+      }
+    ]
+  },
+  {
+    "url": "https://www.intrag.com.br/pt-br",
+    "action": "https://www.intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ids-native-select-2",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.intrag.com.br/pt-br",
+    "action": "https://www.intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "select-busca",
+        "id": "ids-native-select-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Selecione",
+          "fundos",
+          "cadastro",
+          "documentos"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "buscaModal",
+        "id": "ids-input-0",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.intrag.com.br/pt-br",
+    "action": "https://www.intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "ids-input-1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://intrag.com.br/pt-br/cadastro",
+    "action": "https://intrag.com.br/pt-br/cadastro",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ids-native-select-1",
+        "placeholder": "",
+        "required": true,
+        "options": []
+      }
+    ]
+  },
+  {
+    "url": "https://intrag.com.br/pt-br/cadastro",
+    "action": "https://intrag.com.br/pt-br/cadastro",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ids-native-select-2",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://intrag.com.br/pt-br/cadastro",
+    "action": "https://intrag.com.br/pt-br/cadastro",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "select-busca",
+        "id": "ids-native-select-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Selecione",
+          "fundos",
+          "cadastro",
+          "documentos"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "buscaModal",
+        "id": "ids-input-0",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://intrag.com.br/pt-br/documentos",
+    "action": "https://intrag.com.br/pt-br/documentos",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ids-native-select-1",
+        "placeholder": "",
+        "required": true,
+        "options": []
+      }
+    ]
+  },
+  {
+    "url": "https://intrag.com.br/pt-br/documentos",
+    "action": "https://intrag.com.br/pt-br/documentos",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ids-native-select-2",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://intrag.com.br/pt-br/documentos",
+    "action": "https://intrag.com.br/pt-br/documentos",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "select-busca",
+        "id": "ids-native-select-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Selecione",
+          "fundos",
+          "cadastro",
+          "documentos"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "buscaModal",
+        "id": "ids-input-0",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://intrag.com.br/pt-br/atendimento",
+    "action": "https://intrag.com.br/pt-br/atendimento",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "select-busca",
+        "id": "ids-native-select-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Selecione",
+          "fundos",
+          "cadastro",
+          "documentos"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "buscaModal",
+        "id": "ids-input-0",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.intrag.com.br/pt-br/cadastro",
+    "action": "https://www.intrag.com.br/pt-br/cadastro",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "select-busca",
+        "id": "ids-native-select-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Selecione",
+          "fundos",
+          "cadastro",
+          "documentos"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "buscaModal",
+        "id": "ids-input-0",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.intrag.com.br/pt-br/documentos",
+    "action": "https://www.intrag.com.br/pt-br/documentos",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ids-native-select-1",
+        "placeholder": "",
+        "required": true,
+        "options": []
+      }
+    ]
+  },
+  {
+    "url": "https://www.intrag.com.br/pt-br/documentos",
+    "action": "https://www.intrag.com.br/pt-br/documentos",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ids-native-select-2",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.intrag.com.br/pt-br/documentos",
+    "action": "https://www.intrag.com.br/pt-br/documentos",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "select-busca",
+        "id": "ids-native-select-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Selecione",
+          "fundos",
+          "cadastro",
+          "documentos"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "buscaModal",
+        "id": "ids-input-0",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.intrag.com.br/pt-br/atendimento",
+    "action": "https://www.intrag.com.br/pt-br/atendimento",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ids-native-select-1",
+        "placeholder": "",
+        "required": true,
+        "options": []
+      }
+    ]
+  },
+  {
+    "url": "https://www.intrag.com.br/pt-br/atendimento",
+    "action": "https://www.intrag.com.br/pt-br/atendimento",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ids-native-select-2",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.intrag.com.br/pt-br/atendimento",
+    "action": "https://www.intrag.com.br/pt-br/atendimento",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "select-busca",
+        "id": "ids-native-select-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Selecione",
+          "fundos",
+          "cadastro",
+          "documentos"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "buscaModal",
+        "id": "ids-input-0",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://intrag.com.br/",
+    "action": "https://intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "select-busca",
+        "id": "ids-native-select-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Selecione",
+          "fundos",
+          "cadastro",
+          "documentos"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "buscaModal",
+        "id": "ids-input-0",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://intrag.com.br/",
+    "action": "https://intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "ids-input-1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.intrag.com.br/",
+    "action": "https://www.intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ids-native-select-1",
+        "placeholder": "",
+        "required": true,
+        "options": []
+      }
+    ]
+  },
+  {
+    "url": "https://www.intrag.com.br/",
+    "action": "https://www.intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ids-native-select-2",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.intrag.com.br/",
+    "action": "https://www.intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "select-busca",
+        "id": "ids-native-select-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Selecione",
+          "fundos",
+          "cadastro",
+          "documentos"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "buscaModal",
+        "id": "ids-input-0",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.intrag.com.br/",
+    "action": "https://www.intrag.com.br/pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "ids-input-1",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
