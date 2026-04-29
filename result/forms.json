@@ -253019,5 +253019,1385 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://taxact.com",
+    "action": "https://www.taxact.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com",
+    "action": "https://www.taxact.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://taxact.com",
+    "action": "https://www.taxact.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/",
+    "action": "https://www.taxact.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/business-returns",
+    "action": "https://www.taxact.com/business-returns",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/",
+    "action": "https://www.taxact.com/professional/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/",
+    "action": "https://www.taxact.com/professional/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/new-customer-offer",
+    "action": "https://www.taxact.com/new-customer-offer",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/terms-of-service",
+    "action": "https://www.taxact.com/terms-of-service",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/privacy-notice",
+    "action": "https://www.taxact.com/privacy-notice",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/security",
+    "action": "https://www.taxact.com/security",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/ef/efile-center",
+    "action": "https://www.taxact.com/post-filing/efile-refund-status",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "taxReturnYear",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "",
+          "2025",
+          "2024",
+          "2023"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "efile-taxYear",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "returnType",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "",
+          "1",
+          "4",
+          "3",
+          "2",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "efile-returnType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LName",
+        "id": "efile-lastName",
+        "placeholder": "Last Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "zipCode",
+        "id": "efile-zipCode",
+        "placeholder": "#####",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "tin",
+        "id": "efile-tin",
+        "placeholder": "###-##-####",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/ef/efile-center",
+    "action": "https://www.taxact.com/post-filing/efile-refund-status",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional",
+    "action": "https://www.taxact.com/professional",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional",
+    "action": "https://www.taxact.com/professional",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/auth/professional/create-account",
+    "action": "https://www.taxact.com/auth/professional/create-account",
+    "method": "post",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "phone",
+        "id": "txtPhoneNumber",
+        "placeholder": "(XXX) XXX-XXXX",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "txtEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "confirmemail",
+        "id": "txtConfirmEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "txtUserName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "IAgree",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "checkboxEx",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/products/bundles",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/products/bundles",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/products/bundles",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/products/bundles",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/products/bundles",
+    "action": "https://www.taxact.com/professional/products/bundles",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/new-customer-offer#start-filing",
+    "action": "https://www.taxact.com/new-customer-offer#start-filing",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/terms-of-service#ownership-limited-nav",
+    "action": "https://www.taxact.com/terms-of-service#ownership-limited-nav",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/privacy-notice#personal-information-nav",
+    "action": "https://www.taxact.com/privacy-notice#personal-information-nav",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/support/24142/sign-in-help?hideLayout=False",
+    "action": "https://www.taxact.com/support/results",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchText",
+        "id": "searchText",
+        "placeholder": "Search",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "taxYear",
+        "id": "taxYear",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "2025",
+          "2024",
+          "2023",
+          "2022"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/post-filing/efile-refund-status#refund_tool",
+    "action": "https://www.taxact.com/post-filing/efile-refund-status#refund_tool",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "taxReturnYear",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "",
+          "2025",
+          "2024",
+          "2023"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "efile-taxYear",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "returnType",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "",
+          "1",
+          "4",
+          "3",
+          "2",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "efile-returnType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LName",
+        "id": "efile-lastName",
+        "placeholder": "Last Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "zipCode",
+        "id": "efile-zipCode",
+        "placeholder": "#####",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "tin",
+        "id": "efile-tin",
+        "placeholder": "###-##-####",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/post-filing/efile-refund-status#refund_tool",
+    "action": "https://www.taxact.com/post-filing/efile-refund-status#refund_tool",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/taxes-online?r=182975",
+    "action": "https://www.taxact.com/taxes-online?r=182975",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/tax-xpert-assist",
+    "action": "https://www.taxact.com/tax-xpert-assist",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/tax-preparation",
+    "action": "https://www.taxact.com/download-tax-software",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/individual-taxes/online/self-employed",
+    "action": "https://www.taxact.com/taxes-online/file-your-own-taxes/self-employed-tax-filing",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/lp/business-returns/online",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "product-component-cta-2025-consumer-business-download-tax-exempt-organization-product-dedicated-module-bundle-save",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/business-taxes/download/tax-exempt-organization",
+    "action": "https://www.taxact.com/business-taxes/download/tax-exempt-organization",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/individual-taxes/online/estates-and-trusts",
+    "action": "https://www.taxact.com/business-taxes/online/estates-and-trusts",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/#__layout",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/#__layout",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/#__layout",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/#__layout",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/#__layout",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/#__layout",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/#__layout",
+    "action": "https://www.taxact.com/professional/#__layout",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/#__layout",
+    "action": "https://www.taxact.com/professional/#__layout",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/products/federal-taxes",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/products/federal-taxes",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/products/federal-taxes",
+    "action": "https://www.taxact.com/professional/products/federal-taxes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/products/state-taxes",
+    "action": "https://www.taxact.com/professional/products/state-taxes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "25PRSTDALSALSDW",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/products/state-taxes",
+    "action": "https://www.taxact.com/professional/products/state-taxes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "25PESTDALSALSDW",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/products/state-taxes",
+    "action": "https://www.taxact.com/professional/products/state-taxes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "25PNSTDALSALSDW",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/products/state-taxes",
+    "action": "https://www.taxact.com/professional/products/state-taxes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "25PSSTDALSALSDW",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/products/state-taxes",
+    "action": "https://www.taxact.com/professional/products/state-taxes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "25PCSTDALSALSDW",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/products/low-volumebundles",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/products/low-volumebundles",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/products/low-volumebundles",
+    "action": "https://www.taxact.com/professional/products/low-volumebundles",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/consumer/reviews/all",
+    "action": "https://www.taxact.com/consumer/reviews/all",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/tax-xpert-assist#%20(1)",
+    "action": "https://www.taxact.com/tax-xpert-assist#%20(1)",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/download-tax-software/basic-tax-filing-software",
+    "action": "https://www.taxact.com/download-tax-software/basic-tax-filing-software",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/business-returns/download",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "product-component-cta-2025-consumer-download-sole-proprietor-dl",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/business-returns/download",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "product-component-cta-2025-consumer-business-download-tax-exempt-organization-product-dedicated-module-bundle-save",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/lp/business-returns/online#__layout",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/lp/business-returns/online#__layout",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/lp/business-returns/online#__layout",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/lp/business-returns/online#__layout",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/lp/business-returns/online#__layout",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "product-component-cta-2025-consumer-business-download-tax-exempt-organization-product-dedicated-module-bundle-save",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/business-returns/file-your-own-business-taxes",
+    "action": "https://www.taxact.com/business-returns/file-your-own-business-taxes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/business-returns/business-tax-xpert-assist/xpert-full-service-business",
+    "action": "https://www.taxact.com/business-returns/business-tax-xpert-assist/xpert-full-service-business",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/business-returns/business-tax-xpert-assist/xpert-full-service-business",
+    "action": "https://www.taxact.com/business-returns/business-tax-xpert-assist/xpert-full-service-business",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/taxes-online",
+    "action": "https://www.taxact.com/taxes-online",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email-subscription-form-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/professional/products/1040-twenty-bundle",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "product-component-cta-2025-professional-1040-20-bundle-product-page-box",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/business-returns/download#__layout",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "product-component-cta-2025-consumer-download-sole-proprietor-dl",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.taxact.com/business-returns/download#__layout",
+    "action": "https://www.taxact.com/shopping-cart/add-to-cart-by-code",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "productCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "product-component-cta-2025-consumer-business-download-tax-exempt-organization-product-dedicated-module-bundle-save",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
