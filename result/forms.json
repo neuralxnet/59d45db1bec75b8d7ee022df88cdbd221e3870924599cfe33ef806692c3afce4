@@ -252431,5 +252431,593 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://itaucultural.org.br",
+    "action": "https://www.itaucultural.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchDesk",
+        "id": "searchDesk",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://itaucultural.org.br",
+    "action": "https://www.itaucultural.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchMob",
+        "id": "searchMob",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itaucultural.org.br",
+    "action": "https://www.itaucultural.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchDesk",
+        "id": "searchDesk",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itaucultural.org.br",
+    "action": "https://www.itaucultural.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchMob",
+        "id": "searchMob",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://itaucultural.org.br",
+    "action": "https://www.itaucultural.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchDesk",
+        "id": "searchDesk",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://itaucultural.org.br",
+    "action": "https://www.itaucultural.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchMob",
+        "id": "searchMob",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itaucultural.org.br/",
+    "action": "https://www.itaucultural.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchDesk",
+        "id": "searchDesk",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itaucultural.org.br/",
+    "action": "https://www.itaucultural.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchMob",
+        "id": "searchMob",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itaucultural.org.br/agenda",
+    "action": "https://www.itaucultural.org.br/agenda",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchDesk",
+        "id": "searchDesk",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itaucultural.org.br/agenda",
+    "action": "https://www.itaucultural.org.br/agenda",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchMob",
+        "id": "searchMob",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itaucultural.org.br/agenda",
+    "action": "https://www.itaucultural.org.br/agenda",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "keyword",
+        "id": "",
+        "placeholder": "Busque pelo nome do evento",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "local",
+        "id": "saoPaulo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "local",
+        "id": "outros",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Buscar por Tag",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "modality",
+        "id": "todos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "modality",
+        "id": "aovivo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "modality",
+        "id": "presencial",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "classification",
+        "id": "todas",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "classification",
+        "id": "livre",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "classification",
+        "id": "10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "classification",
+        "id": "12",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "classification",
+        "id": "14",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "classification",
+        "id": "16",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "classification",
+        "id": "18",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "programs",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "programs",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "programs",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "programs",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "programs",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "programs",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "programs",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itaucultural.org.br/contato",
+    "action": "https://www.itaucultural.org.br/contato",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchDesk",
+        "id": "searchDesk",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itaucultural.org.br/contato",
+    "action": "https://www.itaucultural.org.br/contato",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchMob",
+        "id": "searchMob",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ehp.itaucultural.org.br/",
+    "action": "https://ehp.itaucultural.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchMobile",
+        "id": "searchMobile",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itaucultural.org.br/espaco-olavo-setubal",
+    "action": "https://www.itaucultural.org.br/espaco-olavo-setubal",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchDesk",
+        "id": "searchDesk",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itaucultural.org.br/espaco-olavo-setubal",
+    "action": "https://www.itaucultural.org.br/espaco-olavo-setubal",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchMob",
+        "id": "searchMob",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itaucultural.org.br/mostras-e-exposicoes/exposicoes",
+    "action": "https://www.itaucultural.org.br/mostras-e-exposicoes/exposicoes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchDesk",
+        "id": "searchDesk",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itaucultural.org.br/mostras-e-exposicoes/exposicoes",
+    "action": "https://www.itaucultural.org.br/mostras-e-exposicoes/exposicoes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchMob",
+        "id": "searchMob",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itaucultural.org.br/mostras-e-exposicoes/exposicoes",
+    "action": "https://www.itaucultural.org.br/mostras-e-exposicoes/exposicoes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "keyword",
+        "id": "",
+        "placeholder": "BUSQUE POR POSTAGENS...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itaucultural.org.br/mostras-e-exposicoes/exposicoes-virtuais",
+    "action": "https://www.itaucultural.org.br/mostras-e-exposicoes/exposicoes-virtuais",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchDesk",
+        "id": "searchDesk",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itaucultural.org.br/mostras-e-exposicoes/exposicoes-virtuais",
+    "action": "https://www.itaucultural.org.br/mostras-e-exposicoes/exposicoes-virtuais",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchMob",
+        "id": "searchMob",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itaucultural.org.br/mostras-e-exposicoes/ocupacao",
+    "action": "https://www.itaucultural.org.br/mostras-e-exposicoes/ocupacao",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchDesk",
+        "id": "searchDesk",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itaucultural.org.br/mostras-e-exposicoes/ocupacao",
+    "action": "https://www.itaucultural.org.br/mostras-e-exposicoes/ocupacao",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "searchMob",
+        "id": "searchMob",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ehp.itaucultural.org.br/sobre/",
+    "action": "https://ehp.itaucultural.org.br/sobre/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchMobile",
+        "id": "searchMobile",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ehp.itaucultural.org.br/1/",
+    "action": "https://ehp.itaucultural.org.br/1/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchMobile",
+        "id": "searchMobile",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ehp.itaucultural.org.br/2/",
+    "action": "https://ehp.itaucultural.org.br/2/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchMobile",
+        "id": "searchMobile",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ehp.itaucultural.org.br/3/",
+    "action": "https://ehp.itaucultural.org.br/3/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchMobile",
+        "id": "searchMobile",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ehp.itaucultural.org.br/4/",
+    "action": "https://ehp.itaucultural.org.br/4/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchMobile",
+        "id": "searchMobile",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ehp.itaucultural.org.br/5/",
+    "action": "https://ehp.itaucultural.org.br/5/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchMobile",
+        "id": "searchMobile",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ehp.itaucultural.org.br/6/",
+    "action": "https://ehp.itaucultural.org.br/6/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchMobile",
+        "id": "searchMobile",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ehp.itaucultural.org.br/7/",
+    "action": "https://ehp.itaucultural.org.br/7/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchMobile",
+        "id": "searchMobile",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ehp.itaucultural.org.br/8/",
+    "action": "https://ehp.itaucultural.org.br/8/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "searchMobile",
+        "id": "searchMobile",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
