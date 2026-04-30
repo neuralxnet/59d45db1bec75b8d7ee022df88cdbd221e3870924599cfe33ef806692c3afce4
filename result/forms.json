@@ -254399,5 +254399,663 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://store.gx.me/",
+    "action": "https://store.gx.me/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/",
+    "action": "https://store.gx.me/mods/?tagAlias=desktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/#",
+    "action": "https://store.gx.me/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/06dns9/the-witcher-3-wild-hunt-10th-anniversary/",
+    "action": "https://store.gx.me/mods/06dns9/the-witcher-3-wild-hunt-10th-anniversary/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/?tagAlias=desktop",
+    "action": "https://store.gx.me/mods/?tagAlias=desktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/?tagAlias=mobile",
+    "action": "https://store.gx.me/mods/?tagAlias=mobile",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/?tagAlias=app-icon",
+    "action": "https://store.gx.me/mods/?tagAlias=app-icon%2Cdesktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/?tagAlias=background-music",
+    "action": "https://store.gx.me/mods/?tagAlias=background-music%2Cdesktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/?tagAlias=browser-sounds",
+    "action": "https://store.gx.me/mods/?tagAlias=browser-sounds%2Cdesktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/?tagAlias=desktop#",
+    "action": "https://store.gx.me/mods/?tagAlias=desktop#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/?tagAlias=desktop&page=1",
+    "action": "https://store.gx.me/mods/?tagAlias=desktop&page=1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/?tagAlias=desktop&page=1",
+    "action": "https://store.gx.me/mods/?tagAlias=desktop&page=1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/06dns9/the-witcher-3-wild-hunt-10th-anniversary/#",
+    "action": "https://store.gx.me/mods/06dns9/the-witcher-3-wild-hunt-10th-anniversary/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/?tagAlias=cursors",
+    "action": "https://store.gx.me/mods/?tagAlias=cursors%2Cdesktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/?tagAlias=mobile#",
+    "action": "https://store.gx.me/mods/?tagAlias=mobile#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/dd7dj5/lofi-chill/",
+    "action": "https://store.gx.me/mods/dd7dj5/lofi-chill/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/ovd727/cyberdeck/",
+    "action": "https://store.gx.me/mods/ovd727/cyberdeck/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/iid45j/gx-boy/",
+    "action": "https://store.gx.me/mods/iid45j/gx-boy/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/8x5hvv/anime/",
+    "action": "https://store.gx.me/mods/8x5hvv/anime/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/a7t0tm/official-cyberpunk-2077/",
+    "action": "https://store.gx.me/mods/a7t0tm/official-cyberpunk-2077/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/0hebgm/minecraft/",
+    "action": "https://store.gx.me/mods/0hebgm/minecraft/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/?tagAlias=app-icon%2Cdesktop#",
+    "action": "https://store.gx.me/mods/?tagAlias=app-icon%2Cdesktop#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/0kawao/day-one/",
+    "action": "https://store.gx.me/mods/0kawao/day-one/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/9iydsv/drive-by/",
+    "action": "https://store.gx.me/mods/9iydsv/drive-by/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/5k2smu/legendary-rift/",
+    "action": "https://store.gx.me/mods/5k2smu/legendary-rift/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/caelov/blockified/",
+    "action": "https://store.gx.me/mods/caelov/blockified/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/?tagAlias=background-music%2Cdesktop#",
+    "action": "https://store.gx.me/mods/?tagAlias=background-music%2Cdesktop#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/?tagAlias=browser-sounds%2Cdesktop#",
+    "action": "https://store.gx.me/mods/?tagAlias=browser-sounds%2Cdesktop#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/uof1wr/miau/",
+    "action": "https://store.gx.me/mods/uof1wr/miau/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/vdff7m/pipe/",
+    "action": "https://store.gx.me/mods/vdff7m/pipe/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/brzem0/falling-metal-pipe/",
+    "action": "https://store.gx.me/mods/brzem0/falling-metal-pipe/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/?tagAlias=cursors%2Cdesktop#",
+    "action": "https://store.gx.me/mods/?tagAlias=cursors%2Cdesktop#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/fzfbc7/cozy/",
+    "action": "https://store.gx.me/mods/fzfbc7/cozy/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/?tagAlias=mobile&page=1",
+    "action": "https://store.gx.me/mods/?tagAlias=mobile&page=1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/dd7dj5/lofi-chill/#",
+    "action": "https://store.gx.me/mods/dd7dj5/lofi-chill/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/?tagAlias=keyboard-sounds",
+    "action": "https://store.gx.me/mods/?tagAlias=keyboard-sounds%2Cdesktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/ovd727/cyberdeck/#",
+    "action": "https://store.gx.me/mods/ovd727/cyberdeck/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/iid45j/gx-boy/#",
+    "action": "https://store.gx.me/mods/iid45j/gx-boy/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/8x5hvv/anime/#",
+    "action": "https://store.gx.me/mods/8x5hvv/anime/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/a7t0tm/official-cyberpunk-2077/#",
+    "action": "https://store.gx.me/mods/a7t0tm/official-cyberpunk-2077/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/0hebgm/minecraft/#",
+    "action": "https://store.gx.me/mods/0hebgm/minecraft/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/?tagAlias=page-style",
+    "action": "https://store.gx.me/mods/?tagAlias=page-style%2Cdesktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/?tagAlias=app-icon%2Cdesktop&page=1",
+    "action": "https://store.gx.me/mods/?tagAlias=app-icon%2Cdesktop&page=1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/0kawao/day-one/#",
+    "action": "https://store.gx.me/mods/0kawao/day-one/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/9iydsv/drive-by/#",
+    "action": "https://store.gx.me/mods/9iydsv/drive-by/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/?tagAlias=fonts",
+    "action": "https://store.gx.me/mods/?tagAlias=fonts%2Cdesktop",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.gx.me/mods/5k2smu/legendary-rift/#",
+    "action": "https://store.gx.me/mods/5k2smu/legendary-rift/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
   }
 ]
