@@ -255057,5 +255057,761 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://itausocial.org.br",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://itausocial.org.br",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://itausocial.org.br",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://itausocial.org.br",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/#conteudo",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/#conteudo",
+    "action": "https://www.itausocial.org.br/#conteudo",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/#nav-menu",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/#nav-menu",
+    "action": "https://www.itausocial.org.br/#nav-menu",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/#",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/#",
+    "action": "https://www.itausocial.org.br/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/sobre/",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/sobre/",
+    "action": "https://www.itausocial.org.br/sobre/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/relatorios-e-documentos/",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/relatorios-e-documentos/",
+    "action": "https://www.itausocial.org.br/relatorios-e-documentos/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/pessoas/",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/pessoas/",
+    "action": "https://www.itausocial.org.br/pessoas/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/parceiros/",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/parceiros/",
+    "action": "https://www.itausocial.org.br/parceiros/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/acoes/",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/acoes/",
+    "action": "https://www.itausocial.org.br/acoes/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/sobre/#conteudo",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/sobre/#conteudo",
+    "action": "https://www.itausocial.org.br/sobre/#conteudo",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/sobre/#nav-menu",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/sobre/#nav-menu",
+    "action": "https://www.itausocial.org.br/sobre/#nav-menu",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/sobre/#",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/sobre/#",
+    "action": "https://www.itausocial.org.br/sobre/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/relatorios-e-documentos/#conteudo",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/relatorios-e-documentos/#conteudo",
+    "action": "https://www.itausocial.org.br/relatorios-e-documentos/#conteudo",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/relatorios-e-documentos/#nav-menu",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/relatorios-e-documentos/#nav-menu",
+    "action": "https://www.itausocial.org.br/relatorios-e-documentos/#nav-menu",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/relatorios-e-documentos/#",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/relatorios-e-documentos/#",
+    "action": "https://www.itausocial.org.br/relatorios-e-documentos/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/pessoas/#conteudo",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/pessoas/#conteudo",
+    "action": "https://www.itausocial.org.br/pessoas/#conteudo",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/pessoas/#nav-menu",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/pessoas/#nav-menu",
+    "action": "https://www.itausocial.org.br/pessoas/#nav-menu",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/pessoas/#",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/pessoas/#",
+    "action": "https://www.itausocial.org.br/pessoas/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/parceiros/#conteudo",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/parceiros/#conteudo",
+    "action": "https://www.itausocial.org.br/parceiros/#conteudo",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/parceiros/#nav-menu",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/parceiros/#nav-menu",
+    "action": "https://www.itausocial.org.br/parceiros/#nav-menu",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/parceiros/#",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/parceiros/#",
+    "action": "https://www.itausocial.org.br/parceiros/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/acoes/#conteudo",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/acoes/#conteudo",
+    "action": "https://www.itausocial.org.br/acoes/#conteudo",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/acoes/#nav-menu",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/acoes/#nav-menu",
+    "action": "https://www.itausocial.org.br/acoes/#nav-menu",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/acoes/#",
+    "action": "https://www.itausocial.org.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "search",
+        "placeholder": "Buscar",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.itausocial.org.br/acoes/#",
+    "action": "https://www.itausocial.org.br/acoes/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "newsletterEmail",
+        "placeholder": "Digite seu email",
+        "required": false
+      }
+    ]
   }
 ]
