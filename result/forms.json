@@ -255876,5 +255876,6522 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://kinea.com.br",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kinea.com.br",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-lp-nova/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Nome",
+        "id": "txtNome",
+        "placeholder": "Seu nome (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "EmailInvestir",
+        "id": "txtEmailComoInvestir",
+        "placeholder": "Nos diga seu e-mail (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "Programas",
+        "id": "Opcao1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Blog",
+        "id": "Opcao2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAcoes",
+        "id": "07",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAgro",
+        "id": "agro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catCredio",
+        "id": "credito-privado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catInfraestrutura",
+        "id": "06",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobCri",
+        "id": "10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobTij",
+        "id": "11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobMulti",
+        "id": "imobiliarios-multiestrategia",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catMultimercados",
+        "id": "01",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catRendaFixa",
+        "id": "03",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Data de Cadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponsePageNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "chk_ReceberContato",
+        "id": "chk_ReceberContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmEmail",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "origem",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-lp-news",
+        "id": "url-lp-news",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-lp-nova/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Nome",
+        "id": "txtNome",
+        "placeholder": "Seu nome (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "EmailInvestir",
+        "id": "txtEmailComoInvestir",
+        "placeholder": "Nos diga seu e-mail (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "Programas",
+        "id": "Opcao1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Blog",
+        "id": "Opcao2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAcoes",
+        "id": "07",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAgro",
+        "id": "agro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catCredio",
+        "id": "credito-privado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catInfraestrutura",
+        "id": "06",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobCri",
+        "id": "10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobTij",
+        "id": "11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobMulti",
+        "id": "imobiliarios-multiestrategia",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catMultimercados",
+        "id": "01",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catRendaFixa",
+        "id": "03",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Data de Cadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponsePageNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "chk_ReceberContato",
+        "id": "chk_ReceberContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmEmail",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "origem",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-lp-news",
+        "id": "url-lp-news",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://kinea.com.br",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://kinea.com.br",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-lp-nova/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Nome",
+        "id": "txtNome",
+        "placeholder": "Seu nome (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "EmailInvestir",
+        "id": "txtEmailComoInvestir",
+        "placeholder": "Nos diga seu e-mail (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "Programas",
+        "id": "Opcao1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Blog",
+        "id": "Opcao2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAcoes",
+        "id": "07",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAgro",
+        "id": "agro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catCredio",
+        "id": "credito-privado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catInfraestrutura",
+        "id": "06",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobCri",
+        "id": "10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobTij",
+        "id": "11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobMulti",
+        "id": "imobiliarios-multiestrategia",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catMultimercados",
+        "id": "01",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catRendaFixa",
+        "id": "03",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Data de Cadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponsePageNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "chk_ReceberContato",
+        "id": "chk_ReceberContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmEmail",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "origem",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-lp-news",
+        "id": "url-lp-news",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/home",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/home",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-lp-nova/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Nome",
+        "id": "txtNome",
+        "placeholder": "Seu nome (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "EmailInvestir",
+        "id": "txtEmailComoInvestir",
+        "placeholder": "Nos diga seu e-mail (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "Programas",
+        "id": "Opcao1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Blog",
+        "id": "Opcao2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAcoes",
+        "id": "07",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAgro",
+        "id": "agro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catCredio",
+        "id": "credito-privado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catInfraestrutura",
+        "id": "06",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobCri",
+        "id": "10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobTij",
+        "id": "11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobMulti",
+        "id": "imobiliarios-multiestrategia",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catMultimercados",
+        "id": "01",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catRendaFixa",
+        "id": "03",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Data de Cadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponsePageNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "chk_ReceberContato",
+        "id": "chk_ReceberContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmEmail",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "origem",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-lp-news",
+        "id": "url-lp-news",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/home-institucional",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/home-institucional",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-lp-nova/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Nome",
+        "id": "txtNome",
+        "placeholder": "Seu nome (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "EmailInvestir",
+        "id": "txtEmailComoInvestir",
+        "placeholder": "Nos diga seu e-mail (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "Programas",
+        "id": "Opcao1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Blog",
+        "id": "Opcao2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAcoes",
+        "id": "07",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAgro",
+        "id": "agro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catCredio",
+        "id": "credito-privado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catInfraestrutura",
+        "id": "06",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobCri",
+        "id": "10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobTij",
+        "id": "11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobMulti",
+        "id": "imobiliarios-multiestrategia",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catMultimercados",
+        "id": "01",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catRendaFixa",
+        "id": "03",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Data de Cadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponsePageNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "chk_ReceberContato",
+        "id": "chk_ReceberContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmEmail",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "origem",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-lp-news",
+        "id": "url-lp-news",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-lp-nova/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Nome",
+        "id": "txtNome",
+        "placeholder": "Seu nome (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "EmailInvestir",
+        "id": "txtEmailComoInvestir",
+        "placeholder": "Nos diga seu e-mail (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "Programas",
+        "id": "Opcao1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Blog",
+        "id": "Opcao2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAcoes",
+        "id": "07",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAgro",
+        "id": "agro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catCredio",
+        "id": "credito-privado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catInfraestrutura",
+        "id": "06",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobCri",
+        "id": "10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobTij",
+        "id": "11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobMulti",
+        "id": "imobiliarios-multiestrategia",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catMultimercados",
+        "id": "01",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catRendaFixa",
+        "id": "03",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Data de Cadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponsePageNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "chk_ReceberContato",
+        "id": "chk_ReceberContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmEmail",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "origem",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-lp-news",
+        "id": "url-lp-news",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/blog",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/blog",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-lp-nova/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Nome",
+        "id": "txtNome",
+        "placeholder": "Seu nome (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "EmailInvestir",
+        "id": "txtEmailComoInvestir",
+        "placeholder": "Nos diga seu e-mail (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "Programas",
+        "id": "Opcao1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Blog",
+        "id": "Opcao2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAcoes",
+        "id": "07",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAgro",
+        "id": "agro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catCredio",
+        "id": "credito-privado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catInfraestrutura",
+        "id": "06",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobCri",
+        "id": "10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobTij",
+        "id": "11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobMulti",
+        "id": "imobiliarios-multiestrategia",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catMultimercados",
+        "id": "01",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catRendaFixa",
+        "id": "03",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Data de Cadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponsePageNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "chk_ReceberContato",
+        "id": "chk_ReceberContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmEmail",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "origem",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-lp-news",
+        "id": "url-lp-news",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/guias",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/guias",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-lp-nova/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Nome",
+        "id": "txtNome",
+        "placeholder": "Seu nome (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "EmailInvestir",
+        "id": "txtEmailComoInvestir",
+        "placeholder": "Nos diga seu e-mail (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "Programas",
+        "id": "Opcao1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Blog",
+        "id": "Opcao2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAcoes",
+        "id": "07",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAgro",
+        "id": "agro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catCredio",
+        "id": "credito-privado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catInfraestrutura",
+        "id": "06",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobCri",
+        "id": "10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobTij",
+        "id": "11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobMulti",
+        "id": "imobiliarios-multiestrategia",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catMultimercados",
+        "id": "01",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catRendaFixa",
+        "id": "03",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Data de Cadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponsePageNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "chk_ReceberContato",
+        "id": "chk_ReceberContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmEmail",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "origem",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-lp-news",
+        "id": "url-lp-news",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/como-investir",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/como-investir",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-lp-nova/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Nome",
+        "id": "txtNome",
+        "placeholder": "Seu nome (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "EmailInvestir",
+        "id": "txtEmailComoInvestir",
+        "placeholder": "Nos diga seu e-mail (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "Programas",
+        "id": "Opcao1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Blog",
+        "id": "Opcao2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAcoes",
+        "id": "07",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAgro",
+        "id": "agro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catCredio",
+        "id": "credito-privado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catInfraestrutura",
+        "id": "06",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobCri",
+        "id": "10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobTij",
+        "id": "11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobMulti",
+        "id": "imobiliarios-multiestrategia",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catMultimercados",
+        "id": "01",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catRendaFixa",
+        "id": "03",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Data de Cadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponsePageNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "chk_ReceberContato",
+        "id": "chk_ReceberContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmEmail",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "origem",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-lp-news",
+        "id": "url-lp-news",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/",
+    "action": "https://www.kinea.com.br/confirmacao-contato/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "oid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "retURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "recordType",
+        "id": "recordType",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0123s000000ywzZ"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "company",
+        "placeholder": "Empresa",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "city",
+        "id": "city",
+        "placeholder": "Cidade",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "state",
+        "placeholder": "Estado",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "00N3s00000OzcEg",
+        "id": "00N3s00000OzcEg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-contato",
+        "id": "url-contato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "submit",
+        "id": "envia-form-contato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-footer-en/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "NomeNews",
+        "id": "nome-newsletter",
+        "placeholder": "Your name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "EmailNews",
+        "id": "email-newsletter",
+        "placeholder": "E-mail address",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Telefone",
+        "id": "tel-newsletter",
+        "placeholder": "Nos diga seu telefone",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Box",
+        "id": "",
+        "placeholder": "Aceito os termos e condições",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-newsletter",
+        "id": "url-newsletter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro-newsletter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-fixa-en/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtNomeFixo",
+        "id": "txtNomeFixo",
+        "placeholder": "Your name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "txtEmailFixo",
+        "id": "txtEmailFixo",
+        "placeholder": "E-mail address",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "txtWhatsFixo",
+        "id": "txtWhatsFixo",
+        "placeholder": "Phone",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "dataCadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseNewsFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "urlNewsFixo",
+        "id": "urlNewsFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "chk_ReceberContatoFixo",
+        "id": "chk_ReceberContatoFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro-newsletter-Fixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/home-portal-investidor",
+    "action": "https://www.kinea.com.br/loga-app-portal",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtUserLogin",
+        "id": "txtUserLogin",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "txtPassword",
+        "id": "txtPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "task",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_to",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "btnEntrarPortal",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/portal-do-investidor-login",
+    "action": "https://www.kinea.com.br/loga-app-portal",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtUserLogin",
+        "id": "txtUserLogin",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "txtPassword",
+        "id": "txtPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "task",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_to",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "btnEntrarPortal",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/blog/categoria/carta-do-gestor/",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/blog/categoria/carta-do-gestor/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-lp-nova/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Nome",
+        "id": "txtNome",
+        "placeholder": "Seu nome (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "EmailInvestir",
+        "id": "txtEmailComoInvestir",
+        "placeholder": "Nos diga seu e-mail (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "Programas",
+        "id": "Opcao1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Blog",
+        "id": "Opcao2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAcoes",
+        "id": "07",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAgro",
+        "id": "agro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catCredio",
+        "id": "credito-privado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catInfraestrutura",
+        "id": "06",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobCri",
+        "id": "10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobTij",
+        "id": "11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobMulti",
+        "id": "imobiliarios-multiestrategia",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catMultimercados",
+        "id": "01",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catRendaFixa",
+        "id": "03",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Data de Cadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponsePageNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "chk_ReceberContato",
+        "id": "chk_ReceberContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmEmail",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "origem",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-lp-news",
+        "id": "url-lp-news",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/blog/categoria/insights/",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/blog/categoria/insights/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-lp-nova/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Nome",
+        "id": "txtNome",
+        "placeholder": "Seu nome (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "EmailInvestir",
+        "id": "txtEmailComoInvestir",
+        "placeholder": "Nos diga seu e-mail (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "Programas",
+        "id": "Opcao1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Blog",
+        "id": "Opcao2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAcoes",
+        "id": "07",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAgro",
+        "id": "agro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catCredio",
+        "id": "credito-privado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catInfraestrutura",
+        "id": "06",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobCri",
+        "id": "10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobTij",
+        "id": "11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobMulti",
+        "id": "imobiliarios-multiestrategia",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catMultimercados",
+        "id": "01",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catRendaFixa",
+        "id": "03",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Data de Cadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponsePageNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "chk_ReceberContato",
+        "id": "chk_ReceberContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmEmail",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "origem",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-lp-news",
+        "id": "url-lp-news",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/blog/categoria/carta-trimestral-acoes/",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/blog/categoria/carta-trimestral-acoes/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-lp-nova/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Nome",
+        "id": "txtNome",
+        "placeholder": "Seu nome (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "EmailInvestir",
+        "id": "txtEmailComoInvestir",
+        "placeholder": "Nos diga seu e-mail (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "Programas",
+        "id": "Opcao1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Blog",
+        "id": "Opcao2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAcoes",
+        "id": "07",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAgro",
+        "id": "agro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catCredio",
+        "id": "credito-privado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catInfraestrutura",
+        "id": "06",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobCri",
+        "id": "10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobTij",
+        "id": "11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobMulti",
+        "id": "imobiliarios-multiestrategia",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catMultimercados",
+        "id": "01",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catRendaFixa",
+        "id": "03",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Data de Cadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponsePageNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "chk_ReceberContato",
+        "id": "chk_ReceberContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmEmail",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "origem",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-lp-news",
+        "id": "url-lp-news",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/blog/categoria/fundos-de-investimento/",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/blog/categoria/fundos-de-investimento/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-lp-nova/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Nome",
+        "id": "txtNome",
+        "placeholder": "Seu nome (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "EmailInvestir",
+        "id": "txtEmailComoInvestir",
+        "placeholder": "Nos diga seu e-mail (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "Programas",
+        "id": "Opcao1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Blog",
+        "id": "Opcao2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAcoes",
+        "id": "07",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAgro",
+        "id": "agro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catCredio",
+        "id": "credito-privado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catInfraestrutura",
+        "id": "06",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobCri",
+        "id": "10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobTij",
+        "id": "11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobMulti",
+        "id": "imobiliarios-multiestrategia",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catMultimercados",
+        "id": "01",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catRendaFixa",
+        "id": "03",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Data de Cadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponsePageNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "chk_ReceberContato",
+        "id": "chk_ReceberContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmEmail",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "origem",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-lp-news",
+        "id": "url-lp-news",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/blog/categoria/kinea-explica/",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/blog/categoria/kinea-explica/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-lp-nova/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Nome",
+        "id": "txtNome",
+        "placeholder": "Seu nome (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "EmailInvestir",
+        "id": "txtEmailComoInvestir",
+        "placeholder": "Nos diga seu e-mail (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "Programas",
+        "id": "Opcao1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Blog",
+        "id": "Opcao2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAcoes",
+        "id": "07",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAgro",
+        "id": "agro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catCredio",
+        "id": "credito-privado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catInfraestrutura",
+        "id": "06",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobCri",
+        "id": "10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobTij",
+        "id": "11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobMulti",
+        "id": "imobiliarios-multiestrategia",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catMultimercados",
+        "id": "01",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catRendaFixa",
+        "id": "03",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Data de Cadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponsePageNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "chk_ReceberContato",
+        "id": "chk_ReceberContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmEmail",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "origem",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-lp-news",
+        "id": "url-lp-news",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/blog/categoria/reflexoes/",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/blog/categoria/reflexoes/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-lp-nova/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Nome",
+        "id": "txtNome",
+        "placeholder": "Seu nome (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "EmailInvestir",
+        "id": "txtEmailComoInvestir",
+        "placeholder": "Nos diga seu e-mail (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "Programas",
+        "id": "Opcao1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Blog",
+        "id": "Opcao2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAcoes",
+        "id": "07",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAgro",
+        "id": "agro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catCredio",
+        "id": "credito-privado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catInfraestrutura",
+        "id": "06",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobCri",
+        "id": "10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobTij",
+        "id": "11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobMulti",
+        "id": "imobiliarios-multiestrategia",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catMultimercados",
+        "id": "01",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catRendaFixa",
+        "id": "03",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Data de Cadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponsePageNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "chk_ReceberContato",
+        "id": "chk_ReceberContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmEmail",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "origem",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-lp-news",
+        "id": "url-lp-news",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/hedge-funds/",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/hedge-funds/",
+    "action": "https://www.kinea.com.br/confirmacao-contato/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "oid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "retURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "recordType",
+        "id": "recordType",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0123s000000ywzZ"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "company",
+        "placeholder": "Empresa",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "city",
+        "id": "city",
+        "placeholder": "Cidade",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "state",
+        "placeholder": "Estado",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "00N3s00000OzcEg",
+        "id": "00N3s00000OzcEg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-contato",
+        "id": "url-contato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "submit",
+        "id": "envia-form-contato",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/hedge-funds/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-footer-en/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "NomeNews",
+        "id": "nome-newsletter",
+        "placeholder": "Your name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "EmailNews",
+        "id": "email-newsletter",
+        "placeholder": "E-mail address",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Telefone",
+        "id": "tel-newsletter",
+        "placeholder": "Nos diga seu telefone",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Box",
+        "id": "",
+        "placeholder": "Aceito os termos e condições",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-newsletter",
+        "id": "url-newsletter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro-newsletter",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/hedge-funds/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-fixa-en/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtNomeFixo",
+        "id": "txtNomeFixo",
+        "placeholder": "Your name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "txtEmailFixo",
+        "id": "txtEmailFixo",
+        "placeholder": "E-mail address",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "txtWhatsFixo",
+        "id": "txtWhatsFixo",
+        "placeholder": "Phone",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "dataCadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseNewsFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "urlNewsFixo",
+        "id": "urlNewsFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "chk_ReceberContatoFixo",
+        "id": "chk_ReceberContatoFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro-newsletter-Fixo",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/fixed-income-and-inflation-funds/",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/fixed-income-and-inflation-funds/",
+    "action": "https://www.kinea.com.br/confirmacao-contato/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "oid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "retURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "recordType",
+        "id": "recordType",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0123s000000ywzZ"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "company",
+        "placeholder": "Empresa",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "city",
+        "id": "city",
+        "placeholder": "Cidade",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "state",
+        "placeholder": "Estado",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "00N3s00000OzcEg",
+        "id": "00N3s00000OzcEg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-contato",
+        "id": "url-contato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "submit",
+        "id": "envia-form-contato",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/fixed-income-and-inflation-funds/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-footer-en/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "NomeNews",
+        "id": "nome-newsletter",
+        "placeholder": "Your name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "EmailNews",
+        "id": "email-newsletter",
+        "placeholder": "E-mail address",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Telefone",
+        "id": "tel-newsletter",
+        "placeholder": "Nos diga seu telefone",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Box",
+        "id": "",
+        "placeholder": "Aceito os termos e condições",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-newsletter",
+        "id": "url-newsletter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro-newsletter",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/fixed-income-and-inflation-funds/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-fixa-en/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtNomeFixo",
+        "id": "txtNomeFixo",
+        "placeholder": "Your name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "txtEmailFixo",
+        "id": "txtEmailFixo",
+        "placeholder": "E-mail address",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "txtWhatsFixo",
+        "id": "txtWhatsFixo",
+        "placeholder": "Phone",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "dataCadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseNewsFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "urlNewsFixo",
+        "id": "urlNewsFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "chk_ReceberContatoFixo",
+        "id": "chk_ReceberContatoFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro-newsletter-Fixo",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/equity-funds/",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/equity-funds/",
+    "action": "https://www.kinea.com.br/confirmacao-contato/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "oid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "retURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "recordType",
+        "id": "recordType",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0123s000000ywzZ"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "company",
+        "placeholder": "Empresa",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "city",
+        "id": "city",
+        "placeholder": "Cidade",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "state",
+        "placeholder": "Estado",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "00N3s00000OzcEg",
+        "id": "00N3s00000OzcEg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-contato",
+        "id": "url-contato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "submit",
+        "id": "envia-form-contato",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/equity-funds/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-footer-en/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "NomeNews",
+        "id": "nome-newsletter",
+        "placeholder": "Your name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "EmailNews",
+        "id": "email-newsletter",
+        "placeholder": "E-mail address",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Telefone",
+        "id": "tel-newsletter",
+        "placeholder": "Nos diga seu telefone",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Box",
+        "id": "",
+        "placeholder": "Aceito os termos e condições",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-newsletter",
+        "id": "url-newsletter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro-newsletter",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/equity-funds/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-fixa-en/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtNomeFixo",
+        "id": "txtNomeFixo",
+        "placeholder": "Your name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "txtEmailFixo",
+        "id": "txtEmailFixo",
+        "placeholder": "E-mail address",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "txtWhatsFixo",
+        "id": "txtWhatsFixo",
+        "placeholder": "Phone",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "dataCadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseNewsFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "urlNewsFixo",
+        "id": "urlNewsFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "chk_ReceberContatoFixo",
+        "id": "chk_ReceberContatoFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro-newsletter-Fixo",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/infrastructure/",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/infrastructure/",
+    "action": "https://www.kinea.com.br/confirmacao-contato/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "oid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "retURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "recordType",
+        "id": "recordType",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0123s000000ywzZ"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "company",
+        "placeholder": "Empresa",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "city",
+        "id": "city",
+        "placeholder": "Cidade",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "state",
+        "placeholder": "Estado",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "00N3s00000OzcEg",
+        "id": "00N3s00000OzcEg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-contato",
+        "id": "url-contato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "submit",
+        "id": "envia-form-contato",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/infrastructure/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-footer-en/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "NomeNews",
+        "id": "nome-newsletter",
+        "placeholder": "Your name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "EmailNews",
+        "id": "email-newsletter",
+        "placeholder": "E-mail address",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Telefone",
+        "id": "tel-newsletter",
+        "placeholder": "Nos diga seu telefone",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Box",
+        "id": "",
+        "placeholder": "Aceito os termos e condições",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-newsletter",
+        "id": "url-newsletter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro-newsletter",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/infrastructure/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-fixa-en/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtNomeFixo",
+        "id": "txtNomeFixo",
+        "placeholder": "Your name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "txtEmailFixo",
+        "id": "txtEmailFixo",
+        "placeholder": "E-mail address",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "txtWhatsFixo",
+        "id": "txtWhatsFixo",
+        "placeholder": "Phone",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "dataCadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseNewsFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "urlNewsFixo",
+        "id": "urlNewsFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "chk_ReceberContatoFixo",
+        "id": "chk_ReceberContatoFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro-newsletter-Fixo",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/agribusiness/",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/agribusiness/",
+    "action": "https://www.kinea.com.br/confirmacao-contato/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "oid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "retURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "recordType",
+        "id": "recordType",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0123s000000ywzZ"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "company",
+        "placeholder": "Empresa",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "city",
+        "id": "city",
+        "placeholder": "Cidade",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "state",
+        "placeholder": "Estado",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "00N3s00000OzcEg",
+        "id": "00N3s00000OzcEg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-contato",
+        "id": "url-contato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "submit",
+        "id": "envia-form-contato",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/agribusiness/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-footer-en/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "NomeNews",
+        "id": "nome-newsletter",
+        "placeholder": "Your name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "EmailNews",
+        "id": "email-newsletter",
+        "placeholder": "E-mail address",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Telefone",
+        "id": "tel-newsletter",
+        "placeholder": "Nos diga seu telefone",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Box",
+        "id": "",
+        "placeholder": "Aceito os termos e condições",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-newsletter",
+        "id": "url-newsletter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro-newsletter",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/agribusiness/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-fixa-en/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtNomeFixo",
+        "id": "txtNomeFixo",
+        "placeholder": "Your name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "txtEmailFixo",
+        "id": "txtEmailFixo",
+        "placeholder": "E-mail address",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "txtWhatsFixo",
+        "id": "txtWhatsFixo",
+        "placeholder": "Phone",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "dataCadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseNewsFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "urlNewsFixo",
+        "id": "urlNewsFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "chk_ReceberContatoFixo",
+        "id": "chk_ReceberContatoFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro-newsletter-Fixo",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/real-estate/",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/real-estate/",
+    "action": "https://www.kinea.com.br/confirmacao-contato/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "oid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "retURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "recordType",
+        "id": "recordType",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0123s000000ywzZ"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "company",
+        "placeholder": "Empresa",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "city",
+        "id": "city",
+        "placeholder": "Cidade",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "state",
+        "placeholder": "Estado",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "00N3s00000OzcEg",
+        "id": "00N3s00000OzcEg",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-contato",
+        "id": "url-contato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "submit",
+        "id": "envia-form-contato",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/real-estate/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-footer-en/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "NomeNews",
+        "id": "nome-newsletter",
+        "placeholder": "Your name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "EmailNews",
+        "id": "email-newsletter",
+        "placeholder": "E-mail address",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "Telefone",
+        "id": "tel-newsletter",
+        "placeholder": "Nos diga seu telefone",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Box",
+        "id": "",
+        "placeholder": "Aceito os termos e condições",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-newsletter",
+        "id": "url-newsletter",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro-newsletter",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/real-estate/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-fixa-en/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtNomeFixo",
+        "id": "txtNomeFixo",
+        "placeholder": "Your name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "txtEmailFixo",
+        "id": "txtEmailFixo",
+        "placeholder": "E-mail address",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "txtWhatsFixo",
+        "id": "txtWhatsFixo",
+        "placeholder": "Phone",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "dataCadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponseNewsFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "urlNewsFixo",
+        "id": "urlNewsFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "chk_ReceberContatoFixo",
+        "id": "chk_ReceberContatoFixo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro-newsletter-Fixo",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/venture-capital/",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/en/venture-capital/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-lp-nova/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Nome",
+        "id": "txtNome",
+        "placeholder": "Seu nome (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "EmailInvestir",
+        "id": "txtEmailComoInvestir",
+        "placeholder": "Nos diga seu e-mail (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "Programas",
+        "id": "Opcao1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Blog",
+        "id": "Opcao2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAcoes",
+        "id": "07",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAgro",
+        "id": "agro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catCredio",
+        "id": "credito-privado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catInfraestrutura",
+        "id": "06",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobCri",
+        "id": "10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobTij",
+        "id": "11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobMulti",
+        "id": "imobiliarios-multiestrategia",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catMultimercados",
+        "id": "01",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catRendaFixa",
+        "id": "03",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Data de Cadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponsePageNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "chk_ReceberContato",
+        "id": "chk_ReceberContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmEmail",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "origem",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-lp-news",
+        "id": "url-lp-news",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/guias/",
+    "action": "https://www.kinea.com.br/resultado-busca",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtBusca",
+        "id": "txtBusca",
+        "placeholder": "O que você está procurando?",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/guias/",
+    "action": "https://www.kinea.com.br/confirmacao-newsletter-lp-nova/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Nome",
+        "id": "txtNome",
+        "placeholder": "Seu nome (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "EmailInvestir",
+        "id": "txtEmailComoInvestir",
+        "placeholder": "Nos diga seu e-mail (Obrigatório)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "Programas",
+        "id": "Opcao1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "Blog",
+        "id": "Opcao2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAcoes",
+        "id": "07",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catAgro",
+        "id": "agro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catCredio",
+        "id": "credito-privado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catInfraestrutura",
+        "id": "06",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobCri",
+        "id": "10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobTij",
+        "id": "11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catImobMulti",
+        "id": "imobiliarios-multiestrategia",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catMultimercados",
+        "id": "01",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "catRendaFixa",
+        "id": "03",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "cadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Data de Cadastro",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponsePageNews",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "chk_ReceberContato",
+        "id": "chk_ReceberContato",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmEmail",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "origem",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gclid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url-lp-news",
+        "id": "url-lp-news",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "QLUoFuIny",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "gDZfrJLpjn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "HkCXSqsp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fkdYoVzA",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/recuperar-senha-app-portal",
+    "action": "https://www.kinea.com.brenvia-senha-login-portal/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtUserLogin",
+        "id": "txtUserLogin",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "task",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_to",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "btnResetarSenhaPortal",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/cadastro-app-portal",
+    "action": "https://www.kinea.com.br/cadastro-app-portal/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtNomeCadastro",
+        "id": "txtNomeCadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "txtEmailCadastro",
+        "id": "txtEmailCadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "txtEmpresaCadastro",
+        "id": "txtEmpresaCadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "txtAreaCadastro",
+        "id": "txtAreaCadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "txtCelularCadastro",
+        "id": "txtCelularCadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "programas",
+        "id": "programas",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "blog",
+        "id": "blog",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "acoes",
+        "id": "acoes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "infraestrutura",
+        "id": "infraestrutura",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "imobiliarios_multiestrategia",
+        "id": "imobiliarios_multiestrategia",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "agro",
+        "id": "agro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "imobiliarios_cri",
+        "id": "imobiliarios_cri",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "multimercados",
+        "id": "multimercados",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "credito_privado",
+        "id": "credito_privado",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "imobiliarios_tijolo",
+        "id": "imobiliarios_tijolo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "renda_fixa",
+        "id": "renda_fixa",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "txtPasswordCadastro",
+        "id": "txtPasswordCadastro",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "recaptcha_response",
+        "id": "recaptchaResponsePortalInvestidor",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmSource",
+        "id": "utmSource",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmMedium",
+        "id": "utmMedium",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utmCampaign",
+        "id": "utmCampaign",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "btnCadastroPortalInvestidor",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.kinea.com.br/login-app-portal",
+    "action": "https://www.kinea.com.br/loga-app-portal",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "txtUserLogin",
+        "id": "txtUserLogin",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "txtPassword",
+        "id": "txtPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "task",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_to",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "btnEntrarPortal",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
