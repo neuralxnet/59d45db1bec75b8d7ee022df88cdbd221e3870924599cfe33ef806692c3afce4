@@ -262456,5 +262456,110 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://reservas.miitauviajes.co",
+    "action": "https://reservas.miitauviajes.co/NetAdmin/Login.aspx",
+    "method": "post",
+    "fields": [
+      {
+        "type": "password",
+        "name": "PasswordRenewControl$txtCurrentPassword",
+        "id": "PasswordRenewControl_txtCurrentPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "PasswordRenewControl$txtNewPassword",
+        "id": "PasswordRenewControl_txtNewPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "PasswordRenewControl$txtConfirmPassword",
+        "id": "PasswordRenewControl_txtConfirmPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "btnRenew",
+        "id": "btnRenew",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__LASTFOCUS",
+        "id": "__LASTFOCUS",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Login$UserName",
+        "id": "Login_UserName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Login$Password",
+        "id": "Login_Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Login$UserService",
+        "id": "Login_UserService",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "Login$btnLogin",
+        "id": "Login_btnLogin",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "btnCancel",
+        "id": "btnCancel",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
