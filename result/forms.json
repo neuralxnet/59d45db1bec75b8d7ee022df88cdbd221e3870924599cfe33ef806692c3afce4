@@ -262645,5 +262645,164 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.itau.com.uy",
+    "action": "https://www.itaulink.com.uy/trx/doLogin",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "segmento",
+        "id": "segmento",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "panelPersona",
+          "panelEmpresa",
+          "panelConsulta"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "empresa_aux",
+        "id": "campoEmpresa",
+        "placeholder": "Empresa",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "pwd_empresa",
+        "id": "passwordEmpresa",
+        "placeholder": "Contraseña",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "usuario_aux",
+        "id": "campoUsuarioEmpresa",
+        "placeholder": "Usuario",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "tipo_documento",
+        "id": "tipoDoc",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Tipo de documento",
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "type": "tel",
+        "name": "nro_documento",
+        "id": "documento",
+        "placeholder": "Documento",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "empresaNumDoc",
+        "id": "empresaNumDoc",
+        "placeholder": "RUT/No. Cliente",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "Usuario",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "passwd",
+        "id": "passwd",
+        "placeholder": "Contraseña",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "pass",
+        "id": "pass",
+        "placeholder": "Contraseña",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pwd_usuario",
+        "id": "pwd_usuario",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "empresa",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "usuario",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tipo_usuario",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "bfp",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "bfpstatus",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "customer_session_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
