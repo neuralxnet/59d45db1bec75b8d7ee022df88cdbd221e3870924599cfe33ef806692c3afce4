@@ -263273,5 +263273,47 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://multiplayer.dev",
+    "action": "https://multiplayer.dev/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Type a message...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.multiplayer.dev",
+    "action": "https://multiplayer.dev/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Type a message...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://multiplayer.dev",
+    "action": "https://multiplayer.dev/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Type a message...",
+        "required": false
+      }
+    ]
   }
 ]
