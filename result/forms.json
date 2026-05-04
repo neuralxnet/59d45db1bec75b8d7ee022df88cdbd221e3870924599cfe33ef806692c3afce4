@@ -263315,5 +263315,73 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://supabase.help",
+    "action": "https://supabase.com/dashboard/support/new",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "organizationSlug",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": []
+      },
+      {
+        "type": "select-one",
+        "name": "category",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "",
+          "Problem",
+          "Dashboard_bug",
+          "Database_unresponsive",
+          "Performance",
+          "Abuse",
+          "Login_issues",
+          "Sales",
+          "Billing",
+          "Refund"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "severity",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Low",
+          "Normal",
+          "High",
+          "Urgent"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "subject",
+        "id": ":r11:-form-item",
+        "placeholder": "Summary of the problem you have",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "radix-:r17:",
+        "placeholder": "No particular service",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": ":r18:-form-item",
+        "placeholder": "Describe the issue you’re facing, along with any relevant information. Please be as detailed and specific as possible.",
+        "required": false
+      }
+    ]
   }
 ]
