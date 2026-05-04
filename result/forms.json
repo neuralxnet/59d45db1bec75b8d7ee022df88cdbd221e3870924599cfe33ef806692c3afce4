@@ -263397,5 +263397,1398 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://supabase.store",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store",
+    "action": "https://supabase.store/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ProductSelect-featured_product_CP3D68-option-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "id",
+        "id": "ProductSelect-featured_product_CP3D68",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "40134067912859",
+          "40134067945627",
+          "40134067978395",
+          "40134068011163",
+          "40134068043931",
+          "40134068076699"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store",
+    "action": "https://supabase.store/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ProductSelect-162683171465715cce-option-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "id",
+        "id": "ProductSelect-162683171465715cce",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "43888128491675",
+          "43888128524443",
+          "43888128557211",
+          "43888128589979",
+          "43888128622747",
+          "43888128655515"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.supabase.store",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.supabase.store",
+    "action": "https://supabase.store/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ProductSelect-featured_product_CP3D68-option-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "id",
+        "id": "ProductSelect-featured_product_CP3D68",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "40134067912859",
+          "40134067945627",
+          "40134067978395",
+          "40134068011163",
+          "40134068043931",
+          "40134068076699"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.supabase.store",
+    "action": "https://supabase.store/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ProductSelect-162683171465715cce-option-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "id",
+        "id": "ProductSelect-162683171465715cce",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "43888128491675",
+          "43888128524443",
+          "43888128557211",
+          "43888128589979",
+          "43888128622747",
+          "43888128655515"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://supabase.store",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://supabase.store",
+    "action": "https://supabase.store/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ProductSelect-featured_product_CP3D68-option-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "id",
+        "id": "ProductSelect-featured_product_CP3D68",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "40134067912859",
+          "40134067945627",
+          "40134067978395",
+          "40134068011163",
+          "40134068043931",
+          "40134068076699"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://supabase.store",
+    "action": "https://supabase.store/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ProductSelect-162683171465715cce-option-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "id",
+        "id": "ProductSelect-162683171465715cce",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "43888128491675",
+          "43888128524443",
+          "43888128557211",
+          "43888128589979",
+          "43888128622747",
+          "43888128655515"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/#MainContent",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/#MainContent",
+    "action": "https://supabase.store/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ProductSelect-featured_product_CP3D68-option-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "id",
+        "id": "ProductSelect-featured_product_CP3D68",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "40134067912859",
+          "40134067945627",
+          "40134067978395",
+          "40134068011163",
+          "40134068043931",
+          "40134068076699"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/#MainContent",
+    "action": "https://supabase.store/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ProductSelect-162683171465715cce-option-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "id",
+        "id": "ProductSelect-162683171465715cce",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "43888128491675",
+          "43888128524443",
+          "43888128557211",
+          "43888128589979",
+          "43888128622747",
+          "43888128655515"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/search",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/search",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/cart",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/",
+    "action": "https://supabase.store/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ProductSelect-featured_product_CP3D68-option-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "id",
+        "id": "ProductSelect-featured_product_CP3D68",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "40134067912859",
+          "40134067945627",
+          "40134067978395",
+          "40134068011163",
+          "40134068043931",
+          "40134068076699"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/",
+    "action": "https://supabase.store/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ProductSelect-162683171465715cce-option-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "id",
+        "id": "ProductSelect-162683171465715cce",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "43888128491675",
+          "43888128524443",
+          "43888128557211",
+          "43888128589979",
+          "43888128622747",
+          "43888128655515"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/pages/shipping-faqs",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/#",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/#",
+    "action": "https://supabase.store/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ProductSelect-featured_product_CP3D68-option-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "id",
+        "id": "ProductSelect-featured_product_CP3D68",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "40134067912859",
+          "40134067945627",
+          "40134067978395",
+          "40134068011163",
+          "40134068043931",
+          "40134068076699"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/#",
+    "action": "https://supabase.store/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ProductSelect-162683171465715cce-option-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL",
+          "3XL"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "id",
+        "id": "ProductSelect-162683171465715cce",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "43888128491675",
+          "43888128524443",
+          "43888128557211",
+          "43888128589979",
+          "43888128622747",
+          "43888128655515"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/products/tshirt?variant=40134067912859",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/products/tshirt?variant=40134067912859",
+    "action": "https://supabase.store/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ProductSelect-product-template-option-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "id",
+        "id": "ProductSelect-product-template",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "40134067912859",
+          "40134067945627",
+          "40134067978395",
+          "40134068011163",
+          "40134068043931",
+          "40134068076699"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/search#MainContent",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/search#MainContent",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/cart#MainContent",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/collections/all",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/pages/shipping-faqs#MainContent",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/products/tshirt?variant=40134067912859#MainContent",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/products/tshirt?variant=40134067912859#MainContent",
+    "action": "https://supabase.store/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ProductSelect-product-template-option-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "id",
+        "id": "ProductSelect-product-template",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "40134067912859",
+          "40134067945627",
+          "40134067978395",
+          "40134068011163",
+          "40134068043931",
+          "40134068076699"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/collections/all#MainContent",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/products/supalaunchweek12-dark-mode-tee",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/products/supalaunchweek12-dark-mode-tee",
+    "action": "https://supabase.store/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ProductSelect-product-template-option-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "id",
+        "id": "ProductSelect-product-template",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "45352935293083",
+          "45352935325851",
+          "45352935358619",
+          "45352935391387",
+          "45352935424155"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/products/supalaunchweek12-dark-mode-tee#MainContent",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/products/supalaunchweek12-dark-mode-tee#MainContent",
+    "action": "https://supabase.store/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ProductSelect-product-template-option-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "id",
+        "id": "ProductSelect-product-template",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "45352935293083",
+          "45352935325851",
+          "45352935358619",
+          "45352935391387",
+          "45352935424155"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/products/supalaunchweek12-dark-mode-tee#",
+    "action": "https://supabase.store/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.store/products/supalaunchweek12-dark-mode-tee#",
+    "action": "https://supabase.store/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "ProductSelect-product-template-option-0",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "id",
+        "id": "ProductSelect-product-template",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "45352935293083",
+          "45352935325851",
+          "45352935358619",
+          "45352935391387",
+          "45352935424155"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "product-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "section-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
