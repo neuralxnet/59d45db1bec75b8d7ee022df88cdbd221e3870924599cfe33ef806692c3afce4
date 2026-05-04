@@ -263383,5 +263383,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://supabase.link",
+    "action": "https://supabase.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
   }
 ]
