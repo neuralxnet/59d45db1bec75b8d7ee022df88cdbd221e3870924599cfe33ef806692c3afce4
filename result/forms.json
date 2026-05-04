@@ -262804,5 +262804,474 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.drakesoftware.com/renew",
+    "action": "https://authflow.drakesoftware.com/davinci/policy/18c89e219c3f25a2fb19a325afee0816/authorize?client_id=97292bc16fcacf701b53ac92ae338799&redirect_uri=https://authflow.drakesoftware.com/rp/callback/openid_connect&state=00540d11-3b18-4ec3-91f8-fce3070b0cbc&response_type=code&nonce=00540d11-3b18-4ec3-91f8-fce3070b0cbc&transactionId=54441074-42c2-4aa3-87b4-a4513c77dc88&scope=openid%20profile&request=eyJhbGciOiJSUzI1NiIsImtpZCI6ImRlZmF1bHQifQ.eyJwMU9pZGMiOnsiaWQiOiIwMGM0YmNhYy04MjdmLTQ1MGMtYTcxOS1jMWE4ODBhZGYxYzQiLCJlbnZpcm9ubWVudCI6eyJpZCI6IjVmNjQxMjg3LTViMDItNDE3NS05Y2IxLWEyN2MyZjRkZjFlYSJ9LCJhcHBsaWNhdGlvbiI6eyJpZCI6ImUzMmVjYTdkLWM5ZGItNDRiMi1hY2VjLTRkN2M1ZDRiMjAyYiJ9LCJyZXF1ZXN0Ijp7Imh0dHAiOnsicmVtb3RlSXAiOiI5LjIzNC4xNTEuODEiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTIwLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJoZWFkZXJzIjp7IlgtUGluZy1DdXN0b20tRG9tYWluIjpbImF1dGhmbG93LmRyYWtlc29mdHdhcmUuY29tIl19fSwib2lkYyI6eyJyZXNwb25zZVR5cGVzIjpbImNvZGUiXSwiYWNyVmFsdWVzIjpbXSwic2NvcGVzIjpbInByb2ZpbGUiLCJvcGVuaWQiLCJlbWFpbCJdLCJwYXJhbWV0ZXJzIjp7InNjb3BlIjoib3BlbmlkIG9wZW5pZCBwcm9maWxlIGVtYWlsIiwicmVzcG9uc2VfdHlwZSI6ImNvZGUiLCJjb2RlX2NoYWxsZW5nZV9tZXRob2QiOiJTMjU2IiwicmVkaXJlY3RfdXJpIjoiaHR0cHM6Ly9hcGkuZHJha2Vzb2Z0d2FyZS5jb20vYXV0aC1yb3V0ZXIvY2FsbGJhY2siLCJzdGF0ZSI6Ikg0c0lBQUFBQUFBQUE0Mk1TdzdDSUJRQTc4SmF5dU5UcVQxR042NGZqOWRvaXRJQVRSZkd1OHNSWEU0eU14OUJZaFpzRFJQNktPa1dnM1F1R0luRUpGMzBOTWFPWUlLNGlOTFZSMnQ3blpXcXg3N24wb1pZY09PYTEzWmk0WUh5Uy1WbkpFbVlVa0RhZWxWN1pUV2p2Mkowd05acEF4TjRDekJxYmF4YllacTZkdncxWF9qTkp5WjE1OVNSeGZjSHRQNzlQTUVBQUFBIiwieC1jbGllbnQtdmVyIjoiNS4zLjAuMCIsIngtY2xpZW50LVNLVSI6IklEX05FVDQ2MSIsIm5vbmNlIjoiNjM5MTM1MDA2MDk0MzEwMjg4Lk9XRmxOVFk0WldFdE56UTJaUzAwTkRBNUxUZzBaVEF0TmpabFlqQTJZakU1TXpjNU5qZGpaVFZoWmpVdE5XTmtNUzAwWmpabUxXRTFOell0TXpRd1pqTmpPVEl4TkRWbCIsImNsaWVudF9pZCI6ImUzMmVjYTdkLWM5ZGItNDRiMi1hY2VjLTRkN2M1ZDRiMjAyYiIsImNvZGVfY2hhbGxlbmdlIjoiVmZVdjZKeEZtSUk4MHVZOUlvS1UzYzFkVEQ3dGhOUFdhckduSXFHQVJwNCIsInJlc3BvbnNlX21vZGUiOiJxdWVyeSJ9fX19fQ.CfEaaqLXJHV2moj_9qclvkpMsiVGOlYaIkDZ1Ir7YaWuyyfxav50Ygs1YLn2eCcx311dnsT3yMn02vOIb-rd-uDsAOqQWKMQIZA9ntJS9YSpkJO6wyD4tyD9gpdtgacJAz34SJbJc-lX7Sf-0cF8v-Cljdr7ASu5gayGr9p7s70XFk3b6Ttcg8HLwVxG4HbUvD58u4KAuAd-HqY7woVJhnN7rlxDqgDMiRUCc1sOJDhBKrSOIvsDVdXVcDxiTALJ6GLVlyGwd4NfgXEMl3s6VmODkt42YjyXBdi6qtb_CAEsQE4EwCsaX4OwGHspTdm2IaxiB04cIM4TXCoht55ysA",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.drakesoftware.com/",
+    "action": "https://authflow.drakesoftware.com/davinci/policy/18c89e219c3f25a2fb19a325afee0816/authorize?client_id=97292bc16fcacf701b53ac92ae338799&redirect_uri=https://authflow.drakesoftware.com/rp/callback/openid_connect&state=000861f3-bc11-42b1-a148-9be1930d0aca&response_type=code&nonce=000861f3-bc11-42b1-a148-9be1930d0aca&transactionId=c5383353-93ca-42cd-abc6-f0651f49abaf&scope=openid%20profile&request=eyJhbGciOiJSUzI1NiIsImtpZCI6ImRlZmF1bHQifQ.eyJwMU9pZGMiOnsiaWQiOiIwMGI5MDQ0NS00MDE5LTQzZWUtODkzZC02NWViOTA0ZDk2YzIiLCJlbnZpcm9ubWVudCI6eyJpZCI6IjVmNjQxMjg3LTViMDItNDE3NS05Y2IxLWEyN2MyZjRkZjFlYSJ9LCJhcHBsaWNhdGlvbiI6eyJpZCI6ImUzMmVjYTdkLWM5ZGItNDRiMi1hY2VjLTRkN2M1ZDRiMjAyYiJ9LCJyZXF1ZXN0Ijp7Imh0dHAiOnsicmVtb3RlSXAiOiI5LjIzNC4xNTEuODEiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTIwLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJoZWFkZXJzIjp7IlgtUGluZy1DdXN0b20tRG9tYWluIjpbImF1dGhmbG93LmRyYWtlc29mdHdhcmUuY29tIl19fSwib2lkYyI6eyJyZXNwb25zZVR5cGVzIjpbImNvZGUiXSwiYWNyVmFsdWVzIjpbXSwic2NvcGVzIjpbInByb2ZpbGUiLCJvcGVuaWQiLCJlbWFpbCJdLCJwYXJhbWV0ZXJzIjp7InNjb3BlIjoib3BlbmlkIG9wZW5pZCBwcm9maWxlIGVtYWlsIiwicmVzcG9uc2VfdHlwZSI6ImNvZGUiLCJjb2RlX2NoYWxsZW5nZV9tZXRob2QiOiJTMjU2IiwicmVkaXJlY3RfdXJpIjoiaHR0cHM6Ly9hcGkuZHJha2Vzb2Z0d2FyZS5jb20vYXV0aC1yb3V0ZXIvY2FsbGJhY2siLCJzdGF0ZSI6Ikg0c0lBQUFBQUFBQUE0Mk1TdzZESUJSRjk4SzRLRVVVY1EzOURGd0J2UGRvalZZTVlEcG91dmZTZEFPZDNaUGNjMTRNMk1Db2tRUldJd2VEaml2bEpMZEF3QlZxYUxHZ2tJNGRXQ3pYZTg1Ykd1bzY3ZHNXWXE0dzJwbFM4UGxwSTFVUUhuV1lFRGpZWlhFVzVtS2xZbmtnNTQ3Ry13NTdCVWIzalc0N3J3eEpJNHdRM19qLVZfd1VidE42Q1dkYTk5OGV4eXQ3ZndEZG1ZWVR4Z0FBQUEiLCJ4LWNsaWVudC12ZXIiOiI1LjMuMC4wIiwieC1jbGllbnQtU0tVIjoiSURfTkVUNDYxIiwibm9uY2UiOiI2MzkxMzUwMDYxMjgyNzY0NjAuTm1NMll6VmxNemt0TW1ZMFlTMDBOMkl5TFdFM09UY3RaVEV5TVdVMFpEUmpNMk5tTjJRNFl6TmpaVGt0TldJeFpDMDBNVEZpTFdGa016VXRZVFV6TWpGaVlUVTJNamRoIiwiY2xpZW50X2lkIjoiZTMyZWNhN2QtYzlkYi00NGIyLWFjZWMtNGQ3YzVkNGIyMDJiIiwiY29kZV9jaGFsbGVuZ2UiOiJPbXVsYUI5SFZ0YWFxbDFDSU9VUy1MbFU2emtieXNwU2pRZ3VjdVNYTGdrIiwicmVzcG9uc2VfbW9kZSI6InF1ZXJ5In19fX19.i2EhMFPJm0rQZVC-23QCW2Iz3I83DXCefnNfWFLJUhP5Mhmo9fG9hnJ8DJfVzDPDGVK99HXDLA59AFibR2w1aMQG1dbO-ZJHgPjFYflIvjbL6dssBwtT4RYSf3Fcmi9lPn53HLpqoaMk1YhQhG9eRtF8bctgjsdNWxyw2KSsTU1y2BSUVqgqY3YR8hDBhouqCO60lp2wKXi_lH59W9SIEupw7YyuWzQx86VUx3thuV_zErqw0HEE_IPiDwwKBosEM5NGkqGSAqnQbJbyv9_Bm1MyQR4E-zcJJbU4DamTqLA3qn1xWm0uEg-z84IJCiPnNhKOfMSlEH8kxEYiAItlJQ",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://user.drakesoftware.com/validate-email/0",
+    "action": "https://user.drakesoftware.com/validate-email/0",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter Email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-User-Manager/17860.htm",
+    "action": "https://kb.drakesoftware.com/kb/Drake-User-Manager/17860.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-User-Manager/17860.htm#mc-main-content",
+    "action": "https://kb.drakesoftware.com/kb/Drake-User-Manager/17860.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Home.htm",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Home.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Home.htm",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Home.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search our help and documentation",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Tax/12503.htm",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Tax/12503.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Tax/18198.htm",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Tax/18198.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Broadcasts/20000.htm",
+    "action": "https://kb.drakesoftware.com/kb/Broadcasts/20000.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-User-Manager/17860.htm#",
+    "action": "https://kb.drakesoftware.com/kb/Drake-User-Manager/17860.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Tax/18889.htm",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Tax/18889.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Home.htm#mc-main-content",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Home.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Home.htm#mc-main-content",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Home.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search our help and documentation",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Home.htm#",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Home.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Home.htm#",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Home.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search our help and documentation",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Tax/12503.htm#mc-main-content",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Tax/12503.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Tax/12503.htm#",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Tax/12503.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Tax/10970.htm",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Tax/10970.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Tax/18985.htm",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Tax/18985.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Tax/18978.htm",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Tax/18978.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Tax/18378.htm",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Tax/18378.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Tax/18977.htm",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Tax/18977.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Tax/10768.htm",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Tax/10768.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Tax/18198.htm#mc-main-content",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Tax/18198.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Tax/18198.htm#",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Tax/18198.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Software/18980.htm",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Software/18980.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Software/10888.htm",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Software/10888.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Tax/11426.htm",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Tax/11426.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Tax/17449.htm",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Tax/17449.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kb.drakesoftware.com/kb/Drake-Software/18059.htm",
+    "action": "https://kb.drakesoftware.com/kb/Drake-Software/18059.htm#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.drakesoftware.com/AuthMenu/Home",
+    "action": "https://authflow.drakesoftware.com/davinci/policy/18c89e219c3f25a2fb19a325afee0816/authorize?client_id=97292bc16fcacf701b53ac92ae338799&redirect_uri=https://authflow.drakesoftware.com/rp/callback/openid_connect&state=002f4de7-6585-4f62-95f9-65b256b1c0b5&response_type=code&nonce=002f4de7-6585-4f62-95f9-65b256b1c0b5&transactionId=13af3747-8df2-490b-be32-aa5bfa18bae1&scope=openid%20profile&request=eyJhbGciOiJSUzI1NiIsImtpZCI6ImRlZmF1bHQifQ.eyJwMU9pZGMiOnsiaWQiOiIwMGZlOGMwOC00YWVmLTQ3YTYtYWEyYi1hOTU4NTZmNzY1YjMiLCJlbnZpcm9ubWVudCI6eyJpZCI6IjVmNjQxMjg3LTViMDItNDE3NS05Y2IxLWEyN2MyZjRkZjFlYSJ9LCJhcHBsaWNhdGlvbiI6eyJpZCI6ImUzMmVjYTdkLWM5ZGItNDRiMi1hY2VjLTRkN2M1ZDRiMjAyYiJ9LCJyZXF1ZXN0Ijp7Imh0dHAiOnsicmVtb3RlSXAiOiI5LjIzNC4xNTEuODEiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTIwLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJoZWFkZXJzIjp7IlgtUGluZy1DdXN0b20tRG9tYWluIjpbImF1dGhmbG93LmRyYWtlc29mdHdhcmUuY29tIl19fSwib2lkYyI6eyJyZXNwb25zZVR5cGVzIjpbImNvZGUiXSwiYWNyVmFsdWVzIjpbXSwic2NvcGVzIjpbInByb2ZpbGUiLCJvcGVuaWQiLCJlbWFpbCJdLCJwYXJhbWV0ZXJzIjp7InNjb3BlIjoib3BlbmlkIG9wZW5pZCBwcm9maWxlIGVtYWlsIiwicmVzcG9uc2VfdHlwZSI6ImNvZGUiLCJjb2RlX2NoYWxsZW5nZV9tZXRob2QiOiJTMjU2IiwicmVkaXJlY3RfdXJpIjoiaHR0cHM6Ly9hcGkuZHJha2Vzb2Z0d2FyZS5jb20vYXV0aC1yb3V0ZXIvY2FsbGJhY2siLCJzdGF0ZSI6Ikg0c0lBQUFBQUFBQUE0Mk1TdzdDSUJRQTc4SmF5cWNnb2J2dTNIZ0llTzgxTlcybDRSTVh4cnVMTjNBNXljeThHYkNKMGFnSmdrTU9IaU0zSm1vZWdJQWJkR0N4bzlTUlhWanU2bHJyV1NZaFNqdlBsT3VBT1d4VTBsSmZJZE1BNlJEcGdjQWg3SHNNc1BXcTlNbzdyNjRPakJ1MU5kSmlWRkVSb3JTTE5rcjYzN3o5Tlo5YlhlXzBiT0tXRG1LZkwzV21LYWlfQUFBQSIsIngtY2xpZW50LXZlciI6IjUuMy4wLjAiLCJ4LWNsaWVudC1TS1UiOiJJRF9ORVQ0NjEiLCJub25jZSI6IjYzOTEzNTAwNjMyNzY0MzcyOS5NbUZrWldVM056VXRNelptTXkwME56VXhMV0kyTm1JdE5tUXdPV000TmpCa05qSTVNREF6TkRBeU5UY3ROekU0WkMwME56azVMV0U0TnpBdFlqTmlZMlkzTmpJelpqQXgiLCJjbGllbnRfaWQiOiJlMzJlY2E3ZC1jOWRiLTQ0YjItYWNlYy00ZDdjNWQ0YjIwMmIiLCJjb2RlX2NoYWxsZW5nZSI6ImdxSzRkUWVVTEhWUVNZWWZHcFRGbWxmZFQzUHVoajFWV0tIMGFEN1lsTTQiLCJyZXNwb25zZV9tb2RlIjoicXVlcnkifX19fX0.a-5yN7HY7WowLtjkJOj2c0VKrJqWI9QSX_d2LLgsIYGlacrEYSunxzApvHodEqqGu_-gcTmzb8Fb8Z_kQy20rs111qBOUjXXQ4XKMAPpN698whx2YT6l62bt2YXJOwzrJ65c7qKyQDKBxJePa7MJOCZIMCF6YHfBFWKaMlW1LQLYpuzBHwvqABM2EEqTm_S_OlnYQdyTyq9RWhIIhWTmizsyxWBilF3S4Y9ZqH0T1ajsAnxk5_eoGATwmpJZC35UU3sDoITxLjbTtwKNrLpZRYyJM36sagYzi7Uzwq4oM3xipWybSpJHKlaVlYBxrfI2WRBxNBsYbFJqkhqatODtDQ",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
