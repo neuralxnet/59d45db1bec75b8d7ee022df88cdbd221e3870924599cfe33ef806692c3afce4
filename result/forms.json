@@ -264790,5 +264790,620 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://supabase.com",
+    "action": "https://supabase.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.supabase.com",
+    "action": "https://supabase.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://supabase.com",
+    "action": "https://supabase.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/",
+    "action": "https://supabase.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/pricing",
+    "action": "https://supabase.com/pricing",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/blog",
+    "action": "https://supabase.com/blog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/dashboard/sign-up",
+    "action": "https://supabase.com/dashboard/sign-up",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "you@example.com",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "••••••••",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/state-of-startups",
+    "action": "https://supabase.com/state-of-startups",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/contact/sales",
+    "action": "https://supabase.com/contact/sales",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "firstName",
+        "placeholder": "First Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "secondName",
+        "id": "secondName",
+        "placeholder": "Last Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "companyEmail",
+        "id": "companyEmail",
+        "placeholder": "Company Email",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "message",
+        "id": "message",
+        "placeholder": "Share more about what you want to accomplish",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "honeypot",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/contact/sales",
+    "action": "https://supabase.com/contact/sales",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/database",
+    "action": "https://supabase.com/database",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/dashboard/new?plan=free",
+    "action": "https://supabase.com/dashboard/new?plan=free",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": ":rr:-form-item",
+        "placeholder": "Organization name",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "PERSONAL",
+          "EDUCATIONAL",
+          "STARTUP",
+          "AGENCY",
+          "COMPANY",
+          "UNDISCLOSED"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "FREE",
+          "PRO",
+          "TEAM"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/pricing#addon-compute",
+    "action": "https://supabase.com/pricing#addon-compute",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/blog/branching-without-git-is-now-the-default",
+    "action": "https://supabase.com/blog/branching-without-git-is-now-the-default",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/blog/introducing-osscar-index",
+    "action": "https://supabase.com/blog/introducing-osscar-index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/blog/supabase-is-now-iso-27001-certified",
+    "action": "https://supabase.com/blog/supabase-is-now-iso-27001-certified",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/blog/stripe-sync-engine-transfer",
+    "action": "https://supabase.com/blog/stripe-sync-engine-transfer",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/dashboard/sign-in",
+    "action": "https://supabase.com/dashboard/sign-in",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "you@example.com",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "••••••••",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/terms",
+    "action": "https://supabase.com/terms",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/privacy",
+    "action": "https://supabase.com/privacy",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/state-of-startups-2025",
+    "action": "https://supabase.com/state-of-startups-2025",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/security",
+    "action": "https://supabase.com/security",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "security-first-name",
+        "placeholder": "First Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "security-last-name",
+        "placeholder": "Last Name",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "",
+        "id": "security-email",
+        "placeholder": "Email Address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/security",
+    "action": "https://supabase.com/security",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/auth",
+    "action": "https://supabase.com/auth",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/edge-functions",
+    "action": "https://supabase.com/edge-functions",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/support",
+    "action": "https://supabase.com/support",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/storage",
+    "action": "https://supabase.com/storage",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/blog/authors/joshenlim",
+    "action": "https://supabase.com/blog/authors/joshenlim",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/blog/authors/qiao",
+    "action": "https://supabase.com/blog/authors/qiao",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/blog/authors/prashant",
+    "action": "https://supabase.com/blog/authors/prashant",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/blog/introducing-osscar-index#what-stood-out-in-q1-2026",
+    "action": "https://supabase.com/blog/introducing-osscar-index#what-stood-out-in-q1-2026",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/blog/authors/stephen_morgan",
+    "action": "https://supabase.com/blog/authors/stephen_morgan",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/blog/supabase-is-now-iso-27001-certified#what-iso-27001-is",
+    "action": "https://supabase.com/blog/supabase-is-now-iso-27001-certified#what-iso-27001-is",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/blog/authors/raminder_singh",
+    "action": "https://supabase.com/blog/authors/raminder_singh",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/blog/authors/matt_linkous",
+    "action": "https://supabase.com/blog/authors/matt_linkous",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/dashboard/sign-in-sso",
+    "action": "https://supabase.com/dashboard/sign-in-sso",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "gavin@hooli.com",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/dashboard/forgot-password?returnTo=%2Forganizations",
+    "action": "https://supabase.com/dashboard/forgot-password?returnTo=%2Forganizations",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": ":Rb8mcsm:-form-item",
+        "placeholder": "you@example.com",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supabase.com/terms#terms-of-service",
+    "action": "https://supabase.com/terms#terms-of-service",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Your email",
+        "required": true
+      }
+    ]
   }
 ]
