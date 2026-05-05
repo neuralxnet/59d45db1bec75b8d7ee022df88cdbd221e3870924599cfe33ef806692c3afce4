@@ -266100,5 +266100,61 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://cms.mintel.com",
+    "action": "https://cms.mintel.com/share/page/dologin",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "success",
+        "id": "page_x002e_components_x002e_slingshot-login_x0023_default-success",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "failure",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "page_x002e_components_x002e_slingshot-login_x0023_default-username",
+        "placeholder": "User Name",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "page_x002e_components_x002e_slingshot-login_x0023_default-password",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "page_x002e_components_x002e_slingshot-login_x0023_default-submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://cms.mintel.com",
+    "action": "https://cms.mintel.com/share/page/aims-login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "redirectUrl",
+        "id": "page_x002e_components_x002e_slingshot-login_x0023_default-redirectUrl",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
