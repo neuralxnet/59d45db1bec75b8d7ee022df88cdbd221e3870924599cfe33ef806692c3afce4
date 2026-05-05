@@ -265729,5 +265729,341 @@
     "action": "https://6sense.com/",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://konstru.com/connect/",
+    "action": "https://konstru.com/connect/#wpcf7-f91-o1",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_wpcf7",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_version",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_locale",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_unit_tag",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_container_post",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_posted_data_hash",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "your-name",
+        "id": "",
+        "placeholder": "Full Name*",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "your-phone",
+        "id": "",
+        "placeholder": "Phone Number",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "your-email",
+        "id": "",
+        "placeholder": "Email address*",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "your-company",
+        "id": "",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "your-message",
+        "id": "",
+        "placeholder": "Your message*",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://konstru.com/connect/ticket/",
+    "action": "https://konstru.com/connect/ticket/#wpcf7-f1077-o1",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_wpcf7",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_version",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_locale",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_unit_tag",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_container_post",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_posted_data_hash",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "your-name",
+        "id": "",
+        "placeholder": "Full Name*",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "your-email",
+        "id": "",
+        "placeholder": "Your Email*",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "your-message",
+        "id": "",
+        "placeholder": "Your message*",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://konstru.com/connect/#footer",
+    "action": "https://konstru.com/connect/#wpcf7-f91-o1",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_wpcf7",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_version",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_locale",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_unit_tag",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_container_post",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_posted_data_hash",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "your-name",
+        "id": "",
+        "placeholder": "Full Name*",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "your-phone",
+        "id": "",
+        "placeholder": "Phone Number",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "your-email",
+        "id": "",
+        "placeholder": "Email address*",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "your-company",
+        "id": "",
+        "placeholder": "Company",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "your-message",
+        "id": "",
+        "placeholder": "Your message*",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://konstru.com/connect/ticket/#footer",
+    "action": "https://konstru.com/connect/ticket/#wpcf7-f1077-o1",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_wpcf7",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_version",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_locale",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_unit_tag",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_container_post",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wpcf7_posted_data_hash",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "your-name",
+        "id": "",
+        "placeholder": "Full Name*",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "your-email",
+        "id": "",
+        "placeholder": "Your Email*",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "your-message",
+        "id": "",
+        "placeholder": "Your message*",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
