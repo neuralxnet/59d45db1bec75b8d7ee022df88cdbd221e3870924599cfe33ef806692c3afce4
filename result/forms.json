@@ -266365,5 +266365,26 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://helpseller.tw.coupangcorp.com",
+    "action": "https://helpseller.tw.coupangcorp.com/hc/zh-tw/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "搜尋",
+        "required": false
+      }
+    ]
   }
 ]
