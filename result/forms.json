@@ -266191,5 +266191,179 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://helpcenter-tw.coupangcorp.com/hc/zh-tw/community/topics",
+    "action": "https://helpcenter-tw.coupangcorp.com/hc/zh-tw/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "搜尋",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://helpcenter-tw.coupangcorp.com/hc/zh-tw/requests/new",
+    "action": "https://helpcenter-tw.coupangcorp.com/hc/zh-tw/requests",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "request[ticket_form_id]",
+        "id": "request_issue_type_select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "-",
+          "4419689181839",
+          "4500900510991",
+          "4860487756303",
+          "37361762440729",
+          "39078660741401",
+          "46598237500441",
+          "47905203761177",
+          "47905278074777",
+          "47930249333529",
+          "47930264130073",
+          "47971992008857",
+          "47971964101529",
+          "49629232738969",
+          "49629235746713",
+          "49629273138841",
+          "49629290206873",
+          "49629249615769",
+          "49629312580889",
+          "49665481654297",
+          "51588056888857",
+          "57183383426585"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://helpcenter-tw.coupangcorp.com/hc/zh-tw/community/topics#main-content",
+    "action": "https://helpcenter-tw.coupangcorp.com/hc/zh-tw/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "搜尋",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://helpcenter-tw.coupangcorp.com/hc/zh-tw/community/posts",
+    "action": "https://helpcenter-tw.coupangcorp.com/hc/zh-tw/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "搜尋",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://helpcenter-tw.coupangcorp.com/hc/zh-tw/requests/new#main-content",
+    "action": "https://helpcenter-tw.coupangcorp.com/hc/zh-tw/requests",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "request[ticket_form_id]",
+        "id": "request_issue_type_select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "-",
+          "4419689181839",
+          "4500900510991",
+          "4860487756303",
+          "37361762440729",
+          "39078660741401",
+          "46598237500441",
+          "47905203761177",
+          "47905278074777",
+          "47930249333529",
+          "47930264130073",
+          "47971992008857",
+          "47971964101529",
+          "49629232738969",
+          "49629235746713",
+          "49629273138841",
+          "49629290206873",
+          "49629249615769",
+          "49629312580889",
+          "49665481654297",
+          "51588056888857",
+          "57183383426585"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://helpcenter-tw.coupangcorp.com/hc/zh-tw/community/posts#main-content",
+    "action": "https://helpcenter-tw.coupangcorp.com/hc/zh-tw/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "搜尋",
+        "required": false
+      }
+    ]
   }
 ]
