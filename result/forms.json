@@ -266386,5 +266386,61 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://ljc.tw.coupang.com",
+    "action": "https://www.coupang.com/np/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "",
+        "placeholder": "찾고 싶은 상품을 검색해보세요!",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "traceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "channel",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ljc.tw.coupang.com",
+    "action": "https://www.coupang.com/np/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "",
+        "placeholder": "찾고 싶은 상품을 검색해보세요!",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "traceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "channel",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
