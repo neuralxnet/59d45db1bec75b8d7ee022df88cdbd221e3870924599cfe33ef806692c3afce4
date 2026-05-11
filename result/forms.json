@@ -267765,5 +267765,221 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.ferrero-cashback.de",
+    "action": "https://www.ferrero-cashback.de/daten-pruefen",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "receiptFile",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "market",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Bitte wählen",
+          "Edeka",
+          "Aldi_Nord",
+          "Aldi_Sued",
+          "Kaufland",
+          "Rewe",
+          "Tegut",
+          "Lidl",
+          "Globus",
+          "HIT",
+          "Penny",
+          "Netto",
+          "Norma",
+          "Markant",
+          "Wasgau",
+          "Famila",
+          "DM",
+          "Rossmann",
+          "Other"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "marketZip",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "receiptDate",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "time",
+        "name": "receiptTime",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "count",
+        "id": "",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Bitte wählen",
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "name": "brand[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "brand[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "brand[]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "honors",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "keine Angabe",
+          "Frau",
+          "Herr",
+          "Neutral"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "accountOwner",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "accountIban",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "accountBic",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "cep_allowAll",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "cep_emailMarketingConsent",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "cep_postalDeliveryConsent",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "cep_personalAdConsent",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "cep_dataMatchingConsent",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "date",
+        "name": "birthday",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "accepted",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "general",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
