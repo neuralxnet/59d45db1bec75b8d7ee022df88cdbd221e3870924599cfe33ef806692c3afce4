@@ -268965,5 +268965,89 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://factory.qr-henkel-a.cn",
+    "action": "https://factory.qr-henkel-a.cn/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "请输入账号",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "请输入密码",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.factory.qr-henkel-a.cn",
+    "action": "https://factory.qr-henkel-a.cn/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "请输入账号",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "请输入密码",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://factory.qr-henkel-a.cn",
+    "action": "https://factory.qr-henkel-a.cn/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "请输入账号",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "请输入密码",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://factory.qr-henkel-a.cn/#",
+    "action": "https://factory.qr-henkel-a.cn/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "请输入账号",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "请输入密码",
+        "required": false
+      }
+    ]
   }
 ]
