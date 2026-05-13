@@ -269133,5 +269133,117 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://promocionesraffaello.com",
+    "action": "https://promocionesraffaello.com/play/main",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "6480",
+        "id": "field_6480",
+        "placeholder": "NOMBRE",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "6481",
+        "id": "field_6481",
+        "placeholder": "APELLIDOS",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "",
+        "id": "field_6486",
+        "placeholder": "TELÉFONO DE CONTACTO",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "6486",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "field_email",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "file",
+        "name": "6487",
+        "id": "field_6487",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "pack-code",
+        "id": "field_packcode",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "6489",
+        "id": "field_6489",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "6490",
+        "id": "field_6490",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "6491",
+        "id": "field_6491",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "policy1",
+        "id": "policy1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "policy2",
+        "id": "policy2",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "field_6488",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "6488",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "policy3",
+        "id": "policy3",
+        "placeholder": "",
+        "required": true
+      }
+    ]
   }
 ]
