@@ -269280,5 +269280,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://quality-goodmorning26-nl-2026.ipaasferrero.com",
+    "action": "https://ipaas-login-qlt.ferrero.com/realms/ipaas/login-actions/authenticate?session_code=n9vt7o2gLwekp2if1dIF0A7ZM8OEnHtYe90j4SlbZf4&execution=79434353-b76b-4986-a158-078d2943099a&client_id=goodmorning26-nl&tab_id=83h5xMMRi3c",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "credentialId",
+        "id": "id-hidden-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "login",
+        "id": "kc-login",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
