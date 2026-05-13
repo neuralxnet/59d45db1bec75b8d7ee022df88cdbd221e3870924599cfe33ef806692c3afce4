@@ -269245,5 +269245,40 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://quality-ferrero-feinschlecker-de-2026.ipaasferrero.com",
+    "action": "https://ipaas-login-qlt.ferrero.com/realms/ipaas/login-actions/authenticate?session_code=p2cTwIPe18UH1Al699mEJ3K9B_fseUF3yegICn6zKQw&execution=d0cbb198-89c5-4f4c-92f6-2ab5316d72c5&client_id=feinschlecker.de&tab_id=W9Jm3E_iasA",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "credentialId",
+        "id": "id-hidden-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "login",
+        "id": "kc-login",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
