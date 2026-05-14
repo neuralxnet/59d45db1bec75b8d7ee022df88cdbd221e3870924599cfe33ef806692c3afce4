@@ -269315,5 +269315,89 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.podarujraffaello.pl",
+    "action": "https://www.podarujraffaello.pl/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "frmknti:message",
+        "placeholder": "Napisz, jeśli masz pytania...",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "frmknti:fullname",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmknti:email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "grecaptcha-action",
+        "id": "frmknti:grecaptcha-action",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "grecaptcha-token",
+        "id": "frmknti:grecaptcha-token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.podarujraffaello.pl/#!lr=kontakt",
+    "action": "https://www.podarujraffaello.pl/#!lr=kontakt",
+    "method": "get",
+    "fields": [
+      {
+        "type": "textarea",
+        "name": "",
+        "id": "frmknti:message",
+        "placeholder": "Napisz, jeśli masz pytania...",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "name",
+        "id": "frmknti:fullname",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmknti:email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "grecaptcha-action",
+        "id": "frmknti:grecaptcha-action",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "grecaptcha-token",
+        "id": "frmknti:grecaptcha-token",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
