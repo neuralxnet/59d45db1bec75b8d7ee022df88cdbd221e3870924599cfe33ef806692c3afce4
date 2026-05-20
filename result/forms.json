@@ -269782,5 +269782,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://oauth.mintel.com",
+    "action": "https://portal.mintel.com/portal/login?next=https%3A%2F%2Foauth.mintel.com%2F",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username-username",
+        "id": "id_username-username",
+        "placeholder": "Enter your email address",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "username-remember",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "login_view-current_step",
+        "id": "id_login_view-current_step",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "csrfmiddlewaretoken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
