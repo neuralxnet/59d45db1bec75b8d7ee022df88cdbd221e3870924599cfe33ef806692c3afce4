@@ -269893,5 +269893,26 @@
     "action": "https://login.microsoftonline.com/c5b087a1-0e65-4ec0-84dc-8d0aea57715f/oauth2/v2.0/authorize?client_id=3171902d-f9dd-476d-9ee8-0f4de013b5a6&redirect_uri=https%3A%2F%2Fqa-server-inventory.mintel.com%2Foauth2%2Fidpresponse&response_type=code&scope=email%20openid%20profile&state=sdnYSXqYDNNKSLBD0qP2SHwOmJvfchIT3eGamrOMpUi6%2F4T1Eop7F4EPbhJujk4nBEAYWyQp2VyUZ01qTnYpbzndLQdlZPBcqJWxTji%2BULqAa3oCp1PNXkssiTlilv3oqIC8QPN1JdZiXg00ZOiPKxQ4PDmQs0YEnVU9naRLr%2FMN%2FKHzQCn1tQiNA%2BOF3OZCAsjBq72gmZf5pFz0AyvYeIWiVD%2BTu9wlJ2EnKYnAQyaIkvbySZw%3D&sso_reload=true",
     "method": "post",
     "fields": []
+  },
+  {
+    "url": "https://reports.mintel.com",
+    "action": "https://reports.mintel.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "",
+        "placeholder": "Start searching Mintel Reports",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "go",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
