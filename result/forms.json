@@ -269984,5 +269984,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.comperemedia.com",
+    "action": "https://welcome.comperemedia.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
   }
 ]
