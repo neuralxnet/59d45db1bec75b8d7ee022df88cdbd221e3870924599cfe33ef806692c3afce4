@@ -269914,5 +269914,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://store.mintel.com",
+    "action": "https://store.mintel.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "st-search-input-modal",
+        "placeholder": "Find your report",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://store.mintel.com",
+    "action": "https://store.mintel.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "wcpbc-manual-country",
+        "id": "wcpbc-widget-country-switcher-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
