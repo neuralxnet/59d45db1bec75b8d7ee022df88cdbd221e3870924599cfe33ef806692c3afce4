@@ -269998,5 +269998,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.mintel.com",
+    "action": "https://www.mintel.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "What are you looking for?",
+        "required": false
+      }
+    ]
   }
 ]
