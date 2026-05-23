@@ -270012,5 +270012,159 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://lpl.com",
+    "action": "https://www.lpl.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "example-search-input",
+        "placeholder": "Search LPL",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lpl.com/",
+    "action": "https://www.lpl.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "example-search-input",
+        "placeholder": "Search LPL",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lpl.com/accounts/log-in.html",
+    "action": "https://www.lpl.com/accounts/log-in.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "example-search-input",
+        "placeholder": "Search LPL",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lpl.com/contact-us.html",
+    "action": "https://www.lpl.com/contact-us.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "example-search-input",
+        "placeholder": "Search LPL",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lpl.com/join-lpl.html",
+    "action": "https://www.lpl.com/join-lpl.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "example-search-input",
+        "placeholder": "Search LPL",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lpl.com/join-lpl/why-choose-lpl.html",
+    "action": "https://www.lpl.com/join-lpl/why-choose-lpl.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "example-search-input",
+        "placeholder": "Search LPL",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lpl.com/join-lpl/why-choose-lpl/news-and-insights.html",
+    "action": "https://www.lpl.com/join-lpl/why-choose-lpl/news-and-insights.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "example-search-input",
+        "placeholder": "Search LPL",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lpl.com/join-lpl/why-choose-lpl/news-and-insights.html",
+    "action": "https://www.lpl.com/join-lpl/why-choose-lpl/news-and-insights.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "search-box",
+        "placeholder": "Search Articles",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lpl.com/join-lpl/why-choose-lpl/white-papers-and-insights.html",
+    "action": "https://www.lpl.com/join-lpl/why-choose-lpl/white-papers-and-insights.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "example-search-input",
+        "placeholder": "Search LPL",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lpl.com/join-lpl/why-choose-lpl/advisor-inclusion.html",
+    "action": "https://www.lpl.com/join-lpl/why-choose-lpl/advisor-inclusion.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "example-search-input",
+        "placeholder": "Search LPL",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lpl.com/join-lpl/why-choose-lpl/professional-referral-network.html",
+    "action": "https://www.lpl.com/join-lpl/why-choose-lpl/professional-referral-network.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "example-search-input",
+        "placeholder": "Search LPL",
+        "required": false
+      }
+    ]
   }
 ]
