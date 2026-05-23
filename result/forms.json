@@ -270166,5 +270166,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://cms.onepeloton.com/saml_login",
+    "action": "https://onepeloton.okta.com/login/cert",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "fromURI",
+        "id": "fromURI",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
