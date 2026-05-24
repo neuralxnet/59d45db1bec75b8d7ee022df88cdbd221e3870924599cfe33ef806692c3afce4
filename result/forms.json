@@ -270194,5 +270194,68 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.activistmonitor.com/login",
+    "action": "https://id.ionanalytics.com/signin",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "onSuccess",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utm_source",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utm_campaign",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utm_medium",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utm_content",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utm_term",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "Enter your business email",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "",
+        "id": "submint-main-signin-from",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
