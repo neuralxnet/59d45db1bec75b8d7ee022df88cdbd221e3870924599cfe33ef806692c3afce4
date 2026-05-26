@@ -270257,5 +270257,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://windsurf.com/blog/windsurf-2-0",
+    "action": "https://windsurf.com/blog/windsurf-2-0",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://windsurf.com/blog/opus-4.7-fast",
+    "action": "https://windsurf.com/blog/opus-4.7-fast",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Enter your email",
+        "required": false
+      }
+    ]
   }
 ]
