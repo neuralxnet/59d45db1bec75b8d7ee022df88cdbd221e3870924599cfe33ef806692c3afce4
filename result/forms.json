@@ -270303,5 +270303,173 @@
     "action": "https://www.rebrandly.com/",
     "method": "post",
     "fields": []
+  },
+  {
+    "url": "https://satcomdirect.com.br",
+    "action": "https://gogoair.com.br/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "post_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "referer_title",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "form_fields[name]",
+        "id": "form-field-name",
+        "placeholder": "Nome",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "form_fields[email]",
+        "id": "form-field-email",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "form_fields[field_92b8ed2]",
+        "id": "form-field-field_92b8ed2",
+        "placeholder": "Whatsapp",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "form_fields[field_cba8f2a]",
+        "id": "form-field-field_cba8f2a",
+        "placeholder": "Qual a sua necessidade?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.satcomdirect.com.br/politica-de-privacidade/",
+    "action": "https://www.satcomdirect.com.br/politica-de-privacidade/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "post_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "referer_title",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "form_fields[name]",
+        "id": "form-field-name",
+        "placeholder": "Nome",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "form_fields[email]",
+        "id": "form-field-email",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "form_fields[field_92b8ed2]",
+        "id": "form-field-field_92b8ed2",
+        "placeholder": "Whatsapp",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "form_fields[field_cba8f2a]",
+        "id": "form-field-field_cba8f2a",
+        "placeholder": "Qual a sua necessidade?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.satcomdirect.com.br/politica-de-privacidade-da-satcom-direct/?elementor-preview=9335&ver=1732648926#_Definitions",
+    "action": "https://www.satcomdirect.com.br/politica-de-privacidade-da-satcom-direct/?elementor-preview=9335&ver=1732648926#_Definitions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "post_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "referer_title",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "form_fields[name]",
+        "id": "form-field-name",
+        "placeholder": "Nome",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "form_fields[email]",
+        "id": "form-field-email",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "form_fields[field_92b8ed2]",
+        "id": "form-field-field_92b8ed2",
+        "placeholder": "Whatsapp",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "form_fields[field_cba8f2a]",
+        "id": "form-field-field_cba8f2a",
+        "placeholder": "Qual a sua necessidade?",
+        "required": false
+      }
+    ]
   }
 ]
