@@ -270471,5 +270471,278 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://satcomsimple.com",
+    "action": "https://ss.satcomdirect.com/Account/Login/default.aspx?ReturnUrl=%2f",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__LASTFOCUS",
+        "id": "__LASTFOCUS",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ctl00$cphMain$myLoginControl$Username",
+        "id": "cphMain_myLoginControl_Username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "ctl00$cphMain$myLoginControl$Password",
+        "id": "cphMain_myLoginControl_Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$cphMain$myLoginControl$LoginButton",
+        "id": "cphMain_myLoginControl_LoginButton",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ctl00$cphMain$myLoginControl$RememberMe",
+        "id": "cphMain_myLoginControl_RememberMe",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ctl00$cphMain$myLoginControl$ForgotEmailAddressOrUsername",
+        "id": "cphMain_myLoginControl_ForgotEmailAddressOrUsername",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$cphMain$myLoginControl$btnForgotPassword",
+        "id": "cphMain_myLoginControl_btnForgotPassword",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.satcomsimple.com",
+    "action": "https://ss.satcomdirect.com/Account/Login/default.aspx?ReturnUrl=%2f",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__LASTFOCUS",
+        "id": "__LASTFOCUS",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ctl00$cphMain$myLoginControl$Username",
+        "id": "cphMain_myLoginControl_Username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "ctl00$cphMain$myLoginControl$Password",
+        "id": "cphMain_myLoginControl_Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$cphMain$myLoginControl$LoginButton",
+        "id": "cphMain_myLoginControl_LoginButton",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ctl00$cphMain$myLoginControl$RememberMe",
+        "id": "cphMain_myLoginControl_RememberMe",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ctl00$cphMain$myLoginControl$ForgotEmailAddressOrUsername",
+        "id": "cphMain_myLoginControl_ForgotEmailAddressOrUsername",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$cphMain$myLoginControl$btnForgotPassword",
+        "id": "cphMain_myLoginControl_btnForgotPassword",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://satcomsimple.com",
+    "action": "https://ss.satcomdirect.com/Account/Login/default.aspx?ReturnUrl=%2f",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__LASTFOCUS",
+        "id": "__LASTFOCUS",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ctl00$cphMain$myLoginControl$Username",
+        "id": "cphMain_myLoginControl_Username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "ctl00$cphMain$myLoginControl$Password",
+        "id": "cphMain_myLoginControl_Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$cphMain$myLoginControl$LoginButton",
+        "id": "cphMain_myLoginControl_LoginButton",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ctl00$cphMain$myLoginControl$RememberMe",
+        "id": "cphMain_myLoginControl_RememberMe",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ctl00$cphMain$myLoginControl$ForgotEmailAddressOrUsername",
+        "id": "cphMain_myLoginControl_ForgotEmailAddressOrUsername",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$cphMain$myLoginControl$btnForgotPassword",
+        "id": "cphMain_myLoginControl_btnForgotPassword",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
