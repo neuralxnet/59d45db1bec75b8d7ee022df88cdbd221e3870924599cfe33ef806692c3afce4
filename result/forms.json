@@ -277687,5 +277687,1810 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://developersites.com.au/skygarden/",
+    "action": "https://www.developersites.com.au/skygarden/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "jpid",
+        "id": "jpid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "event",
+        "id": "event",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "sourcesite",
+        "id": "sourcesite",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "landing_page_url",
+        "id": "landing_page_url",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Interested_In]",
+        "id": "Select_Something",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://developersites.com.au/skygarden/",
+    "action": "https://www.developersites.com.au/skygarden/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://developersites.com.au/moonee-valley-park/upsizer/",
+    "action": "https://www.developersites.com.au/moonee-valley-park/upsizer/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "cs",
+        "id": "form_cs",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "css",
+        "id": "form_css",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Last-Name]",
+        "id": "Last_Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "responses[Level-of-investment]",
+        "id": "level_of_investment",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Level of investment:",
+          "$1M - $1.1M",
+          "$1.1M - $1.2M",
+          "$1.2M - $1.3M",
+          "$1.3M - $1.4M",
+          "$1.4M - $1.5M",
+          "$1.5M -$1.6M",
+          "$1.6M - $1.7M",
+          "$1.7M - $1.8M",
+          "$1.8M - $1.9M",
+          "$1.9M +"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://developersites.com.au/moonee-valley-park/upsizer/",
+    "action": "https://www.developersites.com.au/moonee-valley-park/upsizer/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://developersites.com.au/westside-place/",
+    "action": "https://www.developersites.com.au/westside-place/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Surname]",
+        "id": "Surname",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "responses[No-Bedrooms]",
+        "id": "No-Bedrooms",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "I'm interested in:",
+          "1 Bedroom Apartments",
+          "2 Bedroom Apartments",
+          "3 Bedroom Apartments",
+          "Any"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-source]",
+        "id": "utm_source",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-medium]",
+        "id": "utm_medium",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-term]",
+        "id": "utm_term",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-campaign]",
+        "id": "utm_campaign",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-id]",
+        "id": "utm_campaign",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[referrer]",
+        "id": "referrer",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[browser]",
+        "id": "browser",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://developersites.com.au/westside-place/",
+    "action": "https://www.developersites.com.au/westside-place/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.developersites.com.au/maison-rochedale/",
+    "action": "https://www.developersites.com.au/maison-rochedale/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.developersites.com.au/maison-rochedale/",
+    "action": "https://www.developersites.com.au/maison-rochedale/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.developersites.com.au/mambourin-green/",
+    "action": "https://www.developersites.com.au/mambourin-green/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Last-Name]",
+        "id": "Last-Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Postcode]",
+        "id": "Postcode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-source]",
+        "id": "utm_source",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-medium]",
+        "id": "utm_medium",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-term]",
+        "id": "utm_term",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-campaign]",
+        "id": "utm_campaign",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[referrer]",
+        "id": "referrer",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "browser",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.developersites.com.au/mambourin-green/",
+    "action": "https://www.developersites.com.au/mambourin-green/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://developersites.com.au/pennyplace/",
+    "action": "https://www.developersites.com.au/pennyplace/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "responses[Select-Option]",
+        "id": "Select_Something",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Interested In:",
+          "2 Bed, 1 Bath, 1 Car from $582,500",
+          "2 Bed, 2 Bath, 1 Car from $607,500",
+          "Any"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://developersites.com.au/pennyplace/",
+    "action": "https://www.developersites.com.au/pennyplace/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.developersites.com.au/trielle/",
+    "action": "https://www.developersites.com.au/trielle/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Last_Name]",
+        "id": "Last-Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-source]",
+        "id": "utm_source",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-medium]",
+        "id": "utm_medium",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-term]",
+        "id": "utm_term",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-campaign]",
+        "id": "utm_campaign",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[referrer]",
+        "id": "referrer",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[browser]",
+        "id": "browser",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.developersites.com.au/trielle/",
+    "action": "https://www.developersites.com.au/trielle/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.developersites.com.au/skygarden/#formcontent",
+    "action": "https://www.developersites.com.au/skygarden/#formcontent",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "jpid",
+        "id": "jpid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "event",
+        "id": "event",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "sourcesite",
+        "id": "sourcesite",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "landing_page_url",
+        "id": "landing_page_url",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Interested_In]",
+        "id": "Select_Something",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.developersites.com.au/skygarden/#formcontent",
+    "action": "https://www.developersites.com.au/skygarden/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.developersites.com.au/skygarden/#Select_Something",
+    "action": "https://www.developersites.com.au/skygarden/#Select_Something",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "jpid",
+        "id": "jpid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "event",
+        "id": "event",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "sourcesite",
+        "id": "sourcesite",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "landing_page_url",
+        "id": "landing_page_url",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Interested_In]",
+        "id": "Select_Something",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.developersites.com.au/skygarden/#Select_Something",
+    "action": "https://www.developersites.com.au/skygarden/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.developersites.com.au/skygarden/#",
+    "action": "https://www.developersites.com.au/skygarden/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "jpid",
+        "id": "jpid",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "event",
+        "id": "event",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "sourcesite",
+        "id": "sourcesite",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "landing_page_url",
+        "id": "landing_page_url",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Interested_In]",
+        "id": "Select_Something",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.developersites.com.au/skygarden/#",
+    "action": "https://www.developersites.com.au/skygarden/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.developersites.com.au/moonee-valley-park/upsizer/#formcontent",
+    "action": "https://www.developersites.com.au/moonee-valley-park/upsizer/#formcontent",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "cs",
+        "id": "form_cs",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "css",
+        "id": "form_css",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Last-Name]",
+        "id": "Last_Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "responses[Level-of-investment]",
+        "id": "level_of_investment",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Level of investment:",
+          "$1M - $1.1M",
+          "$1.1M - $1.2M",
+          "$1.2M - $1.3M",
+          "$1.3M - $1.4M",
+          "$1.4M - $1.5M",
+          "$1.5M -$1.6M",
+          "$1.6M - $1.7M",
+          "$1.7M - $1.8M",
+          "$1.8M - $1.9M",
+          "$1.9M +"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.developersites.com.au/moonee-valley-park/upsizer/#formcontent",
+    "action": "https://www.developersites.com.au/moonee-valley-park/upsizer/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.developersites.com.au/moonee-valley-park/upsizer/#",
+    "action": "https://www.developersites.com.au/moonee-valley-park/upsizer/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "cs",
+        "id": "form_cs",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "css",
+        "id": "form_css",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Last-Name]",
+        "id": "Last_Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "responses[Level-of-investment]",
+        "id": "level_of_investment",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Level of investment:",
+          "$1M - $1.1M",
+          "$1.1M - $1.2M",
+          "$1.2M - $1.3M",
+          "$1.3M - $1.4M",
+          "$1.4M - $1.5M",
+          "$1.5M -$1.6M",
+          "$1.6M - $1.7M",
+          "$1.7M - $1.8M",
+          "$1.8M - $1.9M",
+          "$1.9M +"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.developersites.com.au/moonee-valley-park/upsizer/#",
+    "action": "https://www.developersites.com.au/moonee-valley-park/upsizer/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.developersites.com.au/westside-place/#formcontent",
+    "action": "https://www.developersites.com.au/westside-place/#formcontent",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Surname]",
+        "id": "Surname",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "responses[No-Bedrooms]",
+        "id": "No-Bedrooms",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "I'm interested in:",
+          "1 Bedroom Apartments",
+          "2 Bedroom Apartments",
+          "3 Bedroom Apartments",
+          "Any"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-source]",
+        "id": "utm_source",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-medium]",
+        "id": "utm_medium",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-term]",
+        "id": "utm_term",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-campaign]",
+        "id": "utm_campaign",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-id]",
+        "id": "utm_campaign",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[referrer]",
+        "id": "referrer",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[browser]",
+        "id": "browser",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.developersites.com.au/westside-place/#formcontent",
+    "action": "https://www.developersites.com.au/westside-place/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.developersites.com.au/westside-place/#",
+    "action": "https://www.developersites.com.au/westside-place/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Surname]",
+        "id": "Surname",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "responses[No-Bedrooms]",
+        "id": "No-Bedrooms",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "I'm interested in:",
+          "1 Bedroom Apartments",
+          "2 Bedroom Apartments",
+          "3 Bedroom Apartments",
+          "Any"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-source]",
+        "id": "utm_source",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-medium]",
+        "id": "utm_medium",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-term]",
+        "id": "utm_term",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-campaign]",
+        "id": "utm_campaign",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-id]",
+        "id": "utm_campaign",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[referrer]",
+        "id": "referrer",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[browser]",
+        "id": "browser",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.developersites.com.au/westside-place/#",
+    "action": "https://www.developersites.com.au/westside-place/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.developersites.com.au/maison-rochedale/#formcontent",
+    "action": "https://www.developersites.com.au/maison-rochedale/#formcontent",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.developersites.com.au/maison-rochedale/#formcontent",
+    "action": "https://www.developersites.com.au/maison-rochedale/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.developersites.com.au/maison-rochedale/#",
+    "action": "https://www.developersites.com.au/maison-rochedale/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.developersites.com.au/maison-rochedale/#",
+    "action": "https://www.developersites.com.au/maison-rochedale/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.developersites.com.au/mambourin-green/#form",
+    "action": "https://www.developersites.com.au/mambourin-green/#form",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Last-Name]",
+        "id": "Last-Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Postcode]",
+        "id": "Postcode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-source]",
+        "id": "utm_source",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-medium]",
+        "id": "utm_medium",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-term]",
+        "id": "utm_term",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-campaign]",
+        "id": "utm_campaign",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[referrer]",
+        "id": "referrer",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "browser",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.developersites.com.au/mambourin-green/#form",
+    "action": "https://www.developersites.com.au/mambourin-green/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.developersites.com.au/mambourin-green/#",
+    "action": "https://www.developersites.com.au/mambourin-green/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Last-Name]",
+        "id": "Last-Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Postcode]",
+        "id": "Postcode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-source]",
+        "id": "utm_source",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-medium]",
+        "id": "utm_medium",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-term]",
+        "id": "utm_term",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-campaign]",
+        "id": "utm_campaign",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[referrer]",
+        "id": "referrer",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "browser",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.developersites.com.au/mambourin-green/#",
+    "action": "https://www.developersites.com.au/mambourin-green/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.developersites.com.au/mambourin-green/#formcontent",
+    "action": "https://www.developersites.com.au/mambourin-green/#formcontent",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Last-Name]",
+        "id": "Last-Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Postcode]",
+        "id": "Postcode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-source]",
+        "id": "utm_source",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-medium]",
+        "id": "utm_medium",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-term]",
+        "id": "utm_term",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-campaign]",
+        "id": "utm_campaign",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[referrer]",
+        "id": "referrer",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "",
+        "id": "browser",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.developersites.com.au/mambourin-green/#formcontent",
+    "action": "https://www.developersites.com.au/mambourin-green/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.developersites.com.au/pennyplace/#form",
+    "action": "https://www.developersites.com.au/pennyplace/#form",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "responses[Select-Option]",
+        "id": "Select_Something",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Interested In:",
+          "2 Bed, 1 Bath, 1 Car from $582,500",
+          "2 Bed, 2 Bath, 1 Car from $607,500",
+          "Any"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.developersites.com.au/pennyplace/#form",
+    "action": "https://www.developersites.com.au/pennyplace/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.developersites.com.au/pennyplace/#",
+    "action": "https://www.developersites.com.au/pennyplace/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "responses[Select-Option]",
+        "id": "Select_Something",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Interested In:",
+          "2 Bed, 1 Bath, 1 Car from $582,500",
+          "2 Bed, 2 Bath, 1 Car from $607,500",
+          "Any"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.developersites.com.au/pennyplace/#",
+    "action": "https://www.developersites.com.au/pennyplace/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.developersites.com.au/trielle/#formcontent",
+    "action": "https://www.developersites.com.au/trielle/#formcontent",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Last_Name]",
+        "id": "Last-Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-source]",
+        "id": "utm_source",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-medium]",
+        "id": "utm_medium",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-term]",
+        "id": "utm_term",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-campaign]",
+        "id": "utm_campaign",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[referrer]",
+        "id": "referrer",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[browser]",
+        "id": "browser",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.developersites.com.au/trielle/#formcontent",
+    "action": "https://www.developersites.com.au/trielle/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://www.developersites.com.au/trielle/#",
+    "action": "https://www.developersites.com.au/trielle/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "responses[Last_Name]",
+        "id": "Last-Name",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone",
+        "id": "Phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[Device]",
+        "id": "Device",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-source]",
+        "id": "utm_source",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-medium]",
+        "id": "utm_medium",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-term]",
+        "id": "utm_term",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[utm-campaign]",
+        "id": "utm_campaign",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[referrer]",
+        "id": "referrer",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "responses[browser]",
+        "id": "browser",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.developersites.com.au/trielle/#",
+    "action": "https://www.developersites.com.au/trielle/proxy/salesforce-proxy.php",
+    "method": "get",
+    "fields": []
   }
 ]
