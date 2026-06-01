@@ -279492,5 +279492,26 @@
     "action": "https://www.developersites.com.au/trielle/proxy/salesforce-proxy.php",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://file.1040.com/1040/signin",
+    "action": "https://file.1040.com/1040/signin",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
