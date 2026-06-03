@@ -279513,5 +279513,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://quality-songsmitherz-de-2026.ipaasferrero.com",
+    "action": "https://ipaas-login-qlt.ferrero.com/realms/ipaas/login-actions/authenticate?session_code=6_T70qDvV6VEdwuAN-zPgO0IoxiKVYd7eHtsqrCw7e0&execution=e2fac571-42f5-492c-b9b9-93a0dd248248&client_id=songsmitherz.de&tab_id=fgOTwJOnOCw",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "credentialId",
+        "id": "id-hidden-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "login",
+        "id": "kc-login",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
