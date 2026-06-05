@@ -280591,5 +280591,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://cmsquality-wonka-com-2026.ipaasferrero.com",
+    "action": "https://ipaas-login-qlt.ferrero.com/realms/ipaas/login-actions/authenticate?session_code=scHLtqAwNeBByad8EroCzQYjvaUnJcRYeNGQ2urquZ8&execution=08f7d9e4-e438-465a-86dd-689f6b64846d&client_id=wonka-com-d11-login&tab_id=KA4Kf35scp0",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "credentialId",
+        "id": "id-hidden-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "login",
+        "id": "kc-login",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
