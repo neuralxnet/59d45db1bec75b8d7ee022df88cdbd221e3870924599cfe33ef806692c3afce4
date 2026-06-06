@@ -281583,5 +281583,120 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://sodastream.co.za",
+    "action": "https://www.sodastream.co.za/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.sodastream.co.za",
+    "action": "https://www.sodastream.co.za/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "http://sodastream.co.za",
+    "action": "https://www.sodastream.co.za/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.sodastream.co.za/",
+    "action": "https://www.sodastream.co.za/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.sodastream.co.za/register-machine",
+    "action": "https://www.sodastream.co.za/register-machine",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.sodastream.co.za/track-order",
+    "action": "https://www.sodastream.co.za/track-order",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.sodastream.co.za/store-locator",
+    "action": "https://www.sodastream.co.za/store-locator",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.sodastream.co.za/signup",
+    "action": "https://www.sodastream.co.za/signup",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "firstName",
+        "placeholder": "Enter first name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "lastName",
+        "placeholder": "Enter last name",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "",
+        "id": "email",
+        "placeholder": "Enter email",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "",
+        "id": "phoneNumber",
+        "placeholder": "Enter your phone number",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "password",
+        "placeholder": "Create a strong password",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "phone_number_2",
+        "placeholder": "Leave this field empty",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.co.za/signup",
+    "action": "https://www.sodastream.co.za/signup",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.sodastream.co.za/cart",
+    "action": "https://www.sodastream.co.za/cart",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.sodastream.co.za/water-makers",
+    "action": "https://www.sodastream.co.za/water-makers",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.sodastream.co.za/spare",
+    "action": "https://www.sodastream.co.za/spare",
+    "method": "dialog",
+    "fields": []
   }
 ]
