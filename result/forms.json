@@ -280696,5 +280696,892 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.sodastream.co.nz/collections/soda-makers",
+    "action": "https://www.sodastream.co.nz/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.co.nz/collections/soda-makers",
+    "action": "https://www.sodastream.co.nz/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.co.nz/collections/soda-makers",
+    "action": "https://www.sodastream.co.nz/cart/add",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://www.sodastream.co.nz/collections/soda-makers",
+    "action": "https://www.sodastream.co.nz/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.co.nz/collections/soda-makers",
+    "action": "https://www.sodastream.co.nz/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.co.nz/collections/soda-makers",
+    "action": "https://www.sodastream.co.nz/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.co.nz/collections/carb-bottles",
+    "action": "https://www.sodastream.co.nz/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.co.nz/collections/carb-bottles",
+    "action": "https://www.sodastream.co.nz/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.co.nz/collections/carb-bottles",
+    "action": "https://www.sodastream.co.nz/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.co.nz/collections/carb-bottles",
+    "action": "https://www.sodastream.co.nz/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.co.nz/collections/carb-bottles",
+    "action": "https://www.sodastream.co.nz/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.co.nz/collections/carb-bottles",
+    "action": "https://www.sodastream.co.nz/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.co.nz/collections/carb-bottles",
+    "action": "https://www.sodastream.co.nz/cart/add",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://help.sodastream.co.nz/",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.co.nz/account",
+    "action": "https://www.sodastream.co.nz/account/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "customer[email]",
+        "id": "CustomerEmail",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "customer[password]",
+        "id": "CustomerPassword",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "return_url",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.co.nz/account",
+    "action": "https://www.sodastream.co.nz/account/recover",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "RecoverEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.co.nz/cart",
+    "action": "https://www.sodastream.co.nz/cart?discount=",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "attributes[ga-client-id]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz#main-content",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/requests/new",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/requests/new",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/requests",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "request[ticket_form_id]",
+        "id": "request_issue_type_select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "-",
+          "13207443300889",
+          "13208644629657",
+          "13206161473561",
+          "19113107852057"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/categories/13154136305689-Getting-Started",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/categories/14401807721497-Sparkling-Water-Makers",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/categories/13201042931737-Bubble-Troubles",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/categories/13201081051929-Gas-Refills",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/categories/13201082651417-Flavours-and-Bottles",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.co.nz/account/login?return_url=%2Faccount",
+    "action": "https://www.sodastream.co.nz/account/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "customer[email]",
+        "id": "CustomerEmail",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "customer[password]",
+        "id": "CustomerPassword",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "return_url",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.co.nz/account/login?return_url=%2Faccount",
+    "action": "https://www.sodastream.co.nz/account/recover",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "RecoverEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/categories/13154136305689-Getting-Started#main-content",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/articles/13672870605337",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/articles/13672969358489",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/articles/14441051343001",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/articles/14332255808025",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/articles/13683699464089",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/categories/14401807721497-Sparkling-Water-Makers#main-content",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/categories/13201042931737-Bubble-Troubles#main-content",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/categories/13201081051929-Gas-Refills#main-content",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/categories/13201082651417-Flavours-and-Bottles#main-content",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/articles/13672870605337-What-is-SodaStream#main-content",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/articles/13672969358489-How-does-SodaStream-work#main-content",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/articles/14441051343001-Which-Sparkling-Water-Maker-do-I-have#main-content",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/articles/14332255808025-Where-can-I-purchase-SodaStream-Sparkling-Water-Makers-Gas-Cylinders-Syrups-Bottles-and-more#main-content",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://help.sodastream.co.nz/hc/en-nz/articles/13683699464089-How-do-I-get-the-perfect-fizz#main-content",
+    "action": "https://help.sodastream.co.nz/hc/en-nz/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Questions bubbling up?",
+        "required": false
+      }
+    ]
   }
 ]
