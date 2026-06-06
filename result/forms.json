@@ -281698,5 +281698,1159 @@
     "action": "https://www.sodastream.co.za/spare",
     "method": "dialog",
     "fields": []
+  },
+  {
+    "url": "https://sodastream.com.ar",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "email",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://sodastream.com.ar",
+    "action": "https://www.sodastream.com.ar/cart",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sodastream.com.ar",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "challenge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "email",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar",
+    "action": "https://www.sodastream.com.ar/cart",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "challenge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://sodastream.com.ar",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "email",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://sodastream.com.ar",
+    "action": "https://www.sodastream.com.ar/cart",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://sodastream.com.ar",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "challenge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/policies/privacy-policy",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "email",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/policies/privacy-policy",
+    "action": "https://www.sodastream.com.ar/cart",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/policies/privacy-policy",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "challenge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "email",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/",
+    "action": "https://www.sodastream.com.ar/cart",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "challenge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/account?view=orders",
+    "action": "https://www.sodastream.com.ar/account/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "customer[email]",
+        "id": "CustomerEmail",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "customer[password]",
+        "id": "CustomerPassword",
+        "placeholder": "Contraseña",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "return_url",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/account?view=orders",
+    "action": "https://www.sodastream.com.ar/account/recover",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "RecoverEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/account?view=orders",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "email",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/account?view=orders",
+    "action": "https://www.sodastream.com.ar/cart",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/account?view=orders",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "challenge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/cart",
+    "action": "https://www.sodastream.com.ar/cart?discount=",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://www.sodastream.com.ar/cart",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "email",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/cart",
+    "action": "https://www.sodastream.com.ar/cart",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/cart",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "challenge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/products/zcambio-de-cilindros-de-co2z",
+    "action": "https://www.sodastream.com.ar/cart/add",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "productVariantId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "quantity",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/products/zcambio-de-cilindros-de-co2z",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "email",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/products/zcambio-de-cilindros-de-co2z",
+    "action": "https://www.sodastream.com.ar/cart",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/products/zcambio-de-cilindros-de-co2z",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "challenge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/pages/sodaclub",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "email",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/pages/sodaclub",
+    "action": "https://www.sodastream.com.ar/cart",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/pages/sodaclub",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "challenge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/pages/store-locator",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "email",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/pages/store-locator",
+    "action": "https://www.sodastream.com.ar/cart",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.ar/pages/store-locator",
+    "action": "https://www.sodastream.com.ar/contact#contact_form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "challenge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "",
+        "placeholder": "Ingresa tu correo electrónico",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
