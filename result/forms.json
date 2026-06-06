@@ -280626,5 +280626,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://quality-ferrero-globus-gewinnspiel-de-2026.ipaasferrero.com",
+    "action": "https://ipaas-login-qlt.ferrero.com/realms/ipaas/login-actions/authenticate?session_code=5yIuutLjPrxDTG7gGgKxF_advD_3DKIKzGHHJEi3mIM&execution=4c093693-d749-4a06-b524-f8d16e91a28f&client_id=globus-gewinnspiel.de&tab_id=8MdUGCjvL_w",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "credentialId",
+        "id": "id-hidden-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "login",
+        "id": "kc-login",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
