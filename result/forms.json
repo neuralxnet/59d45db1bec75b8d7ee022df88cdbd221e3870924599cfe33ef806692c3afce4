@@ -280661,5 +280661,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://quality-gemeinsam-jubeln-rewe-de-2026.ipaasferrero.com",
+    "action": "https://ipaas-login-qlt.ferrero.com/realms/ipaas/login-actions/authenticate?session_code=oBRf4z7fPUOAbtE3unNyNJgxcabtlVYyE_UOVmJht00&execution=7f9f4aca-c2b7-42d3-9175-ac506ef4baea&client_id=gemeinsam-jubeln-rewe.de&tab_id=l-OyFCwiDVc",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "credentialId",
+        "id": "id-hidden-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "login",
+        "id": "kc-login",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
