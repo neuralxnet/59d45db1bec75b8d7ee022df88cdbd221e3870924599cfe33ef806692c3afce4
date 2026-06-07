@@ -285603,5 +285603,88 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://sodastream.kr/account",
+    "action": "https://sodastream.kr/account/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "customer[email]",
+        "id": "CustomerEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "customer[password]",
+        "id": "CustomerPassword",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "return_url",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sodastream.kr/account",
+    "action": "https://sodastream.kr/account/recover",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "RecoverEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sodastream.kr/cart",
+    "action": "https://sodastream.kr/cart?discount=",
+    "method": "post",
+    "fields": []
   }
 ]
