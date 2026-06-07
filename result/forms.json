@@ -283286,5 +283286,2238 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://sodastream.cz",
+    "action": "https://www.sodastream.cz/account/login/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "Username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "StaySignedIn",
+        "id": "StaySignedInHeader",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "StaySignedIn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sodastream.cz",
+    "action": "https://www.sodastream.cz/newsletter/subscribe/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "NewsletterEmail",
+        "id": "NewsletterEmail",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CurrentCulture",
+        "id": "CurrentCulture",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SiteName",
+        "id": "SiteName",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz",
+    "action": "https://www.sodastream.cz/account/login/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "Username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "StaySignedIn",
+        "id": "StaySignedInHeader",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "StaySignedIn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz",
+    "action": "https://www.sodastream.cz/newsletter/subscribe/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "NewsletterEmail",
+        "id": "NewsletterEmail",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CurrentCulture",
+        "id": "CurrentCulture",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SiteName",
+        "id": "SiteName",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://sodastream.cz",
+    "action": "https://www.sodastream.cz/account/login/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "Username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "StaySignedIn",
+        "id": "StaySignedInHeader",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "StaySignedIn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://sodastream.cz",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://sodastream.cz",
+    "action": "https://www.sodastream.cz/newsletter/subscribe/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "NewsletterEmail",
+        "id": "NewsletterEmail",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CurrentCulture",
+        "id": "CurrentCulture",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SiteName",
+        "id": "SiteName",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/",
+    "action": "https://www.sodastream.cz/account/login/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "Username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "StaySignedIn",
+        "id": "StaySignedInHeader",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "StaySignedIn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/",
+    "action": "https://www.sodastream.cz/newsletter/subscribe/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "NewsletterEmail",
+        "id": "NewsletterEmail",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CurrentCulture",
+        "id": "CurrentCulture",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SiteName",
+        "id": "SiteName",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/vyrobniky-perlive-vody/",
+    "action": "https://www.sodastream.cz/account/login/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "Username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "StaySignedIn",
+        "id": "StaySignedInHeader",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "StaySignedIn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/vyrobniky-perlive-vody/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/vyrobniky-perlive-vody/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/vyrobniky-perlive-vody/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/vyrobniky-perlive-vody/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/vyrobniky-perlive-vody/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "couponCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/vyrobniky-perlive-vody/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/vyrobniky-perlive-vody/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/vyrobniky-perlive-vody/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/vyrobniky-perlive-vody/",
+    "action": "https://www.sodastream.cz/newsletter/subscribe/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "NewsletterEmail",
+        "id": "NewsletterEmail",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CurrentCulture",
+        "id": "CurrentCulture",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SiteName",
+        "id": "SiteName",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/bombicky/",
+    "action": "https://www.sodastream.cz/account/login/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "Username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "StaySignedIn",
+        "id": "StaySignedInHeader",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "StaySignedIn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/bombicky/",
+    "action": "https://www.sodastream.cz/newsletter/subscribe/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "NewsletterEmail",
+        "id": "NewsletterEmail",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CurrentCulture",
+        "id": "CurrentCulture",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SiteName",
+        "id": "SiteName",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/prichute-pro-perlivou-vodu/",
+    "action": "https://www.sodastream.cz/account/login/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "Username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "StaySignedIn",
+        "id": "StaySignedInHeader",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "StaySignedIn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/prichute-pro-perlivou-vodu/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/prichute-pro-perlivou-vodu/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/prichute-pro-perlivou-vodu/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/prichute-pro-perlivou-vodu/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/prichute-pro-perlivou-vodu/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/prichute-pro-perlivou-vodu/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/prichute-pro-perlivou-vodu/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/prichute-pro-perlivou-vodu/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/prichute-pro-perlivou-vodu/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/prichute-pro-perlivou-vodu/",
+    "action": "https://www.sodastream.cz/newsletter/subscribe/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "NewsletterEmail",
+        "id": "NewsletterEmail",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CurrentCulture",
+        "id": "CurrentCulture",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SiteName",
+        "id": "SiteName",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/lahve/",
+    "action": "https://www.sodastream.cz/account/login/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "Username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "StaySignedIn",
+        "id": "StaySignedInHeader",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "StaySignedIn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/lahve/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/lahve/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/lahve/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/lahve/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/lahve/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/lahve/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/lahve/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/lahve/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/lahve/",
+    "action": "https://www.sodastream.cz/ajax/cart/items/upsell/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "skuId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/lahve/",
+    "action": "https://www.sodastream.cz/newsletter/subscribe/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "NewsletterEmail",
+        "id": "NewsletterEmail",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CurrentCulture",
+        "id": "CurrentCulture",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SiteName",
+        "id": "SiteName",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/specialni-edice/malina-megapack/",
+    "action": "https://www.sodastream.cz/account/login/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "Username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "StaySignedIn",
+        "id": "StaySignedInHeader",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "StaySignedIn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/specialni-edice/malina-megapack/",
+    "action": "https://www.sodastream.cz/newsletter/subscribe/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "NewsletterEmail",
+        "id": "NewsletterEmail",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CurrentCulture",
+        "id": "CurrentCulture",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SiteName",
+        "id": "SiteName",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/specialni-edice/termo-lahve-easy-mix/",
+    "action": "https://www.sodastream.cz/account/login/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "Username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "StaySignedIn",
+        "id": "StaySignedInHeader",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "StaySignedIn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/specialni-edice/termo-lahve-easy-mix/",
+    "action": "https://www.sodastream.cz/newsletter/subscribe/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "NewsletterEmail",
+        "id": "NewsletterEmail",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CurrentCulture",
+        "id": "CurrentCulture",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SiteName",
+        "id": "SiteName",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/fizz-go-termolahve/",
+    "action": "https://www.sodastream.cz/account/login/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "Username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "StaySignedIn",
+        "id": "StaySignedInHeader",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "StaySignedIn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/fizz-go-termolahve/",
+    "action": "https://www.sodastream.cz/newsletter/subscribe/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "NewsletterEmail",
+        "id": "NewsletterEmail",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CurrentCulture",
+        "id": "CurrentCulture",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SiteName",
+        "id": "SiteName",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/specialni-edice/pepsi-made-by-me-megapack/",
+    "action": "https://www.sodastream.cz/account/login/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "Username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "StaySignedIn",
+        "id": "StaySignedInHeader",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "StaySignedIn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/specialni-edice/pepsi-made-by-me-megapack/",
+    "action": "https://www.sodastream.cz/newsletter/subscribe/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "NewsletterEmail",
+        "id": "NewsletterEmail",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CurrentCulture",
+        "id": "CurrentCulture",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SiteName",
+        "id": "SiteName",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/specialni-edice/sodastream-x-pepsi/",
+    "action": "https://www.sodastream.cz/account/login/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "Username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "StaySignedIn",
+        "id": "StaySignedInHeader",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "StaySignedIn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "source",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.cz/specialni-edice/sodastream-x-pepsi/",
+    "action": "https://www.sodastream.cz/newsletter/subscribe/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "NewsletterEmail",
+        "id": "NewsletterEmail",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CurrentCulture",
+        "id": "CurrentCulture",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SiteName",
+        "id": "SiteName",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
