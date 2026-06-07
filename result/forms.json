@@ -285519,5 +285519,89 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.sodastream.jp/stores/",
+    "action": "https://www.sodastream.jp/stores/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "keyword",
+        "id": "",
+        "placeholder": "キーワードを入力…",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.jp/campaign_cashback_2026_spring/",
+    "action": "https://www.sodastream.jp/stores/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "keyword",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.jp/stores/#",
+    "action": "https://www.sodastream.jp/stores/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "keyword",
+        "id": "",
+        "placeholder": "キーワードを入力…",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.jp/campaign_cashback_2026_spring/#",
+    "action": "https://www.sodastream.jp/stores/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "keyword",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
