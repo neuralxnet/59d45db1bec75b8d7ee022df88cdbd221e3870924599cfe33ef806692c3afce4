@@ -282852,5 +282852,439 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://sodastream.com.br",
+    "action": "https://www.sodastream.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br",
+    "action": "https://www.sodastream.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://sodastream.com.br",
+    "action": "https://www.sodastream.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/cilindro-refil-de-co2-60-litros-sodastream/p",
+    "action": "https://www.sodastream.com.br/no-cache/AviseMe.aspx",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "notifymeClientName",
+        "id": "notifymeClientName",
+        "placeholder": "Digite seu nome...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "notifymeClientEmail",
+        "id": "notifymeClientEmail",
+        "placeholder": "Digite seu e-mail...",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "notifymeButtonOK",
+        "id": "notifymeButtonOK",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "notifymeIdSku",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/cilindro-refil-de-co2-60-litros-sodastream/p",
+    "action": "https://www.sodastream.com.br/cilindro-refil-de-co2-60-litros-sodastream/p",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/#",
+    "action": "https://www.sodastream.com.br/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/acessorios",
+    "action": "https://www.sodastream.com.br/acessorios",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/",
+    "action": "https://www.sodastream.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/onde-encontrar",
+    "action": "https://www.sodastream.com.br/onde-encontrar",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "searchTextField",
+        "placeholder": "Digite um local",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/onde-encontrar",
+    "action": "https://www.sodastream.com.br/onde-encontrar",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/onde-encontrar",
+    "action": "https://www.sodastream.com.br/onde-encontrar",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/institucional/suporte",
+    "action": "https://www.sodastream.com.br/institucional/suporte",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/account",
+    "action": "https://www.sodastream.com.br/login?ReturnUrl=%2f_secure%2faccount",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/maquina-para-gaseificar-agua-art-sodastream-preta/p",
+    "action": "https://www.sodastream.com.br/no-cache/AviseMe.aspx",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "notifymeClientName",
+        "id": "notifymeClientName",
+        "placeholder": "Digite seu nome...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "notifymeClientEmail",
+        "id": "notifymeClientEmail",
+        "placeholder": "Digite seu e-mail...",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "notifymeButtonOK",
+        "id": "notifymeButtonOK",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "notifymeIdSku",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/maquina-para-gaseificar-agua-art-sodastream-preta/p",
+    "action": "https://www.sodastream.com.br/maquina-para-gaseificar-agua-art-sodastream-preta/p",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/cilindro-refil-de-co2-60-litros-sodastream/p#",
+    "action": "https://www.sodastream.com.br/no-cache/AviseMe.aspx",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "notifymeClientName",
+        "id": "notifymeClientName",
+        "placeholder": "Digite seu nome...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "notifymeClientEmail",
+        "id": "notifymeClientEmail",
+        "placeholder": "Digite seu e-mail...",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "notifymeButtonOK",
+        "id": "notifymeButtonOK",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "notifymeIdSku",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/cilindro-refil-de-co2-60-litros-sodastream/p#",
+    "action": "https://www.sodastream.com.br/cilindro-refil-de-co2-60-litros-sodastream/p#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/acessorios#",
+    "action": "https://www.sodastream.com.br/acessorios#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/onde-encontrar#",
+    "action": "https://www.sodastream.com.br/onde-encontrar#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "searchTextField",
+        "placeholder": "Digite um local",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/onde-encontrar#",
+    "action": "https://www.sodastream.com.br/onde-encontrar#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/onde-encontrar#",
+    "action": "https://www.sodastream.com.br/onde-encontrar#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/institucional/suporte#",
+    "action": "https://www.sodastream.com.br/institucional/suporte#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/login?ReturnUrl=%2f_secure%2faccount#",
+    "action": "https://www.sodastream.com.br/login?ReturnUrl=%2f_secure%2faccount#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/maquina-para-gaseificar-agua-art-sodastream-preta/p#",
+    "action": "https://www.sodastream.com.br/no-cache/AviseMe.aspx",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "notifymeClientName",
+        "id": "notifymeClientName",
+        "placeholder": "Digite seu nome...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "notifymeClientEmail",
+        "id": "notifymeClientEmail",
+        "placeholder": "Digite seu e-mail...",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "notifymeButtonOK",
+        "id": "notifymeButtonOK",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "notifymeIdSku",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.sodastream.com.br/maquina-para-gaseificar-agua-art-sodastream-preta/p#",
+    "action": "https://www.sodastream.com.br/maquina-para-gaseificar-agua-art-sodastream-preta/p#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      }
+    ]
   }
 ]
