@@ -298198,5 +298198,40 @@
     "action": "https://sodastreammexico.com/cart",
     "method": "post",
     "fields": []
+  },
+  {
+    "url": "https://answers.unrealengine.com",
+    "action": "https://forums.unrealengine.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "signin_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "signin_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "signin-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
