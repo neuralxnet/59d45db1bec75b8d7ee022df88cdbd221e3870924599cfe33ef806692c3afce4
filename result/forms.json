@@ -298233,5 +298233,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://henkeldev.service-now.com",
+    "action": "https://henkeldev.service-now.com/hkl_esc?id=login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "c.remember_me",
+        "id": "remember_me",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
