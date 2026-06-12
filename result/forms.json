@@ -298267,5 +298267,33 @@
     "action": "https://login.microsoftonline.com/e8701075-0d9e-4ea1-991d-5a0d110a5d29/saml2?SAMLRequest=lVJBbtswEPyKwLskirEki7AMODaKGkhTIXZ76I0WVzZRilS5lJP8vgrtIOmhKXrlzuzMznCBotds4KvRn8wD%2FBoBffTUa4P8MqnJ6Ay3AhVyI3pA7lu%2BW3254yyhfHDW29ZqEq0QwXllzdoaHHtwO3Bn1cK3h7uanLwfkKfpCcxP0BNJJngZx8Y%2BJq3tUyPOgzhCIi2JNpMJZcTLtjeutkdlkl61zqLtvDVaGQhUmJc0o2UeU1lBPAORxVWVyTgXVGYZFblkVRquIdEn61oIx9akExqBRNtNTXb3665gMp9X8obRAxwKOi%2BhzBmjMCvbnM0n7hYbgajO8EZFHGFr0Avja8IoK2JaxBnbs4zPKp7PkrIofpCoucZ0q4xU5vhxpocLCPnn%2Fb6Jm6%2B7fVhwVhLc%2FYT%2B7zi%2Fg8MQ5bSdLBchCR6su%2FdVf%2BxKvPZLlv%2BWX6TvRa6SA39xv900Vqv2OVppbR%2FXDoSfLvJuhFBOL%2FzffWRJFl6UjLsA5aPBAVrVKZAkXV5l%2F%2FzNy98%3D&RelayState=https%3A%2F%2Fhenkelprod.service-now.com%2Fnavpage.do&sso_reload=true",
     "method": "post",
     "fields": []
+  },
+  {
+    "url": "https://henkelsand.service-now.com",
+    "action": "https://henkelsand.service-now.com/hkl_esc?id=login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "c.remember_me",
+        "id": "remember_me",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
