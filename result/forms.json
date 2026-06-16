@@ -298301,5 +298301,131 @@
     "action": "https://login.microsoftonline.com/e8701075-0d9e-4ea1-991d-5a0d110a5d29/saml2?SAMLRequest=vZNNj9owEIb%2FSuR7EjtfJBahoqCqSNtttNAeekFOPAGriU09DrT%2FfkOg2u2h21uP9oznfeeZ8RxF30UnvhzcUT%2FBjwHQeT%2F7TiO%2FRUoyWM2NQIVcix6Qu4Zvl58eeBRQfrLGmcZ0xFsignXK6JXROPRgt2DPqoEvTw8lOTp3Qh6GR9DfoXOjRoC3sK%2FNJWhMH3bmoPT%2Botxxj2gCad4dOiXhetgrWTLZJg2kOauzvGhYEqVJJOs0r%2BukbupaEG89VlVaXC28CE5Vg1411qBpndGd0jDpQT6jjM5Sn8oC%2FAQE84uCST8VVDJGRSqjIpwQEO%2BDsQ1MhErSig6BeJt1SbaPqzSO4qwuKGSsbZMoyvMijotZLWlMZUxHWxusBKI6w8tTxAE2Gp3QriQRjTKfZj6LdzThdMZZEqQZ%2FUa86s72vdJS6cPbg6hvScg%2F7naVX33e7qYC5xGhfRyz%2F88MvoLFif9oiSzmEz4%2B9WtfL9XbrYjfm0QW%2F%2FY8D1%2BL3CVP%2FNryZl2ZTjW%2FvGXXmcvKgnAjBmcHmCbaC%2Fd3Hyxg042Sfjul8kHjCRrVKpAkXNxl%2F%2Fw3i2c%3D&RelayState=https%3A%2F%2Fhenkeltest.service-now.com%2Flogin_with_sso.do%3Fglide_sso_id%3D1df4ce581b689c142542db58bb4bcbba&sso_reload=true",
     "method": "post",
     "fields": []
+  },
+  {
+    "url": "https://securefilepro.com/portalorder/DrakeStatus.aspx",
+    "action": "https://securefilepro.com/portalorder/DrakeStatus.aspx",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__SCROLLPOSITIONX",
+        "id": "__SCROLLPOSITIONX",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__SCROLLPOSITIONY",
+        "id": "__SCROLLPOSITIONY",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$MainContent$info$btn_YesCustomer",
+        "id": "ctl00_MainContent_info_btn_YesCustomer",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$MainContent$info$btn_NoCustomer",
+        "id": "ctl00_MainContent_info_btn_NoCustomer",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://securefilepro.com/portalorder/DrakeStatus.aspx#",
+    "action": "https://securefilepro.com/portalorder/DrakeStatus.aspx",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__SCROLLPOSITIONX",
+        "id": "__SCROLLPOSITIONX",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__SCROLLPOSITIONY",
+        "id": "__SCROLLPOSITIONY",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$MainContent$info$btn_YesCustomer",
+        "id": "ctl00_MainContent_info_btn_YesCustomer",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$MainContent$info$btn_NoCustomer",
+        "id": "ctl00_MainContent_info_btn_NoCustomer",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
