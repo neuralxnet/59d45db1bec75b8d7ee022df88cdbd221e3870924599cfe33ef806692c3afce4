@@ -298427,5 +298427,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://auth.riskrecon.com",
+    "action": "https://auth.riskrecon.com/users/sign_in",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_csrf_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "user[email]",
+        "id": "email-input",
+        "placeholder": "Ex: Riskrecon@riskrecon.com",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "user[password]",
+        "id": "password-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "login-button",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
