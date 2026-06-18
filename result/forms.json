@@ -298462,5 +298462,47 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.easyagile.com",
+    "action": "https://www.easyagile.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "query",
+        "id": "search",
+        "placeholder": "Search…",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.easyagile.com",
+    "action": "https://www.easyagile.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "query",
+        "id": "search",
+        "placeholder": "Search…",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
