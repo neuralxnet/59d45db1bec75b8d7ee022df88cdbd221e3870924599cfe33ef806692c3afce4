@@ -298574,5 +298574,89 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://app.capitalprofile.com/capitalprofile",
+    "action": "https://app.capitalprofile.com/en/login?redirect=%2Fen%2Fcapitalprofile",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "login",
+        "id": "input_0",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "input_1",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://app.capitalprofile.com/",
+    "action": "https://app.capitalprofile.com/en/login?redirect=%2Fen%2F",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "login",
+        "id": "input_0",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "input_1",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://app.capitalprofile.com/en/login?redirect=%2Fen%2Fcapitalprofile#",
+    "action": "https://app.capitalprofile.com/en/login?redirect=%2Fen%2Fcapitalprofile#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "login",
+        "id": "input_0",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "input_1",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://app.capitalprofile.com/en/login?redirect=%2Fen%2F#",
+    "action": "https://app.capitalprofile.com/en/login?redirect=%2Fen%2F#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "login",
+        "id": "input_0",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "input_1",
+        "placeholder": "",
+        "required": true
+      }
+    ]
   }
 ]
