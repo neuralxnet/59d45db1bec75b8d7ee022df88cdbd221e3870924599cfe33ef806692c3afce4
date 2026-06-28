@@ -298658,5 +298658,26 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://www.clarusft.com/press-releases/",
+    "action": "https://www.clarusft.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search …",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
