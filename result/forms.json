@@ -298735,5 +298735,47 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.proptrack.com.au",
+    "action": "https://www.proptrack.com.au/search-results/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search-terms",
+        "id": "",
+        "placeholder": "Enter your search",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.proptrack.com.au/accept/",
+    "action": "https://www.proptrack.com.au/search-results/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search-terms",
+        "id": "",
+        "placeholder": "Enter your search",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.proptrack.com.au/accept/#mobile_Platform",
+    "action": "https://www.proptrack.com.au/search-results/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search-terms",
+        "id": "",
+        "placeholder": "Enter your search",
+        "required": true
+      }
+    ]
   }
 ]
