@@ -298693,5 +298693,47 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://equella.monash.edu",
+    "action": "https://equella.monash.edu/admin/institutions.do",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "isexp_limit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isedi_limit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isclo_limit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isimp_limit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__xsrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
