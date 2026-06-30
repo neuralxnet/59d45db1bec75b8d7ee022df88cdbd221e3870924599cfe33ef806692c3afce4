@@ -298679,5 +298679,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.proptrack.com",
+    "action": "https://www.proptrack.com.au/search-results/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search-terms",
+        "id": "",
+        "placeholder": "Enter your search",
+        "required": true
+      }
+    ]
   }
 ]
