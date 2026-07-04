@@ -301771,5 +301771,47 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://cs.barracudafx.com",
+    "action": "https://cs.barracudafx.com/clientportal",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "csrf_token",
+        "id": "csrf_token",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "remember_me",
+        "id": "remember_me",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "submit",
+        "id": "submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
