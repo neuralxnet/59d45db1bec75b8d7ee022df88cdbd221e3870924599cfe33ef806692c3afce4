@@ -308251,5 +308251,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://cybercheck-u.spaziodati.eu",
+    "action": "https://cybercheck-u.spaziodati.eu/cybercheck/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "remember",
+        "id": "remember_me",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
