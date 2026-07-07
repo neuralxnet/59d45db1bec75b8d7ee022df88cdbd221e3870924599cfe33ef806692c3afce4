@@ -308286,5 +308286,35 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.dmeops.schwarzkopfclub.com.cn",
+    "action": "https://dmeops.schwarzkopfclub.com.cn/#/login",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://dmeops.schwarzkopfclub.com.cn/#/Copyright",
+    "action": "https://dmeops.schwarzkopfclub.com.cn/#/Copyright",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://dmeops.schwarzkopfclub.com.cn/#/Teamuse",
+    "action": "https://dmeops.schwarzkopfclub.com.cn/#/Teamuse",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://dmeops.schwarzkopfclub.com.cn/#/Privacyrights",
+    "action": "https://dmeops.schwarzkopfclub.com.cn/#/Privacyrights",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://dmeops.schwarzkopfclub.com.cn/#/Cookies",
+    "action": "https://dmeops.schwarzkopfclub.com.cn/#/Cookies",
+    "method": "get",
+    "fields": []
   }
 ]
