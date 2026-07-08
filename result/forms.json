@@ -308337,5 +308337,2480 @@
         ]
       }
     ]
+  },
+  {
+    "url": "https://kelsen.com/da-DK/Kontakt.aspx",
+    "action": "https://kelsen.com/%3C--@Form.Action--%3E",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "FormPID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cmd",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_sys_to_email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_h",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_f",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_s",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_i",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "help",
+        "id": "help",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "first",
+        "id": "first",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Last_name",
+        "id": "Last_name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Emal",
+        "id": "Emal",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Address1",
+        "id": "Address1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Zip_Code",
+        "id": "Zip_Code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Country",
+        "id": "Country",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone_number",
+        "id": "Phone_number",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "Upload_a_file",
+        "id": "Upload_a_file",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "send",
+        "id": "send",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kelsen.com/da-DK/Kontakt.aspx",
+    "action": "https://kelsen.com/%3C--@Form.Action--%3E",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "FormPID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cmd",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_sys_to_email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_h",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_f",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_s",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_i",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "chooseabrand",
+        "id": "chooseabrand",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "bulkpack",
+          "classic",
+          "copenhagen",
+          "Denmark",
+          "designer",
+          "kjeldsens",
+          "privateLabel",
+          "queens",
+          "riberhus",
+          "ripensa",
+          "royalDansk"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Chooseaproduct",
+        "id": "Chooseaproduct",
+        "placeholder": "",
+        "required": true,
+        "options": []
+      },
+      {
+        "type": "text",
+        "name": "LOT",
+        "id": "LOT",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Where",
+        "id": "Where",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "country",
+        "id": "country",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "file",
+        "name": "Upload",
+        "id": "Upload",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "comment",
+        "id": "comment",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "First",
+        "id": "First",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Last",
+        "id": "Last",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Address1",
+        "id": "Address1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "city",
+        "id": "city",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Zipcodde",
+        "id": "Zipcodde",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "country",
+        "id": "country",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "send",
+        "id": "send",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "bulkpack",
+        "id": "bulkpack",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "bulkPackCookies"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "classic",
+        "id": "classic",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "classicCookies",
+          "redondo",
+          "goldenMoments"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "copenhagen",
+        "id": "copenhagen",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "copenhagenCookies"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Denmark",
+        "id": "Denmark",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "DenmarkCookies"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "designer",
+        "id": "designer",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "DesignerCookies"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "kjeldsens",
+        "id": "kjeldsens",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "KjeldsensCookies"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "privateLabel",
+        "id": "privateLabel",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "PLcookies",
+          "PLwafers"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "queens",
+        "id": "queens",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "QueensCookies"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "riberhus",
+        "id": "riberhus",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "RiberhusCookies"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "ripensa",
+        "id": "ripensa",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "RipensaCookies"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "royalDansk",
+        "id": "royalDansk",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "RDcookies",
+          "RDwafers"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://kelsen.com/da-DK/Kontakt.aspx",
+    "action": "https://kelsen.com/%3C--@Form.Action--%3E",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "FormPID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cmd",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_sys_to_email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_h",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_f",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_s",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_i",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Howcanwehelpyou",
+        "id": "Howcanwehelpyou",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Firstname",
+        "id": "Firstname",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Lastname",
+        "id": "Lastname",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Emailaddress",
+        "id": "Emailaddress",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "Send",
+        "id": "Send",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kelsen.com/da-DK/Kontakt.aspx",
+    "action": "https://kelsen.com/%3C--@Form.Action--%3E",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "FormPID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cmd",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_sys_to_email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_h",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_f",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_s",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_i",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "help",
+        "id": "help",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "first",
+        "id": "first",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Last_name",
+        "id": "Last_name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Emal",
+        "id": "Emal",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Address1",
+        "id": "Address1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Zip_Code",
+        "id": "Zip_Code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Country",
+        "id": "Country",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone_number",
+        "id": "Phone_number",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "Upload_a_file",
+        "id": "Upload_a_file",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "send",
+        "id": "send",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kelsen.com/da-DK/Kontakt/Kontakt_os.aspx",
+    "action": "https://kelsen.com/%3C--@Form.Action--%3E",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "FormPID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cmd",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_sys_to_email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_h",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_f",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_s",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_i",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "help",
+        "id": "help",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "first",
+        "id": "first",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Last_name",
+        "id": "Last_name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Emal",
+        "id": "Emal",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Address1",
+        "id": "Address1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Zip_Code",
+        "id": "Zip_Code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Country",
+        "id": "Country",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone_number",
+        "id": "Phone_number",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "Upload_a_file",
+        "id": "Upload_a_file",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "send",
+        "id": "send",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kelsen.com/da-DK/Kontakt/Kontakt_os.aspx",
+    "action": "https://kelsen.com/%3C--@Form.Action--%3E",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "FormPID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cmd",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_sys_to_email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_h",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_f",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_s",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_i",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "chooseabrand",
+        "id": "chooseabrand",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "bulkpack",
+          "classic",
+          "copenhagen",
+          "Denmark",
+          "designer",
+          "kjeldsens",
+          "privateLabel",
+          "queens",
+          "riberhus",
+          "ripensa",
+          "royalDansk"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Chooseaproduct",
+        "id": "Chooseaproduct",
+        "placeholder": "",
+        "required": true,
+        "options": []
+      },
+      {
+        "type": "text",
+        "name": "LOT",
+        "id": "LOT",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Where",
+        "id": "Where",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "country",
+        "id": "country",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "file",
+        "name": "Upload",
+        "id": "Upload",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "comment",
+        "id": "comment",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "First",
+        "id": "First",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Last",
+        "id": "Last",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Address1",
+        "id": "Address1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "city",
+        "id": "city",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Zipcodde",
+        "id": "Zipcodde",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "country",
+        "id": "country",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "phone",
+        "id": "phone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "send",
+        "id": "send",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "bulkpack",
+        "id": "bulkpack",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "bulkPackCookies"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "classic",
+        "id": "classic",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "classicCookies",
+          "redondo",
+          "goldenMoments"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "copenhagen",
+        "id": "copenhagen",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "copenhagenCookies"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Denmark",
+        "id": "Denmark",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "DenmarkCookies"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "designer",
+        "id": "designer",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "DesignerCookies"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "kjeldsens",
+        "id": "kjeldsens",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "KjeldsensCookies"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "privateLabel",
+        "id": "privateLabel",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "PLcookies",
+          "PLwafers"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "queens",
+        "id": "queens",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "QueensCookies"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "riberhus",
+        "id": "riberhus",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "RiberhusCookies"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "ripensa",
+        "id": "ripensa",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "RipensaCookies"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "royalDansk",
+        "id": "royalDansk",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "RDcookies",
+          "RDwafers"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://kelsen.com/da-DK/Kontakt/Kontakt_os.aspx",
+    "action": "https://kelsen.com/%3C--@Form.Action--%3E",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "FormPID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cmd",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_sys_to_email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_h",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_f",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_s",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_i",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Howcanwehelpyou",
+        "id": "Howcanwehelpyou",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Firstname",
+        "id": "Firstname",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Lastname",
+        "id": "Lastname",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Emailaddress",
+        "id": "Emailaddress",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "Send",
+        "id": "Send",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kelsen.com/da-DK/Kontakt/Kontakt_os.aspx",
+    "action": "https://kelsen.com/%3C--@Form.Action--%3E",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "FormPID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cmd",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_sys_to_email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_h",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_f",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_s",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_i",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "help",
+        "id": "help",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "first",
+        "id": "first",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Last_name",
+        "id": "Last_name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Emal",
+        "id": "Emal",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Address1",
+        "id": "Address1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Zip_Code",
+        "id": "Zip_Code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Country",
+        "id": "Country",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Phone_number",
+        "id": "Phone_number",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "Upload_a_file",
+        "id": "Upload_a_file",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "send",
+        "id": "send",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://kelsen.com/da-DK/Kelsen_Group/Job_hos_Kelsen/Job_i_produktionen-_Nr-_Snede.aspx",
+    "action": "https://kelsen.com/Admin/Public/404.aspx",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_sys_to_email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_h",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_f",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_s",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormCH1_i",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Recipient",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Subject",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "DWDateFormat",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormSaveDataEncoding",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Charset",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormUseSystemNames",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormSenderUseUserEmail",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "sender",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormID",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormSaveData",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormSaveDataDate",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormHTML",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormReceipt",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormReceiptField",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormReceiptShowForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormReceiptSubject",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormReceiptText",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FormReceiptSender",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Fornavn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Efternavn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Adresse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Postnr",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "By",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Telefonnr",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Mobiletelefon",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "E-mail",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Koen",
+        "id": "Koen1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Koen",
+        "id": "Koen2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "jobtype_bageri",
+        "id": "jobtype_bageri114",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "jobtype_pakkeri",
+        "id": "jobtype_pakkeri116",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "jobtype_andet",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Arbejdstid",
+        "id": "Arbejdstid1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Arbejdstid",
+        "id": "Arbejdstid2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Arbejdstid",
+        "id": "Arbejdstid3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "MuligTiltraedelsesdato",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "NatarbejdeHelbredskontrol",
+        "id": "NatarbejdeHelbredskontrol1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "NatarbejdeHelbredskontrol",
+        "id": "NatarbejdeHelbredskontrol2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "NatarbejdeHelbredskontrol_Dato",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "AnsatFoer",
+        "id": "AnsatFoer1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "AnsatFoer",
+        "id": "AnsatFoer2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "AnsatFoer_Afdeling",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "KendskabTilLevnedsmiddelbranchen",
+        "id": "KendskabTilLevnedsmiddelbranchen1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "KendskabTilLevnedsmiddelbranchen",
+        "id": "KendskabTilLevnedsmiddelbranchen2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "KendskabTilLevnedsmiddelbranchen_Hvilket",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Koerekort",
+        "id": "Koerekort1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Koerekort",
+        "id": "Koerekort2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Truckcertifikat",
+        "id": "Truckcertifikat1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Truckcertifikat",
+        "id": "Truckcertifikat2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Hygiejnekursus",
+        "id": "Hygiejnekursus1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Hygiejnekursus",
+        "id": "Hygiejnekursus2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "InteresseForVidereudd",
+        "id": "InteresseForVidereudd1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "InteresseForVidereudd",
+        "id": "InteresseForVidereudd2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "InteresseForVidereudd_Hvilken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "SkolemaessigUddannelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "AfslutningsAar",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "FagligUddannelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "UdlaertAar",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "NuvaerendeArbejde",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "NuvaerendeArbejde_AnsatDato",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "TidligereArbejdssted_1",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "TidligereArbejdssted_1_tilfra",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ReferenceNavn1",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tlfnr4",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "TidligereArbejdssted_2",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "TidligereArbejdssted_2_tilfra",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ReferenceNavn2",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tlfnr2",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "TidligereArbejdssted_3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "TidligereArbejdssted_3_tilfra",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ReferenceNavn3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tlfnr3",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "YderligereOplysninger",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "TalerDuDansk",
+        "id": "TalerDuDansk99",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "SkriverDuDansk",
+        "id": "SkriverDuDansk100",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "Cv",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "Ansoeg",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "sorteringen",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Fornavn_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Efternavn_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Adresse_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Postnr_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "By_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Telefonnr_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Mobiletelefon_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "oplysning_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Koen_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "JobtypeTxt_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jobtype_bageri_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jobtype_pakkeri_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "jobtype_andet_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Arbejdstid_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Arbejdstider_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "MuligTiltraedelsesdato_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "NatarbejdeHelbredskontrol_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "NatarbejdeHelbredskontrol_Dato_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AnsatFoer_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AnsatFoer_Afdeling_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "KendskabTilLevnedsmiddelbranchen_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "KendskabTilLevnedsmiddelbranchen_Hvilket_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Koerekort_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Truckcertifikat_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Hygiejnekursus_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "InteresseForVidereudd_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "InteresseForVidereudd_Hvilken_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SkolemaessigUddannelse_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AfslutningsAar_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FagligUddannelse_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "UdlaertAar_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "NuvaerendeArbejde_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "NuvaerendeArbejde_AnsatDato_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "TidligereArbejdssted_1_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "TidligereArbejdssted_1_tilfra_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ReferenceNavn1_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tlfnr4_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "TidligereArbejdssted_2_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "TidligereArbejdssted_2_tilfra_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ReferenceNavn2_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tlfnr2_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "TidligereArbejdssted_3_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "TidligereArbejdssted_3_tilfra_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ReferenceNavn3_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tlfnr3_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "YderligereOplysninger_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "TalerDuDansk_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SkriverDuDansk_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "af_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Cv_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Afstand_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Ansoeg_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Betingelser_DWX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
