@@ -308316,5 +308316,26 @@
     "action": "https://dmeops.schwarzkopfclub.com.cn/#/Cookies",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://www.dashregtech.com/360-reg-insights/",
+    "action": "https://www.dashregtech.com/360-reg-insights/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "_sft_category[]",
+        "id": "",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "All Categories",
+          "blog",
+          "factsheet",
+          "thought-leadership",
+          "video"
+        ]
+      }
+    ]
   }
 ]
