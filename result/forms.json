@@ -310812,5 +310812,460 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://dealogic.com",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "mobile-s",
+        "placeholder": "Search…",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search…",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.dealogic.com",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "mobile-s",
+        "placeholder": "Search…",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.dealogic.com",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search…",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://dealogic.com",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "mobile-s",
+        "placeholder": "Search…",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://dealogic.com",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search…",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "mobile-s",
+        "placeholder": "Search…",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search…",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/platform/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "mobile-s",
+        "placeholder": "Search…",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/platform/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search…",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/platform/investment-banking-capital-markets/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "mobile-s",
+        "placeholder": "Search…",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/platform/investment-banking-capital-markets/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search…",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/platform/syndicate-str/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "mobile-s",
+        "placeholder": "Search…",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/platform/syndicate-str/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search…",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/platform/investment-managers/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "mobile-s",
+        "placeholder": "Search…",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/platform/investment-managers/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search…",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/platform/corporations/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "mobile-s",
+        "placeholder": "Search…",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/platform/corporations/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search…",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/insights/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "mobile-s",
+        "placeholder": "Search…",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/insights/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search…",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/investment-banking-scorecard/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "mobile-s",
+        "placeholder": "Search…",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/investment-banking-scorecard/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search…",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/about-us/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "mobile-s",
+        "placeholder": "Search…",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/about-us/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search…",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/about-us/our-story/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "mobile-s",
+        "placeholder": "Search…",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://dealogic.com/about-us/our-story/",
+    "action": "https://dealogic.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "s",
+        "placeholder": "Search…",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
