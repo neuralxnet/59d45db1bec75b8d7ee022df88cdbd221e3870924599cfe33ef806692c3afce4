@@ -311267,5 +311267,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://a.klaviyo.com",
+    "action": "https://www.klaviyo.com/#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "singleLineForm-emailComposer",
+        "placeholder": "Email address",
+        "required": false
+      }
+    ]
   }
 ]
