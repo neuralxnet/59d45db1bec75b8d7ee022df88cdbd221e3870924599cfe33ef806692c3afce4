@@ -311281,5 +311281,75 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://klaviyo.com",
+    "action": "https://www.klaviyo.com/#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "singleLineForm-emailComposer",
+        "placeholder": "Email address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.klaviyo.com",
+    "action": "https://www.klaviyo.com/#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "singleLineForm-emailComposer",
+        "placeholder": "Email address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://klaviyo.com",
+    "action": "https://www.klaviyo.com/#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "singleLineForm-emailComposer",
+        "placeholder": "Email address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.klaviyo.com/#site-content",
+    "action": "https://www.klaviyo.com/#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "singleLineForm-emailComposer",
+        "placeholder": "Email address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.klaviyo.com/",
+    "action": "https://www.klaviyo.com/#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "singleLineForm-emailComposer",
+        "placeholder": "Email address",
+        "required": false
+      }
+    ]
   }
 ]
