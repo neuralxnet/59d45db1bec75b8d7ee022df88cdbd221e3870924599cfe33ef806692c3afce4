@@ -311351,5 +311351,54 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://eu.ibam.iongroup.com",
+    "action": "https://eu.ibam.iongroup.com/scc/j_spring_security_check",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "_csrf",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "j_username",
+        "id": "j_username",
+        "placeholder": "Username",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "j_password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "",
+        "id": "toggleNativeLoginButton",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "icasLogin",
+        "id": "icasLoginButton",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
