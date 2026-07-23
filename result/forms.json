@@ -335217,5 +335217,1853 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://doingmoretoday.com",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com",
+    "action": "https://doingmoretoday.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.doingmoretoday.com",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.doingmoretoday.com",
+    "action": "https://doingmoretoday.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://doingmoretoday.com",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://doingmoretoday.com",
+    "action": "https://doingmoretoday.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/#document",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/#document",
+    "action": "https://doingmoretoday.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/",
+    "action": "https://doingmoretoday.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/news/",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/news/",
+    "action": "https://doingmoretoday.com/category/news/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/#1",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/#1",
+    "action": "https://doingmoretoday.com/#1",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/associates-in-action/",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/associates-in-action/",
+    "action": "https://doingmoretoday.com/category/associates-in-action/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/community-engagement/",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/community-engagement/",
+    "action": "https://doingmoretoday.com/category/community-engagement/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/small-business/",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/small-business/",
+    "action": "https://doingmoretoday.com/category/small-business/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/economic-development/",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/economic-development/",
+    "action": "https://doingmoretoday.com/category/economic-development/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/commentary/",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/commentary/",
+    "action": "https://doingmoretoday.com/category/commentary/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/news/#document",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/news/#document",
+    "action": "https://doingmoretoday.com/category/news/#document",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/news/#1",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/news/#1",
+    "action": "https://doingmoretoday.com/category/news/#document",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/associates-in-action/#document",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/associates-in-action/#document",
+    "action": "https://doingmoretoday.com/category/associates-in-action/#document",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/associates-in-action/#1",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/associates-in-action/#1",
+    "action": "https://doingmoretoday.com/category/associates-in-action/#document",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/community-engagement/#document",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/community-engagement/#document",
+    "action": "https://doingmoretoday.com/category/community-engagement/#document",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/community-engagement/#1",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/community-engagement/#1",
+    "action": "https://doingmoretoday.com/category/community-engagement/#document",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/small-business/#document",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/small-business/#document",
+    "action": "https://doingmoretoday.com/category/small-business/#document",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/small-business/#1",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/small-business/#1",
+    "action": "https://doingmoretoday.com/category/small-business/#document",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/economic-development/#document",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/economic-development/#document",
+    "action": "https://doingmoretoday.com/category/economic-development/#document",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/economic-development/#1",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/economic-development/#1",
+    "action": "https://doingmoretoday.com/category/economic-development/#document",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/commentary/#document",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/commentary/#document",
+    "action": "https://doingmoretoday.com/category/commentary/#document",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/commentary/#1",
+    "action": "https://doingmoretoday.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://doingmoretoday.com/category/commentary/#1",
+    "action": "https://doingmoretoday.com/category/commentary/#document",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "newsletter_subscribe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "cm-name",
+        "id": "fieldName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "cm-tklkti-tklkti",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[General]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Financial Wellness]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Fraud Prevention]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "interests[Small Business]",
+        "id": "fieldEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      }
+    ]
   }
 ]
