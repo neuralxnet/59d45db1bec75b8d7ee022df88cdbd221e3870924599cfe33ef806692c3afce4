@@ -337541,5 +337541,103 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://supplier.getyourguide.com",
+    "action": "https://getyourguide.supply/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "id": "name",
+        "placeholder": "Full name",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "company",
+        "placeholder": "Company name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "country",
+        "id": "country",
+        "placeholder": "Country",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "utm_source",
+        "id": "utm_source",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "utm_medium",
+        "id": "utm_medium",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "utm_campaign",
+        "id": "utm_campaign",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "marketing_consent",
+        "id": "marketing-consent",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://supplier.getyourguide.com",
+    "action": "https://getyourguide.supply/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email address",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "marketing_consent",
+        "id": "marketing-consent",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
