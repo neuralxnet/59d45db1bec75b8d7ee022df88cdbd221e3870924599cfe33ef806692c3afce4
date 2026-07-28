@@ -337513,5 +337513,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://supplier-support.getyourguide.com",
+    "action": "https://supply.getyourguide.support/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Enter a search term\n  ",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "commit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
