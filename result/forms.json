@@ -337674,5 +337674,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://ecoupon.maf.ae",
+    "action": "https://mafpfss.maf.ae/idp/WFQiQeFCiF/resumeSAML20/idp/SSO.ping",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "subject",
+        "id": "identifierInput",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "clear.previous.selected.subject",
+        "id": "clear.previous.selected.subject",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "cancel.identifier.selection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
