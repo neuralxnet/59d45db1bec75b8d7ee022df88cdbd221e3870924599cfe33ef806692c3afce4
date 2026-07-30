@@ -337702,5 +337702,383 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://adamsrite.com",
+    "action": "https://www.adamsrite.com/en/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": ":fieldhidden-captcha",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": ":page-path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.adamsrite.com",
+    "action": "https://www.adamsrite.com/en/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": ":fieldhidden-captcha",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": ":page-path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://adamsrite.com",
+    "action": "https://www.adamsrite.com/en/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": ":fieldhidden-captcha",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": ":page-path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.adamsrite.com/en/contact-us",
+    "action": "https://www.adamsrite.com/en/contact-us",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": ":fieldhidden-captcha",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": ":page-path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.adamsrite.com/en/contact-us",
+    "action": "https://www.adamsrite.com/en/contact-us",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": ":fieldhidden-captcha",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": ":page-path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.adamsrite.com/en/index",
+    "action": "https://www.adamsrite.com/en/index",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": ":fieldhidden-captcha",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": ":page-path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.adamsrite.com/en/products.html",
+    "action": "https://www.adamsrite.com/en/products",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": ":fieldhidden-captcha",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": ":page-path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.adamsrite.com/en/support",
+    "action": "https://www.adamsrite.com/en/support",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": ":fieldhidden-captcha",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": ":page-path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.adamsrite.com/en/solutions",
+    "action": "https://www.adamsrite.com/en/solutions",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": " ",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": ":fieldhidden-captcha",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": ":page-path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
