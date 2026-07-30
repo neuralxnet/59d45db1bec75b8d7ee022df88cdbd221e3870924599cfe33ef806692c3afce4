@@ -337639,5 +337639,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://partnerconnect.maf.ae",
+    "action": "https://partnerconnect.maf.ae/User/Login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "Username",
+        "placeholder": "User ID",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "Password",
+        "id": "Password",
+        "placeholder": "Password",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "CaptchaCode",
+        "id": "CaptchaCode",
+        "placeholder": "Enter Captcha",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
