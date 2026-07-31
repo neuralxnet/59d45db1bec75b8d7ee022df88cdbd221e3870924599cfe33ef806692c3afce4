@@ -338115,5 +338115,187 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://smbu.mafcms.com",
+    "action": "https://smbu.mafcms.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://smbu.mafcms.com",
+    "action": "https://smbu.mafcms.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "digit_number",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://smbu.mafcms.com/en/plan-your-visit",
+    "action": "https://smbu.mafcms.com/en/plan-your-visit",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://smbu.mafcms.com/en/dining-directory",
+    "action": "https://smbu.mafcms.com/en/dining-directory",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://smbu.mafcms.com/en/dining-directory",
+    "action": "https://smbu.mafcms.com/en/dining-directory",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "search-input",
+        "placeholder": "Search a Restaurant ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://smbu.mafcms.com/en",
+    "action": "https://smbu.mafcms.com/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://smbu.mafcms.com/en",
+    "action": "https://smbu.mafcms.com/en",
+    "method": "get",
+    "fields": [
+      {
+        "type": "tel",
+        "name": "digit_number",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://smbu.mafcms.com/en/plan-your-visit#index_2",
+    "action": "https://smbu.mafcms.com/en/plan-your-visit#index_2",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://smbu.mafcms.com/en/plan-your-visit#index_3",
+    "action": "https://smbu.mafcms.com/en/plan-your-visit#index_3",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://smbu.mafcms.com/en/dining-directory/the-lighthouse",
+    "action": "https://smbu.mafcms.com/en/dining-directory/the-lighthouse",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://smbu.mafcms.com/en/dining-directory/din-tai-fung",
+    "action": "https://smbu.mafcms.com/en/dining-directory/din-tai-fung",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://smbu.mafcms.com/en/dining-directory/cipriani-dolci",
+    "action": "https://smbu.mafcms.com/en/dining-directory/cipriani-dolci",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://smbu.mafcms.com/en/dining-directory/+97142651288",
+    "action": "https://smbu.mafcms.com/en/dining-directory/+97142651288",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
