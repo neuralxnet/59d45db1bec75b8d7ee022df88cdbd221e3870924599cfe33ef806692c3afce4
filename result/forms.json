@@ -338461,5 +338461,61 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.kwiksetunite.com",
+    "action": "https://www.kwiksetunite.com/home/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "mat-input-1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "mat-input-0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "mat-slide-toggle-1-input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://kwiksetunite.com",
+    "action": "https://kwiksetunite.com/home/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "mat-input-1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "mat-input-0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "mat-slide-toggle-1-input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
