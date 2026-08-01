@@ -338297,5 +338297,148 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://idsecure.com.br",
+    "action": "https://idsecure.com.br/auth/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "tenantId",
+        "id": "tenant",
+        "placeholder": "",
+        "required": false,
+        "options": []
+      }
+    ]
+  },
+  {
+    "url": "https://idsecure.com.br/auth/forgot-password",
+    "action": "https://idsecure.com.br/auth/forgot-password",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://idsecure.com.br/auth/registration",
+    "action": "https://idsecure.com.br/auth/registration",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "fullname",
+        "id": "",
+        "placeholder": "Nome Completo",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Informe sua Senha",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "changepassword",
+        "id": "",
+        "placeholder": "Confirmar Senha",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "acceptTerms",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://idsecure.com.br/auth",
+    "action": "https://idsecure.com.br/auth/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "tenantId",
+        "id": "tenant",
+        "placeholder": "",
+        "required": false,
+        "options": []
+      }
+    ]
+  },
+  {
+    "url": "https://idsecure.com.br/auth/login",
+    "action": "https://idsecure.com.br/auth/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "tenantId",
+        "id": "tenant",
+        "placeholder": "",
+        "required": false,
+        "options": []
+      }
+    ]
   }
 ]
