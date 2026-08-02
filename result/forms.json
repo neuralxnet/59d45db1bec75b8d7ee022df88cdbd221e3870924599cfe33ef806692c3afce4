@@ -338762,5 +338762,82 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.yalelatinoamerica.com/es/contacto",
+    "action": "https://www.yalelatinoamerica.com/es/contacto",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": ":formstart",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_charset_",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": ":redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "country",
+        "id": "country",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "id": "phone",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "description",
+        "id": "description",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "privacy_consent",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": ":fieldhidden-captcha",
+        "id": "",
+        "placeholder": "",
+        "required": true
+      }
+    ]
   }
 ]
