@@ -338880,5 +338880,68 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://my.varonis.com",
+    "action": "https://my.varonis.io/login?ReturnUrl=%2F",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "sessionToken",
+        "id": "hiddenSessionTokenField",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "IsHosted",
+        "id": "IsHosted",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SkipSilentLogin",
+        "id": "SkipSilentLogin",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "SkipSimilarDomains",
+        "id": "SkipSimilarDomains",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ShouldIgnoreIdpResolution",
+        "id": "ShouldIgnoreIdpResolution",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "Username",
+        "placeholder": "Username",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "ApplyBtn",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
