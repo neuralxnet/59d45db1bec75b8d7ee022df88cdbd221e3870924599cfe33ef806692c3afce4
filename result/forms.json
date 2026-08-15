@@ -339132,5 +339132,308 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.iontrading.com",
+    "action": "https://www.iontrading.com/tracker/index.php3",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "user_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "remember",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isui",
+        "id": "isui",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.iontrading.com/tracker/",
+    "action": "https://www.iontrading.com/tracker/index.php3",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "user_name",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "remember",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "isui",
+        "id": "isui",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.iontrading.com/tracker/service/?module=register_markets",
+    "action": "https://www.iontrading.com/tracker/service/?module=register_markets",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "title1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "typeempl1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "function1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "primebu1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "title",
+        "id": "title",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "",
+          "Mr",
+          "Ms",
+          "Mrs",
+          "Miss"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "firstname",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "lastname",
+        "id": "lastname",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "typeempl",
+        "id": "typeempl",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "",
+          "Employee",
+          "Independent Consultant",
+          "Third Party Consultant"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "confirmname",
+        "id": "confirmname",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "confirmaddr",
+        "id": "confirmaddr",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "function",
+        "id": "function",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "",
+          "Trading",
+          "Ops",
+          "IT Support",
+          "IT Development"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "position",
+        "id": "position",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "company",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "address",
+        "id": "address",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tel",
+        "id": "tel",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "primebu",
+        "id": "primebu",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "",
+          "Commodities",
+          "Rates",
+          "Credit",
+          "EM",
+          "FX",
+          "ETD",
+          "Cross Business"
+        ]
+      },
+      {
+        "type": "textarea",
+        "name": "note",
+        "id": "note",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url_success",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "url_error",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "product",
+        "id": "product",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "v3_failed_flag",
+        "id": "v3_failed_flag",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.iontrading.com/tracker/service/?module=tkrlogondet",
+    "action": "https://www.iontrading.com/tracker/service/?module=tkrlogondet",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.iontrading.com/tracker/service/?module=reqlogindet",
+    "action": "https://www.iontrading.com/tracker/service/?module=reqlogindet",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email-req",
+        "id": "email-req-id",
+        "placeholder": "person@company.com",
+        "required": true
+      }
+    ]
   }
 ]
