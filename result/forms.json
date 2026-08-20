@@ -340541,5 +340541,54 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://myaspect.net",
+    "action": "https://myaspect.net/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "x-csrf-token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "forFocus",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "login_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "user-interface-theme",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "modeToggle",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
