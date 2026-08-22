@@ -365672,5 +365672,110 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://pi-ecminsight.com",
+    "action": "https://pi-ecminsight.com/Logon",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "rememberMe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.pi-ecminsight.com",
+    "action": "https://www.pi-ecminsight.com/Logon",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "rememberMe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://pi-ecminsight.com",
+    "action": "https://pi-ecminsight.com/Logon",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "rememberMe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
