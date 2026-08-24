@@ -385852,5 +385852,573 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.delta-cast.com.au/contact-us",
+    "action": "https://www.delta-cast.com.au/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "228169-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "228169-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "228169-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "228169-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "228169-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "228169-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "228169-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Purpose_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Role_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Salutation_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Company_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PostCode_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "County_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "State_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PhoneNumber_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Purpose",
+        "id": "228169-106617__Purpose",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          " ",
+          "Synthetic Casting",
+          "Plaster of Paris",
+          "Synthetic Splinting",
+          "Paddings",
+          "Stockinettes",
+          "Water-Resistant Paddings & Stockinettes",
+          "Cast Removers & Blades",
+          "Cast Removal Accessories",
+          "Other "
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Role",
+        "id": "228169-106617__Role",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          " ",
+          "Acute splinting",
+          "Limb casting",
+          "Bracing and supports",
+          "Other "
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Salutation",
+        "id": "228169-106617__Salutation",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          " ",
+          "Miss",
+          "Mrs.",
+          "Other"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "228169-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "228169-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Company",
+        "id": "228169-106617__Company",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address",
+        "id": "228169-106617__Address",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "PostCode",
+        "id": "228169-106617__PostCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "County",
+        "id": "228169-106617__County",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "State",
+        "id": "228169-106617__State",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "PhoneNumber",
+        "id": "228169-106617__PhoneNumber",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "228169-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "228169-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "228169-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.delta-cast.com.au/contact-us#main",
+    "action": "https://www.delta-cast.com.au/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "228169-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "228169-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "228169-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "228169-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "228169-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "228169-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "228169-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Purpose_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Role_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Salutation_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Company_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PostCode_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "County_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "State_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PhoneNumber_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Purpose",
+        "id": "228169-106617__Purpose",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          " ",
+          "Synthetic Casting",
+          "Plaster of Paris",
+          "Synthetic Splinting",
+          "Paddings",
+          "Stockinettes",
+          "Water-Resistant Paddings & Stockinettes",
+          "Cast Removers & Blades",
+          "Cast Removal Accessories",
+          "Other "
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Role",
+        "id": "228169-106617__Role",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          " ",
+          "Acute splinting",
+          "Limb casting",
+          "Bracing and supports",
+          "Other "
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Salutation",
+        "id": "228169-106617__Salutation",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          " ",
+          "Miss",
+          "Mrs.",
+          "Other"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "228169-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "228169-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Company",
+        "id": "228169-106617__Company",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address",
+        "id": "228169-106617__Address",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "PostCode",
+        "id": "228169-106617__PostCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "County",
+        "id": "228169-106617__County",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "State",
+        "id": "228169-106617__State",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "PhoneNumber",
+        "id": "228169-106617__PhoneNumber",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "228169-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "228169-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "228169-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
