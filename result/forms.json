@@ -385173,5 +385173,285 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://brandzone.essity.com",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "CRAFT_CSRF_TOKEN",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "loginName",
+        "id": "loginName",
+        "placeholder": "Your email address",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Your password",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "rememberMe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://brandzone.essity.com/password/recover",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "CRAFT_CSRF_TOKEN",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "loginName",
+        "id": "",
+        "placeholder": "Email Address",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://brandzone.essity.com/register",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "CRAFT_CSRF_TOKEN",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "verified-action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fields[registrationForm]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "firstName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "lastName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "name@example.com",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "fields[passwordConfirm]",
+        "id": "passwordConfirm",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "fields[companyName]",
+        "id": "companyName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "fields[jobTitle]",
+        "id": "jobTitle",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "fields[department]",
+        "id": "department",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "fields[country]",
+        "id": "country",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "fields[contactEmail]",
+        "id": "contactEmail",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "fields[mobile]",
+        "id": "mobile",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "fields[biography]",
+        "id": "biography",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "fields[termsAgreed]",
+        "id": "termsAgreed",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://brandzone.essity.com/login",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "CRAFT_CSRF_TOKEN",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "loginName",
+        "id": "loginName",
+        "placeholder": "Your email address",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Your password",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "rememberMe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
