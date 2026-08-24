@@ -385453,5 +385453,152 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://ccevaluation.tena.com",
+    "action": "https://ccevaluation.tena.com/Home/SignIn",
+    "method": "post",
+    "fields": [
+      {
+        "type": "submit",
+        "name": "",
+        "id": "loginBtn",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ccevaluation.tena.com",
+    "action": "https://ccevaluation.tena.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "changeEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "newPassword",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "confirmPassword",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://ccevaluation.tena.com/#javascript",
+    "action": "https://ccevaluation.tena.com/Home/SignIn",
+    "method": "post",
+    "fields": [
+      {
+        "type": "submit",
+        "name": "",
+        "id": "loginBtn",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ccevaluation.tena.com/#javascript",
+    "action": "https://ccevaluation.tena.com/#javascript",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "changeEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "newPassword",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "confirmPassword",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://ccevaluation.tena.com/#guidance",
+    "action": "https://ccevaluation.tena.com/Home/SignIn",
+    "method": "post",
+    "fields": [
+      {
+        "type": "submit",
+        "name": "",
+        "id": "loginBtn",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ccevaluation.tena.com/#guidance",
+    "action": "https://ccevaluation.tena.com/#guidance",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "changeEmail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "newPassword",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "confirmPassword",
+        "placeholder": "",
+        "required": true
+      }
+    ]
   }
 ]
