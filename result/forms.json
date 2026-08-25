@@ -386805,5 +386805,3547 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.demakup.com/at/",
+    "action": "https://www.demakup.com/at/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/at/",
+    "action": "https://www.demakup.com/at/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "503207f7-1bfb-4dc3-88a5-167cf693bfe6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "600eceb4-4a10-4d01-ae9a-1b061d821238",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/",
+    "action": "https://www.demakup.com/be-nl/zoekresultaten/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/",
+    "action": "https://www.demakup.com/be-nl/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "0fece5a5-2c54-407c-87e9-ce069404d100",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "6079126e-6b23-44c1-b72a-6a0003cc452c",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/",
+    "action": "https://www.demakup.com/be-fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/",
+    "action": "https://www.demakup.com/be-fr/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "3ad2d1d8-363a-4dc6-acf9-209ef737ed40",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "db824965-a5ee-4d66-90a6-9fa63abf4e5b",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/",
+    "action": "https://www.demakup.com/fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/",
+    "action": "https://www.demakup.com/fr/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "654f04c2-0c6b-4ea8-bd3a-9d4167f7efea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "152fa73d-f4c4-4b8b-a042-3bae78e981cd",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/de/",
+    "action": "https://www.demakup.com/de/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/de/",
+    "action": "https://www.demakup.com/de/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "43294bc6-0be5-4bae-8caa-e0959b747013",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "e5573644-b4cf-4dab-90dd-a50b0e5aa637",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/uk-ie/",
+    "action": "https://www.demakup.com/uk-ie/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/uk-ie/",
+    "action": "https://www.demakup.com/uk-ie/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "b0d9dd06-21c8-45fd-8b50-982651904ba1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "027f19ec-bc9c-46ae-bea3-74e63fe3708b",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/it/",
+    "action": "https://www.demakup.com/it/risultati-della-ricerca/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/it/",
+    "action": "https://www.demakup.com/it/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "6bf7ffa4-2e2c-4513-bb50-7034e2498f30",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "0c4a9c0d-8dfa-4899-a176-4a6585fdb6ac",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/nl/",
+    "action": "https://www.demakup.com/nl/resultaten/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/nl/",
+    "action": "https://www.demakup.com/nl/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "d2c6ccd2-bc4d-495a-a709-7a586fb80b09",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "959edd58-8621-4718-8454-60456c291cc6",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/pt/",
+    "action": "https://www.demakup.com/pt/resultados-de-pesquisa/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/pt/",
+    "action": "https://www.demakup.com/pt/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "b04e5c3c-267c-4f08-8767-e83385d7cc4e",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "0a7034e7-2fec-4f07-8b28-939d1acb78a2",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/at/#main-content",
+    "action": "https://www.demakup.com/at/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/at/#main-content",
+    "action": "https://www.demakup.com/at/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "503207f7-1bfb-4dc3-88a5-167cf693bfe6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "600eceb4-4a10-4d01-ae9a-1b061d821238",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/at/unsere-produkte/",
+    "action": "https://www.demakup.com/at/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/at/unsere-produkte/",
+    "action": "https://www.demakup.com/at/unsere-produkte/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "503207f7-1bfb-4dc3-88a5-167cf693bfe6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "600eceb4-4a10-4d01-ae9a-1b061d821238",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/at/unser-engagement/",
+    "action": "https://www.demakup.com/at/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/at/unser-engagement/",
+    "action": "https://www.demakup.com/at/unser-engagement/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "503207f7-1bfb-4dc3-88a5-167cf693bfe6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "600eceb4-4a10-4d01-ae9a-1b061d821238",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/at/die-geschichte-von-demakup/",
+    "action": "https://www.demakup.com/at/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/at/die-geschichte-von-demakup/",
+    "action": "https://www.demakup.com/at/die-geschichte-von-demakup/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "503207f7-1bfb-4dc3-88a5-167cf693bfe6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "600eceb4-4a10-4d01-ae9a-1b061d821238",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/at/neuer-look/",
+    "action": "https://www.demakup.com/at/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/at/neuer-look/",
+    "action": "https://www.demakup.com/at/neuer-look/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "503207f7-1bfb-4dc3-88a5-167cf693bfe6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "600eceb4-4a10-4d01-ae9a-1b061d821238",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/at/neue-2025-limited-edition/",
+    "action": "https://www.demakup.com/at/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/at/neue-2025-limited-edition/",
+    "action": "https://www.demakup.com/at/neue-2025-limited-edition/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "503207f7-1bfb-4dc3-88a5-167cf693bfe6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "600eceb4-4a10-4d01-ae9a-1b061d821238",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/at/unser-engagement/massnahmen-zur-reduzierung-unserer-umweltauswirkungen/",
+    "action": "https://www.demakup.com/at/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/at/unser-engagement/massnahmen-zur-reduzierung-unserer-umweltauswirkungen/",
+    "action": "https://www.demakup.com/at/unser-engagement/massnahmen-zur-reduzierung-unserer-umweltauswirkungen/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "503207f7-1bfb-4dc3-88a5-167cf693bfe6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "600eceb4-4a10-4d01-ae9a-1b061d821238",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/at/unsere-produkte/demakup-expert-wattepads/",
+    "action": "https://www.demakup.com/at/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/at/unsere-produkte/demakup-expert-wattepads/",
+    "action": "https://www.demakup.com/at/unsere-produkte/demakup-expert-wattepads/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "503207f7-1bfb-4dc3-88a5-167cf693bfe6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "600eceb4-4a10-4d01-ae9a-1b061d821238",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/#main-content",
+    "action": "https://www.demakup.com/be-nl/zoekresultaten/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/#main-content",
+    "action": "https://www.demakup.com/be-nl/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "0fece5a5-2c54-407c-87e9-ce069404d100",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "6079126e-6b23-44c1-b72a-6a0003cc452c",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/onze-producten/",
+    "action": "https://www.demakup.com/be-nl/zoekresultaten/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/onze-producten/",
+    "action": "https://www.demakup.com/be-nl/onze-producten/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "0fece5a5-2c54-407c-87e9-ce069404d100",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "6079126e-6b23-44c1-b72a-6a0003cc452c",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/#",
+    "action": "https://www.demakup.com/be-nl/zoekresultaten/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/#",
+    "action": "https://www.demakup.com/be-nl/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "0fece5a5-2c54-407c-87e9-ce069404d100",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "6079126e-6b23-44c1-b72a-6a0003cc452c",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/onze-producten/wattenschijfjes/",
+    "action": "https://www.demakup.com/be-nl/zoekresultaten/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/onze-producten/wattenschijfjes/",
+    "action": "https://www.demakup.com/be-nl/onze-producten/wattenschijfjes/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "0fece5a5-2c54-407c-87e9-ce069404d100",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "6079126e-6b23-44c1-b72a-6a0003cc452c",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/onze-producten/reinigingsdoekjes/",
+    "action": "https://www.demakup.com/be-nl/zoekresultaten/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/onze-producten/reinigingsdoekjes/",
+    "action": "https://www.demakup.com/be-nl/onze-producten/reinigingsdoekjes/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "0fece5a5-2c54-407c-87e9-ce069404d100",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "6079126e-6b23-44c1-b72a-6a0003cc452c",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/onze-producten/oogreiningsdoekjes/",
+    "action": "https://www.demakup.com/be-nl/zoekresultaten/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/onze-producten/oogreiningsdoekjes/",
+    "action": "https://www.demakup.com/be-nl/onze-producten/oogreiningsdoekjes/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "0fece5a5-2c54-407c-87e9-ce069404d100",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "6079126e-6b23-44c1-b72a-6a0003cc452c",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/onze-producten/assortiment/",
+    "action": "https://www.demakup.com/be-nl/zoekresultaten/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/onze-producten/assortiment/",
+    "action": "https://www.demakup.com/be-nl/onze-producten/assortiment/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "0fece5a5-2c54-407c-87e9-ce069404d100",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "6079126e-6b23-44c1-b72a-6a0003cc452c",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/duurzaamheid/",
+    "action": "https://www.demakup.com/be-nl/zoekresultaten/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/duurzaamheid/",
+    "action": "https://www.demakup.com/be-nl/duurzaamheid/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "0fece5a5-2c54-407c-87e9-ce069404d100",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "6079126e-6b23-44c1-b72a-6a0003cc452c",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/geschiedenis/",
+    "action": "https://www.demakup.com/be-nl/zoekresultaten/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-nl/geschiedenis/",
+    "action": "https://www.demakup.com/be-nl/geschiedenis/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "0fece5a5-2c54-407c-87e9-ce069404d100",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "6079126e-6b23-44c1-b72a-6a0003cc452c",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/#main-content",
+    "action": "https://www.demakup.com/be-fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/#main-content",
+    "action": "https://www.demakup.com/be-fr/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "3ad2d1d8-363a-4dc6-acf9-209ef737ed40",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "db824965-a5ee-4d66-90a6-9fa63abf4e5b",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/nos-produits/",
+    "action": "https://www.demakup.com/be-fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/nos-produits/",
+    "action": "https://www.demakup.com/be-fr/nos-produits/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "3ad2d1d8-363a-4dc6-acf9-209ef737ed40",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "db824965-a5ee-4d66-90a6-9fa63abf4e5b",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/#",
+    "action": "https://www.demakup.com/be-fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/#",
+    "action": "https://www.demakup.com/be-fr/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "3ad2d1d8-363a-4dc6-acf9-209ef737ed40",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "db824965-a5ee-4d66-90a6-9fa63abf4e5b",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/nos-produits/cotons-a-demaquiller/",
+    "action": "https://www.demakup.com/be-fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/nos-produits/cotons-a-demaquiller/",
+    "action": "https://www.demakup.com/be-fr/nos-produits/cotons-a-demaquiller/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "3ad2d1d8-363a-4dc6-acf9-209ef737ed40",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "db824965-a5ee-4d66-90a6-9fa63abf4e5b",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/nos-produits/lingettes-demaquillantes/",
+    "action": "https://www.demakup.com/be-fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/nos-produits/lingettes-demaquillantes/",
+    "action": "https://www.demakup.com/be-fr/nos-produits/lingettes-demaquillantes/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "3ad2d1d8-363a-4dc6-acf9-209ef737ed40",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "db824965-a5ee-4d66-90a6-9fa63abf4e5b",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/nos-produits/demaquillant-des-yeux/",
+    "action": "https://www.demakup.com/be-fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/nos-produits/demaquillant-des-yeux/",
+    "action": "https://www.demakup.com/be-fr/nos-produits/demaquillant-des-yeux/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "3ad2d1d8-363a-4dc6-acf9-209ef737ed40",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "db824965-a5ee-4d66-90a6-9fa63abf4e5b",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/nos-produits/ou-nous-trouver/",
+    "action": "https://www.demakup.com/be-fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/nos-produits/ou-nous-trouver/",
+    "action": "https://www.demakup.com/be-fr/nos-produits/ou-nous-trouver/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "3ad2d1d8-363a-4dc6-acf9-209ef737ed40",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "db824965-a5ee-4d66-90a6-9fa63abf4e5b",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/nos-engagements/",
+    "action": "https://www.demakup.com/be-fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/nos-engagements/",
+    "action": "https://www.demakup.com/be-fr/nos-engagements/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "3ad2d1d8-363a-4dc6-acf9-209ef737ed40",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "db824965-a5ee-4d66-90a6-9fa63abf4e5b",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/lhistoire-de-demakup/",
+    "action": "https://www.demakup.com/be-fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/be-fr/lhistoire-de-demakup/",
+    "action": "https://www.demakup.com/be-fr/lhistoire-de-demakup/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "3ad2d1d8-363a-4dc6-acf9-209ef737ed40",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "db824965-a5ee-4d66-90a6-9fa63abf4e5b",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/#main-content",
+    "action": "https://www.demakup.com/fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/#main-content",
+    "action": "https://www.demakup.com/fr/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "654f04c2-0c6b-4ea8-bd3a-9d4167f7efea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "152fa73d-f4c4-4b8b-a042-3bae78e981cd",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/nos-produits/",
+    "action": "https://www.demakup.com/fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/nos-produits/",
+    "action": "https://www.demakup.com/fr/nos-produits/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "654f04c2-0c6b-4ea8-bd3a-9d4167f7efea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "152fa73d-f4c4-4b8b-a042-3bae78e981cd",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/#",
+    "action": "https://www.demakup.com/fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/#",
+    "action": "https://www.demakup.com/fr/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "654f04c2-0c6b-4ea8-bd3a-9d4167f7efea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "152fa73d-f4c4-4b8b-a042-3bae78e981cd",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/nos-produits/cotons-a-demaquiller/",
+    "action": "https://www.demakup.com/fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/nos-produits/cotons-a-demaquiller/",
+    "action": "https://www.demakup.com/fr/nos-produits/cotons-a-demaquiller/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "654f04c2-0c6b-4ea8-bd3a-9d4167f7efea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "152fa73d-f4c4-4b8b-a042-3bae78e981cd",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/nos-produits/lingettes-demaquillantes/",
+    "action": "https://www.demakup.com/fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/nos-produits/lingettes-demaquillantes/",
+    "action": "https://www.demakup.com/fr/nos-produits/lingettes-demaquillantes/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "654f04c2-0c6b-4ea8-bd3a-9d4167f7efea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "152fa73d-f4c4-4b8b-a042-3bae78e981cd",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/nos-produits/demaquillant-des-yeux/",
+    "action": "https://www.demakup.com/fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/nos-produits/demaquillant-des-yeux/",
+    "action": "https://www.demakup.com/fr/nos-produits/demaquillant-des-yeux/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "654f04c2-0c6b-4ea8-bd3a-9d4167f7efea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "152fa73d-f4c4-4b8b-a042-3bae78e981cd",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/nos-produits/ou-nous-trouver/",
+    "action": "https://www.demakup.com/fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/nos-produits/ou-nous-trouver/",
+    "action": "https://www.demakup.com/fr/nos-produits/ou-nous-trouver/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "654f04c2-0c6b-4ea8-bd3a-9d4167f7efea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "152fa73d-f4c4-4b8b-a042-3bae78e981cd",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/nos-engagements/",
+    "action": "https://www.demakup.com/fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/nos-engagements/",
+    "action": "https://www.demakup.com/fr/nos-engagements/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "654f04c2-0c6b-4ea8-bd3a-9d4167f7efea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "152fa73d-f4c4-4b8b-a042-3bae78e981cd",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/lhistoire-de-demakup/",
+    "action": "https://www.demakup.com/fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/fr/lhistoire-de-demakup/",
+    "action": "https://www.demakup.com/fr/lhistoire-de-demakup/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "654f04c2-0c6b-4ea8-bd3a-9d4167f7efea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "152fa73d-f4c4-4b8b-a042-3bae78e981cd",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/de/#main-content",
+    "action": "https://www.demakup.com/de/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/de/#main-content",
+    "action": "https://www.demakup.com/de/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "43294bc6-0be5-4bae-8caa-e0959b747013",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "e5573644-b4cf-4dab-90dd-a50b0e5aa637",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/de/unsere-produkte/",
+    "action": "https://www.demakup.com/de/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.demakup.com/de/unsere-produkte/",
+    "action": "https://www.demakup.com/de/unsere-produkte/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "43294bc6-0be5-4bae-8caa-e0959b747013",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "e5573644-b4cf-4dab-90dd-a50b0e5aa637",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
