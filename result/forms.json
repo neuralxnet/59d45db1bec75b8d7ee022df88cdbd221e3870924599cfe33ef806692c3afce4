@@ -391280,5 +391280,110 @@
         ]
       }
     ]
+  },
+  {
+    "url": "https://extranet.hms.essity.co.za",
+    "action": "https://extranet.hms.essity.co.za/logon/master-logon-medical/?ReturnUrl=%2f",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ctl00$ContentMainBody$LogOnView$LogOnControl$UserName",
+        "id": "ctl00_ContentMainBody_LogOnView_LogOnControl_UserName",
+        "placeholder": "Username",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "ctl00$ContentMainBody$LogOnView$LogOnControl$Password",
+        "id": "ctl00_ContentMainBody_LogOnView_LogOnControl_Password",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$ContentMainBody$LogOnView$LogOnControl$LoginBtn",
+        "id": "ctl00_ContentMainBody_LogOnView_LogOnControl_LoginBtn",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "ctl00$ContentMainBody$ctrlNotify$btnNotifyLockedAccount",
+        "id": "ctl00_ContentMainBody_ctrlNotify_btnNotifyLockedAccount",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://extranet.hms.essity.co.za/general/terms-of-use/#privacy",
+    "action": "https://extranet.hms.essity.co.za/general/terms-of-use/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://extranet.hms.essity.co.za/general/terms-of-use/#ot-sdk-cookie-policy",
+    "action": "https://extranet.hms.essity.co.za/general/terms-of-use/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
