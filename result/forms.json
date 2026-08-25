@@ -391009,5 +391009,54 @@
         ]
       }
     ]
+  },
+  {
+    "url": "https://essitybrandworld.essity.com",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "CRAFT_CSRF_TOKEN",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "action",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "loginName",
+        "id": "loginName",
+        "placeholder": "Your email address",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Your password",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "rememberMe",
+        "id": "rememberMe",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
