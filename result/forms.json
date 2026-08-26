@@ -392856,5 +392856,757 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://jobst.cz",
+    "action": "https://www.jobst.cz/hledat.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Název produktu, číslo produktu",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://jobst.cz",
+    "action": "https://www.jobst.cz/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://jobst.cz",
+    "action": "https://www.jobst.cz/hledat.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Název produktu, číslo produktu",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz",
+    "action": "https://www.jobst.cz/hledat.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Název produktu, číslo produktu",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz",
+    "action": "https://www.jobst.cz/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz",
+    "action": "https://www.jobst.cz/hledat.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Název produktu, číslo produktu",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://jobst.cz",
+    "action": "https://www.jobst.cz/hledat.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Název produktu, číslo produktu",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://jobst.cz",
+    "action": "https://www.jobst.cz/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://jobst.cz",
+    "action": "https://www.jobst.cz/hledat.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Název produktu, číslo produktu",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/nakupujte-on-line.html",
+    "action": "https://www.jobst.cz/hledat.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Název produktu, číslo produktu",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/nakupujte-on-line.html",
+    "action": "https://www.jobst.cz/nakupujte-on-line.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/footer/kontakt.html",
+    "action": "https://www.jobst.cz/hledat.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Název produktu, číslo produktu",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/footer/kontakt.html",
+    "action": "https://www.jobst.cz/footer/kontakt.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/footer/kontakt.html",
+    "action": "https://www.jobst.cz/footer/kontakt.html?type=1452982642&tx_storelocator_store_locator%5Baction%5D=json&tx_storelocator_store_locator%5Bcontroller%5D=Api%5CLocation&cHash=962f2c5cce1b507caa42b9d31d44dda3",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "tx_storelocator_store_locator[__referrer][@extension]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tx_storelocator_store_locator[__referrer][@vendor]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tx_storelocator_store_locator[__referrer][@controller]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tx_storelocator_store_locator[__referrer][@action]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tx_storelocator_store_locator[__referrer][arguments]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tx_storelocator_store_locator[__referrer][@request]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tx_storelocator_store_locator[__trustedProperties]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tx_storelocator_store_locator[search][latitude]",
+        "id": "lat",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tx_storelocator_store_locator[search][longitude]",
+        "id": "long",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_storelocator_store_locator[search][address]",
+        "id": "map_location",
+        "placeholder": "Vyberte město",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "tx_storelocator_store_locator[search][range]",
+        "id": "range",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "5",
+          "10",
+          "20",
+          "30",
+          "50",
+          "100",
+          "500",
+          "1000"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/",
+    "action": "https://www.jobst.cz/hledat.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Název produktu, číslo produktu",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/",
+    "action": "https://www.jobst.cz/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/",
+    "action": "https://www.jobst.cz/hledat.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Název produktu, číslo produktu",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/produkty.html",
+    "action": "https://www.jobst.cz/hledat.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Název produktu, číslo produktu",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/produkty.html",
+    "action": "https://www.jobst.cz/produkty.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/produkty/zdravotni-komprese.html",
+    "action": "https://www.jobst.cz/hledat.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Název produktu, číslo produktu",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/produkty/zdravotni-komprese.html",
+    "action": "https://www.jobst.cz/produkty/zdravotni-komprese.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/produkty/zdravotni-komprese/flebologie.html",
+    "action": "https://www.jobst.cz/hledat.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Název produktu, číslo produktu",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/produkty/zdravotni-komprese/flebologie.html",
+    "action": "https://www.jobst.cz/produkty/zdravotni-komprese/flebologie.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/produkty/zdravotni-komprese/flebologie/jobst-formen.html",
+    "action": "https://www.jobst.cz/hledat.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Název produktu, číslo produktu",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/produkty/zdravotni-komprese/flebologie/jobst-formen.html",
+    "action": "https://www.jobst.cz/produkty/zdravotni-komprese/flebologie/jobst-formen.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/produkty/zdravotni-komprese/flebologie/jobst-ultrasheer.html",
+    "action": "https://www.jobst.cz/hledat.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Název produktu, číslo produktu",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/produkty/zdravotni-komprese/flebologie/jobst-ultrasheer.html",
+    "action": "https://www.jobst.cz/produkty/zdravotni-komprese/flebologie/jobst-ultrasheer.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/produkty/zdravotni-komprese/flebologie/jobst-activewear.html",
+    "action": "https://www.jobst.cz/hledat.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Název produktu, číslo produktu",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/produkty/zdravotni-komprese/flebologie/jobst-activewear.html",
+    "action": "https://www.jobst.cz/produkty/zdravotni-komprese/flebologie/jobst-activewear.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/produkty/zdravotni-komprese/flebologie/jobst-opaque.html",
+    "action": "https://www.jobst.cz/hledat.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Název produktu, číslo produktu",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.cz/produkty/zdravotni-komprese/flebologie/jobst-opaque.html",
+    "action": "https://www.jobst.cz/produkty/zdravotni-komprese/flebologie/jobst-opaque.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
   }
 ]
