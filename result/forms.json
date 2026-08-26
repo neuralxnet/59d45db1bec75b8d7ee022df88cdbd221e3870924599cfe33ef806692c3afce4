@@ -392021,5 +392021,840 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://jobst.co.za",
+    "action": "https://www.jobst.co.za/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Product name, article number or solutions",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://jobst.co.za",
+    "action": "https://www.jobst.co.za/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://jobst.co.za",
+    "action": "https://www.jobst.co.za/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Product name, article number or solutions",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za",
+    "action": "https://www.jobst.co.za/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Product name, article number or solutions",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za",
+    "action": "https://www.jobst.co.za/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za",
+    "action": "https://www.jobst.co.za/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Product name, article number or solutions",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://jobst.co.za",
+    "action": "https://www.jobst.co.za/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Product name, article number or solutions",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://jobst.co.za",
+    "action": "https://www.jobst.co.za/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://jobst.co.za",
+    "action": "https://www.jobst.co.za/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Product name, article number or solutions",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/footer/contact.html",
+    "action": "https://www.jobst.co.za/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Product name, article number or solutions",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/footer/contact.html",
+    "action": "https://www.jobst.co.za/footer/contact.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/footer/contact.html",
+    "action": "https://www.jobst.co.za/footer/contact.html?tx_form_formframework%5Baction%5D=perform&tx_form_formframework%5Bcontroller%5D=FormFrontend&cHash=941258a11f220e910ef271757063a6e6#contactRejuvenationForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "tx_form_formframework[contactRejuvenationForm][__state]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tx_form_formframework[__trustedProperties]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "tx_form_formframework[contactRejuvenationForm][professional]",
+        "id": "contactRejuvenationForm-professional",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "professional",
+          "patient"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "tx_form_formframework[contactRejuvenationForm][checkboxProfessionalRecallPhone]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "tx_form_formframework[contactRejuvenationForm][checkboxProfessionalRecallPhone]",
+        "id": "contactRejuvenationForm-checkboxProfessionalRecallPhone",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_form_formframework[contactRejuvenationForm][professionalRecallPhone]",
+        "id": "contactRejuvenationForm-professionalRecallPhone",
+        "placeholder": "Phone",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tx_form_formframework[contactRejuvenationForm][checkboxProfessionalMoreInfo]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "tx_form_formframework[contactRejuvenationForm][checkboxProfessionalMoreInfo]",
+        "id": "contactRejuvenationForm-checkboxProfessionalMoreInfo",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tx_form_formframework[contactRejuvenationForm][checkboxProfessionalQuestionOfProduct]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "tx_form_formframework[contactRejuvenationForm][checkboxProfessionalQuestionOfProduct]",
+        "id": "contactRejuvenationForm-checkboxProfessionalQuestionOfProduct",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "tx_form_formframework[contactRejuvenationForm][salutation]",
+        "id": "contactRejuvenationForm-salutation",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "select",
+          "male",
+          "female"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "tx_form_formframework[contactRejuvenationForm][firstname]",
+        "id": "contactRejuvenationForm-firstname",
+        "placeholder": "Name*",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "tx_form_formframework[contactRejuvenationForm][lastname]",
+        "id": "contactRejuvenationForm-lastname",
+        "placeholder": "Surname*",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "tx_form_formframework[contactRejuvenationForm][company]",
+        "id": "contactRejuvenationForm-company",
+        "placeholder": "Company or Organization",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_form_formframework[contactRejuvenationForm][street]",
+        "id": "contactRejuvenationForm-street",
+        "placeholder": "Street and House Number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_form_formframework[contactRejuvenationForm][zip]",
+        "id": "contactRejuvenationForm-zip",
+        "placeholder": "Postcode",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_form_formframework[contactRejuvenationForm][country]",
+        "id": "contactRejuvenationForm-country",
+        "placeholder": "Country*",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "tx_form_formframework[contactRejuvenationForm][email]",
+        "id": "contactRejuvenationForm-email",
+        "placeholder": "E-mail*",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "tx_form_formframework[contactRejuvenationForm][QPLTxyzCH]",
+        "id": "contactRejuvenationForm-QPLTxyzCH",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "tx_form_formframework[contactRejuvenationForm][message]",
+        "id": "contactRejuvenationForm-message",
+        "placeholder": "Message",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "tx_form_formframework[contactRejuvenationForm][dataProtection]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "tx_form_formframework[contactRejuvenationForm][dataProtection]",
+        "id": "contactRejuvenationForm-dataProtection",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "tx_form_formframework[contactRejuvenationForm][captchaResponse]",
+        "id": "cpatchaTextBox",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/",
+    "action": "https://www.jobst.co.za/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Product name, article number or solutions",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/",
+    "action": "https://www.jobst.co.za/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/",
+    "action": "https://www.jobst.co.za/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Product name, article number or solutions",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/products.html",
+    "action": "https://www.jobst.co.za/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Product name, article number or solutions",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/products.html",
+    "action": "https://www.jobst.co.za/products.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/products/medical-compression.html",
+    "action": "https://www.jobst.co.za/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Product name, article number or solutions",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/products/medical-compression.html",
+    "action": "https://www.jobst.co.za/products/medical-compression.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/products/medical-compression/phlebology.html",
+    "action": "https://www.jobst.co.za/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Product name, article number or solutions",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/products/medical-compression/phlebology.html",
+    "action": "https://www.jobst.co.za/products/medical-compression/phlebology.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/products/medical-compression/phlebology/jobst-formen.html",
+    "action": "https://www.jobst.co.za/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Product name, article number or solutions",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/products/medical-compression/phlebology/jobst-formen.html",
+    "action": "https://www.jobst.co.za/products/medical-compression/phlebology/jobst-formen.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/products/medical-compression/phlebology/jobst-ulcercare.html",
+    "action": "https://www.jobst.co.za/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Product name, article number or solutions",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/products/medical-compression/phlebology/jobst-ulcercare.html",
+    "action": "https://www.jobst.co.za/products/medical-compression/phlebology/jobst-ulcercare.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/products/medical-compression/lymphology.html",
+    "action": "https://www.jobst.co.za/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Product name, article number or solutions",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/products/medical-compression/lymphology.html",
+    "action": "https://www.jobst.co.za/products/medical-compression/lymphology.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/products/medical-compression/lymphology/jobst-elvarex.html",
+    "action": "https://www.jobst.co.za/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Product name, article number or solutions",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/products/medical-compression/lymphology/jobst-elvarex.html",
+    "action": "https://www.jobst.co.za/products/medical-compression/lymphology/jobst-elvarex.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/products/medical-compression/lymphology/jobst-relax.html",
+    "action": "https://www.jobst.co.za/search.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "L",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "tx_solr[q]",
+        "id": "",
+        "placeholder": "Product name, article number or solutions",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.jobst.co.za/products/medical-compression/lymphology/jobst-relax.html",
+    "action": "https://www.jobst.co.za/products/medical-compression/lymphology/jobst-relax.html",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Placeholder",
+        "required": true
+      }
+    ]
   }
 ]
