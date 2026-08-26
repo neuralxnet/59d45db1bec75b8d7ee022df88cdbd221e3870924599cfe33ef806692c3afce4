@@ -391391,5 +391391,635 @@
     "action": "https://login.microsoftonline.com/f101208c-39d3-4c8a-8cc7-ad896b25954f/saml2?SAMLRequest=fVLLTsMwEPwVy%2Fc86jQlsZqiQkEgFRG1KQdujrNtDIldvE4Ff0%2BUtAIuXCytdmZ3dsbz68%2B2ISewqIzO6MQPKQEtTaX0IaO74t5L6PVijqJt2JEvO1frDXx0gI70RI187GS0s5obgQq5Fi0gd5Jvl09rzvyQH61xRpqGkiUiWNevujUauxbsFuxJSdht1hmtnTsiD4JDY0rRtFApUQr97gOicl%2B%2BNG3QmIPS4%2BtXhpJVL0Rp4QbxF%2F7YbpW0Bs3eGd0oDQN9PwknLEykF6VV5E1lIrxEyitPVEk6K1mcxtN9MFxEyb2xEoaDM7oXDQIlj6uMimg2K9M4rUUEUS3fJm%2F19BDFcS0hFlL1IMxFL%2FgEPzTEDh41OqFdRlnIZl6YeCwuGONRyFnkXyXpKyX52aYbpUf7%2F%2FO0HEHIH4oi9%2FLnbUHJyyXGHkDPofFhu%2F2d1v%2BDxSUiuri9W%2B%2Be8s3zah78nrU4l3%2F%2Fw%2BIb&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=HLXtLMBjyOk4sdTXvhczlR9hOZbOAQHMrUPRxESRbAep%2FPBhw%2Bv9FgXcqbVWq1dOC8Py0EdhMV4xtvOMyp3tVwmjKvi%2B3dH7ZF0t%2F%2FvgQsr1Qo%2BDPztyG%2FC0Bcly5nYXe9bLxVtpLYl%2B05kXkuYMd9C8TxSDZJM4h16JYwX%2BQc7FxY%2FUqJSQl%2Bggmdu3uoRcy7Xk83hDYpS%2FGcwL9qgL1%2BcSQQd4RPR6ju5tuN0%2BBwrUoswN0KHGrYGLMogvmkIyE%2BfIOE3MNQehZ%2Buf%2BEs9KkIzgLMgZm6jYrckcNyl5X0rVKPEfCBW06Jde3Ds14A%2FK7jKyZFtZPlHPPZYaJMlO%2F5Vbeeq%2FPgpu3ks2xHRDdL75DzgBHOOi8APVd6R0iFJloGio4vjgFfmcSOjsIJDYpoOuIRgjOodKAqpLQ51jrnALiIWkVRcws%2B%2BCmGh0SSDW3mGwi96EO6STRGJSh0Y4dC575yD%2BAvkBtYaAiHj25%2BMUXOnqMvlp54G6NthlxOvnwExmwD9BP%2Ftd4VP8Xxcapc6dteRGkh0U4ws3I8m%2BCn2xNp2U8VmKKohNCdQn%2Fp3LPQL0XGKu1jIS3raNLcgDrRj5rJLQpGZpsioonhAI%2FevQG%2F7ujRm45nLYx0VHwrYTkEvqG2DkUU54sHoC1QmAaqXj7KrdETfsGUa01I4ILM%3D&sso_reload=true",
     "method": "post",
     "fields": []
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/login",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/j_spring_security_check",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "otpUserName",
+        "id": "otpUserName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lastOtpUserName",
+        "id": "lastOtpUserName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "otpPassword",
+        "id": "otpPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "j_username",
+        "id": "j_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "j_password",
+        "id": "j_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "rememberMe",
+        "id": "rememberMe",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_rememberMe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/login",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "password",
+        "name": "currentPassword",
+        "id": "currentPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "newPassword",
+        "id": "newPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "checkNewPassword",
+        "id": "checkNewPassword",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/login",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/j_spring_security_check",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "otpUserName",
+        "id": "otpUserName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lastOtpUserName",
+        "id": "lastOtpUserName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "otpPassword",
+        "id": "otpPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "j_username",
+        "id": "j_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "j_password",
+        "id": "j_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "rememberMe",
+        "id": "rememberMe",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_rememberMe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "password",
+        "name": "currentPassword",
+        "id": "currentPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "newPassword",
+        "id": "newPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "checkNewPassword",
+        "id": "checkNewPassword",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/login#",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/j_spring_security_check",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "otpUserName",
+        "id": "otpUserName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lastOtpUserName",
+        "id": "lastOtpUserName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "otpPassword",
+        "id": "otpPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "j_username",
+        "id": "j_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "j_password",
+        "id": "j_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "rememberMe",
+        "id": "rememberMe",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_rememberMe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/login#",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/login#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "password",
+        "name": "currentPassword",
+        "id": "currentPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "newPassword",
+        "id": "newPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "checkNewPassword",
+        "id": "checkNewPassword",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/login#",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/login#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/imprint",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/imprint",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/termsOfUse",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/termsOfUse",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/AVLB",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/j_spring_security_check",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "otpUserName",
+        "id": "otpUserName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lastOtpUserName",
+        "id": "lastOtpUserName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "otpPassword",
+        "id": "otpPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "j_username",
+        "id": "j_username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "j_password",
+        "id": "j_password",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "rememberMe",
+        "id": "rememberMe",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_rememberMe",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "CSRFToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/AVLB",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "password",
+        "name": "currentPassword",
+        "id": "currentPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "newPassword",
+        "id": "newPassword",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "checkNewPassword",
+        "id": "checkNewPassword",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/AVLB",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/_s/cookies",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/_s/cookies",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/_s/EssityPrivacyPolicy",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/_s/EssityPrivacyPolicy",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/imprint#skip-to-content",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/imprint#skip-to-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/imprint#skiptonavigation",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/imprint#skiptonavigation",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/termsOfUse#skip-to-content",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/termsOfUse#skip-to-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/termsOfUse#skiptonavigation",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/termsOfUse#skiptonavigation",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/_s/cookies#skip-to-content",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/_s/cookies#skip-to-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/_s/cookies#skiptonavigation",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/_s/cookies#skiptonavigation",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/_s/EssityPrivacyPolicy#skip-to-content",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/_s/EssityPrivacyPolicy#skip-to-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/_s/EssityPrivacyPolicy#skiptonavigation",
+    "action": "https://www.eshop.jobst-austria.at/AT/de_AT/EUR/_s/EssityPrivacyPolicy#skiptonavigation",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/_s/cookies",
+    "action": "https://www.eshop.jobst-austria.at/_s/cookies",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/_s/cookies#skip-to-content",
+    "action": "https://www.eshop.jobst-austria.at/_s/cookies#skip-to-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.eshop.jobst-austria.at/_s/cookies#skiptonavigation",
+    "action": "https://www.eshop.jobst-austria.at/_s/cookies#skiptonavigation",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "accesibility_refreshScreenReaderBufferField",
+        "id": "accesibility_refreshScreenReaderBufferField",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
