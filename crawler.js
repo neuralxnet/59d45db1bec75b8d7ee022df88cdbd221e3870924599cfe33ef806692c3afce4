@@ -3,6 +3,7 @@ const fs = require('fs').promises;
 const path = require('path');
 
 const MAX_FILE_SIZE = 20 * 1024 * 1024;
+const MAX_DOMAIN_ATTEMPTS = 10;
 const RESULT_DIR = path.join(__dirname, 'result');
 const STAT_DIR = path.join(__dirname, 'stat');
 const DOMAINS_URL = 'https://github.com/arkadiyt/bounty-targets-data/raw/refs/heads/main/data/domains.txt';
@@ -254,31 +255,45 @@ async function main() {
     return;
   }
 
-  const domainToCrawl = unscannedDomains[0];
-  console.log(`Crawling domain: ${domainToCrawl}`);
+  let formsFound = false;
+  let domainIndex = 0;
+  const maxAttempts = Math.min(unscannedDomains.length, MAX_DOMAIN_ATTEMPTS);
   
-  try {
-    const forms = await crawlDomain(domainToCrawl);
-    console.log(`Found ${forms.length} forms on ${domainToCrawl}`);
+  while (!formsFound && domainIndex < maxAttempts) {
+    const domainToCrawl = unscannedDomains[domainIndex];
+    console.log(`Crawling domain: ${domainToCrawl}`);
     
-    if (forms.length > 0) {
-      await saveResults(forms);
-      console.log('Results saved');
+    try {
+      const forms = await crawlDomain(domainToCrawl);
+      console.log(`Found ${forms.length} forms on ${domainToCrawl}`);
+      
+      if (forms.length > 0) {
+        await saveResults(forms);
+        console.log('Results saved');
+        formsFound = true;
+      } else {
+        console.log(`No forms found on ${domainToCrawl}, will try next domain`);
+      }
+      
+    } catch (error) {
+      console.error(`Error crawling ${domainToCrawl}:`, error);
+      console.log('Domain unreachable or crawl failed, trying next domain');
     }
     
+    // Mark domain as scanned regardless of success or failure
     stats.scanned.push(domainToCrawl);
     stats.lastUpdate = new Date().toISOString();
     await saveScannedDomains(stats);
     console.log('Stats updated');
     
-  } catch (error) {
-    console.error(`Error crawling ${domainToCrawl}:`, error);
-    stats.scanned.push(domainToCrawl);
-    stats.lastUpdate = new Date().toISOString();
-    await saveScannedDomains(stats);
+    domainIndex++;
   }
   
-  console.log('Crawler completed');
+  if (formsFound) {
+    console.log('Crawler completed successfully - forms found!');
+  } else {
+    console.log(`Crawler completed - attempted ${domainIndex} domain(s), no forms found`);
+  }
 }
 
 main().catch(console.error);
