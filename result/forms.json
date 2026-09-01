@@ -402367,5 +402367,685 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://libero.dk",
+    "action": "https://www.libero.dk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Mailadresse",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.dk",
+    "action": "https://www.libero.dk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Mailadresse",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://libero.dk",
+    "action": "https://www.libero.dk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Mailadresse",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.dk/",
+    "action": "https://www.libero.dk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Mailadresse",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.dk/#",
+    "action": "https://www.libero.dk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Mailadresse",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.dk/dig-netop-nu/",
+    "action": "https://www.libero.dk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Mailadresse",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.dk/dig-netop-nu/planlagger/",
+    "action": "https://www.libero.dk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Mailadresse",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.dk/dig-netop-nu/gravid/",
+    "action": "https://www.libero.dk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Mailadresse",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.dk/dig-netop-nu/bebis/",
+    "action": "https://www.libero.dk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Mailadresse",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.dk/dig-netop-nu/smabarn/",
+    "action": "https://www.libero.dk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Mailadresse",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.dk/vores-eksperter/",
+    "action": "https://www.libero.dk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Mailadresse",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.dk/dig-netop-nu/beregn-termin/",
+    "action": "https://www.libero.dk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Mailadresse",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.dk/dig-netop-nu/beregn-termin/",
+    "action": "https://www.libero.dk/dueDate/calculate",
+    "method": {
+      "0": "ref: <Node>",
+      "1": "ref: <Node>",
+      "2": "ref: <Node>"
+    },
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "method",
+        "id": "menstruation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "method",
+        "id": "fertilization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "method",
+        "id": "ivf",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "menstruationDate",
+        "id": "",
+        "placeholder": "Date",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "days",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "fertilizationDate",
+        "id": "",
+        "placeholder": "Date",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ivfDate",
+        "id": "",
+        "placeholder": "Date",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "embryoAge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.dk/dig-netop-nu/#",
+    "action": "https://www.libero.dk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Mailadresse",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.dk/dig-netop-nu/planlagger/#",
+    "action": "https://www.libero.dk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Mailadresse",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.dk/dig-netop-nu/gravid/#",
+    "action": "https://www.libero.dk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Mailadresse",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.dk/dig-netop-nu/bebis/#",
+    "action": "https://www.libero.dk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Mailadresse",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.dk/dig-netop-nu/smabarn/#",
+    "action": "https://www.libero.dk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Mailadresse",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.dk/vores-eksperter/#",
+    "action": "https://www.libero.dk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Mailadresse",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.dk/dig-netop-nu/beregn-termin/#",
+    "action": "https://www.libero.dk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Mailadresse",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.dk/dig-netop-nu/beregn-termin/#",
+    "action": "https://www.libero.dk/dueDate/calculate",
+    "method": {
+      "0": "ref: <Node>",
+      "1": "ref: <Node>",
+      "2": "ref: <Node>"
+    },
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "method",
+        "id": "menstruation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "method",
+        "id": "fertilization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "method",
+        "id": "ivf",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "menstruationDate",
+        "id": "",
+        "placeholder": "Date",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "days",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "fertilizationDate",
+        "id": "",
+        "placeholder": "Date",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ivfDate",
+        "id": "",
+        "placeholder": "Date",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "embryoAge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
