@@ -403727,5 +403727,551 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://libero.hu",
+    "action": "https://www.libero.hu/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "E-mail cím",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Jelszó",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.hu",
+    "action": "https://www.libero.hu/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "E-mail cím",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Jelszó",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://libero.hu",
+    "action": "https://www.libero.hu/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "E-mail cím",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Jelszó",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.hu/",
+    "action": "https://www.libero.hu/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "E-mail cím",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Jelszó",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.hu/#",
+    "action": "https://www.libero.hu/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "E-mail cím",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Jelszó",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.hu/touch/",
+    "action": "https://www.libero.hu/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "E-mail cím",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Jelszó",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.hu/softseals/",
+    "action": "https://www.libero.hu/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "E-mail cím",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Jelszó",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.hu/upandgo/",
+    "action": "https://www.libero.hu/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "E-mail cím",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Jelszó",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.hu/akciok/",
+    "action": "https://www.libero.hu/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "E-mail cím",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Jelszó",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.hu/allapotod/",
+    "action": "https://www.libero.hu/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "E-mail cím",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Jelszó",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.hu/allapotod/babat-tervez/",
+    "action": "https://www.libero.hu/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "E-mail cím",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Jelszó",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.hu/allapotod/pregnant1/",
+    "action": "https://www.libero.hu/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "E-mail cím",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Jelszó",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.hu/touch/#",
+    "action": "https://www.libero.hu/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "E-mail cím",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Jelszó",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.hu/softseals/#",
+    "action": "https://www.libero.hu/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "E-mail cím",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Jelszó",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.hu/upandgo/#",
+    "action": "https://www.libero.hu/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "E-mail cím",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Jelszó",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.hu/akciok/#",
+    "action": "https://www.libero.hu/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "E-mail cím",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Jelszó",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.hu/allapotod/#",
+    "action": "https://www.libero.hu/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "E-mail cím",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Jelszó",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.hu/allapotod/babat-tervez/#",
+    "action": "https://www.libero.hu/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "E-mail cím",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Jelszó",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.hu/allapotod/pregnant1/#",
+    "action": "https://www.libero.hu/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "E-mail cím",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Jelszó",
+        "required": false
+      }
+    ]
   }
 ]
