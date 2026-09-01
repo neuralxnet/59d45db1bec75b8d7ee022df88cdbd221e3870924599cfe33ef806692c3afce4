@@ -403047,5 +403047,685 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://libero.fi",
+    "action": "https://www.libero.fi/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Sähköpostiosoite",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Salasana",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.fi",
+    "action": "https://www.libero.fi/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Sähköpostiosoite",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Salasana",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://libero.fi",
+    "action": "https://www.libero.fi/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Sähköpostiosoite",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Salasana",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.fi/",
+    "action": "https://www.libero.fi/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Sähköpostiosoite",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Salasana",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.fi/#",
+    "action": "https://www.libero.fi/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Sähköpostiosoite",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Salasana",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.fi/sinun-vaiheesi/",
+    "action": "https://www.libero.fi/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Sähköpostiosoite",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Salasana",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.fi/sinun-vaiheesi/toiveena-raskaus--/",
+    "action": "https://www.libero.fi/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Sähköpostiosoite",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Salasana",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.fi/sinun-vaiheesi/raskaana/",
+    "action": "https://www.libero.fi/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Sähköpostiosoite",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Salasana",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.fi/sinun-vaiheesi/vauva/",
+    "action": "https://www.libero.fi/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Sähköpostiosoite",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Salasana",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.fi/sinun-vaiheesi/leikki-ikaiset/",
+    "action": "https://www.libero.fi/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Sähköpostiosoite",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Salasana",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.fi/asiantuntijat/",
+    "action": "https://www.libero.fi/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Sähköpostiosoite",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Salasana",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.fi/sinun-vaiheesi/raskauslaskuri/",
+    "action": "https://www.libero.fi/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Sähköpostiosoite",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Salasana",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.fi/sinun-vaiheesi/raskauslaskuri/",
+    "action": "https://www.libero.fi/dueDate/calculate",
+    "method": {
+      "0": "ref: <Node>",
+      "1": "ref: <Node>",
+      "2": "ref: <Node>"
+    },
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "method",
+        "id": "menstruation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "method",
+        "id": "fertilization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "method",
+        "id": "ivf",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "menstruationDate",
+        "id": "",
+        "placeholder": "Date",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "days",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "fertilizationDate",
+        "id": "",
+        "placeholder": "Date",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ivfDate",
+        "id": "",
+        "placeholder": "Date",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "embryoAge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.fi/sinun-vaiheesi/#",
+    "action": "https://www.libero.fi/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Sähköpostiosoite",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Salasana",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.fi/sinun-vaiheesi/toiveena-raskaus--/#",
+    "action": "https://www.libero.fi/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Sähköpostiosoite",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Salasana",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.fi/sinun-vaiheesi/raskaana/#",
+    "action": "https://www.libero.fi/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Sähköpostiosoite",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Salasana",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.fi/sinun-vaiheesi/vauva/#",
+    "action": "https://www.libero.fi/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Sähköpostiosoite",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Salasana",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.fi/sinun-vaiheesi/leikki-ikaiset/#",
+    "action": "https://www.libero.fi/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Sähköpostiosoite",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Salasana",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.fi/asiantuntijat/#",
+    "action": "https://www.libero.fi/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Sähköpostiosoite",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Salasana",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.fi/sinun-vaiheesi/raskauslaskuri/#",
+    "action": "https://www.libero.fi/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "emailAddress",
+        "placeholder": "Sähköpostiosoite",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Salasana",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libero.fi/sinun-vaiheesi/raskauslaskuri/#",
+    "action": "https://www.libero.fi/dueDate/calculate",
+    "method": {
+      "0": "ref: <Node>",
+      "1": "ref: <Node>",
+      "2": "ref: <Node>"
+    },
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "method",
+        "id": "menstruation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "method",
+        "id": "fertilization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "method",
+        "id": "ivf",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "menstruationDate",
+        "id": "",
+        "placeholder": "Date",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "days",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "fertilizationDate",
+        "id": "",
+        "placeholder": "Date",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ivfDate",
+        "id": "",
+        "placeholder": "Date",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "embryoAge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
