@@ -405633,5 +405633,313 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://libresse.bg",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://libresse.bg",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg/#main-content",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg/nashite-produkti/available-in-store/menstrualni-prevruzki/",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg/nashite-produkti/available-in-store/ejednevni-prevruzki/",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg/nashite-produkti/available-in-store/",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg/track-your-period/",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg/razkrivame-tabutata/budi-aktivna/project-v/",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg/razkrivame-tabutata/budi-aktivna/",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg/razkrivame-tabutata/razberi/tvoyata-purva-menstruatsiya/",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg/razkrivame-tabutata/razberi/pubertet/",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg/razkrivame-tabutata/razberi/zhivot-s-menstruatsiya/",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg/nashite-produkti/available-in-store/menstrualni-prevruzki/#main-content",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg/nashite-produkti/available-in-store/ejednevni-prevruzki/#main-content",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg/nashite-produkti/available-in-store/#main-content",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg/track-your-period/#main-content",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg/razkrivame-tabutata/budi-aktivna/project-v/#main-content",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg/razkrivame-tabutata/budi-aktivna/#main-content",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg/razkrivame-tabutata/razberi/tvoyata-purva-menstruatsiya/#main-content",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg/razkrivame-tabutata/razberi/pubertet/#main-content",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.bg/razkrivame-tabutata/razberi/zhivot-s-menstruatsiya/#main-content",
+    "action": "https://www.libresse.bg/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Търсене",
+        "required": false
+      }
+    ]
   }
 ]
