@@ -435115,5 +435115,663 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://libresse.gr",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://libresse.gr",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/#main-content",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/shop-our-products/",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/shop-our-products/available-in-store/period-pads/",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/shop-our-products/available-in-store/panty-liners/",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/shop-our-products/available-in-store/",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/period-tracker/",
+    "action": "https://www.libresse.gr/ajax/core/customtracking/personalizedmodalresult",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveimportant-event0",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveunderstand-fertility1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveknow-cycle-position2",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-ageunder-180",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age18-251",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age26-352",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age36-453",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-ageabove-454",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "period-start-date",
+        "id": "period-calculator-form-period-start-date",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "period-length",
+        "id": "period-calculator-form-period-length",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "cycle-length",
+        "id": "period-calculator-form-cycle-length",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/period-tracker/",
+    "action": "https://www.libresse.gr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-modal-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-modal-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-modal-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-modal-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-modal-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-modal-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/period-tracker/",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/break-taboos/take-action/project-v/",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/break-taboos/take-action/share-your-story/",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/break-taboos/take-action/",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/break-taboos/discover/your-first-period/",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/shop-our-products/#main-content",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/shop-our-products/available-in-store/period-pads/#main-content",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/shop-our-products/available-in-store/panty-liners/#main-content",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/shop-our-products/available-in-store/#main-content",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/period-tracker/#main-content",
+    "action": "https://www.libresse.gr/ajax/core/customtracking/personalizedmodalresult",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveimportant-event0",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveunderstand-fertility1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveknow-cycle-position2",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-ageunder-180",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age18-251",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age26-352",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age36-453",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-ageabove-454",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "period-start-date",
+        "id": "period-calculator-form-period-start-date",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "period-length",
+        "id": "period-calculator-form-period-length",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "cycle-length",
+        "id": "period-calculator-form-cycle-length",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/period-tracker/#main-content",
+    "action": "https://www.libresse.gr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-modal-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-modal-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-modal-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-modal-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-modal-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-modal-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/period-tracker/#main-content",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/break-taboos/take-action/project-v/#main-content",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/break-taboos/take-action/share-your-story/#main-content",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/break-taboos/take-action/#main-content",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.gr/break-taboos/discover/your-first-period/#main-content",
+    "action": "https://www.libresse.gr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Αναζήτηση",
+        "required": false
+      }
+    ]
   }
 ]
