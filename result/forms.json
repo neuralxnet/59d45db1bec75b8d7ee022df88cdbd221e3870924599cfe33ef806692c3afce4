@@ -438587,5 +438587,1629 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://libresse.nl",
+    "action": "https://www.libresse.nl/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Je naam",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Je achternaam",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Je e-mailadres (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://libresse.nl",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl",
+    "action": "https://www.libresse.nl/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Je naam",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Je achternaam",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Je e-mailadres (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://libresse.nl",
+    "action": "https://www.libresse.nl/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Je naam",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Je achternaam",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Je e-mailadres (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://libresse.nl",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/#main-content",
+    "action": "https://www.libresse.nl/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Je naam",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Je achternaam",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Je e-mailadres (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/#main-content",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/acties-en-proefpakketten/",
+    "action": "https://www.libresse.nl/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Je naam",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Je achternaam",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Je e-mailadres (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/acties-en-proefpakketten/",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/onze-producten/producten/maandverband/",
+    "action": "https://www.libresse.nl/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Je naam",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Je achternaam",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Je e-mailadres (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/onze-producten/producten/maandverband/",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/onze-producten/producten/inlegkruisjes/",
+    "action": "https://www.libresse.nl/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Je naam",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Je achternaam",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Je e-mailadres (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/onze-producten/producten/inlegkruisjes/",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/onze-producten/producten/menstruatie-ondergoed/",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/menstruatie-tool/",
+    "action": "https://www.libresse.nl/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Je naam",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Je achternaam",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Je e-mailadres (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/menstruatie-tool/",
+    "action": "https://www.libresse.nl/ajax/core/customtracking/personalizedmodalresult",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-ageunder-180",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age18-251",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age26-352",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age36-453",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-ageabove-454",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "period-start-date",
+        "id": "period-calculator-form-period-start-date",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "period-length",
+        "id": "period-calculator-form-period-length",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "cycle-length",
+        "id": "period-calculator-form-cycle-length",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveimportant-event0",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveunderstand-fertility1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveknow-cycle-position2",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/menstruatie-tool/",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/taboes-doorbreken/neem-actie/project-v/",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/taboes-doorbreken/neem-actie/deel-je-verhaal/",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/taboes-doorbreken/neem-actie/aanmelden-nieuwsbrief/",
+    "action": "https://www.libresse.nl/ajax/promotions/promotions/submissionform",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PromotionId",
+        "id": "PromotionId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "promotion-newslettersubscription-firstname",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "promotion-newslettersubscription-lastname",
+        "placeholder": "Achternaam",
+        "required": false
+      },
+      {
+        "type": "date",
+        "name": "18yobirthday_Preference",
+        "id": "-18yobirthday_preference",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "promotion-newslettersubscription-email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "promotion-newslettersubscription-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "promotion-newslettersubscription-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/taboes-doorbreken/neem-actie/aanmelden-nieuwsbrief/",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/taboes-doorbreken/feiten-en-fabels/menstruatiecyclus/",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/acties-en-proefpakketten/#main-content",
+    "action": "https://www.libresse.nl/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Je naam",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Je achternaam",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Je e-mailadres (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/acties-en-proefpakketten/#main-content",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/onze-producten/producten/maandverband/#main-content",
+    "action": "https://www.libresse.nl/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Je naam",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Je achternaam",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Je e-mailadres (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/onze-producten/producten/maandverband/#main-content",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/onze-producten/producten/inlegkruisjes/#main-content",
+    "action": "https://www.libresse.nl/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Je naam",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Je achternaam",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Je e-mailadres (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/onze-producten/producten/inlegkruisjes/#main-content",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/onze-producten/producten/menstruatie-ondergoed/#main-content",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/menstruatie-tool/#main-content",
+    "action": "https://www.libresse.nl/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Je naam",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Je achternaam",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Je e-mailadres (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/menstruatie-tool/#main-content",
+    "action": "https://www.libresse.nl/ajax/core/customtracking/personalizedmodalresult",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-ageunder-180",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age18-251",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age26-352",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age36-453",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-ageabove-454",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "period-start-date",
+        "id": "period-calculator-form-period-start-date",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "period-length",
+        "id": "period-calculator-form-period-length",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "cycle-length",
+        "id": "period-calculator-form-cycle-length",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveimportant-event0",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveunderstand-fertility1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveknow-cycle-position2",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/menstruatie-tool/#main-content",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/taboes-doorbreken/neem-actie/project-v/#main-content",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/taboes-doorbreken/neem-actie/deel-je-verhaal/#main-content",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/taboes-doorbreken/neem-actie/aanmelden-nieuwsbrief/#main-content",
+    "action": "https://www.libresse.nl/ajax/promotions/promotions/submissionform",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PromotionId",
+        "id": "PromotionId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "promotion-newslettersubscription-firstname",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "promotion-newslettersubscription-lastname",
+        "placeholder": "Achternaam",
+        "required": false
+      },
+      {
+        "type": "date",
+        "name": "18yobirthday_Preference",
+        "id": "-18yobirthday_preference",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "promotion-newslettersubscription-email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "promotion-newslettersubscription-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "promotion-newslettersubscription-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/taboes-doorbreken/neem-actie/aanmelden-nieuwsbrief/#main-content",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.nl/taboes-doorbreken/feiten-en-fabels/menstruatiecyclus/#main-content",
+    "action": "https://www.libresse.nl/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "zoeken",
+        "required": false
+      }
+    ]
   }
 ]
