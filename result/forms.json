@@ -455071,5 +455071,313 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://libresse.ro",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://libresse.ro",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro/#main-content",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro/produsele-noastre/",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro/produsele-noastre/produse-disponibile-in-magazine/absorbante/",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro/produsele-noastre/produse-disponibile-in-magazine/absorbante-zilnice/",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro/produsele-noastre/produse-disponibile-in-magazine/geluri-intime/",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro/produsele-noastre/produse-disponibile-in-magazine/servetele-intime/",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro/produsele-noastre/produse-disponibile-in-magazine/",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro/produsele-noastre/promotii/promotii/",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro/produsele-noastre/promotii/castiga-premii-asa-cum-vrei/",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro/produsele-noastre/promotii/saga2026/",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro/produsele-noastre/#main-content",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro/produsele-noastre/produse-disponibile-in-magazine/absorbante/#main-content",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro/produsele-noastre/produse-disponibile-in-magazine/absorbante-zilnice/#main-content",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro/produsele-noastre/produse-disponibile-in-magazine/geluri-intime/#main-content",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro/produsele-noastre/produse-disponibile-in-magazine/servetele-intime/#main-content",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro/produsele-noastre/produse-disponibile-in-magazine/#main-content",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro/produsele-noastre/promotii/promotii/#main-content",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro/produsele-noastre/promotii/castiga-premii-asa-cum-vrei/#main-content",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ro/produsele-noastre/promotii/saga2026/#main-content",
+    "action": "https://www.libresse.ro/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Căutare",
+        "required": false
+      }
+    ]
   }
 ]
