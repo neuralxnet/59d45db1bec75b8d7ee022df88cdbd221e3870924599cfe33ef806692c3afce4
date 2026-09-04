@@ -435773,5 +435773,313 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://libresse.hr",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://libresse.hr",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr/#main-content",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr/kupi-nase-proizvode/kupi-nase-proizvode/ulosci/",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr/kupi-nase-proizvode/kupi-nase-proizvode/dnevni-ulosci/",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr/kupi-nase-proizvode/kupi-nase-proizvode/gel/",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr/kupi-nase-proizvode/kupi-nase-proizvode/maramice/",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr/kupi-nase-proizvode/kupi-nase-proizvode/",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr/kupi-nase-proizvode/promo/nagradna-igra-stranica/",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr/kupi-nase-proizvode/promo/promo/",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr/menstrualni-kalenda/",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr/rusimo-tabue/poduzmi-korak/project-v/",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr/kupi-nase-proizvode/kupi-nase-proizvode/ulosci/#main-content",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr/kupi-nase-proizvode/kupi-nase-proizvode/dnevni-ulosci/#main-content",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr/kupi-nase-proizvode/kupi-nase-proizvode/gel/#main-content",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr/kupi-nase-proizvode/kupi-nase-proizvode/maramice/#main-content",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr/kupi-nase-proizvode/kupi-nase-proizvode/#main-content",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr/kupi-nase-proizvode/promo/nagradna-igra-stranica/#main-content",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr/kupi-nase-proizvode/promo/promo/#main-content",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr/menstrualni-kalenda/#main-content",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hr/rusimo-tabue/poduzmi-korak/project-v/#main-content",
+    "action": "https://www.libresse.hr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Pretraži",
+        "required": false
+      }
+    ]
   }
 ]
