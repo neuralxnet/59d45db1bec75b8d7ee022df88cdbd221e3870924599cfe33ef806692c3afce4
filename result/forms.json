@@ -436081,5 +436081,2511 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://libresse.hu",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://libresse.hu",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://libresse.hu",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://libresse.hu",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/#main-content",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/#main-content",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/vasarold-meg-termekeinket/bolti-elerhetoseg/egeszsegugyi-betetek/",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/vasarold-meg-termekeinket/bolti-elerhetoseg/egeszsegugyi-betetek/",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/vasarold-meg-termekeinket/bolti-elerhetoseg/tisztasagi-betetek/",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/vasarold-meg-termekeinket/bolti-elerhetoseg/tisztasagi-betetek/",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/vasarold-meg-termekeinket/bolti-elerhetoseg/",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/vasarold-meg-termekeinket/bolti-elerhetoseg/",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/menstruacios-naptar/",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/menstruacios-naptar/",
+    "action": "https://www.libresse.hu/ajax/core/customtracking/personalizedmodalresult",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveimportant-event0",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveunderstand-fertility1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveknow-cycle-position2",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-ageunder-180",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age18-251",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age26-352",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age36-453",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-ageabove-454",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "period-start-date",
+        "id": "period-calculator-form-period-start-date",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "period-length",
+        "id": "period-calculator-form-period-length",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "cycle-length",
+        "id": "period-calculator-form-cycle-length",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/menstruacios-naptar/",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-modal-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-modal-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-modal-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-modal-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-modal-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-modal-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/menstruacios-naptar/",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/cselekedji/hirlevel-feliratkozas/",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/cselekedji/hirlevel-feliratkozas/",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/cselekedji/project-v/",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/cselekedji/project-v/",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/cselekedji/share-your-story/",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/cselekedji/share-your-story/",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/tenyek-tevhitek/az-elso-menstruaciod/",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/tenyek-tevhitek/az-elso-menstruaciod/",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/tenyek-tevhitek/serdulokor/",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/tenyek-tevhitek/serdulokor/",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/vasarold-meg-termekeinket/bolti-elerhetoseg/egeszsegugyi-betetek/#main-content",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/vasarold-meg-termekeinket/bolti-elerhetoseg/egeszsegugyi-betetek/#main-content",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/vasarold-meg-termekeinket/bolti-elerhetoseg/tisztasagi-betetek/#main-content",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/vasarold-meg-termekeinket/bolti-elerhetoseg/tisztasagi-betetek/#main-content",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/vasarold-meg-termekeinket/bolti-elerhetoseg/#main-content",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/vasarold-meg-termekeinket/bolti-elerhetoseg/#main-content",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/menstruacios-naptar/#main-content",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/menstruacios-naptar/#main-content",
+    "action": "https://www.libresse.hu/ajax/core/customtracking/personalizedmodalresult",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveimportant-event0",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveunderstand-fertility1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveknow-cycle-position2",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-ageunder-180",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age18-251",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age26-352",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age36-453",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-ageabove-454",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "period-start-date",
+        "id": "period-calculator-form-period-start-date",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "period-length",
+        "id": "period-calculator-form-period-length",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "cycle-length",
+        "id": "period-calculator-form-cycle-length",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/menstruacios-naptar/#main-content",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-modal-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-modal-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-modal-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-modal-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-modal-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-modal-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/menstruacios-naptar/#main-content",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/cselekedji/hirlevel-feliratkozas/#main-content",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/cselekedji/hirlevel-feliratkozas/#main-content",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/cselekedji/project-v/#main-content",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/cselekedji/project-v/#main-content",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/cselekedji/share-your-story/#main-content",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/cselekedji/share-your-story/#main-content",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/tenyek-tevhitek/az-elso-menstruaciod/#main-content",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/tenyek-tevhitek/az-elso-menstruaciod/#main-content",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/tenyek-tevhitek/serdulokor/#main-content",
+    "action": "https://www.libresse.hu/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Add meg a neved",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Add meg a vezetékneved",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Az Ön e-mail címe (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.hu/tabuk-ledontese/tenyek-tevhitek/serdulokor/#main-content",
+    "action": "https://www.libresse.hu/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Keresés",
+        "required": false
+      }
+    ]
   }
 ]
