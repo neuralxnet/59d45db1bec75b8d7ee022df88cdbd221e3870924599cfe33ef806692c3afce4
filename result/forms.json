@@ -476613,5 +476613,215 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://medical.essity.co.za",
+    "action": "https://medical.essity.co.za/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=10f2ab080625198ec2749534f3202cf4",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.medical.essity.co.za",
+    "action": "https://medical.essity.co.za/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=10f2ab080625198ec2749534f3202cf4",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://medical.essity.co.za",
+    "action": "https://medical.essity.co.za/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=10f2ab080625198ec2749534f3202cf4",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.co.za/home.html",
+    "action": "https://medical.essity.co.za/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=10f2ab080625198ec2749534f3202cf4",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.co.za/home/contact.html",
+    "action": "https://medical.essity.co.za/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=10f2ab080625198ec2749534f3202cf4",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.co.za/",
+    "action": "https://medical.essity.co.za/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=10f2ab080625198ec2749534f3202cf4",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.co.za/home.html#",
+    "action": "https://medical.essity.co.za/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=10f2ab080625198ec2749534f3202cf4",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.co.za/innovation.html",
+    "action": "https://medical.essity.co.za/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=10f2ab080625198ec2749534f3202cf4",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.co.za/home/contact.html#",
+    "action": "https://medical.essity.co.za/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=10f2ab080625198ec2749534f3202cf4",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.co.za/innovation.html#",
+    "action": "https://medical.essity.co.za/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=10f2ab080625198ec2749534f3202cf4",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
