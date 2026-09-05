@@ -476193,5 +476193,425 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://medical.essity.ca",
+    "action": "https://medical.essity.ca/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.medical.essity.ca",
+    "action": "https://medical.essity.ca/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://medical.essity.ca",
+    "action": "https://medical.essity.ca/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.ca/home.html",
+    "action": "https://medical.essity.ca/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.ca/sitemap.html",
+    "action": "https://medical.essity.ca/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.ca/home/privacy-policy.html",
+    "action": "https://medical.essity.ca/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.ca/home/contact.html",
+    "action": "https://medical.essity.ca/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.ca/fr/home.html",
+    "action": "https://medical.essity.ca/fr/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.ca/",
+    "action": "https://medical.essity.ca/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.ca/home.html#",
+    "action": "https://medical.essity.ca/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.ca/fr/sitemap.html",
+    "action": "https://medical.essity.ca/fr/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.ca/sitemap.html#",
+    "action": "https://medical.essity.ca/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.ca/fr/home/charte-de-protection-des-donnees-a-caractere-personnel.html",
+    "action": "https://medical.essity.ca/fr/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.ca/home/privacy-policy.html#",
+    "action": "https://medical.essity.ca/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.ca/fr/home/contact.html",
+    "action": "https://medical.essity.ca/fr/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.ca/home/contact.html#",
+    "action": "https://medical.essity.ca/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.ca/fr/home.html#",
+    "action": "https://medical.essity.ca/fr/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.ca/fr/sitemap.html#",
+    "action": "https://medical.essity.ca/fr/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.ca/fr/home/charte-de-protection-des-donnees-a-caractere-personnel.html#",
+    "action": "https://medical.essity.ca/fr/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.ca/fr/home/contact.html#",
+    "action": "https://medical.essity.ca/fr/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=232db8db6b6596c8a57c8d3d346d9805",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
