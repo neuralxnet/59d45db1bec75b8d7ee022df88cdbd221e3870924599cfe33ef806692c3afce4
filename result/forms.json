@@ -470656,5 +470656,5542 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/",
+    "action": "https://www.lotushygiene.com/fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/",
+    "action": "https://www.lotushygiene.com/fr/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "NewsletterSubscribe",
+        "placeholder": "S’inscrire à notre newsletter",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/",
+    "action": "https://www.lotushygiene.com/fr/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/",
+    "action": "https://www.lotushygiene.com/fr/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "1d40c6d3-2075-49d4-9203-1c6ef3edf462",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "18e68e0e-9c5e-4b86-9a3e-6d5ddcc5380a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "711b5a0a-3776-4d00-8849-a912e7d86f28",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "82c3e1db-47af-4b07-8baa-c712fd68fa1d",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].Id",
+        "id": "1ff73bb3-5e4f-47a8-9110-cb59d3189351",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "c4ec360e-99d4-4e4c-b2b5-a73d66d77143",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].Id",
+        "id": "f6206269-3a0f-4041-865c-d3adc4f8779a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "567b538f-272a-496d-979f-2b823636d8be",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/no/",
+    "action": "https://www.lotushygiene.com/no/soekeresultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/no/",
+    "action": "https://www.lotushygiene.com/no/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "f7ca7eaf-85f1-4fcb-8aae-028207cb8626",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "b904cbf0-b106-4488-a879-37e0086eace5",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/",
+    "action": "https://www.lotushygiene.com/fi/hakutulokset/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/",
+    "action": "https://www.lotushygiene.com/fi/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "NewsletterSubscribe",
+        "placeholder": "Tilaa uutiskirjeemme",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/",
+    "action": "https://www.lotushygiene.com/fi/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/",
+    "action": "https://www.lotushygiene.com/fi/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "9c5ee187-07b2-4515-94a5-d461b026aeb8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "f91a2b49-94b1-4fbf-a207-67f1ad8ec437",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "14d0bd5f-6bb6-43de-8a63-d2da9719968a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "62e77db8-58fa-4157-989e-1bb23900fa17",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/se/",
+    "action": "https://www.lotushygiene.com/se/soekeresultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/se/",
+    "action": "https://www.lotushygiene.com/se/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "477332e1-401b-4326-909e-1fb7e9051dea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "5a364cea-b686-47c5-b808-47b2b1876c7c",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/dk/",
+    "action": "https://www.lotushygiene.com/dk/resultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/dk/",
+    "action": "https://www.lotushygiene.com/dk/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "bd833ff2-8cdc-40b9-bf19-7727845fd51b",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "57cb3e61-5b4e-434f-a1ec-23c0ad3078c9",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-nl/",
+    "action": "https://www.lotushygiene.com/be-nl/zoekresultaten/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-nl/",
+    "action": "https://www.lotushygiene.com/be-nl/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "NewsletterSubscribe",
+        "placeholder": "Meld je aan",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-nl/",
+    "action": "https://www.lotushygiene.com/be-nl/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-nl/",
+    "action": "https://www.lotushygiene.com/be-nl/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "0dea48f5-c15d-4c8a-8daf-fc4a1fa7c4ea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "375b14ab-26d1-4d45-a73d-2628d08a208f",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "c78bc5b5-a4c5-47d1-bbf4-c1c743a080a6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "24756be1-b718-4011-97d4-247d5da625b3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].Id",
+        "id": "c55c68ff-7db1-4763-bc4b-57da0c5e2f08",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "7137533d-e21f-41aa-9497-fd1bd0c7a7be",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].Id",
+        "id": "9a80996d-7561-4337-b6a2-281505bed891",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "b05a6ec2-fa5b-499d-a97e-7054ba2a2d5a",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-fr/",
+    "action": "https://www.lotushygiene.com/be-fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-fr/",
+    "action": "https://www.lotushygiene.com/be-fr/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "fc1ed0ac-6f74-4987-b782-282785d50e25",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "6d5e1ab8-6bb3-4fc9-b366-8c4737e0989d",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/#main-content",
+    "action": "https://www.lotushygiene.com/fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/#main-content",
+    "action": "https://www.lotushygiene.com/fr/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "NewsletterSubscribe",
+        "placeholder": "S’inscrire à notre newsletter",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/#main-content",
+    "action": "https://www.lotushygiene.com/fr/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/#main-content",
+    "action": "https://www.lotushygiene.com/fr/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "1d40c6d3-2075-49d4-9203-1c6ef3edf462",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "18e68e0e-9c5e-4b86-9a3e-6d5ddcc5380a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "711b5a0a-3776-4d00-8849-a912e7d86f28",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "82c3e1db-47af-4b07-8baa-c712fd68fa1d",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].Id",
+        "id": "1ff73bb3-5e4f-47a8-9110-cb59d3189351",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "c4ec360e-99d4-4e4c-b2b5-a73d66d77143",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].Id",
+        "id": "f6206269-3a0f-4041-865c-d3adc4f8779a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "567b538f-272a-496d-979f-2b823636d8be",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/hygiene-de-vie/",
+    "action": "https://www.lotushygiene.com/fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/hygiene-de-vie/",
+    "action": "https://www.lotushygiene.com/fr/hygiene-de-vie/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "NewsletterSubscribe",
+        "placeholder": "S’inscrire à notre newsletter",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/hygiene-de-vie/",
+    "action": "https://www.lotushygiene.com/fr/hygiene-de-vie/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/hygiene-de-vie/",
+    "action": "https://www.lotushygiene.com/fr/hygiene-de-vie/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "1d40c6d3-2075-49d4-9203-1c6ef3edf462",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "18e68e0e-9c5e-4b86-9a3e-6d5ddcc5380a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "711b5a0a-3776-4d00-8849-a912e7d86f28",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "82c3e1db-47af-4b07-8baa-c712fd68fa1d",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].Id",
+        "id": "1ff73bb3-5e4f-47a8-9110-cb59d3189351",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "c4ec360e-99d4-4e4c-b2b5-a73d66d77143",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].Id",
+        "id": "f6206269-3a0f-4041-865c-d3adc4f8779a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "567b538f-272a-496d-979f-2b823636d8be",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/#",
+    "action": "https://www.lotushygiene.com/fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/#",
+    "action": "https://www.lotushygiene.com/fr/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "NewsletterSubscribe",
+        "placeholder": "S’inscrire à notre newsletter",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/#",
+    "action": "https://www.lotushygiene.com/fr/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/#",
+    "action": "https://www.lotushygiene.com/fr/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "1d40c6d3-2075-49d4-9203-1c6ef3edf462",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "18e68e0e-9c5e-4b86-9a3e-6d5ddcc5380a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "711b5a0a-3776-4d00-8849-a912e7d86f28",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "82c3e1db-47af-4b07-8baa-c712fd68fa1d",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].Id",
+        "id": "1ff73bb3-5e4f-47a8-9110-cb59d3189351",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "c4ec360e-99d4-4e4c-b2b5-a73d66d77143",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].Id",
+        "id": "f6206269-3a0f-4041-865c-d3adc4f8779a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "567b538f-272a-496d-979f-2b823636d8be",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/hygiene-de-vie/hygiene-corporelle/",
+    "action": "https://www.lotushygiene.com/fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/hygiene-de-vie/hygiene-corporelle/",
+    "action": "https://www.lotushygiene.com/fr/hygiene-de-vie/hygiene-corporelle/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/hygiene-de-vie/hygiene-corporelle/",
+    "action": "https://www.lotushygiene.com/fr/hygiene-de-vie/hygiene-corporelle/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "1d40c6d3-2075-49d4-9203-1c6ef3edf462",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "18e68e0e-9c5e-4b86-9a3e-6d5ddcc5380a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "711b5a0a-3776-4d00-8849-a912e7d86f28",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "82c3e1db-47af-4b07-8baa-c712fd68fa1d",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].Id",
+        "id": "1ff73bb3-5e4f-47a8-9110-cb59d3189351",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "c4ec360e-99d4-4e4c-b2b5-a73d66d77143",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].Id",
+        "id": "f6206269-3a0f-4041-865c-d3adc4f8779a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "567b538f-272a-496d-979f-2b823636d8be",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/hygiene-de-vie/hygiene-a-la-maison/",
+    "action": "https://www.lotushygiene.com/fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/hygiene-de-vie/hygiene-a-la-maison/",
+    "action": "https://www.lotushygiene.com/fr/hygiene-de-vie/hygiene-a-la-maison/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/hygiene-de-vie/hygiene-a-la-maison/",
+    "action": "https://www.lotushygiene.com/fr/hygiene-de-vie/hygiene-a-la-maison/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "1d40c6d3-2075-49d4-9203-1c6ef3edf462",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "18e68e0e-9c5e-4b86-9a3e-6d5ddcc5380a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "711b5a0a-3776-4d00-8849-a912e7d86f28",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "82c3e1db-47af-4b07-8baa-c712fd68fa1d",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].Id",
+        "id": "1ff73bb3-5e4f-47a8-9110-cb59d3189351",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "c4ec360e-99d4-4e4c-b2b5-a73d66d77143",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].Id",
+        "id": "f6206269-3a0f-4041-865c-d3adc4f8779a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "567b538f-272a-496d-979f-2b823636d8be",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/hygiene-de-vie/remedes-naturels/",
+    "action": "https://www.lotushygiene.com/fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/hygiene-de-vie/remedes-naturels/",
+    "action": "https://www.lotushygiene.com/fr/hygiene-de-vie/remedes-naturels/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/hygiene-de-vie/remedes-naturels/",
+    "action": "https://www.lotushygiene.com/fr/hygiene-de-vie/remedes-naturels/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "1d40c6d3-2075-49d4-9203-1c6ef3edf462",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "18e68e0e-9c5e-4b86-9a3e-6d5ddcc5380a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "711b5a0a-3776-4d00-8849-a912e7d86f28",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "82c3e1db-47af-4b07-8baa-c712fd68fa1d",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].Id",
+        "id": "1ff73bb3-5e4f-47a8-9110-cb59d3189351",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "c4ec360e-99d4-4e4c-b2b5-a73d66d77143",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].Id",
+        "id": "f6206269-3a0f-4041-865c-d3adc4f8779a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "567b538f-272a-496d-979f-2b823636d8be",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/vie-de-famille/",
+    "action": "https://www.lotushygiene.com/fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/vie-de-famille/",
+    "action": "https://www.lotushygiene.com/fr/vie-de-famille/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "NewsletterSubscribe",
+        "placeholder": "S’inscrire à notre newsletter",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/vie-de-famille/",
+    "action": "https://www.lotushygiene.com/fr/vie-de-famille/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/vie-de-famille/",
+    "action": "https://www.lotushygiene.com/fr/vie-de-famille/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "1d40c6d3-2075-49d4-9203-1c6ef3edf462",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "18e68e0e-9c5e-4b86-9a3e-6d5ddcc5380a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "711b5a0a-3776-4d00-8849-a912e7d86f28",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "82c3e1db-47af-4b07-8baa-c712fd68fa1d",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].Id",
+        "id": "1ff73bb3-5e4f-47a8-9110-cb59d3189351",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "c4ec360e-99d4-4e4c-b2b5-a73d66d77143",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].Id",
+        "id": "f6206269-3a0f-4041-865c-d3adc4f8779a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "567b538f-272a-496d-979f-2b823636d8be",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/vie-de-famille/etre-parent/",
+    "action": "https://www.lotushygiene.com/fr/resultat-de-votre-recherche/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/vie-de-famille/etre-parent/",
+    "action": "https://www.lotushygiene.com/fr/vie-de-famille/etre-parent/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fr/vie-de-famille/etre-parent/",
+    "action": "https://www.lotushygiene.com/fr/vie-de-famille/etre-parent/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "1d40c6d3-2075-49d4-9203-1c6ef3edf462",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "18e68e0e-9c5e-4b86-9a3e-6d5ddcc5380a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "711b5a0a-3776-4d00-8849-a912e7d86f28",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "82c3e1db-47af-4b07-8baa-c712fd68fa1d",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].Id",
+        "id": "1ff73bb3-5e4f-47a8-9110-cb59d3189351",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "c4ec360e-99d4-4e4c-b2b5-a73d66d77143",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].Id",
+        "id": "f6206269-3a0f-4041-865c-d3adc4f8779a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "567b538f-272a-496d-979f-2b823636d8be",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/no/#main-content",
+    "action": "https://www.lotushygiene.com/no/soekeresultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/no/#main-content",
+    "action": "https://www.lotushygiene.com/no/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "f7ca7eaf-85f1-4fcb-8aae-028207cb8626",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "b904cbf0-b106-4488-a879-37e0086eace5",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/no/god-hygiene/",
+    "action": "https://www.lotushygiene.com/no/soekeresultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/no/god-hygiene/",
+    "action": "https://www.lotushygiene.com/no/god-hygiene/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "f7ca7eaf-85f1-4fcb-8aae-028207cb8626",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "b904cbf0-b106-4488-a879-37e0086eace5",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/no/rent-hjem/",
+    "action": "https://www.lotushygiene.com/no/soekeresultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/no/rent-hjem/",
+    "action": "https://www.lotushygiene.com/no/rent-hjem/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "f7ca7eaf-85f1-4fcb-8aae-028207cb8626",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "b904cbf0-b106-4488-a879-37e0086eace5",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/no/familieliv/",
+    "action": "https://www.lotushygiene.com/no/soekeresultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/no/familieliv/",
+    "action": "https://www.lotushygiene.com/no/familieliv/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "f7ca7eaf-85f1-4fcb-8aae-028207cb8626",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "b904cbf0-b106-4488-a879-37e0086eace5",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/no/produkter/",
+    "action": "https://www.lotushygiene.com/no/soekeresultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/no/produkter/",
+    "action": "https://www.lotushygiene.com/no/produkter/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "f7ca7eaf-85f1-4fcb-8aae-028207cb8626",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "b904cbf0-b106-4488-a879-37e0086eace5",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/no/baerekraft/",
+    "action": "https://www.lotushygiene.com/no/soekeresultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/no/baerekraft/",
+    "action": "https://www.lotushygiene.com/no/baerekraft/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "f7ca7eaf-85f1-4fcb-8aae-028207cb8626",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "b904cbf0-b106-4488-a879-37e0086eace5",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/no/god-hygiene/hvordan-vaske-hendene-ordentlig/",
+    "action": "https://www.lotushygiene.com/no/soekeresultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/no/god-hygiene/hvordan-vaske-hendene-ordentlig/",
+    "action": "https://www.lotushygiene.com/no/god-hygiene/hvordan-vaske-hendene-ordentlig/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "f7ca7eaf-85f1-4fcb-8aae-028207cb8626",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "b904cbf0-b106-4488-a879-37e0086eace5",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/#main-content",
+    "action": "https://www.lotushygiene.com/fi/hakutulokset/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/#main-content",
+    "action": "https://www.lotushygiene.com/fi/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "NewsletterSubscribe",
+        "placeholder": "Tilaa uutiskirjeemme",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/#main-content",
+    "action": "https://www.lotushygiene.com/fi/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/#main-content",
+    "action": "https://www.lotushygiene.com/fi/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "9c5ee187-07b2-4515-94a5-d461b026aeb8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "f91a2b49-94b1-4fbf-a207-67f1ad8ec437",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "14d0bd5f-6bb6-43de-8a63-d2da9719968a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "62e77db8-58fa-4157-989e-1bb23900fa17",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/",
+    "action": "https://www.lotushygiene.com/fi/hakutulokset/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/",
+    "action": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "NewsletterSubscribe",
+        "placeholder": "Tilaa uutiskirjeemme",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/",
+    "action": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/",
+    "action": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "9c5ee187-07b2-4515-94a5-d461b026aeb8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "f91a2b49-94b1-4fbf-a207-67f1ad8ec437",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "14d0bd5f-6bb6-43de-8a63-d2da9719968a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "62e77db8-58fa-4157-989e-1bb23900fa17",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/#",
+    "action": "https://www.lotushygiene.com/fi/hakutulokset/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/#",
+    "action": "https://www.lotushygiene.com/fi/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "NewsletterSubscribe",
+        "placeholder": "Tilaa uutiskirjeemme",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/#",
+    "action": "https://www.lotushygiene.com/fi/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/#",
+    "action": "https://www.lotushygiene.com/fi/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "9c5ee187-07b2-4515-94a5-d461b026aeb8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "f91a2b49-94b1-4fbf-a207-67f1ad8ec437",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "14d0bd5f-6bb6-43de-8a63-d2da9719968a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "62e77db8-58fa-4157-989e-1bb23900fa17",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/henkilokohtainen-hygienia/",
+    "action": "https://www.lotushygiene.com/fi/hakutulokset/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/henkilokohtainen-hygienia/",
+    "action": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/henkilokohtainen-hygienia/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/henkilokohtainen-hygienia/",
+    "action": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/henkilokohtainen-hygienia/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "9c5ee187-07b2-4515-94a5-d461b026aeb8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "f91a2b49-94b1-4fbf-a207-67f1ad8ec437",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "14d0bd5f-6bb6-43de-8a63-d2da9719968a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "62e77db8-58fa-4157-989e-1bb23900fa17",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/kodin-hygienia/",
+    "action": "https://www.lotushygiene.com/fi/hakutulokset/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/kodin-hygienia/",
+    "action": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/kodin-hygienia/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/kodin-hygienia/",
+    "action": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/kodin-hygienia/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "9c5ee187-07b2-4515-94a5-d461b026aeb8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "f91a2b49-94b1-4fbf-a207-67f1ad8ec437",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "14d0bd5f-6bb6-43de-8a63-d2da9719968a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "62e77db8-58fa-4157-989e-1bb23900fa17",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/kotikonstit-nuhaan/",
+    "action": "https://www.lotushygiene.com/fi/hakutulokset/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/kotikonstit-nuhaan/",
+    "action": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/kotikonstit-nuhaan/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/kotikonstit-nuhaan/",
+    "action": "https://www.lotushygiene.com/fi/hygienia-ja-huolenpito/kotikonstit-nuhaan/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "9c5ee187-07b2-4515-94a5-d461b026aeb8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "f91a2b49-94b1-4fbf-a207-67f1ad8ec437",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "14d0bd5f-6bb6-43de-8a63-d2da9719968a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "62e77db8-58fa-4157-989e-1bb23900fa17",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/puhdas-koti/",
+    "action": "https://www.lotushygiene.com/fi/hakutulokset/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/puhdas-koti/",
+    "action": "https://www.lotushygiene.com/fi/puhdas-koti/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "NewsletterSubscribe",
+        "placeholder": "Tilaa uutiskirjeemme",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/puhdas-koti/",
+    "action": "https://www.lotushygiene.com/fi/puhdas-koti/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/puhdas-koti/",
+    "action": "https://www.lotushygiene.com/fi/puhdas-koti/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "9c5ee187-07b2-4515-94a5-d461b026aeb8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "f91a2b49-94b1-4fbf-a207-67f1ad8ec437",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "14d0bd5f-6bb6-43de-8a63-d2da9719968a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "62e77db8-58fa-4157-989e-1bb23900fa17",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/puhdas-koti/kotisiivous/",
+    "action": "https://www.lotushygiene.com/fi/hakutulokset/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/puhdas-koti/kotisiivous/",
+    "action": "https://www.lotushygiene.com/fi/puhdas-koti/kotisiivous/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/fi/puhdas-koti/kotisiivous/",
+    "action": "https://www.lotushygiene.com/fi/puhdas-koti/kotisiivous/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "9c5ee187-07b2-4515-94a5-d461b026aeb8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "f91a2b49-94b1-4fbf-a207-67f1ad8ec437",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "14d0bd5f-6bb6-43de-8a63-d2da9719968a",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "62e77db8-58fa-4157-989e-1bb23900fa17",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/se/#main-content",
+    "action": "https://www.lotushygiene.com/se/soekeresultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/se/#main-content",
+    "action": "https://www.lotushygiene.com/se/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "477332e1-401b-4326-909e-1fb7e9051dea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "5a364cea-b686-47c5-b808-47b2b1876c7c",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/se/produkter/",
+    "action": "https://www.lotushygiene.com/se/soekeresultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/se/produkter/",
+    "action": "https://www.lotushygiene.com/se/produkter/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "477332e1-401b-4326-909e-1fb7e9051dea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "5a364cea-b686-47c5-b808-47b2b1876c7c",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/se/kontakta-oss/",
+    "action": "https://www.lotushygiene.com/se/soekeresultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/se/kontakta-oss/",
+    "action": "https://www.lotushygiene.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "contact-firstname",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "contact-lastname",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "contact-email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "contact-message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "f73611e8-b6d9-4510-9cf6-3837d2f135c1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "514dfd1f-fcf6-4cc7-9fda-3b8f955c2ab8",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ReCaptcha",
+        "id": "ReCaptcha",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/se/kontakta-oss/",
+    "action": "https://www.lotushygiene.com/se/kontakta-oss/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "477332e1-401b-4326-909e-1fb7e9051dea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "5a364cea-b686-47c5-b808-47b2b1876c7c",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/se/hallbarhet/",
+    "action": "https://www.lotushygiene.com/se/soekeresultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/se/hallbarhet/",
+    "action": "https://www.lotushygiene.com/se/hallbarhet/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "477332e1-401b-4326-909e-1fb7e9051dea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "5a364cea-b686-47c5-b808-47b2b1876c7c",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/se/produkter/hushaallspapper/",
+    "action": "https://www.lotushygiene.com/se/soekeresultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/se/produkter/hushaallspapper/",
+    "action": "https://www.lotushygiene.com/se/produkter/hushaallspapper/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "477332e1-401b-4326-909e-1fb7e9051dea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "5a364cea-b686-47c5-b808-47b2b1876c7c",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/se/produkter/toalettpapper/",
+    "action": "https://www.lotushygiene.com/se/soekeresultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/se/produkter/toalettpapper/",
+    "action": "https://www.lotushygiene.com/se/produkter/toalettpapper/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "477332e1-401b-4326-909e-1fb7e9051dea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "5a364cea-b686-47c5-b808-47b2b1876c7c",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/dk/#main-content",
+    "action": "https://www.lotushygiene.com/dk/resultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/dk/#main-content",
+    "action": "https://www.lotushygiene.com/dk/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "bd833ff2-8cdc-40b9-bf19-7727845fd51b",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "57cb3e61-5b4e-434f-a1ec-23c0ad3078c9",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/dk/produkter/",
+    "action": "https://www.lotushygiene.com/dk/resultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/dk/produkter/",
+    "action": "https://www.lotushygiene.com/dk/produkter/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "bd833ff2-8cdc-40b9-bf19-7727845fd51b",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "57cb3e61-5b4e-434f-a1ec-23c0ad3078c9",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/dk/baeredygtighed/",
+    "action": "https://www.lotushygiene.com/dk/resultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/dk/baeredygtighed/",
+    "action": "https://www.lotushygiene.com/dk/baeredygtighed/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "bd833ff2-8cdc-40b9-bf19-7727845fd51b",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "57cb3e61-5b4e-434f-a1ec-23c0ad3078c9",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/dk/kontakt-os/",
+    "action": "https://www.lotushygiene.com/dk/resultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/dk/kontakt-os/",
+    "action": "https://www.lotushygiene.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "contact-firstname",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "contact-lastname",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "contact-email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "contact-message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "ec44d3ad-8355-49b0-8c97-4b16de1f0dd1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "0b8a6ca2-b404-4cbb-86af-27fa1f04e37e",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ReCaptcha",
+        "id": "ReCaptcha",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/dk/kontakt-os/",
+    "action": "https://www.lotushygiene.com/dk/kontakt-os/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "bd833ff2-8cdc-40b9-bf19-7727845fd51b",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "57cb3e61-5b4e-434f-a1ec-23c0ad3078c9",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/dk/smilindeni/",
+    "action": "https://www.lotushygiene.com/dk/resultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/dk/smilindeni/",
+    "action": "https://www.lotushygiene.com/dk/smilindeni/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "bd833ff2-8cdc-40b9-bf19-7727845fd51b",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "57cb3e61-5b4e-434f-a1ec-23c0ad3078c9",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/dk/produkter/toiletpapir/",
+    "action": "https://www.lotushygiene.com/dk/resultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/dk/produkter/toiletpapir/",
+    "action": "https://www.lotushygiene.com/dk/produkter/toiletpapir/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "bd833ff2-8cdc-40b9-bf19-7727845fd51b",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "57cb3e61-5b4e-434f-a1ec-23c0ad3078c9",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/dk/produkter/koekkenpapir/",
+    "action": "https://www.lotushygiene.com/dk/resultater/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/dk/produkter/koekkenpapir/",
+    "action": "https://www.lotushygiene.com/dk/produkter/koekkenpapir/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "bd833ff2-8cdc-40b9-bf19-7727845fd51b",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "57cb3e61-5b4e-434f-a1ec-23c0ad3078c9",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-nl/#main-content",
+    "action": "https://www.lotushygiene.com/be-nl/zoekresultaten/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-nl/#main-content",
+    "action": "https://www.lotushygiene.com/be-nl/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "NewsletterSubscribe",
+        "placeholder": "Meld je aan",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-nl/#main-content",
+    "action": "https://www.lotushygiene.com/be-nl/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-nl/#main-content",
+    "action": "https://www.lotushygiene.com/be-nl/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "0dea48f5-c15d-4c8a-8daf-fc4a1fa7c4ea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "375b14ab-26d1-4d45-a73d-2628d08a208f",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "c78bc5b5-a4c5-47d1-bbf4-c1c743a080a6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "24756be1-b718-4011-97d4-247d5da625b3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].Id",
+        "id": "c55c68ff-7db1-4763-bc4b-57da0c5e2f08",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "7137533d-e21f-41aa-9497-fd1bd0c7a7be",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].Id",
+        "id": "9a80996d-7561-4337-b6a2-281505bed891",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "b05a6ec2-fa5b-499d-a97e-7054ba2a2d5a",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-nl/hygiene-en-welzijn/",
+    "action": "https://www.lotushygiene.com/be-nl/zoekresultaten/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-nl/hygiene-en-welzijn/",
+    "action": "https://www.lotushygiene.com/be-nl/hygiene-en-welzijn/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "NewsletterSubscribe",
+        "placeholder": "Meld je aan",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-nl/hygiene-en-welzijn/",
+    "action": "https://www.lotushygiene.com/be-nl/hygiene-en-welzijn/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-nl/hygiene-en-welzijn/",
+    "action": "https://www.lotushygiene.com/be-nl/hygiene-en-welzijn/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "0dea48f5-c15d-4c8a-8daf-fc4a1fa7c4ea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "375b14ab-26d1-4d45-a73d-2628d08a208f",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "c78bc5b5-a4c5-47d1-bbf4-c1c743a080a6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "24756be1-b718-4011-97d4-247d5da625b3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].Id",
+        "id": "c55c68ff-7db1-4763-bc4b-57da0c5e2f08",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "7137533d-e21f-41aa-9497-fd1bd0c7a7be",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].Id",
+        "id": "9a80996d-7561-4337-b6a2-281505bed891",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "b05a6ec2-fa5b-499d-a97e-7054ba2a2d5a",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-nl/#",
+    "action": "https://www.lotushygiene.com/be-nl/zoekresultaten/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-nl/#",
+    "action": "https://www.lotushygiene.com/be-nl/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "NewsletterSubscribe",
+        "placeholder": "Meld je aan",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-nl/#",
+    "action": "https://www.lotushygiene.com/be-nl/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-nl/#",
+    "action": "https://www.lotushygiene.com/be-nl/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "0dea48f5-c15d-4c8a-8daf-fc4a1fa7c4ea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "375b14ab-26d1-4d45-a73d-2628d08a208f",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "c78bc5b5-a4c5-47d1-bbf4-c1c743a080a6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "24756be1-b718-4011-97d4-247d5da625b3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].Id",
+        "id": "c55c68ff-7db1-4763-bc4b-57da0c5e2f08",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "7137533d-e21f-41aa-9497-fd1bd0c7a7be",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].Id",
+        "id": "9a80996d-7561-4337-b6a2-281505bed891",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "b05a6ec2-fa5b-499d-a97e-7054ba2a2d5a",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-nl/hygiene-en-welzijn/persoonlijke-hygiene/",
+    "action": "https://www.lotushygiene.com/be-nl/zoekresultaten/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-nl/hygiene-en-welzijn/persoonlijke-hygiene/",
+    "action": "https://www.lotushygiene.com/be-nl/hygiene-en-welzijn/persoonlijke-hygiene/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "frmfooter-email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.lotushygiene.com/be-nl/hygiene-en-welzijn/persoonlijke-hygiene/",
+    "action": "https://www.lotushygiene.com/be-nl/hygiene-en-welzijn/persoonlijke-hygiene/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "0dea48f5-c15d-4c8a-8daf-fc4a1fa7c4ea",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "375b14ab-26d1-4d45-a73d-2628d08a208f",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "c78bc5b5-a4c5-47d1-bbf4-c1c743a080a6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "24756be1-b718-4011-97d4-247d5da625b3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].Id",
+        "id": "c55c68ff-7db1-4763-bc4b-57da0c5e2f08",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "7137533d-e21f-41aa-9497-fd1bd0c7a7be",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[2].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].Id",
+        "id": "9a80996d-7561-4337-b6a2-281505bed891",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "b05a6ec2-fa5b-499d-a97e-7054ba2a2d5a",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[3].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
