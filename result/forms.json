@@ -470348,5 +470348,313 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://libresse.ua",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://libresse.ua",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua/#main-content",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua/shop-our-products/",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua/shop-our-products/period-pads/",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua/shop-our-products/panty-liners/",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua/take-action/",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua/take-action/own-your-period/",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua/our-world/",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua/discover/",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua/faq/",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua/faq/product-knowledge/",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua/shop-our-products/#main-content",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua/shop-our-products/period-pads/#main-content",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua/shop-our-products/panty-liners/#main-content",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua/take-action/#main-content",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua/take-action/own-your-period/#main-content",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua/our-world/#main-content",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua/discover/#main-content",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua/faq/#main-content",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.libresse.ua/faq/product-knowledge/#main-content",
+    "action": "https://www.libresse.ua/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Пошук",
+        "required": false
+      }
+    ]
   }
 ]
