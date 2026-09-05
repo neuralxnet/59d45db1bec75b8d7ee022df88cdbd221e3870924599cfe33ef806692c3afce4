@@ -476823,5 +476823,173 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://medical.essity.com.au",
+    "action": "https://medical.essity.com.au/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=ba3952d60f3079d913662c9dd4d198c7",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.medical.essity.com.au",
+    "action": "https://medical.essity.com.au/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=ba3952d60f3079d913662c9dd4d198c7",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://medical.essity.com.au",
+    "action": "https://medical.essity.com.au/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=ba3952d60f3079d913662c9dd4d198c7",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.com.au/essity-medical-solutions.html",
+    "action": "https://medical.essity.com.au/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=ba3952d60f3079d913662c9dd4d198c7",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.com.au/essity-medical-solutions/contact.html",
+    "action": "https://medical.essity.com.au/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=ba3952d60f3079d913662c9dd4d198c7",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.com.au/",
+    "action": "https://medical.essity.com.au/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=ba3952d60f3079d913662c9dd4d198c7",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.com.au/#",
+    "action": "https://medical.essity.com.au/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=ba3952d60f3079d913662c9dd4d198c7",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.com.au/brands.html",
+    "action": "https://medical.essity.com.au/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=ba3952d60f3079d913662c9dd4d198c7",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
