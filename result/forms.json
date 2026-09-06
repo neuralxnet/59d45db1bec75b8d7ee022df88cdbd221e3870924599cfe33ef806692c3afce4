@@ -477635,5 +477635,82 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://mft.essity.com",
+    "action": "https://mft.essity.com/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "x-js-at",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "continue",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "MFTCSX",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "domain",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "_easyui_textbox_input1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "user",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "_2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "_easyui_textbox_input2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pwd",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
