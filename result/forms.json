@@ -481044,5 +481044,649 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-jo/",
+    "action": "https://www.nana-me.com/ar-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-jo/",
+    "action": "https://www.nana-me.com/en-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-kw/",
+    "action": "https://www.nana-me.com/ar-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-kw/",
+    "action": "https://www.nana-me.com/en-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-lb/",
+    "action": "https://www.nana-me.com/ar-lb/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-lb/",
+    "action": "https://www.nana-me.com/en-lb/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-ae/",
+    "action": "https://www.nana-me.com/ar-ae/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-ae/",
+    "action": "https://www.nana-me.com/en-ae/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-jo/#main-content",
+    "action": "https://www.nana-me.com/ar-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-jo/shop-our-products/available-in-store/sanitary-pads/",
+    "action": "https://www.nana-me.com/ar-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-jo/shop-our-products/available-in-store/panty-liners/",
+    "action": "https://www.nana-me.com/ar-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-jo/shop-our-products/available-in-store/",
+    "action": "https://www.nana-me.com/ar-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-jo/period-tracker/",
+    "action": "https://www.nana-me.com/ar-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-jo/break-taboos/take-action/project-v/",
+    "action": "https://www.nana-me.com/ar-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-jo/break-taboos/take-action/share-your-story/",
+    "action": "https://www.nana-me.com/ar-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-jo/break-taboos/myths-and-facts/your-first-period/",
+    "action": "https://www.nana-me.com/ar-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-jo/break-taboos/myths-and-facts/puberty/",
+    "action": "https://www.nana-me.com/ar-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-jo/break-taboos/myths-and-facts/living-with-periods/",
+    "action": "https://www.nana-me.com/ar-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-jo/#main-content",
+    "action": "https://www.nana-me.com/en-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-jo/shop-our-products/available-in-store/sanitary-pads/",
+    "action": "https://www.nana-me.com/en-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-jo/shop-our-products/available-in-store/",
+    "action": "https://www.nana-me.com/en-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-jo/shop-our-products/available-in-store/panty-liners/",
+    "action": "https://www.nana-me.com/en-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-jo/period-tracker/",
+    "action": "https://www.nana-me.com/en-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-jo/break-taboos/take-action/project-v/",
+    "action": "https://www.nana-me.com/en-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-jo/break-taboos/take-action/share-your-story/",
+    "action": "https://www.nana-me.com/en-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-jo/break-taboos/myths-and-facts/your-first-period/",
+    "action": "https://www.nana-me.com/en-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-jo/break-taboos/myths-and-facts/puberty/",
+    "action": "https://www.nana-me.com/en-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-jo/break-taboos/myths-and-facts/living-with-periods/",
+    "action": "https://www.nana-me.com/en-jo/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-kw/#main-content",
+    "action": "https://www.nana-me.com/ar-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-kw/shop-our-products/available-in-store/sanitary-pads/",
+    "action": "https://www.nana-me.com/ar-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-kw/shop-our-products/available-in-store/panty-liners/",
+    "action": "https://www.nana-me.com/ar-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-kw/shop-our-products/available-in-store/",
+    "action": "https://www.nana-me.com/ar-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-kw/period-tracker/",
+    "action": "https://www.nana-me.com/ar-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-kw/break-taboos/take-action/project-v/",
+    "action": "https://www.nana-me.com/ar-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-kw/break-taboos/take-action/share-your-story/",
+    "action": "https://www.nana-me.com/ar-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-kw/break-taboos/myths-and-facts/your-first-period/",
+    "action": "https://www.nana-me.com/ar-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-kw/break-taboos/myths-and-facts/puberty/",
+    "action": "https://www.nana-me.com/ar-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/ar-kw/break-taboos/myths-and-facts/living-with-periods/",
+    "action": "https://www.nana-me.com/ar-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "بحث",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-kw/#main-content",
+    "action": "https://www.nana-me.com/en-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-kw/shop-our-products/available-in-store/sanitary-pads/",
+    "action": "https://www.nana-me.com/en-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-kw/shop-our-products/available-in-store/",
+    "action": "https://www.nana-me.com/en-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-kw/shop-our-products/available-in-store/panty-liners/",
+    "action": "https://www.nana-me.com/en-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-kw/period-tracker/",
+    "action": "https://www.nana-me.com/en-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-kw/break-taboos/take-action/project-v/",
+    "action": "https://www.nana-me.com/en-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-kw/break-taboos/take-action/share-your-story/",
+    "action": "https://www.nana-me.com/en-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana-me.com/en-kw/break-taboos/myths-and-facts/your-first-period/",
+    "action": "https://www.nana-me.com/en-kw/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
   }
 ]
