@@ -477712,5 +477712,3337 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://mysaba.com",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mysaba.com",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://mysaba.com",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://mysaba.com",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/#main-content",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/#main-content",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/period-pads/",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/period-pads/",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/panty-liners/",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/panty-liners/",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/washes/",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/washes/",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/wet-wipes/",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/wet-wipes/",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/period-tracker/",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/period-tracker/",
+    "action": "https://www.mysaba.com/ajax/core/customtracking/personalizedmodalresult",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveimportant-event0",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveunderstand-fertility1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveknow-cycle-position2",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-ageunder-180",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age18-251",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age26-352",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age36-453",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-ageabove-454",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "period-start-date",
+        "id": "period-calculator-form-period-start-date",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "period-length",
+        "id": "period-calculator-form-period-length",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "cycle-length",
+        "id": "period-calculator-form-cycle-length",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/period-tracker/",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-modal-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-modal-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-modal-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-modal-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-modal-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-modal-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/period-tracker/",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/break-taboos/take-action/project-v/",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/break-taboos/take-action/project-v/",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/break-taboos/take-action/subscribe-newsletter/",
+    "action": "https://www.mysaba.com/ajax/promotions/promotions/submissionform",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PromotionId",
+        "id": "PromotionId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "promotion-newslettersubscription-firstname",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "promotion-newslettersubscription-email",
+        "placeholder": "No worries, we will not display it anywhere",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "promotion-newslettersubscription-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/break-taboos/take-action/subscribe-newsletter/",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/break-taboos/take-action/subscribe-newsletter/",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sampling.mysaba.com/form.html?p=liners-diariosregular-dollar&uid=DBRoHWOco9dBfbL13eAee24h",
+    "action": "https://sampling.mysaba.com/essity-sabaus/confirm-sampling-info/index?vs=ODk0YTk0NmQtNDk2Yy00ODM4LWI0ODgtMzJjZmEyMmM1ZDcwOzA6MjY4ODQwNjI6ODYzMjkwMjU5NDcyOjIyNDA0NTIxMTY6MjI0MDQ1MjExNjsS1",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "frm_product",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_product_slug",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "igtkn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_name",
+        "id": "",
+        "placeholder": "Name *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_lastname",
+        "id": "",
+        "placeholder": "Last name *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_email",
+        "id": "",
+        "placeholder": "Email *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_phone",
+        "id": "",
+        "placeholder": "Phone *",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "frm_state",
+        "id": "frm_state",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "State *",
+          "CA",
+          "TX",
+          "NM",
+          "OK",
+          "AR",
+          "LA",
+          "GA",
+          "FL",
+          "AL",
+          "MS",
+          "AZ"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "frm_address",
+        "id": "frm_address",
+        "placeholder": "Number & street *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_address_2",
+        "id": "frm_address_2",
+        "placeholder": "Suite/Apartment",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_city",
+        "id": "frm_city",
+        "placeholder": "City *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "validate_zip_code",
+        "id": "validate_zip_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_zipcode",
+        "id": "zip_code_input",
+        "placeholder": "Postal code *",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptTermsConditions",
+        "id": "AcceptTermsConditions",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "confirmInformation",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sampling.mysaba.com/form.html?p=pads-ultrathinovernight&uid=DBRoHWOco9dBfbL13eAee24h",
+    "action": "https://sampling.mysaba.com/essity-sabaus/confirm-sampling-info/index?vs=ODk0YTk0NmQtNDk2Yy00ODM4LWI0ODgtMzJjZmEyMmM1ZDcwOzA6MjY4ODQwNjI6ODYzMjkwMjU5NDcyOjIyNDA0NTIxMTY6MjI0MDQ1MjExNjsS1",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "frm_product",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_product_slug",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "igtkn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_name",
+        "id": "",
+        "placeholder": "Name *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_lastname",
+        "id": "",
+        "placeholder": "Last name *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_email",
+        "id": "",
+        "placeholder": "Email *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_phone",
+        "id": "",
+        "placeholder": "Phone *",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "frm_state",
+        "id": "frm_state",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "State *",
+          "CA",
+          "TX",
+          "NM",
+          "OK",
+          "AR",
+          "LA",
+          "GA",
+          "FL",
+          "AL",
+          "MS",
+          "AZ"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "frm_address",
+        "id": "frm_address",
+        "placeholder": "Number & street *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_address_2",
+        "id": "frm_address_2",
+        "placeholder": "Suite/Apartment",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_city",
+        "id": "frm_city",
+        "placeholder": "City *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "validate_zip_code",
+        "id": "validate_zip_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_zipcode",
+        "id": "zip_code_input",
+        "placeholder": "Postal code *",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptTermsConditions",
+        "id": "AcceptTermsConditions",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "confirmInformation",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sampling.mysaba.com/form.html?p=intima-maxiregular&uid=DBRoHWOco9dBfbL13eAee24h",
+    "action": "https://sampling.mysaba.com/essity-sabaus/confirm-sampling-info/index?vs=ODk0YTk0NmQtNDk2Yy00ODM4LWI0ODgtMzJjZmEyMmM1ZDcwOzA6MjY4ODQwNjI6ODYzMjkwMjU5NDcyOjIyNDA0NTIxMTY6MjI0MDQ1MjExNjsS1",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "frm_product",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_product_slug",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "igtkn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_name",
+        "id": "",
+        "placeholder": "Name *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_lastname",
+        "id": "",
+        "placeholder": "Last name *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_email",
+        "id": "",
+        "placeholder": "Email *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_phone",
+        "id": "",
+        "placeholder": "Phone *",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "frm_state",
+        "id": "frm_state",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "State *",
+          "CA",
+          "TX",
+          "NM",
+          "OK",
+          "AR",
+          "LA",
+          "GA",
+          "FL",
+          "AL",
+          "MS",
+          "AZ"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "frm_address",
+        "id": "frm_address",
+        "placeholder": "Number & street *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_address_2",
+        "id": "frm_address_2",
+        "placeholder": "Suite/Apartment",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_city",
+        "id": "frm_city",
+        "placeholder": "City *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "validate_zip_code",
+        "id": "validate_zip_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_zipcode",
+        "id": "zip_code_input",
+        "placeholder": "Postal code *",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptTermsConditions",
+        "id": "AcceptTermsConditions",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "confirmInformation",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sampling.mysaba.com/form.html?p=buenas-noches-maxi-overnight&uid=DBRoHWOco9dBfbL13eAee24h",
+    "action": "https://sampling.mysaba.com/essity-sabaus/confirm-sampling-info/index?vs=ODk0YTk0NmQtNDk2Yy00ODM4LWI0ODgtMzJjZmEyMmM1ZDcwOzA6MjY4ODQwNjI6ODYzMjkwMjU5NDcyOjIyNDA0NTIxMTY6MjI0MDQ1MjExNjsS1",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "frm_product",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_product_slug",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "igtkn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_name",
+        "id": "",
+        "placeholder": "Name *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_lastname",
+        "id": "",
+        "placeholder": "Last name *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_email",
+        "id": "",
+        "placeholder": "Email *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_phone",
+        "id": "",
+        "placeholder": "Phone *",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "frm_state",
+        "id": "frm_state",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "State *",
+          "CA",
+          "TX",
+          "NM",
+          "OK",
+          "AR",
+          "LA",
+          "GA",
+          "FL",
+          "AL",
+          "MS",
+          "AZ"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "frm_address",
+        "id": "frm_address",
+        "placeholder": "Number & street *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_address_2",
+        "id": "frm_address_2",
+        "placeholder": "Suite/Apartment",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_city",
+        "id": "frm_city",
+        "placeholder": "City *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "validate_zip_code",
+        "id": "validate_zip_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_zipcode",
+        "id": "zip_code_input",
+        "placeholder": "Postal code *",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptTermsConditions",
+        "id": "AcceptTermsConditions",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "confirmInformation",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://sampling.mysaba.com/form.html?p=us-diarios-ultrathin&uid=DBRoHWOco9dBfbL13eAee24h",
+    "action": "https://sampling.mysaba.com/essity-sabaus/confirm-sampling-info/index?vs=ODk0YTk0NmQtNDk2Yy00ODM4LWI0ODgtMzJjZmEyMmM1ZDcwOzA6MjY4ODQwNjI6ODYzMjkwMjU5NDcyOjIyNDA0NTIxMTY6MjI0MDQ1MjExNjsS1",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "frm_product",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_product_slug",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "igtkn",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_name",
+        "id": "",
+        "placeholder": "Name *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_lastname",
+        "id": "",
+        "placeholder": "Last name *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_email",
+        "id": "",
+        "placeholder": "Email *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_phone",
+        "id": "",
+        "placeholder": "Phone *",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "frm_state",
+        "id": "frm_state",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "State *",
+          "CA",
+          "TX",
+          "NM",
+          "OK",
+          "AR",
+          "LA",
+          "GA",
+          "FL",
+          "AL",
+          "MS",
+          "AZ"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "frm_address",
+        "id": "frm_address",
+        "placeholder": "Number & street *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_address_2",
+        "id": "frm_address_2",
+        "placeholder": "Suite/Apartment",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_city",
+        "id": "frm_city",
+        "placeholder": "City *",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "validate_zip_code",
+        "id": "validate_zip_code",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "frm_zipcode",
+        "id": "zip_code_input",
+        "placeholder": "Postal code *",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptTermsConditions",
+        "id": "AcceptTermsConditions",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "confirmInformation",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mysaba.com/privacy-policy/",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mysaba.com/privacy-policy/",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/#main-content",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/#main-content",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/period-pads/#main-content",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/period-pads/#main-content",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/panty-liners/#main-content",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/panty-liners/#main-content",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/washes/#main-content",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/washes/#main-content",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/wet-wipes/#main-content",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/our-products/available-in-store/wet-wipes/#main-content",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/period-tracker/#main-content",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/period-tracker/#main-content",
+    "action": "https://www.mysaba.com/ajax/core/customtracking/personalizedmodalresult",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveimportant-event0",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveunderstand-fertility1",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-motive",
+        "id": "periodcalculatorjourneymodal-journey-step-question-motiveknow-cycle-position2",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-ageunder-180",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age18-251",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age26-352",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-age36-453",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "journey-step-question-age",
+        "id": "periodcalculatorjourneymodal-journey-step-question-ageabove-454",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "period-start-date",
+        "id": "period-calculator-form-period-start-date",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "number",
+        "name": "period-length",
+        "id": "period-calculator-form-period-length",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "cycle-length",
+        "id": "period-calculator-form-cycle-length",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/period-tracker/#main-content",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-modal-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-modal-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-modal-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-modal-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-modal-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-modal-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/period-tracker/#main-content",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/break-taboos/take-action/project-v/#main-content",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/break-taboos/take-action/project-v/#main-content",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/break-taboos/take-action/subscribe-newsletter/#main-content",
+    "action": "https://www.mysaba.com/ajax/promotions/promotions/submissionform",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PromotionId",
+        "id": "PromotionId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "promotion-newslettersubscription-firstname",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "promotion-newslettersubscription-email",
+        "placeholder": "No worries, we will not display it anywhere",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "promotion-newslettersubscription-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/break-taboos/take-action/subscribe-newsletter/#main-content",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/break-taboos/take-action/subscribe-newsletter/#main-content",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/privacy-policy/",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/privacy-policy/",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/privacy-policy/#main-content",
+    "action": "https://www.mysaba.com/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Surname",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Your email address (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mysaba.com/privacy-policy/#main-content",
+    "action": "https://www.mysaba.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
   }
 ]
