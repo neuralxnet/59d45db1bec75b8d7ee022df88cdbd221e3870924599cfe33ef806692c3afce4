@@ -477159,5 +477159,215 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://medical.essity.fr",
+    "action": "https://medical.essity.fr/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=2feb0962d79647fcb402c9a2aaa9d748",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.medical.essity.fr",
+    "action": "https://medical.essity.fr/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=2feb0962d79647fcb402c9a2aaa9d748",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://medical.essity.fr",
+    "action": "https://medical.essity.fr/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=2feb0962d79647fcb402c9a2aaa9d748",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.fr/solutions-medicales-essity.html",
+    "action": "https://medical.essity.fr/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=2feb0962d79647fcb402c9a2aaa9d748",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.fr/sitemap.html",
+    "action": "https://medical.essity.fr/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=2feb0962d79647fcb402c9a2aaa9d748",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.fr/solutions-medicales-essity/donnees-personnelles.html",
+    "action": "https://medical.essity.fr/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=2feb0962d79647fcb402c9a2aaa9d748",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.fr/solutions-medicales-essity/contact.html",
+    "action": "https://medical.essity.fr/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=2feb0962d79647fcb402c9a2aaa9d748",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.fr/",
+    "action": "https://medical.essity.fr/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=2feb0962d79647fcb402c9a2aaa9d748",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.fr/#",
+    "action": "https://medical.essity.fr/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=2feb0962d79647fcb402c9a2aaa9d748",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.fr/presentation-de-la-marque.html",
+    "action": "https://medical.essity.fr/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=2feb0962d79647fcb402c9a2aaa9d748",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
