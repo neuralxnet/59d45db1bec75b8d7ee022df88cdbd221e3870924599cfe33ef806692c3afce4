@@ -477369,5 +477369,215 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://medical.essity.nl",
+    "action": "https://medical.essity.nl/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=edcb6306f68599ccbe77fcc255c53934",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.medical.essity.nl",
+    "action": "https://medical.essity.nl/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=edcb6306f68599ccbe77fcc255c53934",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://medical.essity.nl",
+    "action": "https://medical.essity.nl/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=edcb6306f68599ccbe77fcc255c53934",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.nl/home.html",
+    "action": "https://medical.essity.nl/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=edcb6306f68599ccbe77fcc255c53934",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.nl/sitemap.html",
+    "action": "https://medical.essity.nl/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=edcb6306f68599ccbe77fcc255c53934",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.nl/",
+    "action": "https://medical.essity.nl/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=edcb6306f68599ccbe77fcc255c53934",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.nl/home.html#",
+    "action": "https://medical.essity.nl/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=edcb6306f68599ccbe77fcc255c53934",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.nl/merken.html",
+    "action": "https://medical.essity.nl/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=edcb6306f68599ccbe77fcc255c53934",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.nl/sitemap.html#",
+    "action": "https://medical.essity.nl/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=edcb6306f68599ccbe77fcc255c53934",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://medical.essity.nl/merken.html#",
+    "action": "https://medical.essity.nl/search-results.html?tx_indexedsearch_pi2%5Baction%5D=search&tx_indexedsearch_pi2%5Bcontroller%5D=Search&cHash=edcb6306f68599ccbe77fcc255c53934",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "tx_indexedsearch_pi2[search][sword]",
+        "id": "tx-indexedsearch-searchbox-sword",
+        "placeholder": "Search...",
+        "required": false
+      },
+      {
+        "type": "image",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
