@@ -481996,5 +481996,3085 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://nana.fr",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nana.fr",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://nana.fr",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://nana.fr",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/#main-content",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/#main-content",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/achetez-nos-produits/",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/achetez-nos-produits/",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/achetez-nos-produits/disponible-en-magasin/serviettes-hygieniques/",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/achetez-nos-produits/disponible-en-magasin/serviettes-hygieniques/",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/achetez-nos-produits/disponible-en-magasin/protege-lingeries/",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/achetez-nos-produits/disponible-en-magasin/protege-lingeries/",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/calendrier-menstruel/",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/calendrier-menstruel/",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/premieres-regles/",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/premieres-regles/",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/vivre-avec-ses-regles/",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/vivre-avec-ses-regles/",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/puberte/",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/puberte/",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/troubles-menstruels/",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/troubles-menstruels/",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/sexualite-et-grossesse/",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/sexualite-et-grossesse/",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/achetez-nos-produits/disponible-en-magasin/#main-content",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/achetez-nos-produits/disponible-en-magasin/#main-content",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/achetez-nos-produits/disponible-en-magasin/serviettes-hygieniques/#main-content",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/achetez-nos-produits/disponible-en-magasin/serviettes-hygieniques/#main-content",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/achetez-nos-produits/disponible-en-magasin/protege-lingeries/#main-content",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/achetez-nos-produits/disponible-en-magasin/protege-lingeries/#main-content",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/calendrier-menstruel/#main-content",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/calendrier-menstruel/#main-content",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/premieres-regles/#main-content",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/premieres-regles/#main-content",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/vivre-avec-ses-regles/#main-content",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/vivre-avec-ses-regles/#main-content",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/puberte/#main-content",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/puberte/#main-content",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/troubles-menstruels/#main-content",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/troubles-menstruels/#main-content",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/sexualite-et-grossesse/#main-content",
+    "action": "https://www.nana.fr/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Votre prénom",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Votre nom de famille",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Votre adresse e-mail (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptDataPersonalization",
+        "id": "newsletter-subscribe-AcceptDataPersonalization",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptSharingData",
+        "id": "newsletter-subscribe-AcceptSharingData",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "firstname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "surname_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptMarketingCommunication_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptDataPersonalization_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "AcceptSharingData_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.fr/brisez-les-tabous/decouvrir/sexualite-et-grossesse/#main-content",
+    "action": "https://www.nana.fr/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
   }
 ]
