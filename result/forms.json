@@ -481688,5 +481688,313 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://nana.be",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://nana.be",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be/#main-content",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be/achetez-nos-produits/disponible-en-magasin/serviettes/",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be/achetez-nos-produits/disponible-en-magasin/protege-lingeries/",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be/achetez-nos-produits/disponible-en-magasin/",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be/calendrier-menstruel/",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be/brisez-les-tabous/decouvrir/premieres-regles/",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be/brisez-les-tabous/decouvrir/tout-savoir-regles/",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be/brisez-les-tabous/decouvrir/troubles-cycle-menstruel/",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be/brisez-les-tabous/decouvrir/pre-menopause/",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be/brisez-les-tabous/decouvrir/",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be/achetez-nos-produits/disponible-en-magasin/serviettes/#main-content",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be/achetez-nos-produits/disponible-en-magasin/protege-lingeries/#main-content",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be/achetez-nos-produits/disponible-en-magasin/#main-content",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be/calendrier-menstruel/#main-content",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be/brisez-les-tabous/decouvrir/premieres-regles/#main-content",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be/brisez-les-tabous/decouvrir/tout-savoir-regles/#main-content",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be/brisez-les-tabous/decouvrir/troubles-cycle-menstruel/#main-content",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be/brisez-les-tabous/decouvrir/pre-menopause/#main-content",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.nana.be/brisez-les-tabous/decouvrir/#main-content",
+    "action": "https://www.nana.be/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Chercher",
+        "required": false
+      }
+    ]
   }
 ]
