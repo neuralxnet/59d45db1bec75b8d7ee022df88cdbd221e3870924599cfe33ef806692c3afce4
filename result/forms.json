@@ -494231,5 +494231,1839 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://saba.com.mx",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://saba.com.mx",
+    "action": "https://www.saba.com.mx/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx",
+    "action": "https://www.saba.com.mx/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://saba.com.mx",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://saba.com.mx",
+    "action": "https://www.saba.com.mx/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/#main-content",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/#main-content",
+    "action": "https://www.saba.com.mx/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/calzones-menstruales-reutilizables/",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/calzones-menstruales-reutilizables/",
+    "action": "https://www.saba.com.mx/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/calzonesmenstrualesparaadolescentes/",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/calzonesmenstrualesparaadolescentes/",
+    "action": "https://www.saba.com.mx/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/copas-menstruales/",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/copas-menstruales/",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-modal-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-modal-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-modal-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-modal-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-modal-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/copas-menstruales/",
+    "action": "https://www.saba.com.mx/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/toallas-reutilizables/",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/toallas-reutilizables/",
+    "action": "https://www.saba.com.mx/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/aplicador-reusable/",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/aplicador-reusable/",
+    "action": "https://www.saba.com.mx/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/",
+    "action": "https://www.saba.com.mx/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/calzones-menstruales-reutilizables/saba-kit-todo-en-uno/",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/calzones-menstruales-reutilizables/saba-kit-todo-en-uno/",
+    "action": "https://www.saba.com.mx/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "notify-when-back-in-stock-name",
+        "placeholder": "Nombre",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "notify-when-back-in-stock-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/calzones-menstruales-reutilizables/saba-kit-todo-en-uno/",
+    "action": "https://www.saba.com.mx/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/calzones-menstruales-reutilizables/#main-content",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/calzones-menstruales-reutilizables/#main-content",
+    "action": "https://www.saba.com.mx/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/calzonesmenstrualesparaadolescentes/#main-content",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/calzonesmenstrualesparaadolescentes/#main-content",
+    "action": "https://www.saba.com.mx/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/copas-menstruales/#main-content",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/copas-menstruales/#main-content",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-modal-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-modal-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-modal-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-modal-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-modal-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/copas-menstruales/#main-content",
+    "action": "https://www.saba.com.mx/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/toallas-reutilizables/#main-content",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/toallas-reutilizables/#main-content",
+    "action": "https://www.saba.com.mx/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/aplicador-reusable/#main-content",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/aplicador-reusable/#main-content",
+    "action": "https://www.saba.com.mx/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/productos-saba/#main-content",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/productos-saba/#main-content",
+    "action": "https://www.saba.com.mx/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/calzones-menstruales-reutilizables/saba-kit-todo-en-uno/#main-content",
+    "action": "https://www.saba.com.mx/ajax/core/subscription/newslettersignup",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "formId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_cdcCampaignId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_formType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_brandname",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "metadata_pageUrl",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "firstname",
+        "id": "newsletter-subscribe-firstname",
+        "placeholder": "Tu nombre",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "surname",
+        "id": "newsletter-subscribe-surname",
+        "placeholder": "Tu apellido",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "newsletter-subscribe-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      },
+      {
+        "type": "date",
+        "name": "Birthday",
+        "id": "newsletter-subscribe-birthday",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "AcceptMarketingCommunication",
+        "id": "newsletter-subscribe-AcceptMarketingCommunication",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/calzones-menstruales-reutilizables/saba-kit-todo-en-uno/#main-content",
+    "action": "https://www.saba.com.mx/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "notify-when-back-in-stock-name",
+        "placeholder": "Nombre",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "notify-when-back-in-stock-email",
+        "placeholder": "Tu correo electrónico (example@example.com)",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.saba.com.mx/comprar-productos/reutilizables-saba/calzones-menstruales-reutilizables/saba-kit-todo-en-uno/#main-content",
+    "action": "https://www.saba.com.mx/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "q",
+        "id": "modal-search-bar-q",
+        "placeholder": "Buscar",
+        "required": false
+      }
+    ]
   }
 ]
