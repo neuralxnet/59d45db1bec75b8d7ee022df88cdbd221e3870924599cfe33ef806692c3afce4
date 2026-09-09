@@ -506757,5 +506757,33 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://shop.libresse.de",
+    "action": "https://shop.libresse.de/password",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Ihr Passwort",
+        "required": false
+      }
+    ]
   }
 ]
