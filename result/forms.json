@@ -496065,5 +496065,11 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://gms.app.essity.com",
+    "action": "https://login.microsoftonline.com/f101208c-39d3-4c8a-8cc7-ad896b25954f/oauth2/authorize?response_type=code&client_id=fd8a006a-4672-41cd-8598-bf17bcaab9dc&scope=openid&nonce=c75bfc02-b271-4e42-a150-3211dc077a86&redirect_uri=https%3a%2f%2fgms.app.essity.com%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fgms.app.essity.com%5c%2f%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%220f49dcc9-3362-4e17-a2d3-f062f9d06e42%22%7d%23EndOfStateParam%23&client-request-id=0f49dcc9-3362-4e17-a2d3-f062f9d06e42&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&sso_reload=true",
+    "method": "post",
+    "fields": []
   }
 ]
