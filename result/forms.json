@@ -522333,5 +522333,3902 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://shop.libresse.no",
+    "action": "https://shop.libresse.no/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.libresse.no",
+    "action": "https://shop.libresse.no/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.libresse.no",
+    "action": "https://shop.libresse.no/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Søk",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals",
+    "action": "https://shop.libresse.no/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals",
+    "action": "https://shop.libresse.no/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals",
+    "action": "https://shop.libresse.no/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Søk",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals",
+    "action": "https://shop.libresse.no/collections/new-arrivals",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals",
+    "action": "https://shop.libresse.no/collections/new-arrivals",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#MainContent",
+    "action": "https://shop.libresse.no/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#MainContent",
+    "action": "https://shop.libresse.no/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#MainContent",
+    "action": "https://shop.libresse.no/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Søk",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#MainContent",
+    "action": "https://shop.libresse.no/collections/new-arrivals#MainContent",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#MainContent",
+    "action": "https://shop.libresse.no/collections/new-arrivals#MainContent",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar-1",
+    "action": "https://shop.libresse.no/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar-1",
+    "action": "https://shop.libresse.no/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar-1",
+    "action": "https://shop.libresse.no/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Søk",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar-1",
+    "action": "https://shop.libresse.no/collections/new-arrivals#usp__bar-1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar-1",
+    "action": "https://shop.libresse.no/collections/new-arrivals#usp__bar-1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar1",
+    "action": "https://shop.libresse.no/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar1",
+    "action": "https://shop.libresse.no/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar1",
+    "action": "https://shop.libresse.no/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Søk",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar1",
+    "action": "https://shop.libresse.no/collections/new-arrivals#usp__bar1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar1",
+    "action": "https://shop.libresse.no/collections/new-arrivals#usp__bar1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar0",
+    "action": "https://shop.libresse.no/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar0",
+    "action": "https://shop.libresse.no/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar0",
+    "action": "https://shop.libresse.no/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Søk",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar0",
+    "action": "https://shop.libresse.no/collections/new-arrivals#usp__bar0",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar0",
+    "action": "https://shop.libresse.no/collections/new-arrivals#usp__bar0",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar2",
+    "action": "https://shop.libresse.no/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar2",
+    "action": "https://shop.libresse.no/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar2",
+    "action": "https://shop.libresse.no/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Søk",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar2",
+    "action": "https://shop.libresse.no/collections/new-arrivals#usp__bar2",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar2",
+    "action": "https://shop.libresse.no/collections/new-arrivals#usp__bar2",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar3",
+    "action": "https://shop.libresse.no/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar3",
+    "action": "https://shop.libresse.no/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar3",
+    "action": "https://shop.libresse.no/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Søk",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar3",
+    "action": "https://shop.libresse.no/collections/new-arrivals#usp__bar3",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.farge",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.libresse.no/collections/new-arrivals#usp__bar3",
+    "action": "https://shop.libresse.no/collections/new-arrivals#usp__bar3",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.absorbency",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.størrelse",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
