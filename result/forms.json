@@ -538255,5 +538255,5091 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://shop.nana.fr",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr",
+    "action": "https://shop.nana.fr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Rechercher dans la boutique",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/sous-vetements-menstruels-nuit",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/sous-vetements-menstruels-nuit",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/sous-vetements-menstruels-nuit",
+    "action": "https://shop.nana.fr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Rechercher dans la boutique",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes",
+    "action": "https://shop.nana.fr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Rechercher dans la boutique",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes",
+    "action": "https://shop.nana.fr/collections/meilleures-ventes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes",
+    "action": "https://shop.nana.fr/collections/meilleures-ventes",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels",
+    "action": "https://shop.nana.fr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Rechercher dans la boutique",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels",
+    "action": "https://shop.nana.fr/collections/packs-menstruels",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels",
+    "action": "https://shop.nana.fr/collections/packs-menstruels",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/sous-vetements-menstruels-nuit#MainContent",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/sous-vetements-menstruels-nuit#MainContent",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/sous-vetements-menstruels-nuit#MainContent",
+    "action": "https://shop.nana.fr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Rechercher dans la boutique",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/sous-vetements-menstruels-nuit#usp__bar-1",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/sous-vetements-menstruels-nuit#usp__bar-1",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/sous-vetements-menstruels-nuit#usp__bar-1",
+    "action": "https://shop.nana.fr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Rechercher dans la boutique",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/sous-vetements-menstruels-nuit#usp__bar1",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/sous-vetements-menstruels-nuit#usp__bar1",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/sous-vetements-menstruels-nuit#usp__bar1",
+    "action": "https://shop.nana.fr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Rechercher dans la boutique",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/sous-vetements-menstruels-nuit#usp__bar0",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/sous-vetements-menstruels-nuit#usp__bar0",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/sous-vetements-menstruels-nuit#usp__bar0",
+    "action": "https://shop.nana.fr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Rechercher dans la boutique",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/sous-vetements-menstruels-nuit#usp__bar2",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/sous-vetements-menstruels-nuit#usp__bar2",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/sous-vetements-menstruels-nuit#usp__bar2",
+    "action": "https://shop.nana.fr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Rechercher dans la boutique",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#MainContent",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#MainContent",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#MainContent",
+    "action": "https://shop.nana.fr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Rechercher dans la boutique",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#MainContent",
+    "action": "https://shop.nana.fr/collections/meilleures-ventes#MainContent",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#MainContent",
+    "action": "https://shop.nana.fr/collections/meilleures-ventes#MainContent",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar-1",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar-1",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar-1",
+    "action": "https://shop.nana.fr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Rechercher dans la boutique",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar-1",
+    "action": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar-1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar-1",
+    "action": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar-1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar1",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar1",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar1",
+    "action": "https://shop.nana.fr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Rechercher dans la boutique",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar1",
+    "action": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar1",
+    "action": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar0",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar0",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar0",
+    "action": "https://shop.nana.fr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Rechercher dans la boutique",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar0",
+    "action": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar0",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar0",
+    "action": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar0",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar2",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar2",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar2",
+    "action": "https://shop.nana.fr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Rechercher dans la boutique",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar2",
+    "action": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar2",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.m.custom.filter_colour",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar2",
+    "action": "https://shop.nana.fr/collections/meilleures-ventes#usp__bar2",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.taille",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.option.couleur",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#MainContent",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#MainContent",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#MainContent",
+    "action": "https://shop.nana.fr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Rechercher dans la boutique",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#MainContent",
+    "action": "https://shop.nana.fr/collections/packs-menstruels#MainContent",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#MainContent",
+    "action": "https://shop.nana.fr/collections/packs-menstruels#MainContent",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar-1",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar-1",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar-1",
+    "action": "https://shop.nana.fr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Rechercher dans la boutique",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar-1",
+    "action": "https://shop.nana.fr/collections/packs-menstruels#usp__bar-1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar-1",
+    "action": "https://shop.nana.fr/collections/packs-menstruels#usp__bar-1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar1",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar1",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar1",
+    "action": "https://shop.nana.fr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Rechercher dans la boutique",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar1",
+    "action": "https://shop.nana.fr/collections/packs-menstruels#usp__bar1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar1",
+    "action": "https://shop.nana.fr/collections/packs-menstruels#usp__bar1",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar0",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar0",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar0",
+    "action": "https://shop.nana.fr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Rechercher dans la boutique",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar0",
+    "action": "https://shop.nana.fr/collections/packs-menstruels#usp__bar0",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar0",
+    "action": "https://shop.nana.fr/collections/packs-menstruels#usp__bar0",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar2",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar2",
+    "action": "https://shop.nana.fr/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar2",
+    "action": "https://shop.nana.fr/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Rechercher dans la boutique",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar2",
+    "action": "https://shop.nana.fr/collections/packs-menstruels#usp__bar2",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.nana.fr/collections/packs-menstruels#usp__bar2",
+    "action": "https://shop.nana.fr/collections/packs-menstruels#usp__bar2",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.flux",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.p.m.custom.style",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.gte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "filter.v.price.lte",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "filter.v.availability",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
