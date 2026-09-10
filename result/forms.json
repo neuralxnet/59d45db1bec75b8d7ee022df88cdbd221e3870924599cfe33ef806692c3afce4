@@ -543341,5 +543341,269 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://shop.tena.co.uk",
+    "action": "https://shop.tena.co.uk/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.tena.co.uk",
+    "action": "https://shop.tena.co.uk/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.tena.co.uk",
+    "action": "https://shop.tena.co.uk/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search our store",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.tena.co.uk",
+    "action": "https://shop.tena.co.uk/contact#hubspot-embedded-subscribe-form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "ContactTags",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "tenawomen",
+        "id": "footer-firstnewscheck",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "tenamen",
+        "id": "footer-secondnewscheck",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact[first_name]",
+        "id": "FirstName--newsletter",
+        "placeholder": "First Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact[last_name]",
+        "id": "LastName--newsletter",
+        "placeholder": "Last Name",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "NewsletterForm--newsletter",
+        "placeholder": "Enter your email",
+        "required": false
+      },
+      {
+        "type": "date",
+        "name": "contact[note][DOB]",
+        "id": "DOB--newsletter",
+        "placeholder": "DD/MM/YYYY",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "gender",
+        "id": "hubspot-GENDER0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "gender",
+        "id": "hubspot-GENDER1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "gender",
+        "id": "hubspot-GENDER2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "gdpr_compliance_data_sharing",
+        "id": "gdpr_compliance_data_sharing",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "gdpr_compliance_terms_conditions",
+        "id": "gdpr_compliance_terms_conditions",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "gdpr_compliance_data_personalization",
+        "id": "gdpr_compliance_data_personalization",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.tena.co.uk",
+    "action": "https://shop.tena.co.uk/contact#hubspot-popup-form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "ContactTagsPopup",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact[first_name]",
+        "id": "FirstName--newsletter-popup",
+        "placeholder": "First Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact[last_name]",
+        "id": "LastName--newsletter-popup",
+        "placeholder": "Last Name",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "NewsletterForm--newsletter-popup",
+        "placeholder": "Enter your email",
+        "required": false
+      },
+      {
+        "type": "date",
+        "name": "contact[note][DOB]",
+        "id": "DOB--newsletter_popup",
+        "placeholder": "DD/MM/YYYY",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "gender",
+        "id": "hubspot-GENDER0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "gender",
+        "id": "hubspot-GENDER1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "gender",
+        "id": "hubspot-GENDER2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "tenawomen",
+        "id": "popup-firstnewscheck",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "tenamen",
+        "id": "popup-secondnewscheck",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "gdpr_compliance_data_sharing_popup",
+        "id": "gdpr_compliance_data_sharing_popup",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "gdpr_compliance_terms_conditions_popup",
+        "id": "gdpr_compliance_terms_conditions_popup",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "gdpr_compliance_data_personalization_popup",
+        "id": "gdpr_compliance_data_personalization_popup",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
