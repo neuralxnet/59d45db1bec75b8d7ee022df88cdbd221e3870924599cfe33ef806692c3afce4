@@ -543605,5 +543605,157 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://shop.tena.de",
+    "action": "https://shop.tena.de/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.tena.de",
+    "action": "https://shop.tena.de/cart",
+    "method": "post",
+    "fields": []
+  },
+  {
+    "url": "https://shop.tena.de",
+    "action": "https://shop.tena.de/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "options[prefix]",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Durchsuchen Sie unseren Shop",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://shop.tena.de",
+    "action": "https://shop.tena.de/contact#hubspot-embedded-subscribe-form",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "form_type",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contact[tags]",
+        "id": "ContactTags",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "tenawomen",
+        "id": "footer-firstnewscheck",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "tenamen",
+        "id": "footer-secondnewscheck",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact[first_name]",
+        "id": "FirstName--newsletter",
+        "placeholder": "Vorname",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact[last_name]",
+        "id": "LastName--newsletter",
+        "placeholder": "Nachname",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "contact[email]",
+        "id": "NewsletterForm--newsletter",
+        "placeholder": "email@adresse.com",
+        "required": false
+      },
+      {
+        "type": "date",
+        "name": "contact[note][DOB]",
+        "id": "DOB--newsletter",
+        "placeholder": "DD/MM/YYYY",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "gender",
+        "id": "hubspot-GENDER0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "gender",
+        "id": "hubspot-GENDER1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "gender",
+        "id": "hubspot-GENDER2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "gdpr_compliance_data_sharing",
+        "id": "gdpr_compliance_data_sharing",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "gdpr_compliance_terms_conditions",
+        "id": "gdpr_compliance_terms_conditions",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "gdpr_compliance_data_personalization",
+        "id": "gdpr_compliance_data_personalization",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
