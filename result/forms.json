@@ -559349,5 +559349,1671 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.tena.es/mujer/contacto",
+    "action": "https://www.tena.es/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56964-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56964-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56964-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56964-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56964-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56964-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56964-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Salutation_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address-Second-Line_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PostCode_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "City_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "County_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Country_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_check_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PhoneNumber_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authorise_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "loyality_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Salutation",
+        "id": "56964-106617__Salutation",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          " ",
+          "Sr.",
+          "Sra.",
+          "Srta."
+        ]
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "56964-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "56964-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address",
+        "id": "56964-106617__Address",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address-Second-Line",
+        "id": "56964-106617__Address-Second-Line",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "PostCode",
+        "id": "56964-106617__PostCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "56964-106617__City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "County",
+        "id": "56964-106617__County",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Country",
+        "id": "56964-106617__Country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "España"
+        ]
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "56964-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email_check",
+        "id": "56964-106617__txtEmailAgain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "PhoneNumber",
+        "id": "56964-106617__PhoneNumber",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "date",
+        "name": "birthdate",
+        "id": "56964-106617__birthdate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "56964-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "56964-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "authorise",
+        "id": "56964-106617__authorise",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56964-106617__OptinData",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "loyality",
+        "id": "56964-106617__loyality_yes",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.es/hombres/contacto",
+    "action": "https://www.tena.es/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_check_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PostCode_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "City_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "County_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Country_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authorise_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "4390-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "4390-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "4390-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email_check",
+        "id": "4390-106617__txtEmailAgain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address",
+        "id": "4390-106617__Address",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "PostCode",
+        "id": "4390-106617__PostCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "4390-106617__City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "County",
+        "id": "4390-106617__County",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Country",
+        "id": "4390-106617__Country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "España"
+        ]
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "4390-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "4390-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "authorise",
+        "id": "4390-106617__authorise",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.es/cuidadores/contacto",
+    "action": "https://www.tena.es/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56758-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56758-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56758-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56758-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56758-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56758-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56758-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Salutation_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address-Second-Line_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PostCode_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "City_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "County_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Country_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_check_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PhoneNumber_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authorise_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Salutation",
+        "id": "56758-106617__Salutation",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          " ",
+          "Sr.",
+          "Sra.",
+          "Srta."
+        ]
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "56758-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "56758-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address",
+        "id": "56758-106617__Address",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address-Second-Line",
+        "id": "56758-106617__Address-Second-Line",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "PostCode",
+        "id": "56758-106617__PostCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "56758-106617__City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "County",
+        "id": "56758-106617__County",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Country",
+        "id": "56758-106617__Country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "España"
+        ]
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "56758-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email_check",
+        "id": "56758-106617__txtEmailAgain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "PhoneNumber",
+        "id": "56758-106617__PhoneNumber",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "birthdate",
+        "id": "56758-106617__birthdate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "56758-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "56758-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "authorise",
+        "id": "56758-106617__authorise",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.es/mujer/contacto#main",
+    "action": "https://www.tena.es/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56964-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56964-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56964-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56964-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56964-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56964-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56964-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Salutation_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address-Second-Line_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PostCode_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "City_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "County_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Country_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_check_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PhoneNumber_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authorise_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "loyality_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Salutation",
+        "id": "56964-106617__Salutation",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          " ",
+          "Sr.",
+          "Sra.",
+          "Srta."
+        ]
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "56964-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "56964-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address",
+        "id": "56964-106617__Address",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address-Second-Line",
+        "id": "56964-106617__Address-Second-Line",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "PostCode",
+        "id": "56964-106617__PostCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "56964-106617__City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "County",
+        "id": "56964-106617__County",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Country",
+        "id": "56964-106617__Country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "España"
+        ]
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "56964-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email_check",
+        "id": "56964-106617__txtEmailAgain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "PhoneNumber",
+        "id": "56964-106617__PhoneNumber",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "birthdate",
+        "id": "56964-106617__birthdate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "56964-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "56964-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "authorise",
+        "id": "56964-106617__authorise",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56964-106617__OptinData",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "loyality",
+        "id": "56964-106617__loyality_yes",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.es/hombres/contacto#main",
+    "action": "https://www.tena.es/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_check_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PostCode_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "City_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "County_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Country_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authorise_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "4390-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "4390-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "4390-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email_check",
+        "id": "4390-106617__txtEmailAgain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address",
+        "id": "4390-106617__Address",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "PostCode",
+        "id": "4390-106617__PostCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "4390-106617__City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "County",
+        "id": "4390-106617__County",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Country",
+        "id": "4390-106617__Country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "España"
+        ]
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "4390-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "4390-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "authorise",
+        "id": "4390-106617__authorise",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.es/cuidadores/contacto#main",
+    "action": "https://www.tena.es/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56758-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56758-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56758-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56758-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56758-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56758-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56758-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Salutation_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address-Second-Line_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PostCode_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "City_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "County_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Country_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_check_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PhoneNumber_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authorise_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Salutation",
+        "id": "56758-106617__Salutation",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          " ",
+          "Sr.",
+          "Sra.",
+          "Srta."
+        ]
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "56758-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "56758-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address",
+        "id": "56758-106617__Address",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address-Second-Line",
+        "id": "56758-106617__Address-Second-Line",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "PostCode",
+        "id": "56758-106617__PostCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "56758-106617__City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "County",
+        "id": "56758-106617__County",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Country",
+        "id": "56758-106617__Country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "España"
+        ]
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "56758-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email_check",
+        "id": "56758-106617__txtEmailAgain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "PhoneNumber",
+        "id": "56758-106617__PhoneNumber",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "birthdate",
+        "id": "56758-106617__birthdate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "56758-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "56758-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "authorise",
+        "id": "56758-106617__authorise",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
