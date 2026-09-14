@@ -562551,5 +562551,1989 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.tena.gr/gynaikes/epikoinwniste-mazi-mas",
+    "action": "https://www.tena.gr/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56970-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56970-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56970-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56970-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56970-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56970-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56970-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Salutation_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_check_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address-Second-Line_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PostCode_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "City_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Country_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PhoneNumber_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authorise_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "loyality_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Salutation",
+        "id": "56970-106617__Salutation",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          " ",
+          "Κος",
+          "Κα"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "56970-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "56970-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "56970-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email_check",
+        "id": "56970-106617__txtEmailAgain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address",
+        "id": "56970-106617__Address",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address-Second-Line",
+        "id": "56970-106617__Address-Second-Line",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "PostCode",
+        "id": "56970-106617__PostCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "56970-106617__City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Country",
+        "id": "56970-106617__Country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          " ",
+          "Ελλάδα"
+        ]
+      },
+      {
+        "type": "number",
+        "name": "PhoneNumber",
+        "id": "56970-106617__PhoneNumber",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "56970-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "date",
+        "name": "birthdate",
+        "id": "56970-106617__birthdate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "56970-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "authorise",
+        "id": "56970-106617__authorise",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56970-106617__OptinData",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "loyality",
+        "id": "56970-106617__loyality_yes",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.gr/gynaikes/proionta/dwrean-deigma",
+    "action": "https://www.tena.gr/Forms/SampleOrderNextStep",
+    "method": "post",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-9",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-46503018",
+        "id": "AvailableSizesOfSelectedItem-46503018",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1006M",
+          "1006L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-12",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-46503046",
+        "id": "AvailableSizesOfSelectedItem-46503046",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1007M",
+          "1007L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-13",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-47093063",
+        "id": "AvailableSizesOfSelectedItem-47093063",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1330M",
+          "1330L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-14",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-47093066",
+        "id": "AvailableSizesOfSelectedItem-47093066",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1754S",
+          "1754M",
+          "1754L",
+          "1754XL"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-15",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-47093060",
+        "id": "AvailableSizesOfSelectedItem-47093060",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1771M",
+          "1771L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-16",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.gr/andres/proionta/dwrean-deigma",
+    "action": "https://www.tena.gr/Forms/SampleOrderNextStep",
+    "method": "post",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-1439",
+        "id": "AvailableSizesOfSelectedItem-1439",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1439M",
+          "1439L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-47093063",
+        "id": "AvailableSizesOfSelectedItem-47093063",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1330M",
+          "1330L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-47093066",
+        "id": "AvailableSizesOfSelectedItem-47093066",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1754S",
+          "1754M",
+          "1754L",
+          "1754XL"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-47093060",
+        "id": "AvailableSizesOfSelectedItem-47093060",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1771M",
+          "1771L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-6",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.gr/gia-tous-paroxous-frontidas/epikoinwniste-mazi-mas",
+    "action": "https://www.tena.gr/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "54160-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "54160-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "54160-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "54160-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "54160-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "54160-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "54160-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Salutation_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_check_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address-Second-Line_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PostCode_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "City_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Country_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PhoneNumber_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authorise_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Salutation",
+        "id": "54160-106617__Salutation",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          " ",
+          "Κος",
+          "Κα"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "54160-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "54160-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "54160-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email_check",
+        "id": "54160-106617__txtEmailAgain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address",
+        "id": "54160-106617__Address",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address-Second-Line",
+        "id": "54160-106617__Address-Second-Line",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "PostCode",
+        "id": "54160-106617__PostCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "54160-106617__City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Country",
+        "id": "54160-106617__Country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          " ",
+          "Ελλάδα"
+        ]
+      },
+      {
+        "type": "number",
+        "name": "PhoneNumber",
+        "id": "54160-106617__PhoneNumber",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "54160-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "birthdate",
+        "id": "54160-106617__birthdate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "54160-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "authorise",
+        "id": "54160-106617__authorise",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.gr/gia-tous-paroxous-frontidas/proionta/dwrean-deigma",
+    "action": "https://www.tena.gr/Forms/SampleOrderNextStep",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-46658018",
+        "id": "AvailableSizesOfSelectedItem-46658018",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1304M",
+          "1304L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-47093063",
+        "id": "AvailableSizesOfSelectedItem-47093063",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1330M",
+          "1330L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-47093066",
+        "id": "AvailableSizesOfSelectedItem-47093066",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1754S",
+          "1754M",
+          "1754L",
+          "1754XL"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-47093060",
+        "id": "AvailableSizesOfSelectedItem-47093060",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1771M",
+          "1771L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-8",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.gr/gynaikes/epikoinwniste-mazi-mas#main",
+    "action": "https://www.tena.gr/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56970-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56970-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56970-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56970-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56970-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56970-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56970-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Salutation_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_check_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address-Second-Line_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PostCode_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "City_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Country_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PhoneNumber_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authorise_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "loyality_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Salutation",
+        "id": "56970-106617__Salutation",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          " ",
+          "Κος",
+          "Κα"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "56970-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "56970-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "56970-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email_check",
+        "id": "56970-106617__txtEmailAgain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address",
+        "id": "56970-106617__Address",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address-Second-Line",
+        "id": "56970-106617__Address-Second-Line",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "PostCode",
+        "id": "56970-106617__PostCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "56970-106617__City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Country",
+        "id": "56970-106617__Country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          " ",
+          "Ελλάδα"
+        ]
+      },
+      {
+        "type": "number",
+        "name": "PhoneNumber",
+        "id": "56970-106617__PhoneNumber",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "56970-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "birthdate",
+        "id": "56970-106617__birthdate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "56970-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "authorise",
+        "id": "56970-106617__authorise",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56970-106617__OptinData",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "loyality",
+        "id": "56970-106617__loyality_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.gr/gynaikes/proionta/dwrean-deigma#main",
+    "action": "https://www.tena.gr/Forms/SampleOrderNextStep",
+    "method": "post",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-8",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-9",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-10",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-46503018",
+        "id": "AvailableSizesOfSelectedItem-46503018",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1006M",
+          "1006L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-11",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-12",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-46503046",
+        "id": "AvailableSizesOfSelectedItem-46503046",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1007M",
+          "1007L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-13",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-47093063",
+        "id": "AvailableSizesOfSelectedItem-47093063",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1330M",
+          "1330L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-14",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-47093066",
+        "id": "AvailableSizesOfSelectedItem-47093066",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1754S",
+          "1754M",
+          "1754L",
+          "1754XL"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-15",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-47093060",
+        "id": "AvailableSizesOfSelectedItem-47093060",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1771M",
+          "1771L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-16",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.gr/andres/proionta/dwrean-deigma#main",
+    "action": "https://www.tena.gr/Forms/SampleOrderNextStep",
+    "method": "post",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-1439",
+        "id": "AvailableSizesOfSelectedItem-1439",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1439M",
+          "1439L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-47093063",
+        "id": "AvailableSizesOfSelectedItem-47093063",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1330M",
+          "1330L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-47093066",
+        "id": "AvailableSizesOfSelectedItem-47093066",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1754S",
+          "1754M",
+          "1754L",
+          "1754XL"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-47093060",
+        "id": "AvailableSizesOfSelectedItem-47093060",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1771M",
+          "1771L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-6",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.gr/gia-tous-paroxous-frontidas/epikoinwniste-mazi-mas#main",
+    "action": "https://www.tena.gr/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "54160-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "54160-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "54160-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "54160-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "54160-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "54160-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "54160-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Salutation_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_check_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address-Second-Line_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PostCode_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "City_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Country_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PhoneNumber_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authorise_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Salutation",
+        "id": "54160-106617__Salutation",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          " ",
+          "Κος",
+          "Κα"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "54160-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "54160-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "54160-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email_check",
+        "id": "54160-106617__txtEmailAgain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address",
+        "id": "54160-106617__Address",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address-Second-Line",
+        "id": "54160-106617__Address-Second-Line",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "PostCode",
+        "id": "54160-106617__PostCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "54160-106617__City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "Country",
+        "id": "54160-106617__Country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          " ",
+          "Ελλάδα"
+        ]
+      },
+      {
+        "type": "number",
+        "name": "PhoneNumber",
+        "id": "54160-106617__PhoneNumber",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "54160-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "date",
+        "name": "birthdate",
+        "id": "54160-106617__birthdate",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "54160-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "authorise",
+        "id": "54160-106617__authorise",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.gr/gia-tous-paroxous-frontidas/proionta/dwrean-deigma#main",
+    "action": "https://www.tena.gr/Forms/SampleOrderNextStep",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-46658018",
+        "id": "AvailableSizesOfSelectedItem-46658018",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1304M",
+          "1304L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-0",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-47093063",
+        "id": "AvailableSizesOfSelectedItem-47093063",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1330M",
+          "1330L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-47093066",
+        "id": "AvailableSizesOfSelectedItem-47093066",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1754S",
+          "1754M",
+          "1754L",
+          "1754XL"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AvailableSizesOfSelectedItem-47093060",
+        "id": "AvailableSizesOfSelectedItem-47093060",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Διαθέσιμα μεγέθη",
+          "1771M",
+          "1771L"
+        ]
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-3",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-4",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-5",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-6",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-7",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "products",
+        "id": "product-8",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
