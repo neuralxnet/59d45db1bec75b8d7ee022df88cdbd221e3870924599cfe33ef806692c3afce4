@@ -573893,5 +573893,810 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.tena.no/kvinner/kontakt-oss",
+    "action": "https://www.tena.no/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56984-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56984-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56984-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56984-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56984-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56984-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56984-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "56984-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "56984-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "56984-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "56984-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "56984-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.no/menn/kontakt-oss",
+    "action": "https://www.tena.no/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "4390-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "4390-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "4390-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "4390-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "4390-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.no/parorende/kontakt-oss",
+    "action": "https://www.tena.no/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56791-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56791-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56791-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56791-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56791-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56791-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56791-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "56791-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "56791-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "56791-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "56791-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "56791-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.no/kvinner/kontakt-oss#main",
+    "action": "https://www.tena.no/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56984-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56984-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56984-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56984-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56984-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56984-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56984-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "56984-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "56984-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "56984-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "56984-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "56984-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.no/menn/kontakt-oss#main",
+    "action": "https://www.tena.no/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "4390-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "4390-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "4390-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "4390-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "4390-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.no/parorende/kontakt-oss#main",
+    "action": "https://www.tena.no/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56791-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56791-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56791-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56791-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56791-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56791-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56791-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "56791-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "56791-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "56791-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "56791-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "56791-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "g-recaptcha-response",
+        "id": "g-recaptcha-response",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
