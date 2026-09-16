@@ -574698,5 +574698,1621 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.tena.nu/kvinnor/produkter",
+    "action": "https://www.tena.nu/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "221509-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "221509-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "221509-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "221509-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "221509-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "221509-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "221509-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "221509-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "221509-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.nu/kvinnor/kontakta-oss",
+    "action": "https://www.tena.nu/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "57010-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "57010-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "57010-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "57010-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "57010-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "57010-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "57010-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_check_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "City_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authorise_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "57010-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "57010-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "57010-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email_check",
+        "id": "57010-106617__txtEmailAgain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "57010-106617__City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "57010-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "57010-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "authorise",
+        "id": "57010-106617__authorise",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.nu/kvinnor/produkter#main",
+    "action": "https://www.tena.nu/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "221509-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "221509-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "221509-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "221509-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "221509-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "221509-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "221509-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "221509-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "221509-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.nu/men/kontakta-oss",
+    "action": "https://www.tena.nu/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_check_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address-Second-Line_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PostCode_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "City_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "4390-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "4390-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "4390-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "4390-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email_check",
+        "id": "4390-106617__txtEmailAgain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address",
+        "id": "4390-106617__Address",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address-Second-Line",
+        "id": "4390-106617__Address-Second-Line",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "PostCode",
+        "id": "4390-106617__PostCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "4390-106617__City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "4390-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.nu/anhorig/kontakta-oss",
+    "action": "https://www.tena.nu/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56825-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56825-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56825-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56825-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56825-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56825-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56825-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_check_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "City_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authorise_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "56825-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "56825-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "56825-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email_check",
+        "id": "56825-106617__txtEmailAgain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "56825-106617__City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "56825-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "56825-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "authorise",
+        "id": "56825-106617__authorise",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.nu/vardpersonal/kontakt/kontakta-oss/",
+    "action": "https://www.tena.nu/vardpersonal/kontakt/kontakta-oss/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "Message_tcm:239-10123",
+        "placeholder": "Ställ din fråga …",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Organization",
+        "id": "Organization_tcm:239-9835",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "LastName_tcm:239-9828",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "FirstName_tcm:239-9827",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address1",
+        "id": "Address1_tcm:239-9829",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "repeat_Email",
+        "id": "repeat_Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Postcode",
+        "id": "Postcode_tcm:239-9831",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "City_tcm:239-9832",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "PhoneNumber",
+        "id": "PhoneNumber_tcm:239-10121",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AccountType",
+        "id": "AccountType",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "Hemmavarande med hemtjänst",
+          "Stöd-/pensionärsboende",
+          "Bandagist",
+          "Centrala butiker",
+          "Kommersiellt",
+          "Samhälle",
+          "Kooperativ",
+          "Region",
+          "Funktionsnedsättning",
+          "Apotek",
+          "Personalförsäljning",
+          "Externa onlinebutiker",
+          "Myndigheter",
+          "Vårdcentral",
+          "Läkarmottagning",
+          "Hemleverans",
+          "Hospis",
+          "Postorder",
+          "Butik för medicintekniska produkter",
+          "Leverantörer av medicintekniska produkter",
+          "Kommun",
+          "Äldreboende",
+          "Ortopedisk butik",
+          "Övrigt",
+          "Apoteksgrossister",
+          "Privat sjukhus",
+          "Offentligt sjukhus",
+          "Inköpsgrupp",
+          "Försäkringskassa",
+          "Sport",
+          "Stiftelse",
+          "Veterinär",
+          "Volymleverantörer",
+          "Nätbutik",
+          "Grossist"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "name": "IsAcceptPolicy",
+        "id": "newsletter_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "IsSubscribeNewsletter",
+        "id": "authorise_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ConfirmationEmailToCustomerTcmId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ConfirmationEmailToExternalTcmId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "EncodedCCEmailRecipient",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "EncodedExternalEmailRecipient",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hdnAddressFromString",
+        "id": "hdnAddressFromString",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.nu/kvinnor/kontakta-oss#main",
+    "action": "https://www.tena.nu/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "57010-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "57010-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "57010-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "57010-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "57010-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "57010-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "57010-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_check_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "City_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authorise_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "57010-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "57010-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "57010-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email_check",
+        "id": "57010-106617__txtEmailAgain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "57010-106617__City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "57010-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "57010-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "authorise",
+        "id": "57010-106617__authorise",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.nu/men/kontakta-oss#main",
+    "action": "https://www.tena.nu/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "4390-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_check_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Address-Second-Line_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "PostCode_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "City_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "4390-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "4390-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "4390-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "4390-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email_check",
+        "id": "4390-106617__txtEmailAgain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address",
+        "id": "4390-106617__Address",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address-Second-Line",
+        "id": "4390-106617__Address-Second-Line",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "PostCode",
+        "id": "4390-106617__PostCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "4390-106617__City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "4390-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.nu/anhorig/kontakta-oss#main",
+    "action": "https://www.tena.nu/Forms/ProcessForm",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56825-106617__IdentificationSourceId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56825-106617__PageType",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56825-106617__LanguageCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56825-106617__CountryCode",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56825-106617__PageId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56825-106617__SegmentName",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "56825-106617__IsSampleOrderForm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "FirstName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "LastName_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Email_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_check_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "City_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "Message_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "termsandcondition_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "authorise_Label",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "56825-106617__FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "56825-106617__LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "56825-106617__Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "email_check",
+        "id": "56825-106617__txtEmailAgain",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "56825-106617__City",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "56825-106617__Message",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "termsandcondition",
+        "id": "56825-106617__termsandcondition_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "authorise",
+        "id": "56825-106617__authorise",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.tena.nu/vardpersonal/kontakt/kontakta-oss/#main_content",
+    "action": "https://www.tena.nu/vardpersonal/kontakt/kontakta-oss/#main_content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "Message_tcm:239-10123",
+        "placeholder": "Ställ din fråga …",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Organization",
+        "id": "Organization_tcm:239-9835",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "LastName",
+        "id": "LastName_tcm:239-9828",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "FirstName_tcm:239-9827",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Address1",
+        "id": "Address1_tcm:239-9829",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "repeat_Email",
+        "id": "repeat_Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Postcode",
+        "id": "Postcode_tcm:239-9831",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "City",
+        "id": "City_tcm:239-9832",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "PhoneNumber",
+        "id": "PhoneNumber_tcm:239-10121",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "AccountType",
+        "id": "AccountType",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "0",
+          "Hemmavarande med hemtjänst",
+          "Stöd-/pensionärsboende",
+          "Bandagist",
+          "Centrala butiker",
+          "Kommersiellt",
+          "Samhälle",
+          "Kooperativ",
+          "Region",
+          "Funktionsnedsättning",
+          "Apotek",
+          "Personalförsäljning",
+          "Externa onlinebutiker",
+          "Myndigheter",
+          "Vårdcentral",
+          "Läkarmottagning",
+          "Hemleverans",
+          "Hospis",
+          "Postorder",
+          "Butik för medicintekniska produkter",
+          "Leverantörer av medicintekniska produkter",
+          "Kommun",
+          "Äldreboende",
+          "Ortopedisk butik",
+          "Övrigt",
+          "Apoteksgrossister",
+          "Privat sjukhus",
+          "Offentligt sjukhus",
+          "Inköpsgrupp",
+          "Försäkringskassa",
+          "Sport",
+          "Stiftelse",
+          "Veterinär",
+          "Volymleverantörer",
+          "Nätbutik",
+          "Grossist"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "name": "IsAcceptPolicy",
+        "id": "newsletter_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "IsSubscribeNewsletter",
+        "id": "authorise_yes",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ConfirmationEmailToCustomerTcmId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ConfirmationEmailToExternalTcmId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "EncodedCCEmailRecipient",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "EncodedExternalEmailRecipient",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hdnAddressFromString",
+        "id": "hdnAddressFromString",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
