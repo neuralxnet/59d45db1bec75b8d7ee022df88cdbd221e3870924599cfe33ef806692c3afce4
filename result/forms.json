@@ -590359,5 +590359,651 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://tenanet.tenaprofessionals.ca",
+    "action": "https://tenanet.tenaprofessionals.ca/Logon/login-page/?ReturnUrl=%2f",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ctl00$ContentMainBody$LogOnView$LogOnControl$UserName",
+        "id": "ctl00_ContentMainBody_LogOnView_LogOnControl_UserName",
+        "placeholder": "UserName",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "ctl00$ContentMainBody$LogOnView$LogOnControl$Password",
+        "id": "ctl00_ContentMainBody_LogOnView_LogOnControl_Password",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$ContentMainBody$LogOnView$LogOnControl$LoginBtn",
+        "id": "ctl00_ContentMainBody_LogOnView_LogOnControl_LoginBtn",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "ctl00$ContentMainBody$Notify1$btnNotifyLockedAccount",
+        "id": "ctl00_ContentMainBody_Notify1_btnNotifyLockedAccount",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentMainBody$EmailAccessBody",
+        "id": "ctl00_ContentMainBody_EmailAccessBody",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentMainBody$EmailAccessSubject",
+        "id": "ctl00_ContentMainBody_EmailAccessSubject",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentMainBody$HiddenField1",
+        "id": "ctl00_ContentMainBody_HiddenField1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentMainBody$HiddenField2",
+        "id": "ctl00_ContentMainBody_HiddenField2",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tenanet.tenaprofessionals.ca/contact-/",
+    "action": "https://tenanet.tenaprofessionals.ca/contact-/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "ctl00$TeaserPlaceHolder$XForm$FormControlLeft$Topic",
+        "id": "ctl00_TeaserPlaceHolder_XForm_FormControlLeft_Topic",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "--Select--",
+          "Contact My Sales Representative",
+          "Product Question",
+          "I Would Like Access to a TENA® Program or Service",
+          "Technical Issue with Website",
+          "Other Topic"
+        ]
+      },
+      {
+        "type": "textarea",
+        "name": "ctl00$TeaserPlaceHolder$XForm$FormControlLeft$Question",
+        "id": "ctl00_TeaserPlaceHolder_XForm_FormControlLeft_Question",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ctl00$TeaserPlaceHolder$XForm$FormControlLeft$CompanyName",
+        "id": "ctl00_TeaserPlaceHolder_XForm_FormControlLeft_CompanyName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ctl00$TeaserPlaceHolder$XForm$FormControlLeft$cust_no",
+        "id": "ctl00_TeaserPlaceHolder_XForm_FormControlLeft_cust_no",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ctl00$TeaserPlaceHolder$XForm$FormControlLeft$FirstName",
+        "id": "ctl00_TeaserPlaceHolder_XForm_FormControlLeft_FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ctl00$TeaserPlaceHolder$XForm$FormControlLeft$LastName",
+        "id": "ctl00_TeaserPlaceHolder_XForm_FormControlLeft_LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ctl00$TeaserPlaceHolder$XForm$FormControlLeft$Email",
+        "id": "ctl00_TeaserPlaceHolder_XForm_FormControlLeft_Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ctl00$TeaserPlaceHolder$XForm$FormControlLeft$PhoneNumber",
+        "id": "ctl00_TeaserPlaceHolder_XForm_FormControlLeft_PhoneNumber",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$TeaserPlaceHolder$XForm$FormControlLeft$ctl10",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tenanet.tenaprofessionals.ca/Logon/login-page/?ReturnUrl=/#legal",
+    "action": "https://tenanet.tenaprofessionals.ca/Logon/login-page/?ReturnUrl=%2f",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ctl00$ContentMainBody$LogOnView$LogOnControl$UserName",
+        "id": "ctl00_ContentMainBody_LogOnView_LogOnControl_UserName",
+        "placeholder": "UserName",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "ctl00$ContentMainBody$LogOnView$LogOnControl$Password",
+        "id": "ctl00_ContentMainBody_LogOnView_LogOnControl_Password",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$ContentMainBody$LogOnView$LogOnControl$LoginBtn",
+        "id": "ctl00_ContentMainBody_LogOnView_LogOnControl_LoginBtn",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "ctl00$ContentMainBody$Notify1$btnNotifyLockedAccount",
+        "id": "ctl00_ContentMainBody_Notify1_btnNotifyLockedAccount",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentMainBody$EmailAccessBody",
+        "id": "ctl00_ContentMainBody_EmailAccessBody",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentMainBody$EmailAccessSubject",
+        "id": "ctl00_ContentMainBody_EmailAccessSubject",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentMainBody$HiddenField1",
+        "id": "ctl00_ContentMainBody_HiddenField1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentMainBody$HiddenField2",
+        "id": "ctl00_ContentMainBody_HiddenField2",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tenanet.tenaprofessionals.ca/Logon/login-page/?ReturnUrl=/#privacy",
+    "action": "https://tenanet.tenaprofessionals.ca/Logon/login-page/?ReturnUrl=%2f",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ctl00$ContentMainBody$LogOnView$LogOnControl$UserName",
+        "id": "ctl00_ContentMainBody_LogOnView_LogOnControl_UserName",
+        "placeholder": "UserName",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "ctl00$ContentMainBody$LogOnView$LogOnControl$Password",
+        "id": "ctl00_ContentMainBody_LogOnView_LogOnControl_Password",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$ContentMainBody$LogOnView$LogOnControl$LoginBtn",
+        "id": "ctl00_ContentMainBody_LogOnView_LogOnControl_LoginBtn",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "ctl00$ContentMainBody$Notify1$btnNotifyLockedAccount",
+        "id": "ctl00_ContentMainBody_Notify1_btnNotifyLockedAccount",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentMainBody$EmailAccessBody",
+        "id": "ctl00_ContentMainBody_EmailAccessBody",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentMainBody$EmailAccessSubject",
+        "id": "ctl00_ContentMainBody_EmailAccessSubject",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentMainBody$HiddenField1",
+        "id": "ctl00_ContentMainBody_HiddenField1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentMainBody$HiddenField2",
+        "id": "ctl00_ContentMainBody_HiddenField2",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tenanet.tenaprofessionals.ca/Logon/login-page/?ReturnUrl=/#cookies",
+    "action": "https://tenanet.tenaprofessionals.ca/Logon/login-page/?ReturnUrl=%2f",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ctl00$ContentMainBody$LogOnView$LogOnControl$UserName",
+        "id": "ctl00_ContentMainBody_LogOnView_LogOnControl_UserName",
+        "placeholder": "UserName",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "ctl00$ContentMainBody$LogOnView$LogOnControl$Password",
+        "id": "ctl00_ContentMainBody_LogOnView_LogOnControl_Password",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$ContentMainBody$LogOnView$LogOnControl$LoginBtn",
+        "id": "ctl00_ContentMainBody_LogOnView_LogOnControl_LoginBtn",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "ctl00$ContentMainBody$Notify1$btnNotifyLockedAccount",
+        "id": "ctl00_ContentMainBody_Notify1_btnNotifyLockedAccount",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentMainBody$EmailAccessBody",
+        "id": "ctl00_ContentMainBody_EmailAccessBody",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentMainBody$EmailAccessSubject",
+        "id": "ctl00_ContentMainBody_EmailAccessSubject",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentMainBody$HiddenField1",
+        "id": "ctl00_ContentMainBody_HiddenField1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ctl00$ContentMainBody$HiddenField2",
+        "id": "ctl00_ContentMainBody_HiddenField2",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tenanet.tenaprofessionals.ca/General/Common/TermsandConditions/#legal",
+    "action": "https://tenanet.tenaprofessionals.ca/General/Common/TermsandConditions/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tenanet.tenaprofessionals.ca/General/Common/TermsandConditions/#privacy",
+    "action": "https://tenanet.tenaprofessionals.ca/General/Common/TermsandConditions/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://tenanet.tenaprofessionals.ca/Contact-/",
+    "action": "https://tenanet.tenaprofessionals.ca/Contact-/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "ctl00$TeaserPlaceHolder$XForm$FormControlLeft$Topic",
+        "id": "ctl00_TeaserPlaceHolder_XForm_FormControlLeft_Topic",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "--Select--",
+          "Contact My Sales Representative",
+          "Product Question",
+          "I Would Like Access to a TENA® Program or Service",
+          "Technical Issue with Website",
+          "Other Topic"
+        ]
+      },
+      {
+        "type": "textarea",
+        "name": "ctl00$TeaserPlaceHolder$XForm$FormControlLeft$Question",
+        "id": "ctl00_TeaserPlaceHolder_XForm_FormControlLeft_Question",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ctl00$TeaserPlaceHolder$XForm$FormControlLeft$CompanyName",
+        "id": "ctl00_TeaserPlaceHolder_XForm_FormControlLeft_CompanyName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "ctl00$TeaserPlaceHolder$XForm$FormControlLeft$cust_no",
+        "id": "ctl00_TeaserPlaceHolder_XForm_FormControlLeft_cust_no",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ctl00$TeaserPlaceHolder$XForm$FormControlLeft$FirstName",
+        "id": "ctl00_TeaserPlaceHolder_XForm_FormControlLeft_FirstName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ctl00$TeaserPlaceHolder$XForm$FormControlLeft$LastName",
+        "id": "ctl00_TeaserPlaceHolder_XForm_FormControlLeft_LastName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ctl00$TeaserPlaceHolder$XForm$FormControlLeft$Email",
+        "id": "ctl00_TeaserPlaceHolder_XForm_FormControlLeft_Email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "ctl00$TeaserPlaceHolder$XForm$FormControlLeft$PhoneNumber",
+        "id": "ctl00_TeaserPlaceHolder_XForm_FormControlLeft_PhoneNumber",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "ctl00$TeaserPlaceHolder$XForm$FormControlLeft$ctl10",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
