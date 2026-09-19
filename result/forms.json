@@ -591705,5 +591705,54 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://tork-it.easyorder.eu",
+    "action": "https://tork-it.easyorder.eu/easyorder.b2b/index",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "parm",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lang",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "login",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "",
+        "placeholder": "E-mail",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "saveLogin",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
