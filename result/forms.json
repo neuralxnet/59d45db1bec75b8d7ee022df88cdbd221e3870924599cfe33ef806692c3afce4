@@ -591754,5 +591754,369 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://unisys.com",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://unisys.com",
+    "action": "https://www.unisys.com/search/?query=",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "What do you want to achieve?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com",
+    "action": "https://www.unisys.com/search/?query=",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "What do you want to achieve?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://unisys.com",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://unisys.com",
+    "action": "https://www.unisys.com/search/?query=",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "What do you want to achieve?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/",
+    "action": "https://www.unisys.com/search/?query=",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "What do you want to achieve?",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/solutions/artificial-intelligence/",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/contact-us/",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/our-clients/advancing-public-service-efficiency-at-the-austrian-ministry-of-finance/",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/report/ai/are-you-maximizing-the-power-of-generative-ai/",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/solutions/cai/",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/solutions/cai/applications/",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/solutions/cai/cloud-management/",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/solutions/cai/applications/#ApplicationDevelopmentAndTransformation",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/solutions/cai/applications/#ApplicationManagedServices",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/solutions/cai/applications/#ClearPathApplicationServices",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/solutions/cai/applications/#DigitalProductEngineering",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/solutions/cai/applications/#EnterpriseApplications",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/solutions/cai/applications/#QualityEngineeringAndAssurance",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/solutions/cai/cloud-management/#HybridCloudManagedServices",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/solutions/cai/cloud-management/#CloudTransformation",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/solutions/cai/cloud-management/#CloudFinancialAnalysisAndOptimization",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/solutions/cai/cloud-management/#DataCenterManagement",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.unisys.com/solutions/cai/cloud-management/undefined",
+    "action": "https://www.unisys.com/search/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "query",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
