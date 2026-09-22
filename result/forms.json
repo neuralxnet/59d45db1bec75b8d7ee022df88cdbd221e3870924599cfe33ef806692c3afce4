@@ -593070,5 +593070,89 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.cushelle.com",
+    "action": "https://www.cushelle.com/search-results/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.cushelle.com",
+    "action": "https://www.cushelle.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "da053a97-af27-46ce-a069-0410492c88ca",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "0d47e10a-ddb8-44a9-9b05-36ffc4114d4c",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ReCaptcha",
+        "id": "ReCaptcha-Modal",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
