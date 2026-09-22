@@ -592482,5 +592482,593 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.cosy.co.at",
+    "action": "https://www.cosy.co.at/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.cosy.co.at",
+    "action": "https://www.cosy.co.at/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "bfe29340-361a-4e69-b57d-6030f2aa1706",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "bc6e966e-ba37-4c0c-962e-00270e962987",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ReCaptcha",
+        "id": "ReCaptcha-Modal",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.cosy.co.at/produkte/unser-liebstes/",
+    "action": "https://www.cosy.co.at/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.cosy.co.at/produkte/unser-liebstes/",
+    "action": "https://www.cosy.co.at/produkte/unser-liebstes/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "bfe29340-361a-4e69-b57d-6030f2aa1706",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "bc6e966e-ba37-4c0c-962e-00270e962987",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ReCaptcha",
+        "id": "ReCaptcha-Modal",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.cosy.co.at/produkte/unser-liebstes-rosa/",
+    "action": "https://www.cosy.co.at/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.cosy.co.at/produkte/unser-liebstes-rosa/",
+    "action": "https://www.cosy.co.at/produkte/unser-liebstes-rosa/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "bfe29340-361a-4e69-b57d-6030f2aa1706",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "bc6e966e-ba37-4c0c-962e-00270e962987",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ReCaptcha",
+        "id": "ReCaptcha-Modal",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.cosy.co.at/produkte/unser-liebstes/#main-content",
+    "action": "https://www.cosy.co.at/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.cosy.co.at/produkte/unser-liebstes/#main-content",
+    "action": "https://www.cosy.co.at/produkte/unser-liebstes/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "bfe29340-361a-4e69-b57d-6030f2aa1706",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "bc6e966e-ba37-4c0c-962e-00270e962987",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ReCaptcha",
+        "id": "ReCaptcha-Modal",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.cosy.co.at/produkte/unser-liebstes/#",
+    "action": "https://www.cosy.co.at/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.cosy.co.at/produkte/unser-liebstes/#",
+    "action": "https://www.cosy.co.at/produkte/unser-liebstes/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "bfe29340-361a-4e69-b57d-6030f2aa1706",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "bc6e966e-ba37-4c0c-962e-00270e962987",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ReCaptcha",
+        "id": "ReCaptcha-Modal",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.cosy.co.at/produkte/unser-liebstes-rosa/#main-content",
+    "action": "https://www.cosy.co.at/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.cosy.co.at/produkte/unser-liebstes-rosa/#main-content",
+    "action": "https://www.cosy.co.at/produkte/unser-liebstes-rosa/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "bfe29340-361a-4e69-b57d-6030f2aa1706",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "bc6e966e-ba37-4c0c-962e-00270e962987",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ReCaptcha",
+        "id": "ReCaptcha-Modal",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.cosy.co.at/produkte/unser-liebstes-rosa/#",
+    "action": "https://www.cosy.co.at/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.cosy.co.at/produkte/unser-liebstes-rosa/#",
+    "action": "https://www.cosy.co.at/produkte/unser-liebstes-rosa/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "bfe29340-361a-4e69-b57d-6030f2aa1706",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "bc6e966e-ba37-4c0c-962e-00270e962987",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ReCaptcha",
+        "id": "ReCaptcha-Modal",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
