@@ -593154,5 +593154,54 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://careers.nebius.com",
+    "action": "https://careers.nebius.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "footer-sub-first-name",
+        "placeholder": "First name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "footer-sub-last-name",
+        "placeholder": "Last name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "footer-sub-email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
