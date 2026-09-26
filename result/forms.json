@@ -595142,5 +595142,54 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://status.nebius.com",
+    "action": "https://status.nebius.com/subscriptions/new-email",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "email_otp_verify_flow",
+        "id": "email_otp_verify_flow",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "email_otp_auth_token",
+        "id": "email-otp-token-field",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otp",
+        "id": "email-otp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "captcha_error",
+        "id": "captcha_error",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "subscribe-btn-email",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
