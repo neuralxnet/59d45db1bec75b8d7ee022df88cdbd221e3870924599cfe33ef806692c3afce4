@@ -595191,5 +595191,75 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://bitoasis.net",
+    "action": "https://bitoasis.net/en/home",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Enter your email here",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.bitoasis.net",
+    "action": "https://bitoasis.net/en/home",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Enter your email here",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://bitoasis.net",
+    "action": "https://bitoasis.net/en/home",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Enter your email here",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitoasis.net/en/",
+    "action": "https://bitoasis.net/en/home",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Enter your email here",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://bitoasis.net/en/home",
+    "action": "https://bitoasis.net/en/home",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "",
+        "placeholder": "Enter your email here",
+        "required": false
+      }
+    ]
   }
 ]
