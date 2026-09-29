@@ -595261,5 +595261,1202 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://frontgatetickets.com",
+    "action": "https://www.frontgatetickets.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival-Global",
+        "id": "search-input",
+        "placeholder": "Search festival",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com",
+    "action": "https://www.frontgatetickets.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival-Global",
+        "id": "search-input",
+        "placeholder": "Search festival",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://frontgatetickets.com",
+    "action": "https://www.frontgatetickets.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival-Global",
+        "id": "search-input",
+        "placeholder": "Search festival",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/events",
+    "action": "https://www.frontgatetickets.com/events",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival-Global",
+        "id": "search-input",
+        "placeholder": "Search festival",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/events",
+    "action": "https://www.frontgatetickets.com/events",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival",
+        "id": "local-search",
+        "placeholder": "Search festival name, artist or location",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/business",
+    "action": "https://www.frontgatetickets.com/business",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Solutions-form-emai",
+        "id": "Solutions-form-emai",
+        "placeholder": "Email Address",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/business/about",
+    "action": "https://www.frontgatetickets.com/business/about",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Solutions-form-emai",
+        "id": "Solutions-form-emai",
+        "placeholder": "Email Address",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.frontgatetickets.com/hc/en-us",
+    "action": "https://support.frontgatetickets.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/#",
+    "action": "https://www.frontgatetickets.com/#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival-Global",
+        "id": "search-input",
+        "placeholder": "Search festival",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/events/aftershock",
+    "action": "https://www.frontgatetickets.com/events/aftershock",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival-Global",
+        "id": "search-input",
+        "placeholder": "Search festival",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/events/austin-city-limits-music-festival",
+    "action": "https://www.frontgatetickets.com/events/austin-city-limits-music-festival",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival-Global",
+        "id": "search-input",
+        "placeholder": "Search festival",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/events/country-calling",
+    "action": "https://www.frontgatetickets.com/events/country-calling",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival-Global",
+        "id": "search-input",
+        "placeholder": "Search festival",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/events/the-great-gatsby-party-montreal",
+    "action": "https://www.frontgatetickets.com/events/the-great-gatsby-party-montreal",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival-Global",
+        "id": "search-input",
+        "placeholder": "Search festival",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/events#",
+    "action": "https://www.frontgatetickets.com/events#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival-Global",
+        "id": "search-input",
+        "placeholder": "Search festival",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/events#",
+    "action": "https://www.frontgatetickets.com/events#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival",
+        "id": "local-search",
+        "placeholder": "Search festival name, artist or location",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/",
+    "action": "https://www.frontgatetickets.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival-Global",
+        "id": "search-input",
+        "placeholder": "Search festival",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/business#",
+    "action": "https://www.frontgatetickets.com/business#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Solutions-form-emai",
+        "id": "Solutions-form-emai",
+        "placeholder": "Email Address",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/business/solutions",
+    "action": "https://www.frontgatetickets.com/business/solutions",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Solutions-form-emai",
+        "id": "Solutions-form-emai",
+        "placeholder": "Email Address",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/business/contact",
+    "action": "https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&orgId=00DA0000000Yo1o",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "captcha_settings",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "oid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "retURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "00N3x00000EUnSL",
+        "id": "00N3x00000EUnSL",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lead_source",
+        "id": "lead_source",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "00N3x00000EUnSQ",
+        "id": "00N3x00000EUnSQ",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "currency",
+        "id": "currency",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "company",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "00NA0000009pIpb",
+        "id": "00NA0000009pIpb",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "url",
+        "name": "url",
+        "id": "url",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/business/contact",
+    "action": "https://www.frontgatetickets.com/business/contact",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Solutions-form-emai",
+        "id": "Solutions-form-emai",
+        "placeholder": "Email Address",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/business/about#",
+    "action": "https://www.frontgatetickets.com/business/about#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Solutions-form-emai",
+        "id": "Solutions-form-emai",
+        "placeholder": "Email Address",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.frontgatetickets.com/hc/change_language/fr-ca?return_to=%2Fhc%2Ffr-ca",
+    "action": "https://support.frontgatetickets.com/hc/fr-ca/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Recherche",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/upcoming-festivals/",
+    "action": "https://www.frontgatetickets.com/events",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival-Global",
+        "id": "search-input",
+        "placeholder": "Search festival",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/upcoming-festivals/",
+    "action": "https://www.frontgatetickets.com/events",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival",
+        "id": "local-search",
+        "placeholder": "Search festival name, artist or location",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://weare.frontgatetickets.com/?_ga=2.124772426.1500634793.1627577077-561588337.1627577077",
+    "action": "https://www.frontgatetickets.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival-Global",
+        "id": "search-input",
+        "placeholder": "Search festival",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://support.frontgatetickets.com/?_ga=2.58730733.1500634793.1627577077-561588337.1627577077",
+    "action": "https://support.frontgatetickets.com/hc/fr-ca/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Recherche",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.frontgatetickets.com/hc/en-us/categories/4404828451345-Account-Management",
+    "action": "https://support.frontgatetickets.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.frontgatetickets.com/hc/en-us/categories/4404835757073-Delivery",
+    "action": "https://support.frontgatetickets.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.frontgatetickets.com/hc/en-us/categories/4404828454161-Layaway-Plans",
+    "action": "https://support.frontgatetickets.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.frontgatetickets.com/hc/en-us/categories/4404828464785-Wristband-Help",
+    "action": "https://support.frontgatetickets.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.frontgatetickets.com/hc/en-us/categories/4404828466321-Ticket-Insurance",
+    "action": "https://support.frontgatetickets.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/events/aftershock#",
+    "action": "https://www.frontgatetickets.com/events/aftershock#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival-Global",
+        "id": "search-input",
+        "placeholder": "Search festival",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/events/austin-city-limits-music-festival#",
+    "action": "https://www.frontgatetickets.com/events/austin-city-limits-music-festival#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival-Global",
+        "id": "search-input",
+        "placeholder": "Search festival",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/events/country-calling#",
+    "action": "https://www.frontgatetickets.com/events/country-calling#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival-Global",
+        "id": "search-input",
+        "placeholder": "Search festival",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/events/the-great-gatsby-party-montreal#",
+    "action": "https://www.frontgatetickets.com/events/the-great-gatsby-party-montreal#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Festival-Global",
+        "id": "search-input",
+        "placeholder": "Search festival",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/business/solutions#",
+    "action": "https://www.frontgatetickets.com/business/solutions#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Solutions-form-emai",
+        "id": "Solutions-form-emai",
+        "placeholder": "Email Address",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/business/solutions#w-tabs-0-data-w-pane-0",
+    "action": "https://www.frontgatetickets.com/business/solutions#w-tabs-0-data-w-pane-0",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Solutions-form-emai",
+        "id": "Solutions-form-emai",
+        "placeholder": "Email Address",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/business/contact#",
+    "action": "https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&orgId=00DA0000000Yo1o",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "captcha_settings",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "oid",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "retURL",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "00N3x00000EUnSL",
+        "id": "00N3x00000EUnSL",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "lead_source",
+        "id": "lead_source",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "00N3x00000EUnSQ",
+        "id": "00N3x00000EUnSQ",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "currency",
+        "id": "currency",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "first_name",
+        "id": "first_name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "last_name",
+        "id": "last_name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "company",
+        "id": "company",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "00NA0000009pIpb",
+        "id": "00NA0000009pIpb",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "url",
+        "name": "url",
+        "id": "url",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "submit",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.frontgatetickets.com/business/contact#",
+    "action": "https://www.frontgatetickets.com/business/contact#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "Solutions-form-emai",
+        "id": "Solutions-form-emai",
+        "placeholder": "Email Address",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.frontgatetickets.com/hc/change_language/en-us?return_to=%2Fhc%2Fen-us",
+    "action": "https://support.frontgatetickets.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.frontgatetickets.com/hc/fr-ca/categories/4404828451345-Gestion-du-compte",
+    "action": "https://support.frontgatetickets.com/hc/fr-ca/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Recherche",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.frontgatetickets.com/hc/fr-ca/categories/4404835757073-Livraison",
+    "action": "https://support.frontgatetickets.com/hc/fr-ca/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Recherche",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.frontgatetickets.com/hc/fr-ca/categories/4404828454161-Plans-de-mise-de-c%C3%B4t%C3%A9",
+    "action": "https://support.frontgatetickets.com/hc/fr-ca/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Recherche",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.frontgatetickets.com/hc/fr-ca/categories/4404828464785-Aide-pour-les-bracelets",
+    "action": "https://support.frontgatetickets.com/hc/fr-ca/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Recherche",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.frontgatetickets.com/hc/fr-ca/categories/4404828466321-Assurance-des-billets",
+    "action": "https://support.frontgatetickets.com/hc/fr-ca/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Recherche",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.frontgatetickets.com/hc/change_language/fr-ca?return_to=%2Fhc%2Ffr-ca%2Fcategories%2F4404828451345-Gestion-du-compte",
+    "action": "https://support.frontgatetickets.com/hc/fr-ca/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Recherche",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.frontgatetickets.com/hc/en-us/sections/4405000396305-My-Account",
+    "action": "https://support.frontgatetickets.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.frontgatetickets.com/hc/change_language/fr-ca?return_to=%2Fhc%2Ffr-ca%2Fcategories%2F4404835757073-Livraison",
+    "action": "https://support.frontgatetickets.com/hc/fr-ca/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Recherche",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.frontgatetickets.com/hc/en-us/sections/28121015066769-FAQs",
+    "action": "https://support.frontgatetickets.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Search",
+        "required": false
+      }
+    ]
   }
 ]
