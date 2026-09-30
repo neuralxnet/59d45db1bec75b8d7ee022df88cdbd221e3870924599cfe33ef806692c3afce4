@@ -596493,5 +596493,663 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://livenation.me",
+    "action": "https://www.livenation.me/event/allevents",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "_R_73al2anpfemival5ubrb_",
+        "placeholder": "All genres",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "_R_75al2anpfemival5ubrb_",
+        "placeholder": "All locations",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "_R_97al2anpfemival5ubrb_",
+        "placeholder": "MM/DD/YYYY – MM/DD/YYYY",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me",
+    "action": "https://www.livenation.me/event/allevents",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "_R_73al2anpfemival5ubrb_",
+        "placeholder": "All genres",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "_R_75al2anpfemival5ubrb_",
+        "placeholder": "All locations",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "_R_97al2anpfemival5ubrb_",
+        "placeholder": "MM/DD/YYYY – MM/DD/YYYY",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://livenation.me",
+    "action": "https://www.livenation.me/event/allevents",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "_R_73al2anpfemival5ubrb_",
+        "placeholder": "All genres",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "_R_75al2anpfemival5ubrb_",
+        "placeholder": "All locations",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "_R_97al2anpfemival5ubrb_",
+        "placeholder": "MM/DD/YYYY – MM/DD/YYYY",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/#main",
+    "action": "https://www.livenation.me/event/allevents",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "_R_73al2anpfemival5ubrb_",
+        "placeholder": "All genres",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "_R_75al2anpfemival5ubrb_",
+        "placeholder": "All locations",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "_R_97al2anpfemival5ubrb_",
+        "placeholder": "MM/DD/YYYY – MM/DD/YYYY",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/",
+    "action": "https://www.livenation.me/event/allevents",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "_R_73al2anpfemival5ubrb_",
+        "placeholder": "All genres",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "_R_75al2anpfemival5ubrb_",
+        "placeholder": "All locations",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "_R_97al2anpfemival5ubrb_",
+        "placeholder": "MM/DD/YYYY – MM/DD/YYYY",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/register",
+    "action": "https://www.livenation.me/register",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "_R_9klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "_R_hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "_R_11klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_19klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_1hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/login",
+    "action": "https://www.livenation.me/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/login?redirectTo=/event/allevents",
+    "action": "https://www.livenation.me/login?redirectTo=/event/allevents",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/login?redirectTo=/anyma",
+    "action": "https://www.livenation.me/login?redirectTo=/anyma",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/login?redirectTo=/festival",
+    "action": "https://www.livenation.me/login?redirectTo=/festival",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/register#main",
+    "action": "https://www.livenation.me/register#main",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "_R_9klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "_R_hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "_R_11klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_19klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_1hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/login#main",
+    "action": "https://www.livenation.me/login#main",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/account/forgotpassword",
+    "action": "https://www.livenation.me/account/forgotpassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_2ctinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/account/resendactivation",
+    "action": "https://www.livenation.me/account/resendactivation",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_2ctinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/login?redirectTo=/concertweek",
+    "action": "https://www.livenation.me/login?redirectTo=/concertweek",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/login?redirectTo=/event/allevents#main",
+    "action": "https://www.livenation.me/login?redirectTo=/event/allevents#main",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/account/forgotpassword?redirectTo=/event/allevents",
+    "action": "https://www.livenation.me/account/forgotpassword?redirectTo=/event/allevents",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_2ctinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/register?redirectTo=/event/allevents",
+    "action": "https://www.livenation.me/register?redirectTo=/event/allevents",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "_R_9klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "_R_hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "_R_11klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_19klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_1hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://livenation.me/",
+    "action": "https://www.livenation.me/event/allevents",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "_R_73al2anpfemival5ubrb_",
+        "placeholder": "All genres",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "_R_75al2anpfemival5ubrb_",
+        "placeholder": "All locations",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "_R_97al2anpfemival5ubrb_",
+        "placeholder": "MM/DD/YYYY – MM/DD/YYYY",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/login?redirectTo=/anyma#main",
+    "action": "https://www.livenation.me/login?redirectTo=/anyma#main",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/account/forgotpassword?redirectTo=/anyma",
+    "action": "https://www.livenation.me/account/forgotpassword?redirectTo=/anyma",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_2ctinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/register?redirectTo=/anyma",
+    "action": "https://www.livenation.me/register?redirectTo=/anyma",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "_R_9klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "_R_hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "_R_11klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_19klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_1hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/login?redirectTo=/festival#main",
+    "action": "https://www.livenation.me/login?redirectTo=/festival#main",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/account/forgotpassword?redirectTo=/festival",
+    "action": "https://www.livenation.me/account/forgotpassword?redirectTo=/festival",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_2ctinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/register?redirectTo=/festival",
+    "action": "https://www.livenation.me/register?redirectTo=/festival",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "_R_9klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "_R_hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "_R_11klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_19klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_1hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.me/login?redirectTo=/terms",
+    "action": "https://www.livenation.me/login?redirectTo=/terms",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
   }
 ]
