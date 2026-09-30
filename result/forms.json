@@ -596458,5 +596458,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.livenation.com/email/setlist",
+    "action": "https://www.livenation.com/email/setlist",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Email",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "confirm_email",
+        "id": "confirm_email",
+        "placeholder": "Confirm Email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "postal_code",
+        "id": "postal_code",
+        "placeholder": "ZIP code",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "",
+        "id": "_R_4sql5fiv5ukpfdl9fivb_",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
