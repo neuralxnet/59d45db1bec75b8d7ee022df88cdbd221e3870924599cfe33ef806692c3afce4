@@ -597151,5 +597151,1223 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://www.vinted.com",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/help?access_channel=vinted_guide",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/help?access_channel=vinted_guide",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/member/signup/select_type?ref_url=%2Fitems%2Fnew",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/member/signup/select_type?ref_url=%2Fitems%2Fnew",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/how_it_works",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/how_it_works",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/items/10196553981-comfy-long-sleeve-top?homepage_session_id=ff3c05a0-a992-4759-9fcc-7518371a3392",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/items/10196553981-comfy-long-sleeve-top?homepage_session_id=ff3c05a0-a992-4759-9fcc-7518371a3392",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/help?access_channel=vinted_guide#content",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/help?access_channel=vinted_guide#content",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/member/signup/select_type?ref_url=%2Fhelp%3Faccess_channel%3Dvinted_guide",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/member/signup/select_type?ref_url=%2Fhelp%3Faccess_channel%3Dvinted_guide",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/about",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/about",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/advertising",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/advertising",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/advertising",
+    "action": "https://www.vinted.com/advertising",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "firstName",
+        "placeholder": "Enter your first name(s)",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "lastName",
+        "placeholder": "Enter your last name(s)",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phoneNr",
+        "id": "phoneNr",
+        "placeholder": "Enter your phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "companyType",
+        "id": "companyType",
+        "placeholder": "Please select",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "companyName",
+        "id": "companyName",
+        "placeholder": "Enter company name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "estimatedBudget",
+        "id": "estimatedBudget",
+        "placeholder": "Please select",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "targetCountry",
+        "id": "targetCountry",
+        "placeholder": "Please select",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "dealType",
+        "id": "dealType",
+        "placeholder": "Please select",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "comment",
+        "id": "comment",
+        "placeholder": "Please write in English.",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/accessibility",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/accessibility",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/member/register/select_type?ref_url=%2Fitems%2Fnew#content",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/member/register/select_type?ref_url=%2Fitems%2Fnew#content",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/privacy",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/privacy",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/cookie-policy",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/cookie-policy",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/terms_and_conditions",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/terms_and_conditions",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/how_it_works#content",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/how_it_works#content",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/member/signup/select_type?ref_url=%2Fhow_it_works",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/member/signup/select_type?ref_url=%2Fhow_it_works",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/help/8?access_channel=product_link",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/help/8?access_channel=product_link",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/help/419?access_channel=product_link",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/help/419?access_channel=product_link",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/help/431?access_channel=product_link",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/help/431?access_channel=product_link",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/items/new",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/items/new",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/help/234?access_channel=product_link",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/help/234?access_channel=product_link",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/items/10196553981-comfy-long-sleeve-top?homepage_session_id=ff3c05a0-a992-4759-9fcc-7518371a3392#content",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/items/10196553981-comfy-long-sleeve-top?homepage_session_id=ff3c05a0-a992-4759-9fcc-7518371a3392#content",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/member/signup/select_type?ref_url=%2Fitems%2F10196553981-comfy-long-sleeve-top%3Fhomepage_session_id%3Dff3c05a0-a992-4759-9fcc-7518371a3392",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/member/signup/select_type?ref_url=%2Fitems%2F10196553981-comfy-long-sleeve-top%3Fhomepage_session_id%3Dff3c05a0-a992-4759-9fcc-7518371a3392",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/catalog/1904-women?referrer=item-crumbs",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search in \"Women\"",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/catalog/1904-women?referrer=item-crumbs",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search in \"Women\"",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/catalog/4-clothing?referrer=item-crumbs",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search in \"Clothing\"",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/catalog/4-clothing?referrer=item-crumbs",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search in \"Clothing\"",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/catalog/12-tops-and-t-shirts?referrer=item-crumbs",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search in \"Tops & T-shirts\"",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/catalog/12-tops-and-t-shirts?referrer=item-crumbs",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search in \"Tops & T-shirts\"",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/catalog/224-long-sleeved-tops?referrer=item-crumbs",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search in \"Long-sleeved tops\"",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/catalog/224-long-sleeved-tops?referrer=item-crumbs",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search in \"Long-sleeved tops\"",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/catalog/224-long-sleeved-tops/brand/2603128-source-unknown?referrer=item-crumbs",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search in \"Long-sleeved tops\"",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/catalog/224-long-sleeved-tops/brand/2603128-source-unknown?referrer=item-crumbs",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search in \"Long-sleeved tops\"",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/member/register/select_type?ref_url=%2Fhelp%3Faccess_channel%3Dvinted_guide#content",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/member/register/select_type?ref_url=%2Fhelp%3Faccess_channel%3Dvinted_guide#content",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/about#content",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/about#content",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/member/signup/select_type?ref_url=%2Fabout",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/member/signup/select_type?ref_url=%2Fabout",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/advertising#content",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/advertising#content",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/advertising#content",
+    "action": "https://www.vinted.com/advertising#content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "firstName",
+        "placeholder": "Enter your first name(s)",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "lastName",
+        "placeholder": "Enter your last name(s)",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "Enter your email",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "phoneNr",
+        "id": "phoneNr",
+        "placeholder": "Enter your phone number",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "companyType",
+        "id": "companyType",
+        "placeholder": "Please select",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "companyName",
+        "id": "companyName",
+        "placeholder": "Enter company name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "estimatedBudget",
+        "id": "estimatedBudget",
+        "placeholder": "Please select",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "targetCountry",
+        "id": "targetCountry",
+        "placeholder": "Please select",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "dealType",
+        "id": "dealType",
+        "placeholder": "Please select",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "comment",
+        "id": "comment",
+        "placeholder": "Please write in English.",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/member/signup/select_type?ref_url=%2Fadvertising",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/member/signup/select_type?ref_url=%2Fadvertising",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/privacy-policy",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/privacy-policy",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/accessibility#content",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/accessibility#content",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/member/signup/select_type?ref_url=%2Faccessibility",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/member/signup/select_type?ref_url=%2Faccessibility",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/terms-and-conditions",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/terms-and-conditions",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/privacy#content",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.vinted.com/privacy#content",
+    "action": "https://www.vinted.com/catalog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search_text",
+        "id": "search_text",
+        "placeholder": "Search for items",
+        "required": false
+      }
+    ]
   }
 ]
