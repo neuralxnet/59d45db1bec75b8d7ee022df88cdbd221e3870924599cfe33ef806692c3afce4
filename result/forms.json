@@ -598369,5 +598369,103 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://careers.vinted.com/how-we-hire",
+    "action": "https://careers.vinted.com/how-we-hire",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "Your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://careers.vinted.com/engineering-academy",
+    "action": "https://careers.vinted.com/engineering-academy",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "Your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://careers.vinted.com/dsa-academy",
+    "action": "https://careers.vinted.com/dsa-academy",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "Your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://careers.vinted.com/marketing-academy",
+    "action": "https://careers.vinted.com/marketing-academy",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "Your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://careers.vinted.com/internships",
+    "action": "https://careers.vinted.com/internships",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "Your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://careers.vinted.com/blog",
+    "action": "https://careers.vinted.com/blog",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "Your email",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://careers.vinted.com/about-vinted",
+    "action": "https://careers.vinted.com/about-vinted",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "Your email",
+        "required": false
+      }
+    ]
   }
 ]
