@@ -598467,5 +598467,509 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/login",
+    "action": "https://www.livenation.co.uk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/login#main",
+    "action": "https://www.livenation.co.uk/login#main",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/account/forgotpassword",
+    "action": "https://www.livenation.co.uk/account/forgotpassword",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_2ctinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/account/resendactivation",
+    "action": "https://www.livenation.co.uk/account/resendactivation",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_2ctinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/register",
+    "action": "https://www.livenation.co.uk/register",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "_R_9klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "_R_hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "_R_11klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_19klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_1hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/account/profile",
+    "action": "https://www.livenation.co.uk/login",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/login?redirectTo=/slipknot-tickets-adp2079",
+    "action": "https://www.livenation.co.uk/login?redirectTo=/slipknot-tickets-adp2079",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/login?redirectTo=/alex-warren-tickets-adp1489581",
+    "action": "https://www.livenation.co.uk/login?redirectTo=/alex-warren-tickets-adp1489581",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/account/forgotpassword#main",
+    "action": "https://www.livenation.co.uk/account/forgotpassword#main",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_2ctinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/account/resendactivation#main",
+    "action": "https://www.livenation.co.uk/account/resendactivation#main",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_2ctinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/register#main",
+    "action": "https://www.livenation.co.uk/register#main",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "_R_9klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "_R_hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "_R_11klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_19klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_1hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/login?redirectTo=/ticketterms",
+    "action": "https://www.livenation.co.uk/login?redirectTo=/ticketterms",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/login?redirectTo=/slipknot-tickets-adp2079#main",
+    "action": "https://www.livenation.co.uk/login?redirectTo=/slipknot-tickets-adp2079#main",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/account/forgotpassword?redirectTo=/slipknot-tickets-adp2079",
+    "action": "https://www.livenation.co.uk/account/forgotpassword?redirectTo=/slipknot-tickets-adp2079",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_2ctinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/register?redirectTo=/slipknot-tickets-adp2079",
+    "action": "https://www.livenation.co.uk/register?redirectTo=/slipknot-tickets-adp2079",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "_R_9klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "_R_hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "_R_11klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_19klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_1hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/login?redirectTo=/event/slipknot-sic-est-stadium-tour-london-tickets-edp1698945",
+    "action": "https://www.livenation.co.uk/login?redirectTo=/event/slipknot-sic-est-stadium-tour-london-tickets-edp1698945",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/login?redirectTo=/event/allevents",
+    "action": "https://www.livenation.co.uk/login?redirectTo=/event/allevents",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/login?redirectTo=/alex-warren-tickets-adp1489581#main",
+    "action": "https://www.livenation.co.uk/login?redirectTo=/alex-warren-tickets-adp1489581#main",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/account/forgotpassword?redirectTo=/alex-warren-tickets-adp1489581",
+    "action": "https://www.livenation.co.uk/account/forgotpassword?redirectTo=/alex-warren-tickets-adp1489581",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_2ctinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/register?redirectTo=/alex-warren-tickets-adp1489581",
+    "action": "https://www.livenation.co.uk/register?redirectTo=/alex-warren-tickets-adp1489581",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "_R_9klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "_R_hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "postcode",
+        "id": "_R_11klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_19klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_1hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/login?redirectTo=/event/alex-warren-finding-more-family-on-the-road-cardiff-tickets-edp1699858",
+    "action": "https://www.livenation.co.uk/login?redirectTo=/event/alex-warren-finding-more-family-on-the-road-cardiff-tickets-edp1699858",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.livenation.co.uk/login?redirectTo=/event/alex-warren-finding-more-family-on-the-road-belfast-tickets-edp1700075",
+    "action": "https://www.livenation.co.uk/login?redirectTo=/event/alex-warren-finding-more-family-on-the-road-belfast-tickets-edp1700075",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
   }
 ]
