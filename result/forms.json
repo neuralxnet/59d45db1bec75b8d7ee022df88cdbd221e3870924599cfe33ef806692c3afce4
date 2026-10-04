@@ -598971,5 +598971,775 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://vinylroom.royalarena.dk/",
+    "action": "https://vinylroom.royalarena.dk/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "post_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "referer_title",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "queried_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "form_fields[name]",
+        "id": "form-field-name",
+        "placeholder": "John Smith",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "form_fields[email]",
+        "id": "form-field-email",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "form_fields[field_78a9c40]",
+        "id": "form-field-field_78a9c40",
+        "placeholder": "+45",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "form_fields[message]",
+        "id": "form-field-message",
+        "placeholder": "Hi, I would like to talk about...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "form_fields[field_3d7de2d]",
+        "id": "form-field-field_3d7de2d",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/sign-in",
+    "action": "https://www.royalarena.dk/sign-in",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://vinylroom.royalarena.dk/#features",
+    "action": "https://vinylroom.royalarena.dk/#features",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "post_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "referer_title",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "queried_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "form_fields[name]",
+        "id": "form-field-name",
+        "placeholder": "John Smith",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "form_fields[email]",
+        "id": "form-field-email",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "form_fields[field_78a9c40]",
+        "id": "form-field-field_78a9c40",
+        "placeholder": "+45",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "form_fields[message]",
+        "id": "form-field-message",
+        "placeholder": "Hi, I would like to talk about...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "form_fields[field_3d7de2d]",
+        "id": "form-field-field_3d7de2d",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://vinylroom.royalarena.dk/#about",
+    "action": "https://vinylroom.royalarena.dk/#about",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "post_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "referer_title",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "queried_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "form_fields[name]",
+        "id": "form-field-name",
+        "placeholder": "John Smith",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "form_fields[email]",
+        "id": "form-field-email",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "form_fields[field_78a9c40]",
+        "id": "form-field-field_78a9c40",
+        "placeholder": "+45",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "form_fields[message]",
+        "id": "form-field-message",
+        "placeholder": "Hi, I would like to talk about...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "form_fields[field_3d7de2d]",
+        "id": "form-field-field_3d7de2d",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://vinylroom.royalarena.dk/#FAQ",
+    "action": "https://vinylroom.royalarena.dk/#FAQ",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "post_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "referer_title",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "queried_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "form_fields[name]",
+        "id": "form-field-name",
+        "placeholder": "John Smith",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "form_fields[email]",
+        "id": "form-field-email",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "form_fields[field_78a9c40]",
+        "id": "form-field-field_78a9c40",
+        "placeholder": "+45",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "form_fields[message]",
+        "id": "form-field-message",
+        "placeholder": "Hi, I would like to talk about...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "form_fields[field_3d7de2d]",
+        "id": "form-field-field_3d7de2d",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://vinylroom.royalarena.dk/#contact",
+    "action": "https://vinylroom.royalarena.dk/#contact",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "post_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "referer_title",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "queried_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "form_fields[name]",
+        "id": "form-field-name",
+        "placeholder": "John Smith",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "form_fields[email]",
+        "id": "form-field-email",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "form_fields[field_78a9c40]",
+        "id": "form-field-field_78a9c40",
+        "placeholder": "+45",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "form_fields[message]",
+        "id": "form-field-message",
+        "placeholder": "Hi, I would like to talk about...",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "form_fields[field_3d7de2d]",
+        "id": "form-field-field_3d7de2d",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/sign-in#main",
+    "action": "https://www.royalarena.dk/sign-in#main",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/forgot-password",
+    "action": "https://www.royalarena.dk/forgot-password",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_2ctinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/resend-email-verification",
+    "action": "https://www.royalarena.dk/resend-email-verification",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_2ctinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/register",
+    "action": "https://www.royalarena.dk/register",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "_R_9klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "_R_hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_19klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_1hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/forgot-password#main",
+    "action": "https://www.royalarena.dk/forgot-password#main",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_2ctinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/resend-email-verification#main",
+    "action": "https://www.royalarena.dk/resend-email-verification#main",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_2ctinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/register#main",
+    "action": "https://www.royalarena.dk/register#main",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "_R_9klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "_R_hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_19klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_1hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/sign-in?redirectTo=/om",
+    "action": "https://www.royalarena.dk/sign-in?redirectTo=/om",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/sign-in?redirectTo=/presse",
+    "action": "https://www.royalarena.dk/sign-in?redirectTo=/presse",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/sign-in?redirectTo=/news",
+    "action": "https://www.royalarena.dk/sign-in?redirectTo=/news",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/sign-in?redirectTo=/karriere",
+    "action": "https://www.royalarena.dk/sign-in?redirectTo=/karriere",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/sign-in?redirectTo=/ordensreglement",
+    "action": "https://www.royalarena.dk/sign-in?redirectTo=/ordensreglement",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/sign-in?redirectTo=/privatlivspolitik",
+    "action": "https://www.royalarena.dk/sign-in?redirectTo=/privatlivspolitik",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/sign-in?redirectTo=/om#main",
+    "action": "https://www.royalarena.dk/sign-in?redirectTo=/om#main",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/forgot-password?redirectTo=/om",
+    "action": "https://www.royalarena.dk/forgot-password?redirectTo=/om",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_2ctinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/register?redirectTo=/om",
+    "action": "https://www.royalarena.dk/register?redirectTo=/om",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "firstName",
+        "id": "_R_9klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "lastName",
+        "id": "_R_hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_19klinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_1hklinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/sign-in?redirectTo=/faq",
+    "action": "https://www.royalarena.dk/sign-in?redirectTo=/faq",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/sign-in?redirectTo=/presse#main",
+    "action": "https://www.royalarena.dk/sign-in?redirectTo=/presse#main",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_5jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "_R_9jlinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.royalarena.dk/forgot-password?redirectTo=/presse",
+    "action": "https://www.royalarena.dk/forgot-password?redirectTo=/presse",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "emailAddress",
+        "id": "_R_2ctinpfemival5ubrb_",
+        "placeholder": "",
+        "required": true
+      }
+    ]
   }
 ]
