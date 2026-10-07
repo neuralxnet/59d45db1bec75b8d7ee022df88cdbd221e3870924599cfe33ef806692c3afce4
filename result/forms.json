@@ -600457,5 +600457,103 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.danke.de",
+    "action": "https://www.danke.de/suchergebnisse/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "q",
+        "id": "Search",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.danke.de",
+    "action": "https://www.danke.de/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "contact_me_by_fax_only",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "FirstName",
+        "id": "enews-firstname-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "enews-mail-Modal",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].Id",
+        "id": "f4f33726-3f3c-43d8-bc41-60c62e6164a9",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[0].IsChecked",
+        "id": "6cc463e1-7cb1-4fbb-bc37-a4b0b480065b",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].Id",
+        "id": "50212186-af09-4465-b6e6-1b7709e9a620",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "5f7f1841-3842-477b-895d-6925be4a7b18",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "ProvidedConsumerConsents[1].IsChecked",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ReCaptcha",
+        "id": "ReCaptcha-Modal",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
