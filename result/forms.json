@@ -601692,5 +601692,96 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://alphabankonlinebonusconversionen.aegeanair.com",
+    "action": "https://alphabankonlinebonusconversionen.aegeanair.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hfCCN",
+        "id": "hfCCN",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hfPointsToConvert",
+        "id": "hfPointsToConvert",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hfPointsToBurn",
+        "id": "hfPointsToBurn",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hfFFN",
+        "id": "hfFFN",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hfMiles",
+        "id": "hfMiles",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hfConversionRatio",
+        "id": "hfConversionRatio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "hfCardPoints",
+        "id": "hfCardPoints",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Wizard$CCN_txb",
+        "id": "Wizard_CCN_txb",
+        "placeholder": "Card Number",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "Wizard$StartNavigationTemplateContainerID$StartNextButton",
+        "id": "Wizard_StartNavigationTemplateContainerID_StartNextButton",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
