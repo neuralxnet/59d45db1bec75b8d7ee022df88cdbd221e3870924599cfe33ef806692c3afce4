@@ -601783,5 +601783,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://beyond.aegeanair.com",
+    "action": "https://beyond.aegeanair.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "airport-take-off",
+        "id": "airport-take-off-input",
+        "placeholder": "From",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "airport-destination",
+        "id": "airport-destination-input",
+        "placeholder": "To",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "date-departure",
+        "id": "origin-datepicker-input-desktop",
+        "placeholder": "Departure",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "date-arrival",
+        "id": "destination-datepicker-input-desktop",
+        "placeholder": "Return",
+        "required": false
+      }
+    ]
   }
 ]
