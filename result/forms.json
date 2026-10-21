@@ -601818,5 +601818,674 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://accounts.binance.th/th/register",
+    "action": "https://accounts.binance.th/th/register#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "agentId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "agreement",
+        "id": "click-registration-termAndCondition",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "marketingConsent",
+        "id": "click-registration-marketingConsent",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.binance.th/en/trade/HYPE_USDT",
+    "action": "https://www.binance.th/en/trade/HYPE_USDT",
+    "method": "get",
+    "fields": [
+      {
+        "type": "number",
+        "name": "price",
+        "id": "FormRow-BUY-price",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "FormRow-BUY-quantity",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.binance.th/en/trade/HYPE_USDT",
+    "action": "https://www.binance.th/en/trade/HYPE_USDT",
+    "method": "get",
+    "fields": [
+      {
+        "type": "number",
+        "name": "price",
+        "id": "FormRow-SELL-price",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "FormRow-SELL-quantity",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.binance.th/en/trade/GENIUS_USDT",
+    "action": "https://www.binance.th/en/trade/GENIUS_USDT",
+    "method": "get",
+    "fields": [
+      {
+        "type": "number",
+        "name": "price",
+        "id": "FormRow-BUY-price",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "FormRow-BUY-quantity",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.binance.th/en/trade/GENIUS_USDT",
+    "action": "https://www.binance.th/en/trade/GENIUS_USDT",
+    "method": "get",
+    "fields": [
+      {
+        "type": "number",
+        "name": "price",
+        "id": "FormRow-SELL-price",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "FormRow-SELL-quantity",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://accounts.binance.th/th/login?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC90aC90cmFkZS9CVENfVVNEVA%3D%3D",
+    "action": "https://accounts.binance.th/th/login?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC90aC90cmFkZS9CVENfVVNEVA%3D%3D#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://accounts.binance.th/th/login?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC90aC90cmFkZS9CVENfVVNEVA%3D%3D",
+    "action": "https://accounts.binance.th/th/login?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC90aC90cmFkZS9CVENfVVNEVA%3D%3D#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "mobile",
+        "id": "tel-national",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://accounts.binance.th/th/register?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC90aC90cmFkZS9CVENfVVNEVA%3D%3D",
+    "action": "https://accounts.binance.th/th/register?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC90aC90cmFkZS9CVENfVVNEVA%3D%3D#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "agentId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "agreement",
+        "id": "click-registration-termAndCondition",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "marketingConsent",
+        "id": "click-registration-marketingConsent",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.binance.th/en/trade/BTC_USDT",
+    "action": "https://www.binance.th/en/trade/BTC_USDT",
+    "method": "get",
+    "fields": [
+      {
+        "type": "number",
+        "name": "price",
+        "id": "FormRow-BUY-price",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "FormRow-BUY-quantity",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.binance.th/en/trade/BTC_USDT",
+    "action": "https://www.binance.th/en/trade/BTC_USDT",
+    "method": "get",
+    "fields": [
+      {
+        "type": "number",
+        "name": "price",
+        "id": "FormRow-SELL-price",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "number",
+        "name": "quantity",
+        "id": "FormRow-SELL-quantity",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://accounts.binance.th/en/login?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC9lbi90cmFkZS9IWVBFX1VTRFQ%3D",
+    "action": "https://accounts.binance.th/en/login?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC9lbi90cmFkZS9IWVBFX1VTRFQ%3D#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://accounts.binance.th/en/login?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC9lbi90cmFkZS9IWVBFX1VTRFQ%3D",
+    "action": "https://accounts.binance.th/en/login?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC9lbi90cmFkZS9IWVBFX1VTRFQ%3D#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "mobile",
+        "id": "tel-national",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://accounts.binance.th/en/register?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC9lbi90cmFkZS9IWVBFX1VTRFQ%3D",
+    "action": "https://accounts.binance.th/en/register?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC9lbi90cmFkZS9IWVBFX1VTRFQ%3D#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "agentId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "agreement",
+        "id": "click-registration-termAndCondition",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "marketingConsent",
+        "id": "click-registration-marketingConsent",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.binance.th/en/faq",
+    "action": "https://www.binance.th/en/faq",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "exchange-blog-search-posts",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.binance.th/en/faq",
+    "action": "https://www.binance.th/en/faq",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://accounts.binance.th/en/login?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC9lbi90cmFkZS9HRU5JVVNfVVNEVA%3D%3D",
+    "action": "https://accounts.binance.th/en/login?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC9lbi90cmFkZS9HRU5JVVNfVVNEVA%3D%3D#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://accounts.binance.th/en/login?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC9lbi90cmFkZS9HRU5JVVNfVVNEVA%3D%3D",
+    "action": "https://accounts.binance.th/en/login?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC9lbi90cmFkZS9HRU5JVVNfVVNEVA%3D%3D#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "mobile",
+        "id": "tel-national",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://accounts.binance.th/en/register?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC9lbi90cmFkZS9HRU5JVVNfVVNEVA%3D%3D",
+    "action": "https://accounts.binance.th/en/register?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC9lbi90cmFkZS9HRU5JVVNfVVNEVA%3D%3D#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "agentId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "agreement",
+        "id": "click-registration-termAndCondition",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "marketingConsent",
+        "id": "click-registration-marketingConsent",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.binance.th/en/terms",
+    "action": "https://www.binance.th/en/terms",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "exchange-blog-search-posts",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.binance.th/en/terms",
+    "action": "https://www.binance.th/en/terms",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://accounts.binance.th/th/register?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC90aC90cmFkZS9CVENfVVNEVA==",
+    "action": "https://accounts.binance.th/th/register?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC90aC90cmFkZS9CVENfVVNEVA==#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "agentId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "agreement",
+        "id": "click-registration-termAndCondition",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "marketingConsent",
+        "id": "click-registration-marketingConsent",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://accounts.binance.th/th/user/reset-password/1?type=email",
+    "action": "https://accounts.binance.th/th/user/reset-password/1?type=email#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://accounts.binance.th/th/user/reset-password/1?type=email",
+    "action": "https://accounts.binance.th/th/user/reset-password/1?type=email#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "mobile",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://accounts.binance.th/th/login?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC90aC90cmFkZS9CVENfVVNEVA%253D%253D",
+    "action": "https://accounts.binance.th/th/login?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC90aC90cmFkZS9CVENfVVNEVA%253D%253D#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://accounts.binance.th/th/login?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC90aC90cmFkZS9CVENfVVNEVA%253D%253D",
+    "action": "https://accounts.binance.th/th/login?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC90aC90cmFkZS9CVENfVVNEVA%253D%253D#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "tel",
+        "name": "mobile",
+        "id": "tel-national",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://accounts.binance.th/th/register?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC90aC90cmFkZS9CVENfVVNEVA%253D%253D",
+    "action": "https://accounts.binance.th/th/register?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS50aC90aC90cmFkZS9CVENfVVNEVA%253D%253D#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "email",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "agentId",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "agreement",
+        "id": "click-registration-termAndCondition",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "marketingConsent",
+        "id": "click-registration-marketingConsent",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.binance.th/th/terms",
+    "action": "https://www.binance.th/th/terms",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "exchange-blog-search-posts",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.binance.th/th/terms",
+    "action": "https://www.binance.th/th/terms",
+    "method": "get",
+    "fields": []
   }
 ]
