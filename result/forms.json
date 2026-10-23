@@ -602487,5 +602487,96 @@
     "action": "https://www.binance.th/th/terms",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://contenthub.aegeanair.com",
+    "action": "https://contenthub.aegeanair.com/en-us/Account?ReturnUrl=%2Fen-us",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "SignInDetails.UserName",
+        "id": "SignInDetails_UserName",
+        "placeholder": "Username",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "SignInDetails.Password",
+        "id": "SignInDetails_Password",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "SignInDetails_SubmitButton",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://contenthub.aegeanair.com",
+    "action": "https://contenthub.aegeanair.com/en-us/Account/ExternalLogin?ReturnUrl=%2Fen-us&CloseWindowOnLogin=False",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://contenthub.aegeanair.com",
+    "action": "https://contenthub.aegeanair.com/oauth/token",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "grant_type",
+        "id": "grant_type",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "access_token",
+        "id": "access_token",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "client_id",
+        "id": "client_id",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_uri",
+        "id": "redirect_uri",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__RequestVerificationToken",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
