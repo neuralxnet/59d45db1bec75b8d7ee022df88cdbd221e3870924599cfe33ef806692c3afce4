@@ -603170,5 +603170,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://cpl.thalesgroup.com",
+    "action": "https://cpl.thalesgroup.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "search",
+        "id": "",
+        "placeholder": "Let’s find what you’re looking for...",
+        "required": false
+      }
+    ]
   }
 ]
