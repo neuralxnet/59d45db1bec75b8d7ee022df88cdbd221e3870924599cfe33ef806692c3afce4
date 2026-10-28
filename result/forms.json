@@ -603196,5 +603196,1012 @@
     "action": "https://www.imperva.com/",
     "method": "get",
     "fields": []
+  },
+  {
+    "url": "https://chatgpt.com",
+    "action": "https://chatgpt.com/unauth-mweb/conversation",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "conversationState",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "messageMetadata",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "oai-session-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "imageAttachments",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pendingImageUploads",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "",
+        "id": "octane-mobile-composer-photos-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "",
+        "id": "octane-mobile-composer-files-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "",
+        "id": "octane-mobile-composer-camera-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "prompt",
+        "id": "mobile-composer-prompt",
+        "placeholder": "Ask ChatGPT",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://chatgpt.com",
+    "action": "https://chatgpt.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://chatgpt.com",
+    "action": "https://chatgpt.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://chatgpt.com",
+    "action": "https://chatgpt.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://chatgpt.com",
+    "action": "https://chatgpt.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://chatgpt.com",
+    "action": "https://chatgpt.com/auth/login_with",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "callback_path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "screen_hint",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "login_hint",
+        "id": "mobile-auth-email",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://chatgpt.com",
+    "action": "https://chatgpt.com/auth/login_with",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "callback_path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "screen_hint",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "mobile-auth-phone-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "US"
+        ]
+      },
+      {
+        "type": "tel",
+        "name": "login_hint",
+        "id": "mobile-auth-phone",
+        "placeholder": "Phone number",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.chatgpt.com",
+    "action": "https://chatgpt.com/unauth-mweb/conversation",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "conversationState",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "messageMetadata",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "oai-session-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "imageAttachments",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pendingImageUploads",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "",
+        "id": "octane-mobile-composer-photos-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "",
+        "id": "octane-mobile-composer-files-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "",
+        "id": "octane-mobile-composer-camera-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "prompt",
+        "id": "mobile-composer-prompt",
+        "placeholder": "Ask ChatGPT",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.chatgpt.com",
+    "action": "https://chatgpt.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.chatgpt.com",
+    "action": "https://chatgpt.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.chatgpt.com",
+    "action": "https://chatgpt.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.chatgpt.com",
+    "action": "https://chatgpt.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://www.chatgpt.com",
+    "action": "https://chatgpt.com/auth/login_with",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "callback_path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "screen_hint",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "login_hint",
+        "id": "mobile-auth-email",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.chatgpt.com",
+    "action": "https://chatgpt.com/auth/login_with",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "callback_path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "screen_hint",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "mobile-auth-phone-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "US"
+        ]
+      },
+      {
+        "type": "tel",
+        "name": "login_hint",
+        "id": "mobile-auth-phone",
+        "placeholder": "Phone number",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://chatgpt.com",
+    "action": "https://chatgpt.com/unauth-mweb/conversation",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "conversationState",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "messageMetadata",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "oai-session-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "imageAttachments",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pendingImageUploads",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "",
+        "id": "octane-mobile-composer-photos-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "",
+        "id": "octane-mobile-composer-files-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "",
+        "id": "octane-mobile-composer-camera-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "prompt",
+        "id": "mobile-composer-prompt",
+        "placeholder": "Ask ChatGPT",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://chatgpt.com",
+    "action": "https://chatgpt.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "http://chatgpt.com",
+    "action": "https://chatgpt.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "http://chatgpt.com",
+    "action": "https://chatgpt.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "http://chatgpt.com",
+    "action": "https://chatgpt.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "http://chatgpt.com",
+    "action": "https://chatgpt.com/auth/login_with",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "callback_path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "screen_hint",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "login_hint",
+        "id": "mobile-auth-email",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "http://chatgpt.com",
+    "action": "https://chatgpt.com/auth/login_with",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "callback_path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "screen_hint",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "mobile-auth-phone-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "US"
+        ]
+      },
+      {
+        "type": "tel",
+        "name": "login_hint",
+        "id": "mobile-auth-phone",
+        "placeholder": "Phone number",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://chatgpt.com/?noauth_recent_chat_failed=1",
+    "action": "https://chatgpt.com/unauth-mweb/conversation",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "conversationState",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "messageMetadata",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "oai-session-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "imageAttachments",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pendingImageUploads",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "",
+        "id": "octane-mobile-composer-photos-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "",
+        "id": "octane-mobile-composer-files-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "",
+        "id": "octane-mobile-composer-camera-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "prompt",
+        "id": "mobile-composer-prompt",
+        "placeholder": "Ask ChatGPT",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://chatgpt.com/?noauth_recent_chat_failed=1",
+    "action": "https://chatgpt.com/?noauth_recent_chat_failed=1",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://chatgpt.com/?noauth_recent_chat_failed=1",
+    "action": "https://chatgpt.com/?noauth_recent_chat_failed=1",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://chatgpt.com/?noauth_recent_chat_failed=1",
+    "action": "https://chatgpt.com/?noauth_recent_chat_failed=1",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://chatgpt.com/?noauth_recent_chat_failed=1",
+    "action": "https://chatgpt.com/?noauth_recent_chat_failed=1",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://chatgpt.com/?noauth_recent_chat_failed=1",
+    "action": "https://chatgpt.com/auth/login_with",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "callback_path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "screen_hint",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "login_hint",
+        "id": "mobile-auth-email",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://chatgpt.com/?noauth_recent_chat_failed=1",
+    "action": "https://chatgpt.com/auth/login_with",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "callback_path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "screen_hint",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "mobile-auth-phone-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "US"
+        ]
+      },
+      {
+        "type": "tel",
+        "name": "login_hint",
+        "id": "mobile-auth-phone",
+        "placeholder": "Phone number",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://chatgpt.com/images",
+    "action": "https://chatgpt.com/unauth-mweb/conversation",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "conversationState",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "messageMetadata",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "oai-session-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "imageAttachments",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pendingImageUploads",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "",
+        "id": "octane-mobile-composer-photos-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "",
+        "id": "octane-mobile-composer-files-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "",
+        "id": "octane-mobile-composer-camera-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "prompt",
+        "id": "mobile-composer-prompt",
+        "placeholder": "Describe a new image",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://chatgpt.com/images",
+    "action": "https://chatgpt.com/images",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://chatgpt.com/images",
+    "action": "https://chatgpt.com/images",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://chatgpt.com/images",
+    "action": "https://chatgpt.com/images",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://chatgpt.com/images",
+    "action": "https://chatgpt.com/images",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://chatgpt.com/images",
+    "action": "https://chatgpt.com/auth/login_with",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "callback_path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "screen_hint",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "login_hint",
+        "id": "mobile-auth-email",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://chatgpt.com/images",
+    "action": "https://chatgpt.com/auth/login_with",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "callback_path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "screen_hint",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "mobile-auth-phone-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "US"
+        ]
+      },
+      {
+        "type": "tel",
+        "name": "login_hint",
+        "id": "mobile-auth-phone",
+        "placeholder": "Phone number",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://chatgpt.com/plugins?plugins_landing=1",
+    "action": "https://chatgpt.com/plugins",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search plugins",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "plugins_landing",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chatgpt.com/plugins?plugins_landing=1",
+    "action": "https://chatgpt.com/plugins?plugins_landing=1",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://chatgpt.com/",
+    "action": "https://chatgpt.com/unauth-mweb/conversation",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "conversationState",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "messageMetadata",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "oai-session-id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "imageAttachments",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pendingImageUploads",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "",
+        "id": "octane-mobile-composer-photos-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "",
+        "id": "octane-mobile-composer-files-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "file",
+        "name": "",
+        "id": "octane-mobile-composer-camera-input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "prompt",
+        "id": "mobile-composer-prompt",
+        "placeholder": "Ask ChatGPT",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://chatgpt.com/",
+    "action": "https://chatgpt.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://chatgpt.com/",
+    "action": "https://chatgpt.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://chatgpt.com/",
+    "action": "https://chatgpt.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://chatgpt.com/",
+    "action": "https://chatgpt.com/",
+    "method": "dialog",
+    "fields": []
+  },
+  {
+    "url": "https://chatgpt.com/",
+    "action": "https://chatgpt.com/auth/login_with",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "callback_path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "screen_hint",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "login_hint",
+        "id": "mobile-auth-email",
+        "placeholder": "Email address",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://chatgpt.com/",
+    "action": "https://chatgpt.com/auth/login_with",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "callback_path",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "screen_hint",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "mobile-auth-phone-country",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "US"
+        ]
+      },
+      {
+        "type": "tel",
+        "name": "login_hint",
+        "id": "mobile-auth-phone",
+        "placeholder": "Phone number",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://chatgpt.com/plugins",
+    "action": "https://chatgpt.com/plugins",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "q",
+        "id": "",
+        "placeholder": "Search plugins",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://chatgpt.com/plugins",
+    "action": "https://chatgpt.com/plugins",
+    "method": "dialog",
+    "fields": []
   }
 ]
