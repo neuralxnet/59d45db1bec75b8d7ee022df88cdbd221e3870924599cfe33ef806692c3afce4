@@ -604203,5 +604203,1585 @@
     "action": "https://chatgpt.com/plugins",
     "method": "dialog",
     "fields": []
+  },
+  {
+    "url": "https://lps.infomoney.com.br/planilha-viver-renda-fiis-inscricao/?utm_source=infomoney&utm_medium=botao&utm_campaign=pfi&utm_term=hiperlink&utm_content=header",
+    "action": "https://lps.infomoney.com.br/planilha-viver-renda-fiis-inscricao/?utm_source=infomoney&utm_medium=botao&utm_campaign=pfi&utm_term=hiperlink&utm_content=header",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "",
+        "placeholder": "Nome",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contactKey",
+        "id": "",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cellphone",
+        "id": "",
+        "placeholder": "Telefone",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cpf",
+        "id": "",
+        "placeholder": "CPF",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "captador_leads_im",
+        "id": "captador_leads_im",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wp_http_referer",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "flagAccept",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contexto",
+        "id": "contexto",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignId",
+        "id": "campaignId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignName",
+        "id": "campaignName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignAbbreviation",
+        "id": "campaignAbbreviation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "productId",
+        "id": "productId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_link",
+        "id": "redirect_link",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://lps.infomoney.com.br/planilha-viver-renda-fiis-inscricao/?utm_source=infomoney&utm_medium=banner&utm_campaign=pfi&utm_term=banner-ticker&utm_content=cotacoes",
+    "action": "https://lps.infomoney.com.br/planilha-viver-renda-fiis-inscricao/?utm_source=infomoney&utm_medium=banner&utm_campaign=pfi&utm_term=banner-ticker&utm_content=cotacoes",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "",
+        "placeholder": "Nome",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contactKey",
+        "id": "",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cellphone",
+        "id": "",
+        "placeholder": "Telefone",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cpf",
+        "id": "",
+        "placeholder": "CPF",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "captador_leads_im",
+        "id": "captador_leads_im",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wp_http_referer",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "flagAccept",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contexto",
+        "id": "contexto",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignId",
+        "id": "campaignId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignName",
+        "id": "campaignName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignAbbreviation",
+        "id": "campaignAbbreviation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "productId",
+        "id": "productId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_link",
+        "id": "redirect_link",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://lps.infomoney.com.br/planilha-viva-de-renda-inscricao/?utm_source=infomoney&utm_medium=banner&utm_campaign=pvr&utm_term=banner-ticker&utm_content=cotacoes",
+    "action": "https://lps.infomoney.com.br/planilha-viva-de-renda-inscricao/?utm_source=infomoney&utm_medium=banner&utm_campaign=pvr&utm_term=banner-ticker&utm_content=cotacoes",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "",
+        "placeholder": "Nome",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contactKey",
+        "id": "",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cellphone",
+        "id": "",
+        "placeholder": "Telefone",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cpf",
+        "id": "",
+        "placeholder": "CPF",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "captador_leads_im",
+        "id": "captador_leads_im",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wp_http_referer",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "flagAccept",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contexto",
+        "id": "contexto",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignId",
+        "id": "campaignId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignName",
+        "id": "campaignName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignAbbreviation",
+        "id": "campaignAbbreviation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "productId",
+        "id": "productId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_link",
+        "id": "redirect_link",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://lps.infomoney.com.br/planilha-viva-de-renda-inscricao/?utm_source=infomoney&utm_medium=banner&utm_campaign=pvr&utm_term=banner-ticker&utm_content=cotacoes",
+    "action": "https://lps.infomoney.com.br/planilha-viva-de-renda-inscricao/?utm_source=infomoney&utm_medium=banner&utm_campaign=pvr&utm_term=banner-ticker&utm_content=cotacoes",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "",
+        "placeholder": "Nome",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contactKey",
+        "id": "",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cellphone",
+        "id": "",
+        "placeholder": "Telefone",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cpf",
+        "id": "",
+        "placeholder": "CPF",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "captador_leads_im",
+        "id": "captador_leads_im",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wp_http_referer",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "flagAccept",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contexto",
+        "id": "contexto",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignId",
+        "id": "campaignId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignName",
+        "id": "campaignName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignAbbreviation",
+        "id": "campaignAbbreviation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "productId",
+        "id": "productId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_link",
+        "id": "redirect_link",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.infomoney.com.br/authentication/sign-in/",
+    "action": {
+      "0": "ref: <Node>",
+      "1": "ref: <Node>"
+    },
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://www.infomoney.com.br/authentication/sign-in/",
+    "action": "https://login.infomoney.com.br/u/login?state=hqFo2SBrbU95QWRDSUp6ZUFJaG5STlBrX0YyLXZweEpkQ25KUKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGxkU3c5dUI0T1hON2d5ODJCb3JZeVdDRmFSemxyZmJto2NpZNkgajhyOVh6bVZDakZHeDZEckZFdE1mR1lmR0F3NmZ5WXSlb3JnaWS0b3JnXzhEamg5OXpwV0xBVkVoVWenb3JnbmFtZalpbmZvbW9uZXk",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://lps.infomoney.com.br/curso-gratuito-ia-inscricao/?utm_source=infomoney&utm_medium=contesp&utm_campaign=hot-topic&utm_term=hiperlink&utm_content=home",
+    "action": "https://lps.infomoney.com.br/curso-gratuito-ia-inscricao/?utm_source=infomoney&utm_medium=contesp&utm_campaign=hot-topic&utm_term=hiperlink&utm_content=home",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "",
+        "placeholder": "Nome",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contactKey",
+        "id": "",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cellphone",
+        "id": "",
+        "placeholder": "Telefone",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cpf",
+        "id": "",
+        "placeholder": "CPF",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "captador_leads_im",
+        "id": "captador_leads_im",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wp_http_referer",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "flagAccept",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contexto",
+        "id": "contexto",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignId",
+        "id": "campaignId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignName",
+        "id": "campaignName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignAbbreviation",
+        "id": "campaignAbbreviation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "productId",
+        "id": "productId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_link",
+        "id": "redirect_link",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://lps.infomoney.com.br/guia-tesouro-direto-inscricao/?utm_source=infomoney&utm_medium=hot-topic&utm_campaign=tes&utm_term=hiperlink&utm_content=menu",
+    "action": "https://lps.infomoney.com.br/guia-tesouro-direto-inscricao/?utm_source=infomoney&utm_medium=hot-topic&utm_campaign=tes&utm_term=hiperlink&utm_content=menu",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "",
+        "placeholder": "Nome",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contactKey",
+        "id": "",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cellphone",
+        "id": "",
+        "placeholder": "Telefone",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cpf",
+        "id": "",
+        "placeholder": "CPF",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "captador_leads_im",
+        "id": "captador_leads_im",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wp_http_referer",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "flagAccept",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contexto",
+        "id": "contexto",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignId",
+        "id": "campaignId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignName",
+        "id": "campaignName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignAbbreviation",
+        "id": "campaignAbbreviation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "productId",
+        "id": "productId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_link",
+        "id": "redirect_link",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://lps.infomoney.com.br/ebook-de-milhas-aereas-inscricao?utm_source=infomoney&utm_medium=hot-topic&utm_campaign=ebm&utm_term=hiperlink&utm_content=home",
+    "action": "https://lps.infomoney.com.br/ebook-de-milhas-aereas-inscricao/?utm_source=infomoney&utm_medium=hot-topic&utm_campaign=ebm&utm_term=hiperlink&utm_content=home",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "",
+        "placeholder": "Nome",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contactKey",
+        "id": "",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cellphone",
+        "id": "",
+        "placeholder": "Whatsapp",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cpf",
+        "id": "",
+        "placeholder": "CPF",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "captador_leads_im",
+        "id": "captador_leads_im",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wp_http_referer",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "flagAccept",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contexto",
+        "id": "contexto",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignId",
+        "id": "campaignId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignName",
+        "id": "campaignName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignAbbreviation",
+        "id": "campaignAbbreviation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "productId",
+        "id": "productId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_link",
+        "id": "redirect_link",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://lps.infomoney.com.br/ebook-de-milhas-aereas-inscricao?utm_source=infomoney&utm_medium=hot-topic&utm_campaign=ebm&utm_term=hiperlink&utm_content=home",
+    "action": "https://lps.infomoney.com.br/ebook-de-milhas-aereas-inscricao/?utm_source=infomoney&utm_medium=hot-topic&utm_campaign=ebm&utm_term=hiperlink&utm_content=home",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "",
+        "placeholder": "Nome",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contactKey",
+        "id": "",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cellphone",
+        "id": "",
+        "placeholder": "Whatsapp",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cpf",
+        "id": "",
+        "placeholder": "CPF",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "captador_leads_im",
+        "id": "captador_leads_im",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wp_http_referer",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "flagAccept",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contexto",
+        "id": "contexto",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignId",
+        "id": "campaignId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignName",
+        "id": "campaignName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignAbbreviation",
+        "id": "campaignAbbreviation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "productId",
+        "id": "productId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_link",
+        "id": "redirect_link",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://lps.infomoney.com.br/ebook-de-milhas-aereas-inscricao?utm_source=infomoney&utm_medium=hot-topic&utm_campaign=ebm&utm_term=hiperlink&utm_content=home",
+    "action": "https://lps.infomoney.com.br/ebook-de-milhas-aereas-inscricao/?utm_source=infomoney&utm_medium=hot-topic&utm_campaign=ebm&utm_term=hiperlink&utm_content=home",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "",
+        "placeholder": "Nome",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contactKey",
+        "id": "",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cellphone",
+        "id": "",
+        "placeholder": "Whatsapp",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cpf",
+        "id": "",
+        "placeholder": "CPF",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "captador_leads_im",
+        "id": "captador_leads_im",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wp_http_referer",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "flagAccept",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contexto",
+        "id": "contexto",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignId",
+        "id": "campaignId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignName",
+        "id": "campaignName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignAbbreviation",
+        "id": "campaignAbbreviation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "productId",
+        "id": "productId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_link",
+        "id": "redirect_link",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://lps.infomoney.com.br/planilha-viver-renda-fiis-inscricao/?utm_source=infomoney&utm_medium=botao&utm_campaign=pfi&utm_term=hiperlink&utm_content=header#checkout",
+    "action": "https://lps.infomoney.com.br/planilha-viver-renda-fiis-inscricao/?utm_source=infomoney&utm_medium=botao&utm_campaign=pfi&utm_term=hiperlink&utm_content=header#checkout",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "",
+        "placeholder": "Nome",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contactKey",
+        "id": "",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cellphone",
+        "id": "",
+        "placeholder": "Telefone",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cpf",
+        "id": "",
+        "placeholder": "CPF",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "captador_leads_im",
+        "id": "captador_leads_im",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wp_http_referer",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "flagAccept",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contexto",
+        "id": "contexto",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignId",
+        "id": "campaignId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignName",
+        "id": "campaignName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignAbbreviation",
+        "id": "campaignAbbreviation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "productId",
+        "id": "productId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_link",
+        "id": "redirect_link",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://lps.infomoney.com.br/planilha-viver-renda-fiis-inscricao/?utm_source=infomoney&utm_medium=banner&utm_campaign=pfi&utm_term=banner-ticker&utm_content=cotacoes#checkout",
+    "action": "https://lps.infomoney.com.br/planilha-viver-renda-fiis-inscricao/?utm_source=infomoney&utm_medium=banner&utm_campaign=pfi&utm_term=banner-ticker&utm_content=cotacoes#checkout",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "",
+        "placeholder": "Nome",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contactKey",
+        "id": "",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cellphone",
+        "id": "",
+        "placeholder": "Telefone",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cpf",
+        "id": "",
+        "placeholder": "CPF",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "captador_leads_im",
+        "id": "captador_leads_im",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wp_http_referer",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "flagAccept",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contexto",
+        "id": "contexto",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignId",
+        "id": "campaignId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignName",
+        "id": "campaignName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignAbbreviation",
+        "id": "campaignAbbreviation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "productId",
+        "id": "productId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_link",
+        "id": "redirect_link",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://login.infomoney.com.br/u/login/password-reset-start/infomoney-db?state=hqFo2SBrbU95QWRDSUp6ZUFJaG5STlBrX0YyLXZweEpkQ25KUKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGxkU3c5dUI0T1hON2d5ODJCb3JZeVdDRmFSemxyZmJto2NpZNkgajhyOVh6bVZDakZHeDZEckZFdE1mR1lmR0F3NmZ5WXSlb3JnaWS0b3JnXzhEamg5OXpwV0xBVkVoVWenb3JnbmFtZalpbmZvbW9uZXk",
+    "action": {
+      "0": "ref: <Node>",
+      "1": "ref: <Node>"
+    },
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://login.infomoney.com.br/u/login/password-reset-start/infomoney-db?state=hqFo2SBrbU95QWRDSUp6ZUFJaG5STlBrX0YyLXZweEpkQ25KUKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGxkU3c5dUI0T1hON2d5ODJCb3JZeVdDRmFSemxyZmJto2NpZNkgajhyOVh6bVZDakZHeDZEckZFdE1mR1lmR0F3NmZ5WXSlb3JnaWS0b3JnXzhEamg5OXpwV0xBVkVoVWenb3JnbmFtZalpbmZvbW9uZXk",
+    "action": "ref: <Node>",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://login.infomoney.com.br/u/signup?state=hqFo2SBrbU95QWRDSUp6ZUFJaG5STlBrX0YyLXZweEpkQ25KUKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGxkU3c5dUI0T1hON2d5ODJCb3JZeVdDRmFSemxyZmJto2NpZNkgajhyOVh6bVZDakZHeDZEckZFdE1mR1lmR0F3NmZ5WXSlb3JnaWS0b3JnXzhEamg5OXpwV0xBVkVoVWenb3JnbmFtZalpbmZvbW9uZXk",
+    "action": {
+      "0": "ref: <Node>",
+      "1": "ref: <Node>"
+    },
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "passwordPolicy.isFlexible",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "strengthPolicy",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "complexityOptions.minLength",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://login.infomoney.com.br/u/signup?state=hqFo2SBrbU95QWRDSUp6ZUFJaG5STlBrX0YyLXZweEpkQ25KUKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGxkU3c5dUI0T1hON2d5ODJCb3JZeVdDRmFSemxyZmJto2NpZNkgajhyOVh6bVZDakZHeDZEckZFdE1mR1lmR0F3NmZ5WXSlb3JnaWS0b3JnXzhEamg5OXpwV0xBVkVoVWenb3JnbmFtZalpbmZvbW9uZXk",
+    "action": "https://login.infomoney.com.br/u/signup?state=hqFo2SBrbU95QWRDSUp6ZUFJaG5STlBrX0YyLXZweEpkQ25KUKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGxkU3c5dUI0T1hON2d5ODJCb3JZeVdDRmFSemxyZmJto2NpZNkgajhyOVh6bVZDakZHeDZEckZFdE1mR1lmR0F3NmZ5WXSlb3JnaWS0b3JnXzhEamg5OXpwV0xBVkVoVWenb3JnbmFtZalpbmZvbW9uZXk",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://lps.infomoney.com.br/curso-gratuito-ia-inscricao/?utm_source=infomoney&utm_medium=contesp&utm_campaign=hot-topic&utm_term=hiperlink&utm_content=home#checkout",
+    "action": "https://lps.infomoney.com.br/curso-gratuito-ia-inscricao/?utm_source=infomoney&utm_medium=contesp&utm_campaign=hot-topic&utm_term=hiperlink&utm_content=home#checkout",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "",
+        "placeholder": "Nome",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contactKey",
+        "id": "",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cellphone",
+        "id": "",
+        "placeholder": "Telefone",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cpf",
+        "id": "",
+        "placeholder": "CPF",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "captador_leads_im",
+        "id": "captador_leads_im",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wp_http_referer",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "flagAccept",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contexto",
+        "id": "contexto",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignId",
+        "id": "campaignId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignName",
+        "id": "campaignName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignAbbreviation",
+        "id": "campaignAbbreviation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "productId",
+        "id": "productId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_link",
+        "id": "redirect_link",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://lps.infomoney.com.br/guia-tesouro-direto-inscricao/?utm_source=infomoney&utm_medium=hot-topic&utm_campaign=tes&utm_term=hiperlink&utm_content=menu#checkout",
+    "action": "https://lps.infomoney.com.br/guia-tesouro-direto-inscricao/?utm_source=infomoney&utm_medium=hot-topic&utm_campaign=tes&utm_term=hiperlink&utm_content=menu#checkout",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "",
+        "placeholder": "Nome",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "contactKey",
+        "id": "",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cellphone",
+        "id": "",
+        "placeholder": "Telefone",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "cpf",
+        "id": "",
+        "placeholder": "CPF",
+        "required": true
+      },
+      {
+        "type": "hidden",
+        "name": "captador_leads_im",
+        "id": "captador_leads_im",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_wp_http_referer",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "flagAccept",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "contexto",
+        "id": "contexto",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignId",
+        "id": "campaignId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignName",
+        "id": "campaignName",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "campaignAbbreviation",
+        "id": "campaignAbbreviation",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "productId",
+        "id": "productId",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "redirect_link",
+        "id": "redirect_link",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://login.infomoney.com.br/u/login?state=hqFo2SBrbU95QWRDSUp6ZUFJaG5STlBrX0YyLXZweEpkQ25KUKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGxkU3c5dUI0T1hON2d5ODJCb3JZeVdDRmFSemxyZmJto2NpZNkgajhyOVh6bVZDakZHeDZEckZFdE1mR1lmR0F3NmZ5WXSlb3JnaWS0b3JnXzhEamg5OXpwV0xBVkVoVWenb3JnbmFtZalpbmZvbW9uZXk",
+    "action": {
+      "0": "ref: <Node>",
+      "1": "ref: <Node>"
+    },
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "username",
+        "id": "username",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://login.infomoney.com.br/u/login?state=hqFo2SBrbU95QWRDSUp6ZUFJaG5STlBrX0YyLXZweEpkQ25KUKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGxkU3c5dUI0T1hON2d5ODJCb3JZeVdDRmFSemxyZmJto2NpZNkgajhyOVh6bVZDakZHeDZEckZFdE1mR1lmR0F3NmZ5WXSlb3JnaWS0b3JnXzhEamg5OXpwV0xBVkVoVWenb3JnbmFtZalpbmZvbW9uZXk",
+    "action": "https://login.infomoney.com.br/u/login?state=hqFo2SBrbU95QWRDSUp6ZUFJaG5STlBrX0YyLXZweEpkQ25KUKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGxkU3c5dUI0T1hON2d5ODJCb3JZeVdDRmFSemxyZmJto2NpZNkgajhyOVh6bVZDakZHeDZEckZFdE1mR1lmR0F3NmZ5WXSlb3JnaWS0b3JnXzhEamg5OXpwV0xBVkVoVWenb3JnbmFtZalpbmZvbW9uZXk",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "state",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "connection",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
