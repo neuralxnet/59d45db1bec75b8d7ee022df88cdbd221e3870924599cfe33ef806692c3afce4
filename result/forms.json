@@ -605783,5 +605783,936 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.xpeducacao.com.br/?_gl=1*1cbjkyh*_gcl_au*NDc2MzkwODgzLjE3NDQ2NTQyMTA.&_ga=2.108006278.52261445.1752089121-2104714218.1744654212",
+    "action": "https://blog.xpeducacao.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "td-header-search-mob",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.xpeducacao.com.br/?_gl=1*1cbjkyh*_gcl_au*NDc2MzkwODgzLjE3NDQ2NTQyMTA.&_ga=2.108006278.52261445.1752089121-2104714218.1744654212",
+    "action": "https://blog.xpeducacao.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "tdb-search-form-input-tdi_46",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br#main-content",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/signin?return_to=https%3A%2F%2Fsuporte.xpeducacao.com.br%2Fhc%2Fpt-br",
+    "action": "https://suporte.xpeducacao.com.br/auth/v3/signin?brand_id=16394539029531&locale=pt-br&return_to=https%3A%2F%2Fsuporte.xpeducacao.com.br%2Fhc%2Fpt-br&role=end_user",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "",
+        "id": ":Rpdp8m:--input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": ":R51dp8m:--input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/categories/57011122699803-Preparat%C3%B3rio-para-Certifica%C3%A7%C3%B5es",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/categories/57011106138651-Forma%C3%A7%C3%B5es",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/categories/49191625657371-IA-Sprints",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/categories/39664843263003-Gradua%C3%A7%C3%A3o",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/categories/37707475313179-MBA-em-Intelig%C3%AAncia-Artificial-para-Neg%C3%B3cios",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/categories/36272225277851-Expert-Pass",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.xpeducacao.com.br/politica-de-cookies-br/#cmplz-manage-consent-container",
+    "action": "https://blog.xpeducacao.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "td-header-search-mob",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.xpeducacao.com.br/politica-de-cookies-br/#cmplz-manage-consent-container",
+    "action": "https://blog.xpeducacao.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "tdb-search-form-input-tdi_46",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.xpeducacao.com.br/politica-de-cookies-br/#cmplz-cookies-overview",
+    "action": "https://blog.xpeducacao.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "td-header-search-mob",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.xpeducacao.com.br/politica-de-cookies-br/#cmplz-cookies-overview",
+    "action": "https://blog.xpeducacao.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "tdb-search-form-input-tdi_46",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.xpeducacao.com.br/politica-de-cookies-br/#cmplz-tcf-wrapper",
+    "action": "https://blog.xpeducacao.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "td-header-search-mob",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.xpeducacao.com.br/politica-de-cookies-br/#cmplz-tcf-wrapper",
+    "action": "https://blog.xpeducacao.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "tdb-search-form-input-tdi_46",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.xpeducacao.com.br/politica-de-cookies-br/",
+    "action": "https://blog.xpeducacao.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "td-header-search-mob",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.xpeducacao.com.br/politica-de-cookies-br/",
+    "action": "https://blog.xpeducacao.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "tdb-search-form-input-tdi_46",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.xpeducacao.com.br/?_gl=1*1cbjkyh*_gcl_au*NDc2MzkwODgzLjE3NDQ2NTQyMTA.&_ga=2.108006278.52261445.1752089121-2104714218.1744654212#",
+    "action": "https://blog.xpeducacao.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "td-header-search-mob",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.xpeducacao.com.br/?_gl=1*1cbjkyh*_gcl_au*NDc2MzkwODgzLjE3NDQ2NTQyMTA.&_ga=2.108006278.52261445.1752089121-2104714218.1744654212#",
+    "action": "https://blog.xpeducacao.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "tdb-search-form-input-tdi_46",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.xpeducacao.com.br/categoria/tecnologia/",
+    "action": "https://blog.xpeducacao.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "td-header-search-mob",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.xpeducacao.com.br/categoria/tecnologia/",
+    "action": "https://blog.xpeducacao.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "tdb-search-form-input-tdi_46",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.xpeducacao.com.br/categoria/agile/",
+    "action": "https://blog.xpeducacao.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "td-header-search-mob",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.xpeducacao.com.br/categoria/agile/",
+    "action": "https://blog.xpeducacao.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "tdb-search-form-input-tdi_46",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.xpeducacao.com.br/categoria/arquitetura-de-software/",
+    "action": "https://blog.xpeducacao.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "td-header-search-mob",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://blog.xpeducacao.com.br/categoria/arquitetura-de-software/",
+    "action": "https://blog.xpeducacao.com.br/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "s",
+        "id": "tdb-search-form-input-tdi_46",
+        "placeholder": " ",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/auth/v3/signin?brand_id=16394539029531&locale=pt-br&return_to=https%3A%2F%2Fsuporte.xpeducacao.com.br%2Fhc%2Fpt-br&role=end_user#",
+    "action": "https://suporte.xpeducacao.com.br/auth/v3/signin?brand_id=16394539029531&locale=pt-br&return_to=https%3A%2F%2Fsuporte.xpeducacao.com.br%2Fhc%2Fpt-br&role=end_user#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "",
+        "id": ":Rpdp8m:--input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": ":R51dp8m:--input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/auth/v3/password/forgot?brand_id=16394539029531&return_to=https%253A%252F%252Fsuporte.xpeducacao.com.br%252Fhc%252Fpt-br%253Fbrand_id%253D16394539029531&locale=pt-br",
+    "action": "https://suporte.xpeducacao.com.br/auth/v3/password/forgot?brand_id=16394539029531&return_to=https%253A%252F%252Fsuporte.xpeducacao.com.br%252Fhc%252Fpt-br%253Fbrand_id%253D16394539029531&locale=pt-br",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": ":R2b8m:--input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/categories/57011122699803-Preparat%C3%B3rio-para-Certifica%C3%A7%C3%B5es#main-content",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/signin?return_to=https%3A%2F%2Fsuporte.xpeducacao.com.br%2Fhc%2Fpt-br%2Fcategories%2F57011122699803-Preparat%25C3%25B3rio-para-Certifica%25C3%25A7%25C3%25B5es",
+    "action": "https://suporte.xpeducacao.com.br/auth/v3/signin?brand_id=16394539029531&locale=pt-br&return_to=https%3A%2F%2Fsuporte.xpeducacao.com.br%2Fhc%2Fpt-br%2Fcategories%2F57011122699803-Preparat%25C3%25B3rio-para-Certifica%25C3%25A7%25C3%25B5es&role=end_user",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "",
+        "id": ":Rpdp8m:--input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": ":R51dp8m:--input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/categories/57011122699803-Preparat%C3%B3rio-para-Certifica%C3%A7%C3%B5es#",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/sections/57552135909787-Preparat%C3%B3rio-ANCORD",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/articles/57552947340059-Preparat%C3%B3rio-ANCORD",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/sections/57281241417115-Preparat%C3%B3rio-CFP",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/articles/57281350632603-Preparat%C3%B3rio-CFP-o-que-%C3%A9",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/categories/57011106138651-Forma%C3%A7%C3%B5es#main-content",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/signin?return_to=https%3A%2F%2Fsuporte.xpeducacao.com.br%2Fhc%2Fpt-br%2Fcategories%2F57011106138651-Forma%25C3%25A7%25C3%25B5es",
+    "action": "https://suporte.xpeducacao.com.br/auth/v3/signin?brand_id=16394539029531&locale=pt-br&return_to=https%3A%2F%2Fsuporte.xpeducacao.com.br%2Fhc%2Fpt-br%2Fcategories%2F57011106138651-Forma%25C3%25A7%25C3%25B5es&role=end_user",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "",
+        "id": ":Rpdp8m:--input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": ":R51dp8m:--input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/categories/57011106138651-Forma%C3%A7%C3%B5es#",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/sections/57275326256411-Forma%C3%A7%C3%A3o-Advisor-3-0",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/articles/57275990151195-Forma%C3%A7%C3%A3o-Advisor-3-0-o-que-%C3%A9",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/sections/57275347537435-Forma%C3%A7%C3%A3o-Legacy",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/articles/57276091063707-Forma%C3%A7%C3%A3o-Legacy-o-que-%C3%A9",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/categories/49191625657371-IA-Sprints#main-content",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/signin?return_to=https%3A%2F%2Fsuporte.xpeducacao.com.br%2Fhc%2Fpt-br%2Fcategories%2F49191625657371-IA-Sprints",
+    "action": "https://suporte.xpeducacao.com.br/auth/v3/signin?brand_id=16394539029531&locale=pt-br&return_to=https%3A%2F%2Fsuporte.xpeducacao.com.br%2Fhc%2Fpt-br%2Fcategories%2F49191625657371-IA-Sprints&role=end_user",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "authenticity_token",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "email",
+        "name": "",
+        "id": ":Rpdp8m:--input",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": ":R51dp8m:--input",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/categories/49191625657371-IA-Sprints#",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/sections/49191824058011-Atividades-e-Conte%C3%BAdo",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/articles/49192929972123-O-que-%C3%A9-a-assinatura-IA-Sprints",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://suporte.xpeducacao.com.br/hc/pt-br/categories/39664843263003-Gradua%C3%A7%C3%A3o#main-content",
+    "action": "https://suporte.xpeducacao.com.br/hc/pt-br/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Pesquisa",
+        "required": false
+      }
+    ]
   }
 ]
