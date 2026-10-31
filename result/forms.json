@@ -606714,5 +606714,308 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.smartsheet.com",
+    "action": "https://www.smartsheet.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "lang_dropdown_select",
+        "id": "edit-lang-dropdown-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it",
+          "pt",
+          "ru",
+          "ja"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "en",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "de",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "es",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fr",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "it",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pt",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ru",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ja",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_build_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.smartsheet.com",
+    "action": "https://www.smartsheet.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "lang_dropdown_select",
+        "id": "edit-lang-dropdown-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it",
+          "pt",
+          "ru",
+          "ja"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "en",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "de",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "es",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fr",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "it",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pt",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ru",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ja",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_build_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.smartsheet.com",
+    "action": "https://www.smartsheet.com/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "search_api_fulltext",
+        "id": "search-query-413396418",
+        "placeholder": "What can we help you find?",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "search-standalone-submit--413396418",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.smartsheet.com",
+    "action": "https://www.smartsheet.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "lang_dropdown_select",
+        "id": "edit-lang-dropdown-select-2",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "en",
+          "de",
+          "es",
+          "fr",
+          "it",
+          "pt",
+          "ru",
+          "ja"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "en",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "de",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "es",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "fr",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "it",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "pt",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ru",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "ja",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_build_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "form_id",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
