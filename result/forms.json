@@ -607017,5 +607017,103 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://accounts.app.cvent.com",
+    "action": "https://app.cvent.com/Subscribers/Login.aspx?returnUrl=https%3a%2f%2faccounts.app.cvent.com%2f",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEENCRYPTED",
+        "id": "__VIEWSTATEENCRYPTED",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "account",
+        "id": "account",
+        "placeholder": "Account Name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "username",
+        "id": "username",
+        "placeholder": "Username",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "btnLogin",
+        "id": "btnLogin",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "organizationId",
+        "id": "organizationId",
+        "placeholder": "Organization Id",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "btnLoginSso",
+        "id": "btnLoginSso",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "btnClientLogin",
+        "id": "btnClientLogin",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
