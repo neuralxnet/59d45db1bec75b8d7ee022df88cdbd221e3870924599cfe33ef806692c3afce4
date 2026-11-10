@@ -607115,5 +607115,90 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://eurobankepistrofiel.aegeanair.com",
+    "action": "https://eurobankepistrofiel.aegeanair.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "__LASTFOCUS",
+        "id": "__LASTFOCUS",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATE",
+        "id": "__VIEWSTATE",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__VIEWSTATEGENERATOR",
+        "id": "__VIEWSTATEGENERATOR",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTTARGET",
+        "id": "__EVENTTARGET",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTARGUMENT",
+        "id": "__EVENTARGUMENT",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "__EVENTVALIDATION",
+        "id": "__EVENTVALIDATION",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "language",
+        "id": "language",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Ελληνικά",
+          "English"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "language",
+        "id": "language",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English",
+          "Ελληνικά"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "Username",
+        "id": "Username",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "submit",
+        "id": "submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
