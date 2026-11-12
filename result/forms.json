@@ -607285,5 +607285,40 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://extranet.aegeanair.com",
+    "action": "https://extranet.aegeanair.com/my.policy",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "username",
+        "id": "input_1",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "input_2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "vhost",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
