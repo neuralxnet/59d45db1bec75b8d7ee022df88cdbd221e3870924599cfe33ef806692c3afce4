@@ -607320,5 +607320,197 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://ftp.aegeanair.com",
+    "action": "https://ftp.aegeanair.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "user",
+        "id": "user-box-text",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "pword",
+        "id": "pword-box-text",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "Language-Combo",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "en,US",
+          "de,DE",
+          "it,IT",
+          "fr,FR",
+          "es,ES",
+          "pt,PT",
+          "sr,SR",
+          "se,SE",
+          "fi,FI",
+          "no,NO",
+          "ru,RU",
+          "dk,DK",
+          "zh,CN",
+          "zh,TW",
+          "jp,JP"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "remember",
+        "id": "aw16-hidden",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ftp.aegeanair.com",
+    "action": "https://ftp.aegeanair.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "cookieexists",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ftp.aegeanair.com",
+    "action": "https://ftp.aegeanair.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "EncSession",
+        "id": "EncSession",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ftp.aegeanair.com",
+    "action": "https://ftp.aegeanair.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "recoverID",
+        "id": "recoverID-box-text",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ftp.aegeanair.com",
+    "action": "https://ftp.aegeanair.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ftp.aegeanair.com",
+    "action": "https://ftp.aegeanair.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "CurrentUserEmail",
+        "id": "CurrentUserEmail-box-text",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "UserEmail",
+        "id": "UserEmail-box-text",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://ftp.aegeanair.com",
+    "action": "https://ftp.aegeanair.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "password",
+        "name": "OldPasswordChange",
+        "id": "OldPasswordChange-box-text",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "NewPasswordChange",
+        "id": "NewPasswordChange-box-text",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "VerifyNewPasswordChange",
+        "id": "VerifyNewPasswordChange-box-text",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
