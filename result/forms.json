@@ -607512,5 +607512,1177 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://www.nordvpn.com",
+    "action": "https://nordvpn.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/",
+          "/da/",
+          "/de/",
+          "/en/",
+          "/es/",
+          "/es-mx/",
+          "/fr/",
+          "/it/",
+          "/lt/",
+          "/nl/",
+          "/no/",
+          "/pl/",
+          "/pt/",
+          "/pt-br/",
+          "/fi/",
+          "/sv/",
+          "/tr/",
+          "/ru/",
+          "/uk/",
+          "/he/",
+          "/ko/",
+          "/ar/",
+          "/ja/",
+          "/zh/",
+          "/zh-tw/",
+          "/zh-hk/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "http://nordvpn.com",
+    "action": "https://nordvpn.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/",
+          "/da/",
+          "/de/",
+          "/en/",
+          "/es/",
+          "/es-mx/",
+          "/fr/",
+          "/it/",
+          "/lt/",
+          "/nl/",
+          "/no/",
+          "/pl/",
+          "/pt/",
+          "/pt-br/",
+          "/fi/",
+          "/sv/",
+          "/tr/",
+          "/ru/",
+          "/uk/",
+          "/he/",
+          "/ko/",
+          "/ar/",
+          "/ja/",
+          "/zh/",
+          "/zh-tw/",
+          "/zh-hk/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/#main-content",
+    "action": "https://nordvpn.com/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/",
+          "/da/",
+          "/de/",
+          "/en/",
+          "/es/",
+          "/es-mx/",
+          "/fr/",
+          "/it/",
+          "/lt/",
+          "/nl/",
+          "/no/",
+          "/pl/",
+          "/pt/",
+          "/pt-br/",
+          "/fi/",
+          "/sv/",
+          "/tr/",
+          "/ru/",
+          "/uk/",
+          "/he/",
+          "/ko/",
+          "/ar/",
+          "/ja/",
+          "/zh/",
+          "/zh-tw/",
+          "/zh-hk/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/",
+    "action": "https://nordvpn.com/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/",
+          "/da/",
+          "/de/",
+          "/en/",
+          "/es/",
+          "/es-mx/",
+          "/fr/",
+          "/it/",
+          "/lt/",
+          "/nl/",
+          "/no/",
+          "/pl/",
+          "/pt/",
+          "/pt-br/",
+          "/fi/",
+          "/sv/",
+          "/tr/",
+          "/ru/",
+          "/uk/",
+          "/he/",
+          "/ko/",
+          "/ar/",
+          "/ja/",
+          "/zh/",
+          "/zh-tw/",
+          "/zh-hk/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/pricing/",
+    "action": "https://nordvpn.com/pricing/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/pricing/",
+          "/da/pricing/",
+          "/de/pricing/",
+          "/en/pricing/",
+          "/es/pricing/",
+          "/es-mx/pricing/",
+          "/fr/pricing/",
+          "/it/pricing/",
+          "/lt/pricing/",
+          "/nl/pricing/",
+          "/no/pricing/",
+          "/pl/pricing/",
+          "/pt/pricing/",
+          "/pt-br/pricing/",
+          "/fi/pricing/",
+          "/sv/pricing/",
+          "/tr/pricing/",
+          "/ru/pricing/",
+          "/uk/pricing/",
+          "/he/pricing/",
+          "/ko/pricing/",
+          "/ar/pricing/",
+          "/ja/pricing/",
+          "/zh/pricing/",
+          "/zh-tw/pricing/",
+          "/zh-hk/pricing/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/features/",
+    "action": "https://nordvpn.com/features/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/features/",
+          "/da/features/",
+          "/de/features/",
+          "/en/features/",
+          "/es/features/",
+          "/es-mx/features/",
+          "/fr/features/",
+          "/it/features/",
+          "/lt/features/",
+          "/nl/features/",
+          "/no/features/",
+          "/pl/features/",
+          "/pt/features/",
+          "/pt-br/features/",
+          "/fi/features/",
+          "/sv/features/",
+          "/tr/features/",
+          "/ru/features/",
+          "/uk/features/",
+          "/he/features/",
+          "/ko/features/",
+          "/ar/features/",
+          "/ja/features/",
+          "/zh/features/",
+          "/zh-tw/features/",
+          "/zh-hk/features/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/what-is-a-vpn/",
+    "action": "https://nordvpn.com/what-is-a-vpn/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/what-is-a-vpn/",
+          "/da/what-is-a-vpn/",
+          "/de/what-is-a-vpn/",
+          "/en/what-is-a-vpn/",
+          "/es/what-is-a-vpn/",
+          "/es-mx/what-is-a-vpn/",
+          "/fr/what-is-a-vpn/",
+          "/it/what-is-a-vpn/",
+          "/lt/what-is-a-vpn/",
+          "/nl/what-is-a-vpn/",
+          "/no/what-is-a-vpn/",
+          "/pl/what-is-a-vpn/",
+          "/pt/what-is-a-vpn/",
+          "/pt-br/what-is-a-vpn/",
+          "/fi/what-is-a-vpn/",
+          "/sv/what-is-a-vpn/",
+          "/tr/what-is-a-vpn/",
+          "/ru/what-is-a-vpn/",
+          "/uk/what-is-a-vpn/",
+          "/he/what-is-a-vpn/",
+          "/ko/what-is-a-vpn/",
+          "/ar/what-is-a-vpn/",
+          "/ja/what-is-a-vpn/",
+          "/zh/what-is-a-vpn/",
+          "/zh-tw/what-is-a-vpn/",
+          "/zh-hk/what-is-a-vpn/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/servers/",
+    "action": "https://nordvpn.com/servers/plan-site/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "locations",
+        "id": "s300020",
+        "placeholder": "Enter a city or country",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/servers/",
+    "action": "https://nordvpn.com/servers/plan-site/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/servers/plan-site/",
+          "/da/servers/plan-site/",
+          "/de/servers/plan-site/",
+          "/en/servers/plan-site/",
+          "/es/servers/plan-site/",
+          "/es-mx/servers/plan-site/",
+          "/fr/servers/plan-site/",
+          "/it/servers/plan-site/",
+          "/lt/servers/plan-site/",
+          "/nl/servers/plan-site/",
+          "/no/servers/plan-site/",
+          "/pl/servers/plan-site/",
+          "/pt/servers/plan-site/",
+          "/pt-br/servers/plan-site/",
+          "/fi/servers/plan-site/",
+          "/sv/servers/plan-site/",
+          "/tr/servers/plan-site/",
+          "/ru/servers/plan-site/",
+          "/uk/servers/plan-site/",
+          "/he/servers/plan-site/",
+          "/ko/servers/plan-site/",
+          "/ar/servers/plan-site/",
+          "/ja/servers/plan-site/",
+          "/zh/servers/plan-site/",
+          "/zh-tw/servers/plan-site/",
+          "/zh-hk/servers/plan-site/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/features/high-speed-vpn/",
+    "action": "https://nordvpn.com/features/high-speed-vpn/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/features/high-speed-vpn/",
+          "/da/features/high-speed-vpn/",
+          "/de/features/high-speed-vpn/",
+          "/en/features/high-speed-vpn/",
+          "/es/features/high-speed-vpn/",
+          "/es-mx/features/high-speed-vpn/",
+          "/fr/features/high-speed-vpn/",
+          "/it/features/high-speed-vpn/",
+          "/lt/features/high-speed-vpn/",
+          "/nl/features/high-speed-vpn/",
+          "/no/features/high-speed-vpn/",
+          "/pl/features/high-speed-vpn/",
+          "/pt/features/high-speed-vpn/",
+          "/pt-br/features/high-speed-vpn/",
+          "/fi/features/high-speed-vpn/",
+          "/sv/features/high-speed-vpn/",
+          "/tr/features/high-speed-vpn/",
+          "/ru/features/high-speed-vpn/",
+          "/uk/features/high-speed-vpn/",
+          "/he/features/high-speed-vpn/",
+          "/ko/features/high-speed-vpn/",
+          "/ar/features/high-speed-vpn/",
+          "/ja/features/high-speed-vpn/",
+          "/zh/features/high-speed-vpn/",
+          "/zh-tw/features/high-speed-vpn/",
+          "/zh-hk/features/high-speed-vpn/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/risk-free-vpn/",
+    "action": "https://nordvpn.com/risk-free-vpn/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/risk-free-vpn/",
+          "/da/risk-free-vpn/",
+          "/de/risk-free-vpn/",
+          "/en/risk-free-vpn/",
+          "/es/risk-free-vpn/",
+          "/es-mx/risk-free-vpn/",
+          "/fr/risk-free-vpn/",
+          "/it/risk-free-vpn/",
+          "/lt/risk-free-vpn/",
+          "/nl/risk-free-vpn/",
+          "/no/risk-free-vpn/",
+          "/pl/risk-free-vpn/",
+          "/pt/risk-free-vpn/",
+          "/pt-br/risk-free-vpn/",
+          "/fi/risk-free-vpn/",
+          "/sv/risk-free-vpn/",
+          "/tr/risk-free-vpn/",
+          "/ru/risk-free-vpn/",
+          "/uk/risk-free-vpn/",
+          "/he/risk-free-vpn/",
+          "/ko/risk-free-vpn/",
+          "/ar/risk-free-vpn/",
+          "/ja/risk-free-vpn/",
+          "/zh/risk-free-vpn/",
+          "/zh-tw/risk-free-vpn/",
+          "/zh-hk/risk-free-vpn/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/features/no-log-vpn/",
+    "action": "https://nordvpn.com/features/no-log-vpn/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/features/no-log-vpn/",
+          "/da/features/no-log-vpn/",
+          "/de/features/no-log-vpn/",
+          "/en/features/no-log-vpn/",
+          "/es/features/no-log-vpn/",
+          "/es-mx/features/no-log-vpn/",
+          "/fr/features/no-log-vpn/",
+          "/it/features/no-log-vpn/",
+          "/lt/features/no-log-vpn/",
+          "/nl/features/no-log-vpn/",
+          "/no/features/no-log-vpn/",
+          "/pl/features/no-log-vpn/",
+          "/pt/features/no-log-vpn/",
+          "/pt-br/features/no-log-vpn/",
+          "/fi/features/no-log-vpn/",
+          "/sv/features/no-log-vpn/",
+          "/tr/features/no-log-vpn/",
+          "/ru/features/no-log-vpn/",
+          "/uk/features/no-log-vpn/",
+          "/he/features/no-log-vpn/",
+          "/ko/features/no-log-vpn/",
+          "/ar/features/no-log-vpn/",
+          "/ja/features/no-log-vpn/",
+          "/zh/features/no-log-vpn/",
+          "/zh-tw/features/no-log-vpn/",
+          "/zh-hk/features/no-log-vpn/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/next-gen-antivirus/",
+    "action": "https://nordvpn.com/next-gen-antivirus/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/next-gen-antivirus/",
+          "/da/next-gen-antivirus/",
+          "/de/next-gen-antivirus/",
+          "/en/next-gen-antivirus/",
+          "/es/next-gen-antivirus/",
+          "/es-mx/next-gen-antivirus/",
+          "/fr/next-gen-antivirus/",
+          "/it/next-gen-antivirus/",
+          "/lt/next-gen-antivirus/",
+          "/nl/next-gen-antivirus/",
+          "/no/next-gen-antivirus/",
+          "/pl/next-gen-antivirus/",
+          "/pt/next-gen-antivirus/",
+          "/pt-br/next-gen-antivirus/",
+          "/fi/next-gen-antivirus/",
+          "/sv/next-gen-antivirus/",
+          "/tr/next-gen-antivirus/",
+          "/ru/next-gen-antivirus/",
+          "/uk/next-gen-antivirus/",
+          "/he/next-gen-antivirus/",
+          "/ko/next-gen-antivirus/",
+          "/ar/next-gen-antivirus/",
+          "/ja/next-gen-antivirus/",
+          "/zh/next-gen-antivirus/",
+          "/zh-tw/next-gen-antivirus/",
+          "/zh-hk/next-gen-antivirus/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/pricing/#main-content",
+    "action": "https://nordvpn.com/pricing/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/pricing/",
+          "/da/pricing/",
+          "/de/pricing/",
+          "/en/pricing/",
+          "/es/pricing/",
+          "/es-mx/pricing/",
+          "/fr/pricing/",
+          "/it/pricing/",
+          "/lt/pricing/",
+          "/nl/pricing/",
+          "/no/pricing/",
+          "/pl/pricing/",
+          "/pt/pricing/",
+          "/pt-br/pricing/",
+          "/fi/pricing/",
+          "/sv/pricing/",
+          "/tr/pricing/",
+          "/ru/pricing/",
+          "/uk/pricing/",
+          "/he/pricing/",
+          "/ko/pricing/",
+          "/ar/pricing/",
+          "/ja/pricing/",
+          "/zh/pricing/",
+          "/zh-tw/pricing/",
+          "/zh-hk/pricing/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/features/#main-content",
+    "action": "https://nordvpn.com/features/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/features/",
+          "/da/features/",
+          "/de/features/",
+          "/en/features/",
+          "/es/features/",
+          "/es-mx/features/",
+          "/fr/features/",
+          "/it/features/",
+          "/lt/features/",
+          "/nl/features/",
+          "/no/features/",
+          "/pl/features/",
+          "/pt/features/",
+          "/pt-br/features/",
+          "/fi/features/",
+          "/sv/features/",
+          "/tr/features/",
+          "/ru/features/",
+          "/uk/features/",
+          "/he/features/",
+          "/ko/features/",
+          "/ar/features/",
+          "/ja/features/",
+          "/zh/features/",
+          "/zh-tw/features/",
+          "/zh-hk/features/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/what-is-a-vpn/#main-content",
+    "action": "https://nordvpn.com/what-is-a-vpn/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/what-is-a-vpn/",
+          "/da/what-is-a-vpn/",
+          "/de/what-is-a-vpn/",
+          "/en/what-is-a-vpn/",
+          "/es/what-is-a-vpn/",
+          "/es-mx/what-is-a-vpn/",
+          "/fr/what-is-a-vpn/",
+          "/it/what-is-a-vpn/",
+          "/lt/what-is-a-vpn/",
+          "/nl/what-is-a-vpn/",
+          "/no/what-is-a-vpn/",
+          "/pl/what-is-a-vpn/",
+          "/pt/what-is-a-vpn/",
+          "/pt-br/what-is-a-vpn/",
+          "/fi/what-is-a-vpn/",
+          "/sv/what-is-a-vpn/",
+          "/tr/what-is-a-vpn/",
+          "/ru/what-is-a-vpn/",
+          "/uk/what-is-a-vpn/",
+          "/he/what-is-a-vpn/",
+          "/ko/what-is-a-vpn/",
+          "/ar/what-is-a-vpn/",
+          "/ja/what-is-a-vpn/",
+          "/zh/what-is-a-vpn/",
+          "/zh-tw/what-is-a-vpn/",
+          "/zh-hk/what-is-a-vpn/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/servers/plan-site/#main-content",
+    "action": "https://nordvpn.com/servers/plan-site/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "locations",
+        "id": "s300020",
+        "placeholder": "Enter a city or country",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/servers/plan-site/#main-content",
+    "action": "https://nordvpn.com/servers/plan-site/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/servers/plan-site/",
+          "/da/servers/plan-site/",
+          "/de/servers/plan-site/",
+          "/en/servers/plan-site/",
+          "/es/servers/plan-site/",
+          "/es-mx/servers/plan-site/",
+          "/fr/servers/plan-site/",
+          "/it/servers/plan-site/",
+          "/lt/servers/plan-site/",
+          "/nl/servers/plan-site/",
+          "/no/servers/plan-site/",
+          "/pl/servers/plan-site/",
+          "/pt/servers/plan-site/",
+          "/pt-br/servers/plan-site/",
+          "/fi/servers/plan-site/",
+          "/sv/servers/plan-site/",
+          "/tr/servers/plan-site/",
+          "/ru/servers/plan-site/",
+          "/uk/servers/plan-site/",
+          "/he/servers/plan-site/",
+          "/ko/servers/plan-site/",
+          "/ar/servers/plan-site/",
+          "/ja/servers/plan-site/",
+          "/zh/servers/plan-site/",
+          "/zh-tw/servers/plan-site/",
+          "/zh-hk/servers/plan-site/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/features/high-speed-vpn/#main-content",
+    "action": "https://nordvpn.com/features/high-speed-vpn/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/features/high-speed-vpn/",
+          "/da/features/high-speed-vpn/",
+          "/de/features/high-speed-vpn/",
+          "/en/features/high-speed-vpn/",
+          "/es/features/high-speed-vpn/",
+          "/es-mx/features/high-speed-vpn/",
+          "/fr/features/high-speed-vpn/",
+          "/it/features/high-speed-vpn/",
+          "/lt/features/high-speed-vpn/",
+          "/nl/features/high-speed-vpn/",
+          "/no/features/high-speed-vpn/",
+          "/pl/features/high-speed-vpn/",
+          "/pt/features/high-speed-vpn/",
+          "/pt-br/features/high-speed-vpn/",
+          "/fi/features/high-speed-vpn/",
+          "/sv/features/high-speed-vpn/",
+          "/tr/features/high-speed-vpn/",
+          "/ru/features/high-speed-vpn/",
+          "/uk/features/high-speed-vpn/",
+          "/he/features/high-speed-vpn/",
+          "/ko/features/high-speed-vpn/",
+          "/ar/features/high-speed-vpn/",
+          "/ja/features/high-speed-vpn/",
+          "/zh/features/high-speed-vpn/",
+          "/zh-tw/features/high-speed-vpn/",
+          "/zh-hk/features/high-speed-vpn/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/risk-free-vpn/#main-content",
+    "action": "https://nordvpn.com/risk-free-vpn/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/risk-free-vpn/",
+          "/da/risk-free-vpn/",
+          "/de/risk-free-vpn/",
+          "/en/risk-free-vpn/",
+          "/es/risk-free-vpn/",
+          "/es-mx/risk-free-vpn/",
+          "/fr/risk-free-vpn/",
+          "/it/risk-free-vpn/",
+          "/lt/risk-free-vpn/",
+          "/nl/risk-free-vpn/",
+          "/no/risk-free-vpn/",
+          "/pl/risk-free-vpn/",
+          "/pt/risk-free-vpn/",
+          "/pt-br/risk-free-vpn/",
+          "/fi/risk-free-vpn/",
+          "/sv/risk-free-vpn/",
+          "/tr/risk-free-vpn/",
+          "/ru/risk-free-vpn/",
+          "/uk/risk-free-vpn/",
+          "/he/risk-free-vpn/",
+          "/ko/risk-free-vpn/",
+          "/ar/risk-free-vpn/",
+          "/ja/risk-free-vpn/",
+          "/zh/risk-free-vpn/",
+          "/zh-tw/risk-free-vpn/",
+          "/zh-hk/risk-free-vpn/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/pricing/?ff[ft]=on",
+    "action": "https://nordvpn.com/pricing/?ff[ft]=on",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/pricing/",
+          "/da/pricing/",
+          "/de/pricing/",
+          "/en/pricing/",
+          "/es/pricing/",
+          "/es-mx/pricing/",
+          "/fr/pricing/",
+          "/it/pricing/",
+          "/lt/pricing/",
+          "/nl/pricing/",
+          "/no/pricing/",
+          "/pl/pricing/",
+          "/pt/pricing/",
+          "/pt-br/pricing/",
+          "/fi/pricing/",
+          "/sv/pricing/",
+          "/tr/pricing/",
+          "/ru/pricing/",
+          "/uk/pricing/",
+          "/he/pricing/",
+          "/ko/pricing/",
+          "/ar/pricing/",
+          "/ja/pricing/",
+          "/zh/pricing/",
+          "/zh-tw/pricing/",
+          "/zh-hk/pricing/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/features/no-log-vpn/#main-content",
+    "action": "https://nordvpn.com/features/no-log-vpn/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/features/no-log-vpn/",
+          "/da/features/no-log-vpn/",
+          "/de/features/no-log-vpn/",
+          "/en/features/no-log-vpn/",
+          "/es/features/no-log-vpn/",
+          "/es-mx/features/no-log-vpn/",
+          "/fr/features/no-log-vpn/",
+          "/it/features/no-log-vpn/",
+          "/lt/features/no-log-vpn/",
+          "/nl/features/no-log-vpn/",
+          "/no/features/no-log-vpn/",
+          "/pl/features/no-log-vpn/",
+          "/pt/features/no-log-vpn/",
+          "/pt-br/features/no-log-vpn/",
+          "/fi/features/no-log-vpn/",
+          "/sv/features/no-log-vpn/",
+          "/tr/features/no-log-vpn/",
+          "/ru/features/no-log-vpn/",
+          "/uk/features/no-log-vpn/",
+          "/he/features/no-log-vpn/",
+          "/ko/features/no-log-vpn/",
+          "/ar/features/no-log-vpn/",
+          "/ja/features/no-log-vpn/",
+          "/zh/features/no-log-vpn/",
+          "/zh-tw/features/no-log-vpn/",
+          "/zh-hk/features/no-log-vpn/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/next-gen-antivirus/#main-content",
+    "action": "https://nordvpn.com/next-gen-antivirus/#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/next-gen-antivirus/",
+          "/da/next-gen-antivirus/",
+          "/de/next-gen-antivirus/",
+          "/en/next-gen-antivirus/",
+          "/es/next-gen-antivirus/",
+          "/es-mx/next-gen-antivirus/",
+          "/fr/next-gen-antivirus/",
+          "/it/next-gen-antivirus/",
+          "/lt/next-gen-antivirus/",
+          "/nl/next-gen-antivirus/",
+          "/no/next-gen-antivirus/",
+          "/pl/next-gen-antivirus/",
+          "/pt/next-gen-antivirus/",
+          "/pt-br/next-gen-antivirus/",
+          "/fi/next-gen-antivirus/",
+          "/sv/next-gen-antivirus/",
+          "/tr/next-gen-antivirus/",
+          "/ru/next-gen-antivirus/",
+          "/uk/next-gen-antivirus/",
+          "/he/next-gen-antivirus/",
+          "/ko/next-gen-antivirus/",
+          "/ar/next-gen-antivirus/",
+          "/ja/next-gen-antivirus/",
+          "/zh/next-gen-antivirus/",
+          "/zh-tw/next-gen-antivirus/",
+          "/zh-hk/next-gen-antivirus/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://nordvpn.com/pricing/?ff[ft]=on#main-content",
+    "action": "https://nordvpn.com/pricing/?ff[ft]=on#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "/id/pricing/",
+          "/da/pricing/",
+          "/de/pricing/",
+          "/en/pricing/",
+          "/es/pricing/",
+          "/es-mx/pricing/",
+          "/fr/pricing/",
+          "/it/pricing/",
+          "/lt/pricing/",
+          "/nl/pricing/",
+          "/no/pricing/",
+          "/pl/pricing/",
+          "/pt/pricing/",
+          "/pt-br/pricing/",
+          "/fi/pricing/",
+          "/sv/pricing/",
+          "/tr/pricing/",
+          "/ru/pricing/",
+          "/uk/pricing/",
+          "/he/pricing/",
+          "/ko/pricing/",
+          "/ar/pricing/",
+          "/ja/pricing/",
+          "/zh/pricing/",
+          "/zh-tw/pricing/",
+          "/zh-hk/pricing/"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "",
+        "id": "language-select-mask",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "English"
+        ]
+      }
+    ]
   }
 ]
