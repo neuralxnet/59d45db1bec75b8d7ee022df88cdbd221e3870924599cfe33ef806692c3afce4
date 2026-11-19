@@ -609260,5 +609260,103 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://support.nordlocker.com/hc/en-us?_gl=1*w22kan*_ga*MTc3MzMwNTExMS4xNzM2NTIyMzI2*_ga_PK2ETH1SB5*czE3NTU4NDg3MTgkbzM0JGcwJHQxNzU1ODQ4NzE4JGo2MCRsMCRoMA..*_fplc*MjJNdUlVMm9uSnZIOHl2UVZ2aE1Ed3lydERBY0FpU0hJVW93N0Z0YzNzazFwNnhoVjdvNXNRUmJTOFFGbGREY2k2bkElMkZMUTc4aHo1Rkc2aGVMUWRCM01WbTc2dnFIWm5GbUVDa1dDck9DcWp0Z1NWSEM2ZEJRUVlZcnZxV1ElM0QlM0Q.*_ga_LEXMJ1N516*czE3NTU4NDg3MTgkbzM0JGcxJHQxNzU1ODQ5MjM3JGo1OSRsMCRoMTU4NDQ4Mzk3MQ..",
+    "action": "https://support.nordlocker.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Type your question here",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.nordlocker.com/hc/en-us?_gl=1*w22kan*_ga*MTc3MzMwNTExMS4xNzM2NTIyMzI2*_ga_PK2ETH1SB5*czE3NTU4NDg3MTgkbzM0JGcwJHQxNzU1ODQ4NzE4JGo2MCRsMCRoMA..*_fplc*MjJNdUlVMm9uSnZIOHl2UVZ2aE1Ed3lydERBY0FpU0hJVW93N0Z0YzNzazFwNnhoVjdvNXNRUmJTOFFGbGREY2k2bkElMkZMUTc4aHo1Rkc2aGVMUWRCM01WbTc2dnFIWm5GbUVDa1dDck9DcWp0Z1NWSEM2ZEJRUVlZcnZxV1ElM0QlM0Q.*_ga_LEXMJ1N516*czE3NTU4NDg3MTgkbzM0JGcxJHQxNzU1ODQ5MjM3JGo1OSRsMCRoMTU4NDQ4Mzk3MQ..",
+    "action": "https://support.nordlocker.com/hc/en-us?_gl=1*w22kan*_ga*MTc3MzMwNTExMS4xNzM2NTIyMzI2*_ga_PK2ETH1SB5*czE3NTU4NDg3MTgkbzM0JGcwJHQxNzU1ODQ4NzE4JGo2MCRsMCRoMA..*_fplc*MjJNdUlVMm9uSnZIOHl2UVZ2aE1Ed3lydERBY0FpU0hJVW93N0Z0YzNzazFwNnhoVjdvNXNRUmJTOFFGbGREY2k2bkElMkZMUTc4aHo1Rkc2aGVMUWRCM01WbTc2dnFIWm5GbUVDa1dDck9DcWp0Z1NWSEM2ZEJRUVlZcnZxV1ElM0QlM0Q.*_ga_LEXMJ1N516*czE3NTU4NDg3MTgkbzM0JGcxJHQxNzU1ODQ5MjM3JGo1OSRsMCRoMTU4NDQ4Mzk3MQ..",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "custom-ticket-email",
+        "placeholder": "john@email.com",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "description",
+        "id": "custom-ticket-description",
+        "placeholder": "Describe the problem you’re experiencing and any steps you’ve taken to fix it.",
+        "required": true
+      },
+      {
+        "type": "file",
+        "name": "file",
+        "id": "file-upload",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.nordlocker.com/hc/en-us?_gl=1*w22kan*_ga*MTc3MzMwNTExMS4xNzM2NTIyMzI2*_ga_PK2ETH1SB5*czE3NTU4NDg3MTgkbzM0JGcwJHQxNzU1ODQ4NzE4JGo2MCRsMCRoMA..*_fplc*MjJNdUlVMm9uSnZIOHl2UVZ2aE1Ed3lydERBY0FpU0hJVW93N0Z0YzNzazFwNnhoVjdvNXNRUmJTOFFGbGREY2k2bkElMkZMUTc4aHo1Rkc2aGVMUWRCM01WbTc2dnFIWm5GbUVDa1dDck9DcWp0Z1NWSEM2ZEJRUVlZcnZxV1ElM0QlM0Q.*_ga_LEXMJ1N516*czE3NTU4NDg3MTgkbzM0JGcxJHQxNzU1ODQ5MjM3JGo1OSRsMCRoMTU4NDQ4Mzk3MQ..#main-content",
+    "action": "https://support.nordlocker.com/hc/en-us/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "utf8",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "query",
+        "placeholder": "Type your question here",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://support.nordlocker.com/hc/en-us?_gl=1*w22kan*_ga*MTc3MzMwNTExMS4xNzM2NTIyMzI2*_ga_PK2ETH1SB5*czE3NTU4NDg3MTgkbzM0JGcwJHQxNzU1ODQ4NzE4JGo2MCRsMCRoMA..*_fplc*MjJNdUlVMm9uSnZIOHl2UVZ2aE1Ed3lydERBY0FpU0hJVW93N0Z0YzNzazFwNnhoVjdvNXNRUmJTOFFGbGREY2k2bkElMkZMUTc4aHo1Rkc2aGVMUWRCM01WbTc2dnFIWm5GbUVDa1dDck9DcWp0Z1NWSEM2ZEJRUVlZcnZxV1ElM0QlM0Q.*_ga_LEXMJ1N516*czE3NTU4NDg3MTgkbzM0JGcxJHQxNzU1ODQ5MjM3JGo1OSRsMCRoMTU4NDQ4Mzk3MQ..#main-content",
+    "action": "https://support.nordlocker.com/hc/en-us?_gl=1*w22kan*_ga*MTc3MzMwNTExMS4xNzM2NTIyMzI2*_ga_PK2ETH1SB5*czE3NTU4NDg3MTgkbzM0JGcwJHQxNzU1ODQ4NzE4JGo2MCRsMCRoMA..*_fplc*MjJNdUlVMm9uSnZIOHl2UVZ2aE1Ed3lydERBY0FpU0hJVW93N0Z0YzNzazFwNnhoVjdvNXNRUmJTOFFGbGREY2k2bkElMkZMUTc4aHo1Rkc2aGVMUWRCM01WbTc2dnFIWm5GbUVDa1dDck9DcWp0Z1NWSEM2ZEJRUVlZcnZxV1ElM0QlM0Q.*_ga_LEXMJ1N516*czE3NTU4NDg3MTgkbzM0JGcxJHQxNzU1ODQ5MjM3JGo1OSRsMCRoMTU4NDQ4Mzk3MQ..#main-content",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "custom-ticket-email",
+        "placeholder": "john@email.com",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "description",
+        "id": "custom-ticket-description",
+        "placeholder": "Describe the problem you’re experiencing and any steps you’ve taken to fix it.",
+        "required": true
+      },
+      {
+        "type": "file",
+        "name": "file",
+        "id": "file-upload",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
