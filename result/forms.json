@@ -609358,5 +609358,19 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://aiscout.nordlayer.com/login",
+    "action": "https://aiscout.nordlayer.com/login",
+    "method": "get",
+    "fields": [
+      {
+        "type": "email",
+        "name": "",
+        "id": "react-aria4077256316-_r_0_",
+        "placeholder": "you@company.com",
+        "required": false
+      }
+    ]
   }
 ]
