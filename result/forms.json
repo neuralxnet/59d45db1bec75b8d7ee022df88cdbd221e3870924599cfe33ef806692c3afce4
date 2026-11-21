@@ -609372,5 +609372,469 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://groupoffice.aegeanair.com",
+    "action": "https://groupoffice.aegeanair.com/",
+    "method": "get",
+    "fields": []
+  },
+  {
+    "url": "https://groupoffice.aegeanair.com",
+    "action": "https://groupoffice.aegeanair.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "loginUserName",
+        "id": "loginUserName",
+        "placeholder": "Email id",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "loginUserPassword",
+        "id": "loginUserPassword",
+        "placeholder": "Password",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "captchaCode",
+        "id": "captchaCode",
+        "placeholder": "Enter the captcha code",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "login",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "loginSecurityCode",
+        "id": "loginSecurityCode",
+        "placeholder": "Security Code",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "rememberMeSecurityCode",
+        "id": "rememberMeSecurityCode",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "otpCaptchaCode",
+        "id": "otpCaptchaCode",
+        "placeholder": "Enter the captcha code",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "codelogin",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "resendhidden",
+        "id": "resendhidden",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://groupoffice.aegeanair.com",
+    "action": "https://groupoffice.aegeanair.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "text",
+        "name": "emailId",
+        "id": "emailId",
+        "placeholder": "Email id",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "captchaCodeForgotPass",
+        "id": "captchaCodeForgotPass",
+        "placeholder": "Enter the captcha code",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "getPassword",
+        "id": "getPassword",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://groupoffice.aegeanair.com",
+    "action": "https://groupoffice.aegeanair.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "register",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "agentTitle",
+        "id": "agentTitle",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Mr",
+          "Ms"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "agentFirstName",
+        "id": "agentFirstName",
+        "placeholder": "Please enter the first name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "agentLastName",
+        "id": "agentLastName",
+        "placeholder": "Please enter the last name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "agentEmailId",
+        "id": "agentEmailId",
+        "placeholder": "Please enter the email id",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "agentUserPassword",
+        "id": "agentUserPassword",
+        "placeholder": "Please enter the password",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "agentConfirmPassword",
+        "id": "agentConfirmPassword",
+        "placeholder": "Please re-enter the password for confirmation",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "travelIataCode",
+        "id": "travelIataCode",
+        "placeholder": "Please enter the iata code",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "travelAgencyName",
+        "id": "travelAgencyName",
+        "placeholder": "Please enter the travel agency name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "agentCountryNumber",
+        "id": "agentCountryNumber",
+        "placeholder": "Country code",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "agentContactNumber",
+        "id": "agentContactNumber",
+        "placeholder": "Please enter the phone number",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "agentAddress",
+        "id": "agentAddress",
+        "placeholder": "Please enter the full address",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "agentCountryDisplay",
+        "id": "agentCountryDisplay",
+        "placeholder": "Please select the country",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "agentCountry",
+        "id": "agentCountry",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "agentTimeZone",
+        "id": "agentTimeZone",
+        "placeholder": "",
+        "required": false,
+        "options": []
+      },
+      {
+        "type": "text",
+        "name": "agentCaptchaCode",
+        "id": "agentCaptchaCode",
+        "placeholder": "Enter the captcha code",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "signupTermCond",
+        "id": "signupTermCond",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "signupTermCond_2",
+        "id": "signupTermCond_2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "signUp",
+        "id": "signUp",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "reset",
+        "name": "",
+        "id": "c10f7e",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "travelRegistration",
+        "id": "travelRegistration",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://groupoffice.aegeanair.com",
+    "action": "https://groupoffice.aegeanair.com/",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "register",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "retailedTitle",
+        "id": "retailedTitle",
+        "placeholder": "",
+        "required": false,
+        "options": [
+          "Mr",
+          "Ms"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "retailedFirstName",
+        "id": "retailedFirstName",
+        "placeholder": "Please enter the first name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "retailedLastName",
+        "id": "retailedLastName",
+        "placeholder": "Please enter the last name",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "retailedEmailId",
+        "id": "retailedEmailId",
+        "placeholder": "Please enter the email id",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "retailedUserPassword",
+        "id": "retailedUserPassword",
+        "placeholder": "Please enter the password",
+        "required": false
+      },
+      {
+        "type": "password",
+        "name": "retailedConfirmPassword",
+        "id": "retailedConfirmPassword",
+        "placeholder": "Please re-enter the password for confirmation",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "retailedCountryNumber",
+        "id": "retailedCountryNumber",
+        "placeholder": "Country code",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "retailedContactNumber",
+        "id": "retailedContactNumber",
+        "placeholder": "Please enter the phone number",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "retailedAddress",
+        "id": "retailedAddress",
+        "placeholder": "Please enter the full address",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "retailedCountryDisplay",
+        "id": "retailedCountryDisplay",
+        "placeholder": "Please select the country",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "retailedCountry",
+        "id": "retailedCountry",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "select-one",
+        "name": "retailedTimeZone",
+        "id": "retailedTimeZone",
+        "placeholder": "",
+        "required": false,
+        "options": []
+      },
+      {
+        "type": "text",
+        "name": "retailCaptchaCode",
+        "id": "retailCaptchaCode",
+        "placeholder": "Enter the captcha code",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "signupTermCondRetail",
+        "id": "signupTermCondRetail",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "checkbox",
+        "name": "signupTermCondRetail_2",
+        "id": "signupTermCondRetail_2",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "button",
+        "name": "",
+        "id": "8ae675",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "reset",
+        "name": "",
+        "id": "253d76",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "userRegistration",
+        "id": "userRegistration",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
