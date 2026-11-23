@@ -609836,5 +609836,1255 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://gcash.com/getting-started",
+    "action": "https://gcash.com/getting-started",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "toggle-national",
+        "id": "toggle-national",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gcash.com/getting-started",
+    "action": "https://gcash.com/getting-started",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "toggle-student",
+        "id": "toggle-student",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gcash.com/promos",
+    "action": "https://gcash.com/promos",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Promo-Search",
+        "id": "Promo-Search",
+        "placeholder": "Search",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "all-promos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "buy-load",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "cards",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "cash-in",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "gcredit",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "gfunds",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "ginsure",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "ggives",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "gloan",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "gsave",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "gstocks",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "pay-bills",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "pay-bills",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "scan-to-pay",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "send-money",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "webpay",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "webpay",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "zero-interest",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "globe-exclusives",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gcash.com/careers",
+    "action": "https://gcash.com/careers",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gcash.com/business/partner-solutions",
+    "action": "https://gcash.com/business/partner-solutions",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "Form Type",
+        "id": "formType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Company Authorization",
+        "id": "companyAuthY",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "Company Authorization",
+        "id": "companyAuthN",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Full Name",
+        "id": "full-name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Job Title",
+        "id": "jobTitle",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "Selected Domain",
+        "id": "email-domain",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select domain",
+          "gmail.com",
+          "hotmail.com",
+          "icloud.com",
+          "outlook.com",
+          "yahoo.com",
+          "yahoo.com.ph",
+          "ymail.com",
+          "zohomail.com",
+          "other"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "Business Email Address",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "Phone Number",
+        "id": "phone-number",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Company Name",
+        "id": "companyName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "Company Industry",
+        "id": "company-industry-",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select an option",
+          "Information Technology",
+          "Healthcare",
+          "Finance",
+          "Manufacturing",
+          "Retail",
+          "Automotive",
+          "Energy",
+          "Telecommunications",
+          "Agriculture",
+          "Hospitality and Tourism",
+          "Education",
+          "Construction",
+          "Media and Entertainment",
+          "Real Estate",
+          "Transportation and Logistics",
+          "Others"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "Business Objectives or Investment Priorities",
+        "id": "business-objectives",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Business Challenges Pain Points",
+        "id": "bizChallengesPainPoints",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "Budget-Range",
+        "id": "Budget-Range",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select an option",
+          "Less than 300K",
+          "300K-500K",
+          "500K-1M",
+          "More than 3M"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "Referral",
+        "id": "",
+        "placeholder": "Please specify",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Events",
+        "id": "",
+        "placeholder": "Please specify",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Others",
+        "id": "",
+        "placeholder": "Please specify",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "How did you learn about us",
+        "id": "referral-information",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "Submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gcash.com/business/ngos",
+    "action": "https://gcash.com/business/ngos",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "Form Type",
+        "id": "form-type",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "GCash Solutions",
+        "id": "Products",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Organization Name",
+        "id": "biz-registered-name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Full Name",
+        "id": "full-name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Role",
+        "id": "role",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "Phone Number",
+        "id": "phone-number",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "Submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gcash.com/business/enterprise/in-store-qr",
+    "action": "https://gcash.com/business/enterprise/in-store-qr",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "Form Type",
+        "id": "formType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "Phone Number",
+        "id": "phone-number",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "Selected Domain",
+        "id": "email-domain",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select domain",
+          "gmail.com",
+          "hotmail.com",
+          "icloud.com",
+          "outlook.com",
+          "yahoo.com",
+          "yahoo.com.ph",
+          "ymail.com",
+          "zohomail.com",
+          "other"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "Business Email Address",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Business Registered Name",
+        "id": "biz-registered-name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "Company Industry",
+        "id": "company-industry-",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select an option",
+          "Information Technology",
+          "Healthcare",
+          "Finance",
+          "Manufacturing",
+          "Retail",
+          "Automotive",
+          "Energy",
+          "Telecommunications",
+          "Agriculture",
+          "Hospitality and Tourism",
+          "Education",
+          "Construction",
+          "Media and Entertainment",
+          "Real Estate",
+          "Transportation and Logistics",
+          "Others"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Head Office Region",
+        "id": "region",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select Region"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Where did you learn STP",
+        "id": "whereSTP",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select an option",
+          "Online Search Engine (Google, Bing, etc.)",
+          "Social Media (Facebook, Twitter, LinkedIn, etc.)",
+          "Friends",
+          "Family",
+          "Trade Event / Expo",
+          "Advertisement (online banner ad, print ad, etc.)",
+          "GCash Website",
+          "Email Newsletter",
+          "Professional Network",
+          "GCash Account Manager",
+          "Others"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "_redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_error",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "Submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gcash.com/getting-started#",
+    "action": "https://gcash.com/getting-started#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "toggle-national",
+        "id": "toggle-national",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gcash.com/getting-started#",
+    "action": "https://gcash.com/getting-started#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "checkbox",
+        "name": "toggle-student",
+        "id": "toggle-student",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gcash.com/promos#",
+    "action": "https://gcash.com/promos#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Promo-Search",
+        "id": "Promo-Search",
+        "placeholder": "Search",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "all-promos",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "buy-load",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "cards",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "cash-in",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "gcredit",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "gfunds",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "ginsure",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "ggives",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "gloan",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "gsave",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "gstocks",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "pay-bills",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "pay-bills",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "scan-to-pay",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "send-money",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "webpay",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "webpay",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "zero-interest",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "globe-exclusives",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gcash.com/careers#",
+    "action": "https://gcash.com/careers#",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gcash.com/business/partner-solutions#",
+    "action": "https://gcash.com/business/partner-solutions#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "Form Type",
+        "id": "formType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "Company Authorization",
+        "id": "companyAuthY",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "radio",
+        "name": "Company Authorization",
+        "id": "companyAuthN",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Full Name",
+        "id": "full-name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Job Title",
+        "id": "jobTitle",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "Selected Domain",
+        "id": "email-domain",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select domain",
+          "gmail.com",
+          "hotmail.com",
+          "icloud.com",
+          "outlook.com",
+          "yahoo.com",
+          "yahoo.com.ph",
+          "ymail.com",
+          "zohomail.com",
+          "other"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "Business Email Address",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "Phone Number",
+        "id": "phone-number",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Company Name",
+        "id": "companyName",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "Company Industry",
+        "id": "company-industry-",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select an option",
+          "Information Technology",
+          "Healthcare",
+          "Finance",
+          "Manufacturing",
+          "Retail",
+          "Automotive",
+          "Energy",
+          "Telecommunications",
+          "Agriculture",
+          "Hospitality and Tourism",
+          "Education",
+          "Construction",
+          "Media and Entertainment",
+          "Real Estate",
+          "Transportation and Logistics",
+          "Others"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "Business Objectives or Investment Priorities",
+        "id": "business-objectives",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "name": "Business Challenges Pain Points",
+        "id": "bizChallengesPainPoints",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "Budget-Range",
+        "id": "Budget-Range",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select an option",
+          "Less than 300K",
+          "300K-500K",
+          "500K-1M",
+          "More than 3M"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "Referral",
+        "id": "",
+        "placeholder": "Please specify",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Events",
+        "id": "",
+        "placeholder": "Please specify",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Others",
+        "id": "",
+        "placeholder": "Please specify",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "How did you learn about us",
+        "id": "referral-information",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "Submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gcash.com/business/ngos#",
+    "action": "https://gcash.com/business/ngos#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "Form Type",
+        "id": "form-type",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "GCash Solutions",
+        "id": "Products",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Organization Name",
+        "id": "biz-registered-name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Full Name",
+        "id": "full-name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Role",
+        "id": "role",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Email",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "Phone Number",
+        "id": "phone-number",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "Submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://gcash.com/business/enterprise/in-store-qr#",
+    "action": "https://gcash.com/business/enterprise/in-store-qr#",
+    "method": "post",
+    "fields": [
+      {
+        "type": "hidden",
+        "name": "Form Type",
+        "id": "formType",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "Phone Number",
+        "id": "phone-number",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "Selected Domain",
+        "id": "email-domain",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select domain",
+          "gmail.com",
+          "hotmail.com",
+          "icloud.com",
+          "outlook.com",
+          "yahoo.com",
+          "yahoo.com.ph",
+          "ymail.com",
+          "zohomail.com",
+          "other"
+        ]
+      },
+      {
+        "type": "text",
+        "name": "Business Email Address",
+        "id": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Business Registered Name",
+        "id": "biz-registered-name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "select-one",
+        "name": "Company Industry",
+        "id": "company-industry-",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select an option",
+          "Information Technology",
+          "Healthcare",
+          "Finance",
+          "Manufacturing",
+          "Retail",
+          "Automotive",
+          "Energy",
+          "Telecommunications",
+          "Agriculture",
+          "Hospitality and Tourism",
+          "Education",
+          "Construction",
+          "Media and Entertainment",
+          "Real Estate",
+          "Transportation and Logistics",
+          "Others"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Head Office Region",
+        "id": "region",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select Region"
+        ]
+      },
+      {
+        "type": "select-one",
+        "name": "Where did you learn STP",
+        "id": "whereSTP",
+        "placeholder": "",
+        "required": true,
+        "options": [
+          "Select an option",
+          "Online Search Engine (Google, Bing, etc.)",
+          "Social Media (Facebook, Twitter, LinkedIn, etc.)",
+          "Friends",
+          "Family",
+          "Trade Event / Expo",
+          "Advertisement (online banner ad, print ad, etc.)",
+          "GCash Website",
+          "Email Newsletter",
+          "Professional Network",
+          "GCash Account Manager",
+          "Others"
+        ]
+      },
+      {
+        "type": "hidden",
+        "name": "_redirect",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "hidden",
+        "name": "_error",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "Submit",
+        "placeholder": "",
+        "required": false
+      }
+    ]
   }
 ]
