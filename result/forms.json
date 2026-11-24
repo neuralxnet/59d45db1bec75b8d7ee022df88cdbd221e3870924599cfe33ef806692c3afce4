@@ -611464,5 +611464,47 @@
         "required": true
       }
     ]
+  },
+  {
+    "url": "https://mynt.xyz",
+    "action": "https://mynt.com.ph/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "field",
+        "id": "field",
+        "placeholder": "Search the site...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mynt.xyz",
+    "action": "https://mynt.com.ph/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "field",
+        "id": "field",
+        "placeholder": "Search the site...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://mynt.xyz",
+    "action": "https://mynt.com.ph/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "field",
+        "id": "field",
+        "placeholder": "Search the site...",
+        "required": false
+      }
+    ]
   }
 ]
