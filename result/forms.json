@@ -611086,5 +611086,383 @@
         "required": false
       }
     ]
+  },
+  {
+    "url": "https://mynt.com.ph",
+    "action": "https://mynt.com.ph/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "field",
+        "id": "field",
+        "placeholder": "Search the site...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.mynt.com.ph",
+    "action": "https://mynt.com.ph/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "field",
+        "id": "field",
+        "placeholder": "Search the site...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "http://mynt.com.ph",
+    "action": "https://mynt.com.ph/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "field",
+        "id": "field",
+        "placeholder": "Search the site...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mynt.com.ph/",
+    "action": "https://mynt.com.ph/",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "field",
+        "id": "field",
+        "placeholder": "Search the site...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mynt.com.ph/about-us",
+    "action": "https://mynt.com.ph/about-us",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "field",
+        "id": "field",
+        "placeholder": "Search the site...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mynt.com.ph/corporate-governance",
+    "action": "https://mynt.com.ph/corporate-governance",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "field",
+        "id": "field",
+        "placeholder": "Search the site...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mynt.com.ph/corporate-governance",
+    "action": "javascript:void(0)",
+    "method": "dialog",
+    "fields": [
+      {
+        "type": "text",
+        "name": "field-2",
+        "id": "field-2",
+        "placeholder": "Search...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mynt.com.ph/investor-relations/overview",
+    "action": "https://mynt.com.ph/investor-relations/overview",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "field",
+        "id": "field",
+        "placeholder": "Search the site...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mynt.com.ph/investor-relations/overview",
+    "action": "https://mynt.com.ph/investor-relations/overview",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "contact-name",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "field-4",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Company-Name",
+        "id": "field-5",
+        "placeholder": "Company Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Subject",
+        "id": "field-6",
+        "placeholder": "Subject",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "field-7",
+        "placeholder": "Message",
+        "required": true
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mynt.com.ph/newsroom",
+    "action": "https://mynt.com.ph/newsroom",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "field",
+        "id": "field",
+        "placeholder": "Search the site...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mynt.com.ph/newsroom",
+    "action": "https://mynt.com.ph/newsroom",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "radio",
+        "id": "radio",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mynt.com.ph/media-gallery",
+    "action": "https://mynt.com.ph/media-gallery",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "field",
+        "id": "field",
+        "placeholder": "Search the site...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mynt.com.ph/media-gallery",
+    "action": "javascript:void(0)",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "Search",
+        "id": "",
+        "placeholder": "Search Media Gallery...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mynt.com.ph/contact",
+    "action": "https://mynt.com.ph/contact",
+    "method": "get",
+    "fields": [
+      {
+        "type": "search",
+        "name": "field",
+        "id": "field",
+        "placeholder": "Search the site...",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mynt.com.ph/contact",
+    "action": "https://mynt.com.ph/contact",
+    "method": "get",
+    "fields": [
+      {
+        "type": "radio",
+        "name": "inquiry",
+        "id": "Investor-Relations",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "inquiry",
+        "id": "Media-Press",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "inquiry",
+        "id": "Careers-Talents",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "radio",
+        "name": "inquiry",
+        "id": "Others",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "text",
+        "name": "Name",
+        "id": "Name",
+        "placeholder": "Name",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "Email",
+        "id": "Email",
+        "placeholder": "Email",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Company-Name",
+        "id": "Company-Name",
+        "placeholder": "Company Name",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "Subject",
+        "id": "Subject",
+        "placeholder": "Subject",
+        "required": true
+      },
+      {
+        "type": "textarea",
+        "name": "Message",
+        "id": "Message",
+        "placeholder": "Message",
+        "required": true
+      },
+      {
+        "type": "checkbox",
+        "name": "Subscribe",
+        "id": "checkbox",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      }
+    ]
+  },
+  {
+    "url": "https://mynt.com.ph/search",
+    "action": "https://mynt.com.ph/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "search",
+        "placeholder": "Search…",
+        "required": true
+      }
+    ]
+  },
+  {
+    "url": "https://mynt.com.ph/search#",
+    "action": "https://mynt.com.ph/search",
+    "method": "get",
+    "fields": [
+      {
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "required": false
+      },
+      {
+        "type": "search",
+        "name": "query",
+        "id": "search",
+        "placeholder": "Search…",
+        "required": true
+      }
+    ]
   }
 ]
